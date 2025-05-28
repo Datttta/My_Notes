@@ -11,7 +11,7 @@
 
     - Show with color: tree -C
 
-
+ 
 - Exctrating files:
     - .tar:	*tar -xvf* file.tar
 
@@ -26,7 +26,7 @@
     - .rar: *unrar x* file.rar
 
     - .7z: *7z x* file.7z
-     
+    
     - .gz (single): *gunzip* file.gz
     
     - .bz2 (single): *bunzip2* file.bz2
@@ -35,5 +35,6 @@
 
     - tar -xzvf file.tar.gz *-C* /target/directory (use -C to target directories)
 
+ 
 - Giving permission to other users to read and access a foler or files:
     - *chmod -R o+rx* | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
