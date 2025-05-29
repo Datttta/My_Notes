@@ -2,7 +2,8 @@
 
 1. Follow the image bellow, use "git add ." instead, git push you probably not work
 
-![](../Pictures/screenshots/swappy-20250528-210511.png)
+![](../vimwiki/media/step1_follow_git_hub_commands.png)
+
 2. Now create a ssh key with "ssh-keygen -t ed25519 -f ~/.ssh/id_<NameOfYourKey>" -C "youreamil" 
    
 ![](media/Step2creatingkey.png)
@@ -15,6 +16,7 @@
 
 5. Open ~/.ssh/config and follow the pattern of the image bellow, using the key you created:
  
-![](../vimwiki/media/Step5_config.png)
+
+![](media/Step5_config.png)
 
 Now git push should work.
