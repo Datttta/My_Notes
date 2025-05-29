@@ -12,6 +12,7 @@
 4. Follow the commands bellow:
 
 ![](../vimwiki/media/Step4_commands.png)
+
 5. Open ~/.ssh/config and follow the pattern of the image bellow, using the key you created:
  
 ![](../vimwiki/media/Step5_config.png)
