@@ -4,15 +4,18 @@
 
 ![](../vimwiki/media/step1_follow_git_hub_commands.png)
 
+
 2. Now create a ssh key with "ssh-keygen -t ed25519 -f ~/.ssh/id_<NameOfYourKey>" -C "youreamil" 
    
 ![](media/Step2creatingkey.png)
 3. Use the command bellow with the id_ you created
  
 ![](../vimwiki/media/Step3_git.png)
+
 4. Follow the commands bellow:
 
 ![](../vimwiki/media/Step4_commands.png)
+
 
 5. Open ~/.ssh/config and follow the pattern of the image bellow, using the key you created:
  
