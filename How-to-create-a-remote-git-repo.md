@@ -2,9 +2,7 @@
 
 1. Follow the image bellow, use "git add ." instead, git push you probably not work
 
-![](../vimwiki/media/step1_follow_git_hub_commands.png)
-
-
+![](media/step1_follow_git_hub_commands.png)
 2. Now create a ssh key with "ssh-keygen -t ed25519 -f ~/.ssh/id_<NameOfYourKey>" -C "youreamil" 
    
 ![](media/Step2creatingkey.png)
