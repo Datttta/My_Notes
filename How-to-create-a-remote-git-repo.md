@@ -5,8 +5,7 @@
 ![](../Pictures/screenshots/swappy-20250528-210511.png)
 2. Now create a ssh key with "ssh-keygen -t ed25519 -f ~/.ssh/id_<NameOfYourKey>" -C "youreamil" 
    
-![](../Pictures/screenshots/swappy-20250528-210511.png)
-
+![](media/Step2creatingkey.png)
 3. Use the command bellow with the id_ you created
  
 ![](../Pictures/screenshots/swappy-20250528-210634.png)
