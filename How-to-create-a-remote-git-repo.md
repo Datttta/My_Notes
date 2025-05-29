@@ -8,12 +8,12 @@
 ![](media/Step2creatingkey.png)
 3. Use the command bellow with the id_ you created
  
-![](../Pictures/screenshots/swappy-20250528-210634.png)
+![](../vimwiki/media/Step3_git.png)
 4. Follow the commands bellow:
 
-![](../Pictures/screenshots/swappy-20250528-211028.png)
+![](../vimwiki/media/Step4_commands.png)
 5. Open ~/.ssh/config and follow the pattern of the image bellow, using the key you created:
  
-![](../Pictures/screenshots/swappy-20250528-211048.png)
+![](../vimwiki/media/Step5_config.png)
 
 Now git push should work.
