@@ -7,3 +7,4 @@
 5. weakest link
 6. quidditch
 7. shins (a man with no shins)
+8. persistence
