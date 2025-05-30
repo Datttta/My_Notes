@@ -1,3 +1,3 @@
 === *New words* ===
 
-1. dignified
+1. zany
