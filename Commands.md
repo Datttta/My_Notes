@@ -13,15 +13,15 @@
 
  
 - Exctrating files:
-    - .tar:	*tar -xvf* file.tar
+    - .tar: *tar -xvf* file.tar
 
     - .tar.gz or .tgz: *tar -xzvf* file.tar.gz
 
-    - .tar.bz2:	*tar -xjvf* file.tar.bz2
+    - .tar.bz2: *tar -xjvf* file.tar.bz2
 
-    - .tar.xz:	*tar -xJvf* file.tar.xz
+    - .tar.xz: *tar -xJvf* file.tar.xz
 
-    - .zip:	*unzip* file.zip
+    - .zip: *unzip* file.zip
 
     - .rar: *unrar x* file.rar
 
@@ -38,3 +38,5 @@
  
 - Giving permission to other users to read and access a foler or files:
     - *chmod -R o+rx* | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
+
+- Vimwiki help: *:h vimwiki-syntax*
