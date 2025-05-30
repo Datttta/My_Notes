@@ -41,4 +41,4 @@
 
 - Vimwiki help: *:h vimwiki-syntax*
 
-- Clean clipboard: cliphist wipe
+- Clean clipboard: *cliphist wipe*
