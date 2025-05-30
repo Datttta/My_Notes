@@ -41,4 +41,4 @@
 
 - Vimwiki help: *:h vimwiki-syntax*
 
-- Clean clipboard: wl-copy --clear
+- Clean clipboard: cliphist wipe
