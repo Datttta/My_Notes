@@ -40,3 +40,5 @@
     - *chmod -R o+rx* | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
 
 - Vimwiki help: *:h vimwiki-syntax*
+
+- Clean clipboard: wl-copy --clear
