@@ -8,3 +8,4 @@
 6. quidditch
 7. shins (a man with no shins)
 8. persistence
+9. booze (on the booze)
