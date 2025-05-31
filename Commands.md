@@ -39,6 +39,14 @@
 - Giving permission to other users to read and access a foler or files:
     - *chmod -R o+rx* | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
 
-- Vimwiki help: *:h vimwiki-syntax*
+- Vimwiki help:
+    - *:h vimwiki-syntax*
 
-- Clean clipboard: *cliphist wipe*
+- Clean clipboard: 
+    - *cliphist wipe*
+
+- Stow root files:
+    - *sudo stow -t / fonts*
+
+    - if you want restow it:
+        - *sudo stow -R -t / slashConfs*
