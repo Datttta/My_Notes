@@ -13,3 +13,4 @@
 11. lynchings
 12. scurted
 13. cunt
+14. bombshell
