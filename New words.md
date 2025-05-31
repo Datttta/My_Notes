@@ -19,3 +19,4 @@
 17. concotion
 18. tiptoe
 19. hampered (hampered with drivers issues)
+20. ostracized
