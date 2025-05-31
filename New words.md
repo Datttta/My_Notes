@@ -10,3 +10,4 @@
 8. persistence
 9. booze (on the booze)
 10. hall pass
+11. lynchings
