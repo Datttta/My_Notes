@@ -16,3 +16,5 @@
 14. bombshell
 15. outlook (something related of what you think about somthing, "my outlook on that")
 16. completion(to completion)
+17. concotion
+18. tiptoe
