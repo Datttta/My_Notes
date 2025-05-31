@@ -20,3 +20,4 @@
 18. tiptoe
 19. hampered (hampered with drivers issues)
 20. ostracized
+21. escapism            
