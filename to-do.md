@@ -1,6 +1,9 @@
 === Todo ===
 
-- [ ] isntall roblox
+- [X] isntall roblox
+- [ ] fix roblox lag
 - [ ] isntall discord
-- [ ] do anki
-- [ ] memhack
+- [ ] eat something
+- [ ] brush
+- [X] do anki
+- [X] memhack
