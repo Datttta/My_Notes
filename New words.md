@@ -18,3 +18,4 @@
 16. completion(to completion)
 17. concotion
 18. tiptoe
+19. hampered (hampered with drivers issues)
