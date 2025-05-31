@@ -14,3 +14,4 @@
 12. scurted
 13. cunt
 14. bombshell
+15. outlook (something related of what you think about somthing, "my outlook on that")
