@@ -9,3 +9,4 @@
 7. shins (a man with no shins)
 8. persistence
 9. booze (on the booze)
+10. hall pass
