@@ -2,8 +2,8 @@
 
 - [X] isntall roblox
 - [ ] fix roblox lag
-- [ ] isntall discord
-- [ ] eat something
+- [X] isntall discord
+- [X] eat something
 - [ ] brush
 - [X] do anki
 - [X] memhack
