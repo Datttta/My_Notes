@@ -1,12 +1,13 @@
 === *New words* ===
 
 1. barber
+2. plight
 
     Abjure (verb) – To renounce formally.
 
         Example: "The monk abjured worldly possessions."
 
-6. Descriptive & Vivid Terms
+3. Descriptive & Vivid Terms
 
     Lugubrious (adj.) – Excessively mournful.
 
@@ -20,7 +21,7 @@
 
         Example: "Their meeting was serendipitous."
 
-7. Idioms & Cultural References
+4. Idioms & Cultural References
 
     "Sword of Damocles" – Impending danger.
 
