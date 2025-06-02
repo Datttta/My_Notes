@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. timely
+1. 
 
 
 
@@ -11,21 +11,9 @@
 
 
 
-        Example: ""
-
-    Exhort – Strongly urge someone to do something.
-
-    Example: "The coach exhorted the team to push harder."
-
-3. Sophisticated Nouns
-
-    Obfuscation – The act of making something unclear.
-
-    Example: "The politician’s obfuscation frustrated journalists."
-
     Quagmire – A complex, difficult situation.
 
-    Example: "The legal dispute became a quagmire of paperwork."
+    Example: ""
 
     Anomaly – Something that deviates from the norm.
 
