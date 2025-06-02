@@ -10,12 +10,15 @@
 8. tally (keep tally) tally it up
 9. diverted
 10. buick
+11. gobstoppers
+12. skittlesp
+13. gecko 
 
     Abjure (verb) – To renounce formally.
 
         Example: "The monk abjured worldly possessions."
 
-11. Descriptive & Vivid Terms
+14. Descriptive & Vivid Terms
 
     Lugubrious (adj.) – Excessively mournful.
 
@@ -29,7 +32,7 @@
 
         Example: "Their meeting was serendipitous."
 
-12. Idioms & Cultural References
+15. Idioms & Cultural References
 
     "Sword of Damocles" – Impending danger.
 
