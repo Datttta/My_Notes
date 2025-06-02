@@ -2,12 +2,15 @@
 
 1. barber
 2. plight
+3. timmies
+4. seethe (no matter how muchn your timmes seethe a us online)
+5. brink
 
     Abjure (verb) – To renounce formally.
 
         Example: "The monk abjured worldly possessions."
 
-3. Descriptive & Vivid Terms
+6. Descriptive & Vivid Terms
 
     Lugubrious (adj.) – Excessively mournful.
 
@@ -21,7 +24,7 @@
 
         Example: "Their meeting was serendipitous."
 
-4. Idioms & Cultural References
+7. Idioms & Cultural References
 
     "Sword of Damocles" – Impending danger.
 
