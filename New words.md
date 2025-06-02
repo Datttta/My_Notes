@@ -6,12 +6,13 @@
 4. seethe (no matter how muchn your timmes seethe a us online)
 5. brink
 6. gutter
+7. hairdrassers (place)
 
     Abjure (verb) – To renounce formally.
 
         Example: "The monk abjured worldly possessions."
 
-7. Descriptive & Vivid Terms
+8. Descriptive & Vivid Terms
 
     Lugubrious (adj.) – Excessively mournful.
 
@@ -25,7 +26,7 @@
 
         Example: "Their meeting was serendipitous."
 
-8. Idioms & Cultural References
+9. Idioms & Cultural References
 
     "Sword of Damocles" – Impending danger.
 
