@@ -1,5 +1,6 @@
 === *New words* ===
 
+1. barber
 
     Abjure (verb) – To renounce formally.
 
