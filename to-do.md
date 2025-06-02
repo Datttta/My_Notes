@@ -1,9 +1,4 @@
 === Todo ===
 
-- [X] isntall roblox
 - [ ] fix roblox lag
-- [X] isntall discord
-- [X] eat something
-- [ ] brush
-- [X] do anki
-- [X] memhack
+- [ ] fix youtube music (xwayland start, see if you can fix fonts')
