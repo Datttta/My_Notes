@@ -1,40 +1,30 @@
 === *New words* ===
 
-1. 
 
+    Abjure (verb) – To renounce formally.
 
+        Example: "The monk abjured worldly possessions."
 
+6. Descriptive & Vivid Terms
 
-     – 
+    Lugubrious (adj.) – Excessively mournful.
 
+        Example: "The lugubrious music suited the funeral."
 
+    Scintillating (adj.) – Sparkling; brilliantly clever.
 
+        Example: "Her scintillating wit charmed the audience."
 
+    Serendipitous (adj.) – Occurring by happy chance.
 
-    Quagmire – A complex, difficult situation.
+        Example: "Their meeting was serendipitous."
 
-    Example: ""
+7. Idioms & Cultural References
 
-    Anomaly – Something that deviates from the norm.
+    "Sword of Damocles" – Impending danger.
 
-    Example: "The test results showed an anomaly that needed further study."
+        Example: "The threat of layoffs hung over them like a sword of Damocles."
 
-    Epiphany – A sudden, profound realization.
+    "Pyrrhic victory" – A win with devastating costs.
 
-    Example: "She had an epiphany about her career while traveling."
-
-    Paragon – A model of excellence.
-
-    Example: "He was considered a paragon of virtue in his community."
-
-4. Idiomatic & Figurative Phrases
-
-    "A Sisyphean task" – A never-ending, futile effort.
-
-    Example: "Cleaning a house with toddlers feels like a Sisyphean task."
-
-    "Between a rock and a hard place" – A dilemma with no good options.
-
-    Example: "She was between a rock and a hard place—stay and suffer or leave and risk unemployment."
-
-    "The writing on the wall" – A clear sign of impending doom.
+        Example: "Winning the lawsuit was a Pyrrhic victory—it bankrupted him."
