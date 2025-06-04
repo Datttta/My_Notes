@@ -5,4 +5,4 @@
 - [ ] see how to start working with programing
 - [X] what video how to maintain your arch linux
 - [ ] osu skin
-- [ ] minecraft
+- [X] minecraft
