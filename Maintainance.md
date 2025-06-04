@@ -21,4 +21,7 @@
 
         - sudo pacman -Rns $(pacman -Qtdq): delete orphan packages
 
+    - Cleaning ~/.cache/ directory:
+        - du -sh .cache: show how much space .cache is taking
+
     
