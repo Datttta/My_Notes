@@ -8,6 +8,6 @@
 - Cleaning:
     - yay -Sc: remove pacman and aur packages from cache
 
-    - sudo pacman -Sc: remove packages from cache
+    - sudo pacman -Sc: remove packages from cache (you don't need to run it if you ran yay -Sc)
 
     
