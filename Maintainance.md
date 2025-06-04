@@ -26,4 +26,11 @@
 
         - rm -rf .cache/* : remove all files inside .cache
 
+    - journalctl (Clean this only if it's taking to much space, cleaning it it's not that necessary):
+        - du -sh /var/log/journal/: run it to see the amount of space journalctl is taking
+
+        - man journalctl: you can see the manual page 
+        
+        - sudo journalctl --vacuum-time-2weeks: it removes all files older than 2 weeks, you can see on manual page other ways to remove files, like using size for example
+
     
