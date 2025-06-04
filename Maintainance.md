@@ -24,6 +24,6 @@
     - Cleaning ~/.cache/ directory:
         - du -sh .cache: show how much space .cache is taking
 
-        - rm -rf .cache/*
+        - rm -rf .cache/* : remove all files inside .cache
 
     
