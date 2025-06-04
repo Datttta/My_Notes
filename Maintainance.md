@@ -7,3 +7,5 @@
 
 - Cleaning:
     - sudo pacman -Sc: remove packages from cache
+
+    - yay -Sc
