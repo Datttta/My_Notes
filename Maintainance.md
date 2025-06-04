@@ -33,4 +33,7 @@
         
         - sudo journalctl --vacuum-time-2weeks: it removes all files older than 2 weeks, you can see on manual page other ways to remove files, like using size for example
 
+- Update mirror-list:
+    - sudo reflector -c Brazil --latest 600 --download-timeout 60 -a 6 --sort rate --save /etc/pacman.d/mirrorlist: update mirrorlist
+
     
