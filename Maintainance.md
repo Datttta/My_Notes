@@ -16,9 +16,9 @@
 
     - sudo pacman -Scc: remove all pacman packages from cache(You don't need to run this if you ran yay -Scc)
 
-    - Dealing with orphans packages:
-        - pacman -Qtdq: show orphans packages
+    - Dealing with orphan packages:
+        - pacman -Qtdq: show orphan packages
 
-        - sudo pacman -Rns $(pacman -Qtdq)
+        - sudo pacman -Rns $(pacman -Qtdq): delete orphan packages
 
     
