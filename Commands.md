@@ -53,3 +53,6 @@
 
 - How to preview markdown files vimwiki:
     - *:MarkdownPreview*
+
+- Run app with amd/radeon driver:
+    - *DRI_PRIME=1* 
