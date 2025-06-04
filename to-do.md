@@ -6,5 +6,3 @@
 - [X] what video how to maintain your arch linux
 - [ ] osu skin
 - [ ] minecraft
-
-## Completed Tasks
