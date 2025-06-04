@@ -19,4 +19,6 @@
     - Dealing with orphans packages:
         - pacman -Qtdq: show orphans packages
 
+        - sudo pacman -Rns $(pacman -Qtdq)
+
     
