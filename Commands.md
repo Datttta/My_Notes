@@ -50,3 +50,6 @@
 
     - if you want restow it:
         - *sudo stow -R -t / slashConfs*
+
+- How to preview markdown files vimwiki:
+    - :MarkdownPreview
