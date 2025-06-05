@@ -1,7 +1,7 @@
 === *New words* ===
 
-Concur
-Belonging
-Baffle
-deliniate
+1. Concur
+2. Belonging
+3. Baffle
+4. deliniate
 
