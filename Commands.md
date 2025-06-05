@@ -58,6 +58,8 @@
     - *DRI_PRIME=1* 
       
 - Lists:
+    - Create a numbered list: <leader>ne 
+      
     - renumber a list: *<leader>rn*
 
     - Redo a list: *<leader>rl*
