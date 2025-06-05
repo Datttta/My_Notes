@@ -56,3 +56,8 @@
 
 - Run app with amd/radeon driver:
     - *DRI_PRIME=1* 
+      
+- Lists:
+    - renumber a list: *<leader>rn*
+
+    - Redo a list: *<leader>rl*
