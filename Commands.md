@@ -63,3 +63,8 @@
     - renumber a list: *<leader>rn*
 
     - Redo a list: *<leader>rl*
+
+- Find files with fzf:
+    - to preview files use: *fzf --preview="cat {}"*
+
+    - preview with syxtax highlight: *fzf --preview="bat --color=always {}"*
