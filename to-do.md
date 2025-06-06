@@ -14,6 +14,6 @@
 
 - [X] To do laundry 10:00 - 11:30
 - [X] Do the dishes 11:30 - 12:10
-- [ ] Have lunch 12:50 - 13:40
-- [ ] brush
-- [ ] english (memhack and anki)
+- [X] Have lunch 12:50 - 13:40
+- [X] brush
+- [X] english (memhack and anki)
