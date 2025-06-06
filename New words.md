@@ -1,3 +1,3 @@
 === *New words* ===
 
-1.  
+1.  faint (I'll faint if they touch me )
