@@ -1,7 +1,7 @@
 === Todo ===
 
 - [ ] create maintainance script
-- [ ] To do loundry  
+- [ ] To do laundry  
 - [ ] see how to start working with programing
 - [X] what video how to maintain your arch linux
 - [X] osu collections
@@ -13,4 +13,5 @@
 
 = Today =
 
-- [ ] 
+- [ ] To do laundry 10:00 - 11:30
+- [ ] Do the dishes 11:30 - 12:10
