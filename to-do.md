@@ -1,6 +1,7 @@
 === Todo ===
 
 - [X] Do the dishes 10:10 - 12:10
+- [ ] waybar padding don't change in sytle.css
 - [ ] create maintainance script
 - [ ] To do loundry  
 - [ ] see how to start working with programing
