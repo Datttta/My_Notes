@@ -1,6 +1,5 @@
 === Todo ===
 
-- [ ] create maintainance script
 - [ ] see how to start working with programing
 - [X] what video how to maintain your arch linux
 - [X] osu collections
