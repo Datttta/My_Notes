@@ -4,7 +4,7 @@
 - [ ] To do loundry  
 - [ ] see how to start working with programing
 - [X] what video how to maintain your arch linux
-- [ ] osu collections
+- [X] osu collections
 - [X] osu skin
 - [X] osu maps
 - [X] discord vencord plugins
