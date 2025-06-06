@@ -1,6 +1,5 @@
 === Todo ===
 
-- [X] Do the dishes 10:10 - 12:10
 - [ ] create maintainance script
 - [ ] To do loundry  
 - [ ] see how to start working with programing
@@ -10,3 +9,8 @@
 - [X] osu maps
 - [X] discord vencord plugins
 - [X] minecraft
+
+
+- Today:
+
+- [ ] 
