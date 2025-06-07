@@ -68,3 +68,9 @@
     - to preview files use: *fzf --preview="cat {}"*
 
     - preview with syxtax highlight: *fzf --preview="bat --color=always {}"*
+
+- How to see hidden files with ls:
+    - use: *ls -a*
+
+- How to make a file executable:
+    - use: *ls -l filename*
