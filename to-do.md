@@ -6,4 +6,5 @@
 
 = Today =
 
-- [ ] 
+- [ ] Have lunch
+- [ ] brush
