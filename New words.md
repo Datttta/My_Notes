@@ -1,3 +1,4 @@
 === *New words* ===
 
-1.  
+1.  daiseis
+2. decline
