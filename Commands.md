@@ -74,3 +74,6 @@
 
 - How to make a file executable:
     - use: *ls -l filename*
+
+- Search and replace nvim:
+    - use: :%s/what you want to search/what you wna to replace/
