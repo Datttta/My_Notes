@@ -4,7 +4,7 @@
 - [ ] add brighness slider to swaync
 - [ ] organize your scripts
 - [X] Do memHack (before 00:00)
-- [ ] Do anki 
+- [X] Do anki 
 
 
 = Today =
