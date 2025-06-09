@@ -8,9 +8,10 @@
 6. hardened (hardened criminal)
 7. momento (memory I guess)
 8. rag (cum rag)
-9. long face
-10. ceasarean
-11. traiterous
-12. cram (How can a clam cram in a clean cream can?)
-13. reek 
-14. rebuttals
+9. equivalentbeing
+10. long face
+11. ceasarean
+12. traiterous
+13. cram (How can a clam cram in a clean cream can?)
+14. reek 
+15. rebuttals
