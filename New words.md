@@ -5,6 +5,7 @@
 3. milestone
 4. chandelier
 5. dam - place
-6. crosshairs
-7. blight
-8. drolling
+6. blasted- are blasted
+7. crosshairs
+8. blight
+9. drolling
