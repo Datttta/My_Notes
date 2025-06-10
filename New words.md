@@ -6,6 +6,7 @@
 4. chandelier
 5. dam - place
 6. blasted- are blasted
-7. crosshairs
-8. blight
-9. drolling
+7. freshman
+8. crosshairs
+9. blight
+10. drolling
