@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. malt and hops
-2. milestone
-3. crosshairs
-4. blight
-5. drolling
+2. shorthand
+3. milestone
+4. crosshairs
+5. blight
+6. drolling
