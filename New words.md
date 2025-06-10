@@ -7,7 +7,8 @@
 5. dam - place
 6. blasted- are blasted
 7. freshman
-8. mellow 
-9. crosshairs
-10. blight
-11. drolling
+8. mellow
+9. through backs
+10. crosshairs
+11. blight
+12. drolling
