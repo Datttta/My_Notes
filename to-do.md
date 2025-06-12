@@ -12,5 +12,4 @@
 - [ ] To do loundry
 - [ ] English
 - [ ] have lunch
-- [ ] brush
-- [ ] 
+- [ ] brush 
