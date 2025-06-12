@@ -10,7 +10,7 @@
 
 = Today =
 - [X] To do the dishes
-- [ ] To do loundry
+- [X] To do loundry
 - [ ] English
-- [ ] have lunch
-- [ ] brush 
+- [X] have lunch
+- [X] brush 
