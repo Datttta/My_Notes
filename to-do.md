@@ -4,11 +4,11 @@
 
 
 = Everyday =
-- [ ] Do memHack (before 00:00)
-- [ ] Do anki 
+- [X] Do memHack (before 00:00)
+- [X] Do anki 
 
 
 = Today =
-- [ ] English 12:10 - 13:10
+- [X] English 12:10 - 13:10
 - [ ] have lunch 13:10 - 14:10
 - [ ] brush 
