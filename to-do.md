@@ -9,3 +9,6 @@
 
 
 = Today =
+- [ ] English 12:10 - 13:10
+- [ ] have lunch 13:10 - 14:10
+- [ ] brush 
