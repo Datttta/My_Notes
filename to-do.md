@@ -10,5 +10,5 @@
 
 = Today =
 - [X] English 12:10 - 13:10
-- [ ] have lunch 13:10 - 14:10
-- [ ] brush 
+- [X] have lunch 13:10 - 14:10
+- [X] brush 
