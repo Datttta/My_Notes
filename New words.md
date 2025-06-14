@@ -6,10 +6,11 @@
 4. pick up (if you there pick up)
 5. handcrank
 6. vacancies
-7. scrappers
-8. scrapyard
-9.  lay off
-10. resume
-11. hone in
-12. referral
-13. spayed
+7. augmented
+8. scrappers
+9. scrapyard
+10.  lay off
+11. resume
+12. hone in
+13. referral
+14. spayed
