@@ -7,10 +7,11 @@
 5. handcrank
 6. vacancies
 7. augmented
-8. scrappers
-9. scrapyard
-10.  lay off
-11. resume
-12. hone in
-13. referral
-14. spayed
+8. audit (verb)
+9. scrappers
+10. scrapyard
+11.  lay off
+12. resume
+13. hone in
+14. referral
+15. spayed
