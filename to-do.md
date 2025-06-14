@@ -5,7 +5,7 @@
 
 = Everyday =
 - [X] Do memHack (before 00:00)
-- [ ] Do anki 
+- [X] Do anki 
 
 
 = Today =
