@@ -76,7 +76,7 @@
     - use: *ls -l filename*
 
 - Search and replace nvim:
-    - use: *:%s/what you want to search/what you wna to replace/*
+    - use: *:%s/what you want to search/what you want to replace/*
 
 - Completly close an application:
     - use: *Super + X*
