@@ -80,3 +80,9 @@
 
 - Completly close an application:
     - use: *Super + X*
+
+- Case WARNING: UNPROTECTED PRIVATE KEY FILE! Permissions 0605 for '/home/DROS/.ssh/id_MyArch' are too open.
+    - use:
+        - cd ~/.ssh
+        - chmod 600 id_MyArch
+        - chmod 700 ~/.ssh
