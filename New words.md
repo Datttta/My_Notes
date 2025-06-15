@@ -1,11 +1,11 @@
 === *New words* ===
 
-1. chancing
-2. skivving off
-3. workshop
-4. pick up (if you there pick up)
-5. handcrank
-6. vacancies
+1. 
+2. 
+3. 
+4.  (if you there pick up)
+5. 
+6. qualms
 7. augmented
 8. audit (verb)
 9. scrappers
