@@ -1,5 +1,4 @@
 === Todo ===
-- [ ] see how to start working with programing
 - [ ] organize your scripts
 
 
