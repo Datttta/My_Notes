@@ -5,3 +5,4 @@
 3. packet
 4. locust
 5. propeller
+6. lids (trying on luxury lids)
