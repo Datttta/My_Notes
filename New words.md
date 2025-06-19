@@ -8,11 +8,12 @@
 6. mosey (mosey back to the class)
 7. wimp ( you gonne be a wimp)
 8. caper (it's quite a caper)
-9. split (let's lieave)
-10. packet
-11. supersede
-12. locust
-13. hymns
-14. CHAPerones
-15. propeller
-16. lids (trying on luxury lids)
+9. thoust
+10. split (let's lieave)
+11. packet
+12. supersede
+13. locust
+14. hymns
+15. CHAPerones
+16. propeller
+17. lids (trying on luxury lids)
