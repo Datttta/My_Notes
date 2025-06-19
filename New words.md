@@ -4,13 +4,14 @@
 2. ripples (ripples effect)
 3. finicky
 4. clocked (get clocked)
-5. mosey (mosey back to the class)
-6. wimp ( you gonne be a wimp)
-7. split (let's lieave)
-8. packet
-9. supersede
-10. locust
-11. hymns
-12. CHAPerones
-13. propeller
-14. lids (trying on luxury lids)
+5. foretold
+6. mosey (mosey back to the class)
+7. wimp ( you gonne be a wimp)
+8. split (let's lieave)
+9. packet
+10. supersede
+11. locust
+12. hymns
+13. CHAPerones
+14. propeller
+15. lids (trying on luxury lids)
