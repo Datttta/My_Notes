@@ -6,5 +6,6 @@
 4. supersede
 5. locust
 6. hymns
-7. propeller
-8. lids (trying on luxury lids)
+7. CHAPerones
+8. propeller
+9. lids (trying on luxury lids)
