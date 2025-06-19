@@ -15,8 +15,9 @@
 13. split (let's lieave)
 14. packet
 15. supersede
-16. locust
-17. hymns
-18. CHAPerones
-19. propeller
-20. lids (trying on luxury lids)
+16. monogrammed track jackests
+17. locust
+18. hymns
+19. CHAPerones
+20. propeller
+21. lids (trying on luxury lids)
