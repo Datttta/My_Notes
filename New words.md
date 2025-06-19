@@ -5,5 +5,6 @@
 3. packet
 4. supersede
 5. locust
-6. propeller
-7. lids (trying on luxury lids)
+6. hymns
+7. propeller
+8. lids (trying on luxury lids)
