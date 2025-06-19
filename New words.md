@@ -11,11 +11,12 @@
 9. caper (it's quite a caper)
 10. thoust
 11. osmose
-12. split (let's lieave)
-13. packet
-14. supersede
-15. locust
-16. hymns
-17. CHAPerones
-18. propeller
-19. lids (trying on luxury lids)
+12. peon (kings peon)
+13. split (let's lieave)
+14. packet
+15. supersede
+16. locust
+17. hymns
+18. CHAPerones
+19. propeller
+20. lids (trying on luxury lids)
