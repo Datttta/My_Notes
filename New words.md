@@ -16,8 +16,10 @@
 14. packet
 15. supersede
 16. monogrammed track jackests
-17. locust
-18. hymns
-19. CHAPerones
-20. propeller
-21. lids (trying on luxury lids)
+17. blocky
+18. foliage
+19. locust
+20. hymns
+21. CHAPerones
+22. propeller
+23. lids (trying on luxury lids)
