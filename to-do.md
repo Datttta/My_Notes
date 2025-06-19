@@ -1,5 +1,6 @@
 === Todo ===
 - [ ] organize your scripts
+- [ ] add vencord to discord
 
 
 = Everyday =
