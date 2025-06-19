@@ -9,11 +9,12 @@
 7. wimp ( you gonne be a wimp)
 8. caper (it's quite a caper)
 9. thoust
-10. split (let's lieave)
-11. packet
-12. supersede
-13. locust
-14. hymns
-15. CHAPerones
-16. propeller
-17. lids (trying on luxury lids)
+10. osmose
+11. split (let's lieave)
+12. packet
+13. supersede
+14. locust
+15. hymns
+16. CHAPerones
+17. propeller
+18. lids (trying on luxury lids)
