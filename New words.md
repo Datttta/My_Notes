@@ -2,13 +2,14 @@
 
 1. winder (winder operation)
 2. ripples (ripples effect)
-3. mosey (mosey back to the class)
-4. wimp ( you gonne be a wimp)
-5. split (let's lieave)
-6. packet
-7. supersede
-8. locust
-9. hymns
-10. CHAPerones
-11. propeller
-12. lids (trying on luxury lids)
+3. finicky
+4. mosey (mosey back to the class)
+5. wimp ( you gonne be a wimp)
+6. split (let's lieave)
+7. packet
+8. supersede
+9. locust
+10. hymns
+11. CHAPerones
+12. propeller
+13. lids (trying on luxury lids)
