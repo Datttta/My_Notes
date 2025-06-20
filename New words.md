@@ -19,3 +19,4 @@
 17. scum (they are scum)
 18. perish
 19. ousted
+20. worn down
