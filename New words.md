@@ -24,3 +24,4 @@
 22. relegated
 23. delinquency
 24. slunk out
+25. trousle
