@@ -1,29 +1,30 @@
 === *New words* ===
 
 1. knack (we have a knack for it (we are good (I guess)))
-2. scot free
-3. gloating (gloating about how greate they are)
-4. ditch (verb)
-5. ripen him up
-6. grovelling
-7. clawedst
-8. otherest
-9. conundrums
-10. catering (catering the party)
-11. amst
-12. lawkeeping
-13. amasseth
-14. avarice
-15. riches
-16. dispatched
-17. scum (they are scum)
-18. perish
-19. ousted
-20. worn down
-21. beads ( in a board game (bead toys))
-22. relegated
-23. delinquency
-24. slunk out
-25. trousle
-26. saucer
-27. prance (prance on homne)
+2. fumble ( fumble a test )
+3. scot free
+4. gloating (gloating about how greate they are)
+5. ditch (verb)
+6. ripen him up
+7. grovelling
+8. clawedst
+9. otherest
+10. conundrums
+11. catering (catering the party)
+12. amst
+13. lawkeeping
+14. amasseth
+15. avarice
+16. riches
+17. dispatched
+18. scum (they are scum)
+19. perish
+20. ousted
+21. worn down
+22. beads ( in a board game (bead toys))
+23. relegated
+24. delinquency
+25. slunk out
+26. trousle
+27. saucer
+28. prance (prance on homne)
