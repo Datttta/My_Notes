@@ -4,4 +4,5 @@
 2. saucer
 3. prance (prance on homne)
 4. sizable
+5. truce
 
