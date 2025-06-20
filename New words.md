@@ -13,4 +13,5 @@
 11. fend ( fend for themselfves)
 12. eye candy
 13. hoard (hoard chocolate)
+14. skimp out
 
