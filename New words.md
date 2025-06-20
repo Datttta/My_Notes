@@ -6,3 +6,4 @@
 4. ditch (verb)
 5. ripen him up
 6. grovelling
+7. clawedst
