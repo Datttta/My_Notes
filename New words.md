@@ -11,28 +11,29 @@
 9. shed a tear
 10. patsy
 11. weenie (you are a real weenie)
-12. gloating (gloating about how greate they are)
-13. ditch (verb)
-14. ripen him up
-15. grovelling
-16. clawedst
-17. otherest
-18. conundrums
-19. catering (catering the party)
-20. amst
-21. lawkeeping
-22. amasseth
-23. avarice
-24. riches
-25. dispatched
-26. scum (they are scum)
-27. perish
-28. ousted
-29. worn down
-30. beads ( in a board game (bead toys))
-31. relegated
-32. delinquency
-33. slunk out
-34. trousle
-35. saucer
-36. prance (prance on homne)
+12. nibbled
+13. gloating (gloating about how greate they are)
+14. ditch (verb)
+15. ripen him up
+16. grovelling
+17. clawedst
+18. otherest
+19. conundrums
+20. catering (catering the party)
+21. amst
+22. lawkeeping
+23. amasseth
+24. avarice
+25. riches
+26. dispatched
+27. scum (they are scum)
+28. perish
+29. ousted
+30. worn down
+31. beads ( in a board game (bead toys))
+32. relegated
+33. delinquency
+34. slunk out
+35. trousle
+36. saucer
+37. prance (prance on homne)
