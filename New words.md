@@ -21,3 +21,4 @@
 19. ousted
 20. worn down
 21. beads ( in a board game (bead toys))
+22. relegated
