@@ -16,3 +16,4 @@
 14. avarice
 15. riches
 16. dispatched
+17. scum (they are scum)
