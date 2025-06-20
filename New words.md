@@ -4,3 +4,4 @@
 2. scot free
 3. gloating (gloating about how greate they are)
 4. ditch (verb)
+5. ripen him up
