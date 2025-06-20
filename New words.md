@@ -10,4 +10,6 @@
 8. blatant
 9. passageway
 10. lackey
+11. fend ( fend for themselfves)
+12. eye candy
 
