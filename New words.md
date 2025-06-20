@@ -7,3 +7,5 @@
 5. ripen him up
 6. grovelling
 7. clawedst
+8. otherest
+9. conundrums
