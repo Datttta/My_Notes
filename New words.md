@@ -15,4 +15,5 @@
 13. hoard (hoard chocolate)
 14. skimp out
 15. begone
+16. hoofed (hoofed girl)
 
