@@ -23,3 +23,4 @@
 21. beads ( in a board game (bead toys))
 22. relegated
 23. delinquency
+24. slunk out
