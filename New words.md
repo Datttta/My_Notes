@@ -26,4 +26,4 @@
 24. slunk out
 25. trousle
 26. saucer
-27. prance
+27. prance (prance on homne)
