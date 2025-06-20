@@ -5,4 +5,5 @@
 3. prance (prance on homne)
 4. sizable
 5. truce
+6. tantilize
 
