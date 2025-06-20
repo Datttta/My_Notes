@@ -4,28 +4,29 @@
 2. fumble ( fumble a test )
 3. scot free
 4. valiantly
-5. gloating (gloating about how greate they are)
-6. ditch (verb)
-7. ripen him up
-8. grovelling
-9. clawedst
-10. otherest
-11. conundrums
-12. catering (catering the party)
-13. amst
-14. lawkeeping
-15. amasseth
-16. avarice
-17. riches
-18. dispatched
-19. scum (they are scum)
-20. perish
-21. ousted
-22. worn down
-23. beads ( in a board game (bead toys))
-24. relegated
-25. delinquency
-26. slunk out
-27. trousle
-28. saucer
-29. prance (prance on homne)
+5. iffy
+6. gloating (gloating about how greate they are)
+7. ditch (verb)
+8. ripen him up
+9. grovelling
+10. clawedst
+11. otherest
+12. conundrums
+13. catering (catering the party)
+14. amst
+15. lawkeeping
+16. amasseth
+17. avarice
+18. riches
+19. dispatched
+20. scum (they are scum)
+21. perish
+22. ousted
+23. worn down
+24. beads ( in a board game (bead toys))
+25. relegated
+26. delinquency
+27. slunk out
+28. trousle
+29. saucer
+30. prance (prance on homne)
