@@ -7,28 +7,29 @@
 5. iffy
 6. primal
 7. beddy bye
-8. gloating (gloating about how greate they are)
-9. ditch (verb)
-10. ripen him up
-11. grovelling
-12. clawedst
-13. otherest
-14. conundrums
-15. catering (catering the party)
-16. amst
-17. lawkeeping
-18. amasseth
-19. avarice
-20. riches
-21. dispatched
-22. scum (they are scum)
-23. perish
-24. ousted
-25. worn down
-26. beads ( in a board game (bead toys))
-27. relegated
-28. delinquency
-29. slunk out
-30. trousle
-31. saucer
-32. prance (prance on homne)
+8. rug 
+9. gloating (gloating about how greate they are)
+10. ditch (verb)
+11. ripen him up
+12. grovelling
+13. clawedst
+14. otherest
+15. conundrums
+16. catering (catering the party)
+17. amst
+18. lawkeeping
+19. amasseth
+20. avarice
+21. riches
+22. dispatched
+23. scum (they are scum)
+24. perish
+25. ousted
+26. worn down
+27. beads ( in a board game (bead toys))
+28. relegated
+29. delinquency
+30. slunk out
+31. trousle
+32. saucer
+33. prance (prance on homne)
