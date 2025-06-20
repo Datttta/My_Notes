@@ -16,4 +16,5 @@
 14. skimp out
 15. begone
 16. hoofed (hoofed girl)
+17. prowling around
 
