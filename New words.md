@@ -1,3 +1,3 @@
 === *New words* ===
 
-1. groove (he's groovy)
+1. groovy (he's groovy)
