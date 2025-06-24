@@ -4,3 +4,4 @@
 [[to-do]]
 [[New words]]
 [[Maintainance]]
+[[Solved problems]]
