@@ -6,3 +6,5 @@
 4. pretentious
 5. make out (make out with each other)
 6. bitrate
+7. gait
+8. pompous
