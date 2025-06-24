@@ -8,3 +8,4 @@
 6. bitrate
 7. gait
 8. pompous
+9. lofty
