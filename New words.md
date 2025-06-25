@@ -3,10 +3,11 @@
 1. confer
 2. wonderkid
 3. obversion
-4. dublado (tradução)
-5. pretentious
-6. make out (make out with each other)
-7. bitrate
-8. gait
-9. pompous
-10. lofty
+4. punching bag
+5. dublado (tradução)
+6. pretentious
+7. make out (make out with each other)
+8. bitrate
+9. gait
+10. pompous
+11. lofty
