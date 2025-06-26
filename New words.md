@@ -4,10 +4,11 @@
 2. wonderkid
 3. obversion
 4. punching bag
-5. dublado (tradução)
-6. pretentious
-7. make out (make out with each other)
-8. bitrate
-9. gait
-10. pompous
-11. lofty
+5. rant (rant about nostalgia)
+6. dublado (tradução)
+7. pretentious
+8. make out (make out with each other)
+9. bitrate
+10. gait
+11. pompous
+12. lofty
