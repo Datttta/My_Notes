@@ -12,4 +12,5 @@
 10. gait
 11. pompous
 12. in the cards.
-13. lofty
+13. overlocked
+14. lofty
