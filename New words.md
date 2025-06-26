@@ -11,4 +11,5 @@
 9. bitrate
 10. gait
 11. pompous
-12. lofty
+12. in the cards.
+13. lofty
