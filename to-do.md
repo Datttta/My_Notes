@@ -1,7 +1,6 @@
 === Todo ===
 - [ ] organize your scripts
-- [ ] add vencord to discord
-
+- [ ] download hprlock pacman
 
 = Everyday =
 - [X] Do memHack (before 00:00)
