@@ -6,19 +6,20 @@
 4. agressor
 5. uprising
 6. quartered
-7. meatier
-8. urn
-9. glo
-10. obversion
-11. expediency
-12. punching bag
-13. rant (rant about nostalgia)
-14. dublado (tradução)
-15. pretentious
-16. make out (make out with each other)
-17. bitrate
-18. gait
-19. pompous
-20. in the cards.
-21. overlocked
-22. lofty
+7. concede
+8. meatier
+9. urn
+10. glo
+11. obversion
+12. expediency
+13. punching bag
+14. rant (rant about nostalgia)
+15. dublado (tradução)
+16. pretentious
+17. make out (make out with each other)
+18. bitrate
+19. gait
+20. pompous
+21. in the cards.
+22. overlocked
+23. lofty
