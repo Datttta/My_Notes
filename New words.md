@@ -4,4 +4,4 @@
 2. bitrate
 3. gait
 4. pompous
-5. in the cards.
+5. merger
