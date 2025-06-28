@@ -88,4 +88,4 @@
         - chmod 700 ~/.ssh
 
 - Star an app with xwayland/x11:
-    - GDK_BACKEND=x11 <app>
+    - *GDK_BACKEND=x11* <app>
