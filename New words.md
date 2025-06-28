@@ -1,22 +1,22 @@
 === *New words* ===
 
-1. confer
-2. wonderkid
-3. whip
-4. agressor
-5. uprising
-6. quartered
-7. concede
-8. abbleist
-9. meatier
-10. urn
-11. glo
-12. obversion
-13. expediency
-14. punching bag
-15. rant (rant about nostalgia)
-16. dublado (tradução)
-17. pretentious
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15.  (rant about nostalgia)
+16.  (tradução)
+17. 
 18. make out (make out with each other)
 19. bitrate
 20. gait
