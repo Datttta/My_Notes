@@ -1,15 +1,7 @@
 === *New words* ===
 
 1. 
-2. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15.  (rant about nostalgia)
+2.  (rant about nostalgia)
 16.  (tradução)
 17. 
 18. make out (make out with each other)
