@@ -1,11 +1,9 @@
 === *New words* ===
 
-1. (rant about nostalgia)
-5. (tradução)
-4. make out (make out with each other)
-5. bitrate
-6. gait
-7. pompous
-8. in the cards.
-9. overlocked
-10. lofty
+1. make out (make out with each other)
+2. bitrate
+3. gait
+4. pompous
+5. in the cards.
+6. overlocked
+7. lofty
