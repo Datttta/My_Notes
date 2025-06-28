@@ -89,3 +89,6 @@
 
 - Star an app with xwayland/x11:
     - *GDK_BACKEND=x11* <app>
+
+- Open swaync (Sway Notification Centre):
+    - swaync-client -t
