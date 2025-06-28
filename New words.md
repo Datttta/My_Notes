@@ -5,5 +5,3 @@
 3. gait
 4. pompous
 5. in the cards.
-6. overlocked
-7. lofty
