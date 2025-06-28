@@ -58,6 +58,8 @@
     - *DRI_PRIME=1* 
       
 - Lists:
+    - *:'<,'>s/^\s*\%(\d\+\.\s*\)\?/\=line('.') - line("'<") + 1 . ". "/*
+
     - Create a numbered list: <leader>ne 
       
     - renumber a list: *<leader>rn*
