@@ -2,20 +2,21 @@
 
 1. confer
 2. wonderkid
-3. uprising
-4. meatier
-5. urn
-6. glo
-7. obversion
-8. expediency
-9. punching bag
-10. rant (rant about nostalgia)
-11. dublado (tradução)
-12. pretentious
-13. make out (make out with each other)
-14. bitrate
-15. gait
-16. pompous
-17. in the cards.
-18. overlocked
-19. lofty
+3. whip
+4. uprising
+5. meatier
+6. urn
+7. glo
+8. obversion
+9. expediency
+10. punching bag
+11. rant (rant about nostalgia)
+12. dublado (tradução)
+13. pretentious
+14. make out (make out with each other)
+15. bitrate
+16. gait
+17. pompous
+18. in the cards.
+19. overlocked
+20. lofty
