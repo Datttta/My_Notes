@@ -2,7 +2,7 @@
 
 1. make out (make out with each other)
 2. continuity
-3. pecs
+3. pecs (chicken )
 4. bitrate
 5. gait
 6. nephew
