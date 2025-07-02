@@ -1,6 +1,5 @@
 === Todo ===
 - [ ] organize your scripts
-- [ ] download hprlock pacman
 
 = Everyday =
 - [ ] Do memHack (before 00:00)
