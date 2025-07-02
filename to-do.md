@@ -3,8 +3,8 @@
 - [ ] download hprlock pacman
 
 = Everyday =
-- [X] Do memHack (before 00:00)
-- [X] Do anki 
+- [ ] Do memHack (before 00:00)
+- [ ] Do anki 
 
 
 = Today =
