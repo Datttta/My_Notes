@@ -94,3 +94,6 @@
 
 - Open swaync (Sway Notification Centre):
     - swaync-client -t
+
+- Format nvim code:
+    - <leader>fm
