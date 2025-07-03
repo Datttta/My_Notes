@@ -1,5 +1,4 @@
 === Todo ===
-- [ ] organize your scripts
 
 = Today =
 
