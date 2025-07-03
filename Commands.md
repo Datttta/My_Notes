@@ -97,3 +97,6 @@
 
 - Format nvim code:
     - <leader>fm
+
+- Falling code:
+    - cmatrix -b (b is to make some caracters bold)
