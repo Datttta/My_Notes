@@ -1,5 +1,5 @@
 === Todo ===
-
+- [ ] fix youtube stuttering
 
 = Today =
 
