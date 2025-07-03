@@ -1,5 +1,6 @@
 === Todo ===
 - [ ] fix youtube stuttering
+- [ ] add icons folder to dotfiles
 
 = Today =
 
