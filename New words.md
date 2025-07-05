@@ -7,5 +7,6 @@
 5. corny'
 6. defective
 8. raffle
-9. slyly
-10. purr
+9. serenade
+10. slyly
+11. purr
