@@ -3,6 +3,7 @@
 1. Usina (tradução)
 2. absurdo (tradução)
 3. maxed
-4. raffle
-5. slyly
-6. purr
+4. finessing
+5. raffle
+6. slyly
+7. purr
