@@ -4,6 +4,7 @@
 2. absurdo (tradução)
 3. maxed
 4. finessing
-5. raffle
-6. slyly
-7. purr
+5. corny'
+6. raffle
+7. slyly
+8. purr
