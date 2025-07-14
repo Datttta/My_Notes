@@ -1,3 +1,3 @@
 === *New words* ===
 
-1. endorse
+1. 
