@@ -5,4 +5,5 @@
 3. slurp
 4. in-laws
 5. jammy
-6. permissible
+6. away
+7. permissible
