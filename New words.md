@@ -2,5 +2,6 @@
 
 1. Scarescro
 2. gnarly
-3. jammy
-4. permissible
+3. slurp
+4. jammy
+5. permissible
