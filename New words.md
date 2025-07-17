@@ -6,4 +6,5 @@
 4. in-laws
 5. jammy
 6. away
-7. permissible
+7. comm
+8. permissible
