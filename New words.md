@@ -7,4 +7,5 @@
 5. jammy
 6. away
 7. comm
-8. permissible
+8. preposturous
+9. permissible
