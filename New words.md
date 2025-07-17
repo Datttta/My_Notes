@@ -11,3 +11,4 @@
 9. hypocracy
 11. permissible
 12. fixed up
+13. wrap up (encerrar)
