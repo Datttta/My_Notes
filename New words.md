@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. Scarescro
+1. 
 2. gnarly
 3. slurp
 4. in-laws
@@ -11,7 +11,7 @@
 9. hypocracy
 11. permissible
 12. fixed up
-13. prejudiced
-14. callling out (if calling out )
-15. jogged
-16. wrap up (encerrar)
+13. 
+14.  (if calling out )
+15. 
+16.  (encerrar)
