@@ -12,4 +12,5 @@
 11. permissible
 12. fixed up
 13. prejudiced
-14. wrap up (encerrar)
+14. callling out (if calling out )
+15. wrap up (encerrar)
