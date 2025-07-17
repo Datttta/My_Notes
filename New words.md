@@ -13,4 +13,5 @@
 12. fixed up
 13. prejudiced
 14. callling out (if calling out )
-15. wrap up (encerrar)
+15. jogged
+16. wrap up (encerrar)
