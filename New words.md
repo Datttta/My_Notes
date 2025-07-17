@@ -10,3 +10,4 @@
 8. preposturous
 9. hypocracy
 11. permissible
+12. fixed up
