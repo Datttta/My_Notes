@@ -26,18 +26,4 @@
 20. hasta pronto
 21. respuestas
 22. presentarnos
-23. tienda (tienda de ropa)
-24. ropa
-25. cocinero
-26. periodista
-27. deltrear
-26.
-27.  (tv)
-28. 
-29. 
-30. 
-31. 
-32. 
-33. 
-34. 
-35. 
+23.  (tienda de ropa)
