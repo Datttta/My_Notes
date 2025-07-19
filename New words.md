@@ -21,3 +21,4 @@
 15. respuestas
 16. presentarnos
 17. tienda (tienda de ropa)
+18. ropa
