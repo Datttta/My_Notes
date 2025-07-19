@@ -30,3 +30,4 @@
 24. gimnasio
 25. bailar
 26. leer
+27. camarero
