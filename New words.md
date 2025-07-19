@@ -8,3 +8,5 @@
 2. según
 3. razas
 4. despreciable
+5. callejero
+6. bolígrafo
