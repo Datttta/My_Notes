@@ -31,3 +31,4 @@
 25. bailar
 26. leer
 27. camarero
+28. abogado
