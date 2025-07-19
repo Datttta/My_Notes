@@ -25,3 +25,4 @@
 19. cocinero
 20. periodista
 21. deltrear
+22. cocinar
