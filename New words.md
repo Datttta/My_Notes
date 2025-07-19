@@ -26,4 +26,5 @@
 20. hasta pronto
 21. respuestas
 22. presentarnos
-23. A veces
+23. liderazgo
+24. A veces
