@@ -12,20 +12,21 @@
 5. callejero
 6. guisar
 7. aderezar
-8. empleados
-9. lo
-10. bolígrafo
-11. pizarra
-12. Lo siento
-13. papelera
-14. cuaderno
-15. ordenador
-16. aficiones
-17. silla
-18. hoja
-19. hielo
-20. hasta pronto
-21. respuestas
-22. presentarnos
-23. liderazgo
-24. A veces
+8. crees  
+9. empleados
+10. lo
+11. bolígrafo
+12. pizarra
+13. Lo siento
+14. papelera
+15. cuaderno
+16. ordenador
+17. aficiones
+18. silla
+19. hoja
+20. hielo
+21. hasta pronto
+22. respuestas
+23. presentarnos
+24. liderazgo
+25. A veces
