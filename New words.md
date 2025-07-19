@@ -28,3 +28,4 @@
 22. cocinar
 23. tele (tv)
 24. gimnasio
+25. bailar
