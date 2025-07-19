@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. clunky (clunky solution)
+2. toutelage
 
 === *Nuevas Palabras* ===
 
