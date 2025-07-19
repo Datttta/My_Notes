@@ -9,30 +9,32 @@
 3. razas
 4. despreciable
 5. callejero
-6. empleados
-7. lo
-8. bolígrafo
-9. pizarra
-10. Lo siento
-11. papelera
-12. cuaderno
-13. ordenador
-14. aficiones
-15. silla
-16. hoja
-17. hielo
-18. hasta pronto
-19. respuestas
-20. presentarnos
-21. tienda (tienda de ropa)
-22. ropa
-23. cocinero
-24. periodista
-25. deltrear
-26. cocinar
-27. tele (tv)
-28. gimnasio
-29. bailar
+6. guisar
+7. aderezar
+8. empleados
+9. lo
+10. bolígrafo
+11. pizarra
+12. Lo siento
+13. papelera
+14. cuaderno
+15. ordenador
+16. aficiones
+17. silla
+18. hoja
+19. hielo
+20. hasta pronto
+21. respuestas
+22. presentarnos
+23. tienda (tienda de ropa)
+24. ropa
+25. cocinero
+26. periodista
+27. deltrear
+26.
+27.  (tv)
+28. 
+29. 
 30. 
 31. 
 32. 
