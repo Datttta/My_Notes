@@ -22,3 +22,4 @@
 16. presentarnos
 17. tienda (tienda de ropa)
 18. ropa
+19. cocinero
