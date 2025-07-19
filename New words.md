@@ -5,3 +5,6 @@
 === *Nuevas Palabras* ===
 
 1. perro
+2. según
+3. razas
+4. despreciable
