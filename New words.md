@@ -20,3 +20,4 @@
 14. hasta pronto
 15. respuestas
 16. presentarnos
+17. tienda (tienda de ropa)
