@@ -42,7 +42,7 @@
 - Vimwiki help:
     - *:h vimwiki-syntax*
 
-- Clean clipboard: 
+- Clear clipboard: 
     - *cliphist wipe*
 
 - Stow root files:
