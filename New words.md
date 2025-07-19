@@ -24,3 +24,4 @@
 18. ropa
 19. cocinero
 20. periodista
+21. deltrear
