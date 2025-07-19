@@ -12,3 +12,8 @@
 6. bolígrafo
 7. pizarra
 8. Lo siento
+9. papelera
+10. cuaderno
+11. ordenador
+12. silla
+13. hoja
