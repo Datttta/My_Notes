@@ -26,4 +26,4 @@
 20. hasta pronto
 21. respuestas
 22. presentarnos
-23.  (tienda de ropa)
+23. A veces
