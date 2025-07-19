@@ -26,3 +26,5 @@
 20. periodista
 21. deltrear
 22. cocinar
+23. tele (tv)
+24. gimnasio
