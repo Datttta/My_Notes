@@ -10,3 +10,4 @@
 4. despreciable
 5. callejero
 6. bolígrafo
+7. pizarra
