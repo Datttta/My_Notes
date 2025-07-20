@@ -16,28 +16,29 @@
 10. Patata
 11. Conducir
 12. Zumo
-13. según
-14. razas
-15. despreciable
-16. callejero
-17. guisar
-18. aderezar
-19. crees  
-20. empleados
-21. lo
-22. empecemos
-23. bolígrafo
-24. pizarra
-25. Lo siento
-26. papelera
-27. cuaderno
-28. ordenador
-29. aficiones
-30. silla
-31. hoja
-32. hielo
-33. hasta pronto
-34. respuestas
-35. presentarnos
-36. liderazgo
-37. A veces
+13. Chulo
+14. según
+15. razas
+16. despreciable
+17. callejero
+18. guisar
+19. aderezar
+20. crees  
+21. empleados
+22. lo
+23. empecemos
+24. bolígrafo
+25. pizarra
+26. Lo siento
+27. papelera
+28. cuaderno
+29. ordenador
+30. aficiones
+31. silla
+32. hoja
+33. hielo
+34. hasta pronto
+35. respuestas
+36. presentarnos
+37. liderazgo
+38. A veces
