@@ -6,6 +6,7 @@
 4. wining, dining, relaxing
 5. globetrotter
 6. plan on
+7. go away
 
 === *Nuevas Palabras* ===
 
