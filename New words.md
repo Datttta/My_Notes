@@ -16,18 +16,19 @@
 8. crees  
 9. empleados
 10. lo
-11. bolígrafo
-12. pizarra
-13. Lo siento
-14. papelera
-15. cuaderno
-16. ordenador
-17. aficiones
-18. silla
-19. hoja
-20. hielo
-21. hasta pronto
-22. respuestas
-23. presentarnos
-24. liderazgo
-25. A veces
+11. empecemos
+12. bolígrafo
+13. pizarra
+14. Lo siento
+15. papelera
+16. cuaderno
+17. ordenador
+18. aficiones
+19. silla
+20. hoja
+21. hielo
+22. hasta pronto
+23. respuestas
+24. presentarnos
+25. liderazgo
+26. A veces
