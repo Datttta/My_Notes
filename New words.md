@@ -19,28 +19,29 @@
 13. Chulo
 14. Tío
 15. Cantante
-16. según
-17. razas
-18. despreciable
-19. callejero
-20. guisar
-21. aderezar
-22. crees  
-23. empleados
-24. lo
-25. empecemos
-26. bolígrafo
-27. pizarra
-28. Lo siento
-29. papelera
-30. cuaderno
-31. ordenador
-32. aficiones
-33. silla
-34. hoja
-35. hielo
-36. hasta pronto
-37. respuestas
-38. presentarnos
-39. liderazgo
-40. A veces
+16. taza
+17. según
+18. razas
+19. despreciable
+20. callejero
+21. guisar
+22. aderezar
+23. crees  
+24. empleados
+25. lo
+26. empecemos
+27. bolígrafo
+28. pizarra
+29. Lo siento
+30. papelera
+31. cuaderno
+32. ordenador
+33. aficiones
+34. silla
+35. hoja
+36. hielo
+37. hasta pronto
+38. respuestas
+39. presentarnos
+40. liderazgo
+41. A veces
