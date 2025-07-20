@@ -5,7 +5,7 @@
 3. lounging at the beach
 4. wining, dining, relaxing
 5. globetrotter
-6. plan on
+6. plan on (She plans on studying medicine)
 7. go away
 
 === *Nuevas Palabras* ===
