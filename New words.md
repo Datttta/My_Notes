@@ -37,7 +37,8 @@
 31. Lo siento
 32. papelera
 33. cuaderno
-34. ordenador
+34. expressarte
+35. ordenador
 36. silla
 37. hoja
 38. camarero
