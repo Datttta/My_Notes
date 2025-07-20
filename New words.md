@@ -2,6 +2,7 @@
 
 1. clunky (clunky solution)
 2. toutelage
+3. familiarized
 
 === *Nuevas Palabras* ===
 
