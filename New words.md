@@ -7,28 +7,29 @@
 1. perro
 2. zorro
 3. gemela
-4. según
-5. razas
-6. despreciable
-7. callejero
-8. guisar
-9. aderezar
-10. crees  
-11. empleados
-12. lo
-13. empecemos
-14. bolígrafo
-15. pizarra
-16. Lo siento
-17. papelera
-18. cuaderno
-19. ordenador
-20. aficiones
-21. silla
-22. hoja
-23. hielo
-24. hasta pronto
-25. respuestas
-26. presentarnos
-27. liderazgo
-28. A veces
+4. jefe
+5. según
+6. razas
+7. despreciable
+8. callejero
+9. guisar
+10. aderezar
+11. crees  
+12. empleados
+13. lo
+14. empecemos
+15. bolígrafo
+16. pizarra
+17. Lo siento
+18. papelera
+19. cuaderno
+20. ordenador
+21. aficiones
+22. silla
+23. hoja
+24. hielo
+25. hasta pronto
+26. respuestas
+27. presentarnos
+28. liderazgo
+29. A veces
