@@ -3,6 +3,7 @@
 1. tithe
 2. sightseeing
 3. lounging at the beach
+4. wining, dining, relaxing 
 
 === *Nuevas Palabras* ===
 
