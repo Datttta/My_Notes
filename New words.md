@@ -12,28 +12,31 @@
 6. Llave
 7. Calle
 8. Vale
-9. según
-10. razas
-11. despreciable
-12. callejero
-13. guisar
-14. aderezar
-15. crees  
-16. empleados
-17. lo
-18. empecemos
-19. bolígrafo
-20. pizarra
-21. Lo siento
-22. papelera
-23. cuaderno
-24. ordenador
-25. aficiones
-26. silla
-27. hoja
-28. hielo
-29. hasta pronto
-30. respuestas
-31. presentarnos
-32. liderazgo
-33. A veces
+9. Gafas
+10. Patata
+11. Conducir
+12. según
+13. razas
+14. despreciable
+15. callejero
+16. guisar
+17. aderezar
+18. crees  
+19. empleados
+20. lo
+21. empecemos
+22. bolígrafo
+23. pizarra
+24. Lo siento
+25. papelera
+26. cuaderno
+27. ordenador
+28. aficiones
+29. silla
+30. hoja
+31. hielo
+32. hasta pronto
+33. respuestas
+34. presentarnos
+35. liderazgo
+36. A veces
