@@ -5,6 +5,7 @@
 3. lounging at the beach
 4. wining, dining, relaxing
 5. globetrotter
+6. plan on
 
 === *Nuevas Palabras* ===
 
