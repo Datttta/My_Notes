@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. tithe
+2. sightseeing
 
 === *Nuevas Palabras* ===
 
