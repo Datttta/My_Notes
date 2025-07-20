@@ -1,9 +1,6 @@
 === *New words* ===
 
-1. clunky (clunky solution)
-2. toutelage
-3. familiarized
-4. sketchy
+1.
 
 === *Nuevas Palabras* ===
 
