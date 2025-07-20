@@ -47,5 +47,7 @@
 41. respuestas
 42. presentarnos
 43. deporte (hacer deporte)
-44. liderazgo
-45. A veces
+44. salir
+45. cenar (salir a cenar)
+46. liderazgo
+47. A veces
