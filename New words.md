@@ -46,5 +46,6 @@
 40. hasta pronto
 41. respuestas
 42. presentarnos
-43. liderazgo
-44. A veces
+43. deporte (hacer deporte)
+44. liderazgo
+45. A veces
