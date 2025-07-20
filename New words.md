@@ -3,6 +3,7 @@
 1. clunky (clunky solution)
 2. toutelage
 3. familiarized
+4. sketchy
 
 === *Nuevas Palabras* ===
 
