@@ -1,6 +1,6 @@
 === *New words* ===
 
-1.
+1. tithe
 
 === *Nuevas Palabras* ===
 
