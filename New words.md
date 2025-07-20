@@ -2,6 +2,7 @@
 
 1. tithe
 2. sightseeing
+3. lounging at the beach
 
 === *Nuevas Palabras* ===
 
