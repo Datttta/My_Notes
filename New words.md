@@ -52,6 +52,3 @@
 46. cenar (salir a cenar)
 47. liderazgo
 48. hablar
-49. Novio
-50. Chatear
-51. A veces
