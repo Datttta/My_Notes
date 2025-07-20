@@ -38,14 +38,12 @@
 32. papelera
 33. cuaderno
 34. ordenador
-35. aficiones
 36. silla
 37. hoja
-38. ayudarte
-39. camarero
-40. hielo
-41. hasta pronto
-42. respuestas
-43. presentarnos
-44. liderazgo
-45. A veces
+38. camarero
+39. hielo
+40. hasta pronto
+41. respuestas
+42. presentarnos
+43. liderazgo
+44. A veces
