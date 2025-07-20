@@ -7,41 +7,43 @@
 1. perro
 2. zorro
 3. gemela
-4. jefe
-5. sombrero
-6. Llave
-7. Calle
-8. Vale
-9. Gafas
-10. Patata
-11. Conducir
-12. Zumo
-13. Chulo
-14. Tío
-15. Cantante
-16. taza
-17. según
-18. razas
-19. despreciable
-20. callejero
-21. guisar
-22. aderezar
-23. crees  
-24. empleados
-25. lo
-26. empecemos
-27. bolígrafo
-28. pizarra
-29. Lo siento
-30. papelera
-31. cuaderno
-32. ordenador
-33. aficiones
-34. silla
-35. hoja
-36. hielo
-37. hasta pronto
-38. respuestas
-39. presentarnos
-40. liderazgo
-41. A veces
+4. guión
+5. guión bajo
+6. jefe
+7. sombrero
+8. Llave
+9. Calle
+10. Vale
+11. Gafas
+12. Patata
+13. Conducir
+14. Zumo
+15. Chulo
+16. Tío
+17. Cantante
+18. taza
+19. según
+20. razas
+21. despreciable
+22. callejero
+23. guisar
+24. aderezar
+25. crees  
+26. empleados
+27. lo
+28. empecemos
+29. bolígrafo
+30. pizarra
+31. Lo siento
+32. papelera
+33. cuaderno
+34. ordenador
+35. aficiones
+36. silla
+37. hoja
+38. hielo
+39. hasta pronto
+40. respuestas
+41. presentarnos
+42. liderazgo
+43. A veces
