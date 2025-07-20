@@ -17,28 +17,29 @@
 11. Conducir
 12. Zumo
 13. Chulo
-14. según
-15. razas
-16. despreciable
-17. callejero
-18. guisar
-19. aderezar
-20. crees  
-21. empleados
-22. lo
-23. empecemos
-24. bolígrafo
-25. pizarra
-26. Lo siento
-27. papelera
-28. cuaderno
-29. ordenador
-30. aficiones
-31. silla
-32. hoja
-33. hielo
-34. hasta pronto
-35. respuestas
-36. presentarnos
-37. liderazgo
-38. A veces
+14. Tío
+15. según
+16. razas
+17. despreciable
+18. callejero
+19. guisar
+20. aderezar
+21. crees  
+22. empleados
+23. lo
+24. empecemos
+25. bolígrafo
+26. pizarra
+27. Lo siento
+28. papelera
+29. cuaderno
+30. ordenador
+31. aficiones
+32. silla
+33. hoja
+34. hielo
+35. hasta pronto
+36. respuestas
+37. presentarnos
+38. liderazgo
+39. A veces
