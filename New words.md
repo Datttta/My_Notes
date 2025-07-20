@@ -41,9 +41,10 @@
 35. aficiones
 36. silla
 37. hoja
-38. hielo
-39. hasta pronto
-40. respuestas
-41. presentarnos
-42. liderazgo
-43. A veces
+38. camarero
+39. hielo
+40. hasta pronto
+41. respuestas
+42. presentarnos
+43. liderazgo
+44. A veces
