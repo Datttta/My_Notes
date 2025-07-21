@@ -7,6 +7,7 @@
 5. globetrotter
 6. plan on (She plans on studying medicine)
 7. go away (Do you plan to go away this weekend?)
+8. vetted schools 
 
 === *Nuevas Palabras* ===
 
