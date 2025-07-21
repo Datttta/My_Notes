@@ -9,6 +9,7 @@
 7. go away (Do you plan to go away this weekend?)
 8. vetted schools
 9. blemish
+10. wavy
 
 === *Nuevas Palabras* ===
 
