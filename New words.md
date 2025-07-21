@@ -10,6 +10,7 @@
 8. vetted schools
 9. blemish
 10. wavy
+11. comfy
 
 === *Nuevas Palabras* ===
 
