@@ -1,17 +1,6 @@
 === *New words* ===
 
-1. tithe
-2. sightseeing
-3. lounging at the beach
-4. , dining, relaxing
-5. 
-6.  ()
-7.  ()
-8. 
-9. 
-10. 
-11. 
-12. 
+1. 
 
 === *Nuevas Palabras* ===
 
