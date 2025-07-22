@@ -3,15 +3,15 @@
 1. tithe
 2. sightseeing
 3. lounging at the beach
-4. wining, dining, relaxing
-5. globetrotter
-6. plan on (She plans on studying medicine)
-7. go away (Do you plan to go away this weekend?)
-8. uppercut
-9. vetted schools
-10. blemish
-11. wavy
-12. comfy
+4. , dining, relaxing
+5. 
+6.  ()
+7.  ()
+8. 
+9. 
+10. 
+11. 
+12. 
 
 === *Nuevas Palabras* ===
 
