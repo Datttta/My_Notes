@@ -46,9 +46,3 @@
 40. hielo
 41. hasta pronto
 42. respuestas
-43. presentarnos
-44. deporte (hacer deporte)
-45. salir
-46. cenar (salir a cenar)
-47. liderazgo
-48. hablar
