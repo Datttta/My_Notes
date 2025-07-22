@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. accountability
+1. 
 
 === *Nuevas Palabras* ===
 
@@ -43,6 +43,3 @@
 37. silla
 38. hoja
 39. camarero
-40. hielo
-41. hasta pronto
-42. molestar
