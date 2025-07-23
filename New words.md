@@ -1,6 +1,7 @@
 === *New words* ===
 
-1.trustworthy
+1. trustworthy
+2. tear up (cry)
 
 === *Nuevas Palabras* ===
 
