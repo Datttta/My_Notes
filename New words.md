@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. 'm heavy, my jumpsuit is on steady
-2. wear off
-3. mayhem
+1. 
 
 === *Nuevas Palabras* ===
 
