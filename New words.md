@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. 
+1. 'm heavy, my jumpsuit is on steady
 
 === *Nuevas Palabras* ===
 
