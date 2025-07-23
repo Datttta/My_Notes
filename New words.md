@@ -2,6 +2,7 @@
 
 1. trustworthy
 2. tear up (cry)
+3. chauffeur
 
 === *Nuevas Palabras* ===
 
