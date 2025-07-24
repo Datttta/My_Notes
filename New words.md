@@ -57,3 +57,4 @@
 48. carné
 49. dinero
 50. tarjeta de credito
+51. cepillo de dientes
