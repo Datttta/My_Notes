@@ -67,3 +67,4 @@
 58. proyecto
 59. reemplaza
 60. esto
+61. prenda de ropa
