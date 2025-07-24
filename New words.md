@@ -50,3 +50,4 @@
 41. beis
 42. chaqueta
 43. pantalones
+44. toalla
