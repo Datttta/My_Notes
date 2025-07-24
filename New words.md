@@ -1,9 +1,6 @@
 === *New words* ===
 
-1. trustworthy
-2. tear up (cry)
-3. chauffeur
-4. fricative
+1. 
 
 === *Nuevas Palabras* ===
 
