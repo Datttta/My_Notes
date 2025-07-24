@@ -68,3 +68,4 @@
 59. reemplaza
 60. esto
 61. prenda de ropa
+62. escríbelos
