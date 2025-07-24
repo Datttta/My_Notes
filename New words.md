@@ -5,6 +5,7 @@
 3. alarmist
 4. you name it
 5. sparkling water
+6. out like a log
 
 === *Nuevas Palabras* ===
 
