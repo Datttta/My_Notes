@@ -46,3 +46,5 @@
 37. silla
 38. hoja
 39. azules
+40. gris
+41. beis
