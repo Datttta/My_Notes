@@ -54,3 +54,6 @@
 45. ropa interior
 46. sandalias
 47. aspirinas
+48. carné
+49. dinero
+50. tarjeta de credito
