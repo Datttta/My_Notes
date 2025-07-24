@@ -48,3 +48,4 @@
 39. azules
 40. gris
 41. beis
+42. chaqueta
