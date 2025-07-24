@@ -4,7 +4,6 @@
 2. tear up (cry)
 3. chauffeur
 4. fricative
-5. handbag
 
 === *Nuevas Palabras* ===
 
