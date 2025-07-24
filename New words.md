@@ -53,3 +53,4 @@
 44. toalla
 45. ropa interior
 46. sandalias
+47. aspirinas
