@@ -63,3 +63,5 @@
 54. secador de pelo
 55. articulo delante
 56. sales
+57. mismo
+58. proyecto
