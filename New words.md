@@ -52,3 +52,4 @@
 43. pantalones
 44. toalla
 45. ropa interior
+46. sandalias
