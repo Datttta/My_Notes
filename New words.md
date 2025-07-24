@@ -49,3 +49,4 @@
 40. gris
 41. beis
 42. chaqueta
+43. pantalones
