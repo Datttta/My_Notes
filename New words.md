@@ -8,6 +8,7 @@
 6. out like a log
 7. descent
 8. getting acquainted
+9. discerned
 
 === *Nuevas Palabras* ===
 
