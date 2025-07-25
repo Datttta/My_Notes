@@ -52,17 +52,3 @@
 46. sandalias
 47. aspirinas
 48. carné
-49. dinero
-50. tarjeta de credito
-51. cepillo de dientes
-52. cepillo
-53. crema solar
-54. secador de pelo
-55. articulo delante
-56. sales
-57. mismo
-58. proyecto
-59. reemplaza
-60. esto
-61. prenda de ropa
-62. escríbelos
