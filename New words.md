@@ -9,6 +9,7 @@
 7. descent
 8. getting acquainted
 9. discerned
+10. sideline
 
 === *Nuevas Palabras* ===
 
