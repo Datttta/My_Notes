@@ -1,15 +1,6 @@
 === *New words* ===
 
-1. bloodwork
-2. had you going
-3. alarmist
-4. you name it
-5. sparkling water
-6. out like a log
-7. descent
-8. getting acquainted
-9. discerned
-10. sideline
+1. 
 
 === *Nuevas Palabras* ===
 
