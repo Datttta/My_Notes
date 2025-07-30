@@ -6,6 +6,7 @@
 4. nicked it
 5. tad (just a tad)
 6. scratched fender
+7. bumber (car)
 
 === *Nuevas Palabras* ===
 
