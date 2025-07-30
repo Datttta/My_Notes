@@ -5,6 +5,7 @@
 3. sleep through
 4. nicked it
 5. tad (just a tad)
+6. scratched fender
 
 === *Nuevas Palabras* ===
 
