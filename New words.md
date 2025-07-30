@@ -81,3 +81,4 @@
 75. Subraya
 76. Vuelve
 77. gustan
+78. aunque
