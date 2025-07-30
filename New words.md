@@ -70,3 +70,4 @@
 64. vuestros
 65. bajita
 66. guapo
+67. delgado
