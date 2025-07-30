@@ -2,8 +2,9 @@
 - [ ] fix youtube stuttering
 
 = Today =
-- [ ] Have lunch (time this)
-- [ ] brush
+- [X] Have lunch (time this)
+- [X] brush
+- [ ] To do Loundry
 - [ ] Languages
 
 = Tasks = 
