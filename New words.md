@@ -56,34 +56,3 @@
 50. carné de indentidade
 51. vas
 52. gafas (ropa)
-53. beis
-54. vaqueros
-55. camarero
-56. falda
-57. gris
-58. tacones
-59. zapatillas
-60. desea
-61. regalos
-62. extranjero
-63. ese
-64. vuestros
-65. bajita
-66. guapo
-67. delgado
-68. rubio
-69. pelirrojo
-70. aburrido
-71. abierto
-72. cerrado
-73. majo
-74. ha
-75. Subraya
-76. Vuelve
-77. gustan
-78. aunque
-79. os
-80. grábate
-81. en directo
-82. fatal
-83. quedarse
