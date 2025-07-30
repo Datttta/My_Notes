@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. coerced ( as long as you are not coerced)
+1.  
 
 === *Nuevas Palabras* ===
 
