@@ -82,3 +82,4 @@
 76. Vuelve
 77. gustan
 78. aunque
+79. os
