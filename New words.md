@@ -85,3 +85,4 @@
 79. os
 80. grábate
 81. en directo
+82. fatal
