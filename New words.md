@@ -73,3 +73,5 @@
 67. delgado
 68. rubio
 69. pelirrojo
+70. aburrido
+71. abierto
