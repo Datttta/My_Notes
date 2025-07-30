@@ -51,4 +51,5 @@
 45. ropa interior
 46. sandalias
 47. aspirinas
-48. carné
+48. carnéA
+49. modernos
