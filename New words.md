@@ -62,3 +62,4 @@
 50. carné de indentidade
 51. vas
 52. gafas (ropa)
+53. atraco
