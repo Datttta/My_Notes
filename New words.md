@@ -60,3 +60,4 @@
 54. vaqueros
 55. camarero
 56. falda
+57. gris
