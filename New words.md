@@ -58,3 +58,4 @@
 52. gafas (ropa)
 53. beis
 54. vaqueros
+55. camarero
