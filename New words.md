@@ -2,6 +2,7 @@
 
 1. Lay off (lay off the sweets)
 2. ball drop (did you see the ball drop?)
+3. sleep through
 
 === *Nuevas Palabras* ===
 
