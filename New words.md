@@ -3,6 +3,8 @@
 1. Lay off (lay off the sweets)
 2. ball drop (did you see the ball drop?)
 3. sleep through
+4. nicked it
+5. tad (just a tad)
 
 === *Nuevas Palabras* ===
 
