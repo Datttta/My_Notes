@@ -55,3 +55,4 @@
 49. modernos
 50. carné de indentidade
 51. vas
+52. gafas (ropa)
