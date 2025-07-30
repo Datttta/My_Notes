@@ -66,3 +66,4 @@
 60. desea
 61. regalos
 62. extranjero
+63. ese
