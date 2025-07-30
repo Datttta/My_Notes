@@ -53,3 +53,4 @@
 47. aspirinas
 48. carnéA
 49. modernos
+50. carné de indentidade
