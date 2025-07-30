@@ -4,7 +4,7 @@
 = Today =
 - [X] Have lunch (time this)
 - [X] brush
-- [ ] To do Loundry
+- [X] To do Loundry
 - [ ] Languages
 
 = Tasks = 
