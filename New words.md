@@ -79,3 +79,4 @@
 73. majo
 74. ha
 75. Subraya
+76. Vuelve
