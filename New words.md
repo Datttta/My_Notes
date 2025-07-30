@@ -75,3 +75,5 @@
 69. pelirrojo
 70. aburrido
 71. abierto
+72. cerrado
+73. majo
