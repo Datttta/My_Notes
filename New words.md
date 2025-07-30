@@ -1,6 +1,6 @@
 === *New words* ===
 
-1.  
+1. Lay off (lay off the sweets)
 
 === *Nuevas Palabras* ===
 
