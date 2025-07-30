@@ -71,3 +71,4 @@
 65. bajita
 66. guapo
 67. delgado
+68. rubio
