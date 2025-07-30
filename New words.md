@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. Lay off (lay off the sweets)
+2. ball drop
 
 === *Nuevas Palabras* ===
 
