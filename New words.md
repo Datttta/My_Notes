@@ -71,3 +71,4 @@
 59. media hora
 60. jueves
 61. lunes
+62. Viernes
