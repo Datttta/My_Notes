@@ -7,6 +7,7 @@
 5. tad (just a tad)
 6. scratched fender
 7. bumber (car)
+8. wrench (all have to find a wrench for that)
 
 === *Nuevas Palabras* ===
 
