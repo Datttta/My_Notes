@@ -87,3 +87,4 @@
 75. vago (es más vago)
 76. cotilla
 77. chusma
+78. decimos
