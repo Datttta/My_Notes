@@ -76,4 +76,5 @@
 64. Haz
 65. vestirte
 66. peluquería
-67. afeitas 
+67. afeitas
+68. planchas (planchas la ropa)
