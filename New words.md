@@ -88,3 +88,5 @@
 76. cotilla
 77. chusma
 78. decimos
+79. empieza
+80. acuesta
