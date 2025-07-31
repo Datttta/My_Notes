@@ -12,8 +12,8 @@
 - Sddm buggy screen (splintered strips):
     - nvims /etc/sddm.conf
     - add this to the file:
-    [General]
-    DisplayServer=wayland
+        [General]
+        DisplayServer=wayland
 
-    [Wayland]
-    CompositorCommand="Hyprland" 
+        [Wayland]
+        CompositorCommand="Hyprland" 
