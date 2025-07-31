@@ -1,14 +1,6 @@
 === *New words* ===
 
-1. Lay off (lay off the sweets)
-2. ball drop (did you see the ball drop?)
-3. sleep through
-4. nicked it
-5. tad (just a tad)
-6. scratched fender
-7. bumber (car)
-8. wrench (all have to find a wrench for that)
-9. curb (put it by the curb)
+1.
 
 === *Nuevas Palabras* ===
 
