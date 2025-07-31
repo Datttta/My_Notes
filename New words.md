@@ -73,28 +73,4 @@
 61. lunes
 62. Viernes
 63. mediodía
-64. Haz
-65. vestirte
-66. peluquería
-67. afeitas
-68. planchas (planchas la ropa)
-69. pones
-70. espejo
-71. presumida
-72. A menudo
-73. periódico
-74. deberes
-75. vago (es más vago)
-76. cotilla
-77. chusma
-78. decimos
-79. empieza
-80. acuesta
-81. Os
-82. peinarse
-83. ducharse
-84. saludarse
-85. perezoso
-86. raro
-87. Casi
-88. desayunar
+
