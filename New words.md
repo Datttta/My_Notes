@@ -97,3 +97,4 @@
 85. perezoso
 86. raro
 87. Casi
+88. desayunar
