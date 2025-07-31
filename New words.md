@@ -69,3 +69,4 @@
 57. párrafo
 58. miércoles
 59. media hora
+60. jueves
