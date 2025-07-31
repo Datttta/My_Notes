@@ -91,3 +91,5 @@
 79. empieza
 80. acuesta
 81. Os
+82. peinarse
+83. ducharse
