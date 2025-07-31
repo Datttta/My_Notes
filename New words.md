@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. vain (she is very vain)
+2. riffraff
 
 === *Nuevas Palabras* ===
 
