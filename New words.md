@@ -85,3 +85,5 @@
 73. periódico
 74. deberes
 75. vago (es más vago)
+76. cotilla
+77. chusma
