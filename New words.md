@@ -80,3 +80,4 @@
 68. planchas (planchas la ropa)
 69. pones
 70. espejo
+71. presumida
