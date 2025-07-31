@@ -83,3 +83,4 @@
 71. presumida
 72. A menudo
 73. periódico
+74. deberes
