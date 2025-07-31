@@ -82,3 +82,4 @@
 70. espejo
 71. presumida
 72. A menudo
+73. periódico
