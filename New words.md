@@ -8,6 +8,7 @@
 6. scratched fender
 7. bumber (car)
 8. wrench (all have to find a wrench for that)
+9. curb (put it by the curb)
 
 === *Nuevas Palabras* ===
 
