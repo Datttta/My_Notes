@@ -95,3 +95,4 @@
 83. ducharse
 84. saludarse
 85. perezoso
+86. raro
