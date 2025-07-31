@@ -8,3 +8,12 @@
     - cd ~/.cache/yay/<name-of-package>
     - sha256sum <name-of-installer>
     - yay -S <name-of-package> --mflags "--skipchecksums"
+
+- Sddm buggy screen (splintered strips):
+    - nvims /etc/sddm.conf
+    - add this to the file:
+    [General]
+    DisplayServer=wayland
+
+    [Wayland]
+    CompositorCommand="Hyprland" 
