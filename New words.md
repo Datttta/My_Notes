@@ -76,4 +76,4 @@
 64. Haz
 65. vestirte
 66. peluquería
-67. afeitas (te afeitas)
+67. afeitas 
