@@ -64,3 +64,4 @@
 52. gafas (ropa)
 53. atraco
 54. cursiva
+55. vacaciones
