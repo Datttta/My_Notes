@@ -84,3 +84,4 @@
 72. A menudo
 73. periódico
 74. deberes
+75. vago
