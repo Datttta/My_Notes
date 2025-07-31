@@ -63,3 +63,4 @@
 51. vas
 52. gafas (ropa)
 53. atraco
+54. cursiva
