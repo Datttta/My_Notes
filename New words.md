@@ -74,3 +74,4 @@
 62. Viernes
 63. mediodía
 64. Haz
+65. vestirte
