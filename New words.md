@@ -75,3 +75,4 @@
 63. mediodía
 64. Haz
 65. vestirte
+66. peluquería
