@@ -78,3 +78,4 @@
 66. peluquería
 67. afeitas
 68. planchas (planchas la ropa)
+69. pones
