@@ -93,3 +93,4 @@
 81. Os
 82. peinarse
 83. ducharse
+84. saludarse
