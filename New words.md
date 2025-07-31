@@ -94,3 +94,4 @@
 82. peinarse
 83. ducharse
 84. saludarse
+85. perezoso
