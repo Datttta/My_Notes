@@ -4,6 +4,7 @@
 2. cold cuts
 3. vanilla
 4. peas (already have)
+5. Shredded (Shredded meat)
 
 === *Nuevas Palabras* ===
 
