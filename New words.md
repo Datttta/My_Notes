@@ -76,4 +76,9 @@
 70. venir
 71. poner
 72. sana
-73. casera 
+73. casera
+74. mantequilla
+75. maní
+76. jamón
+77. ensalada
+78. papas fritas
