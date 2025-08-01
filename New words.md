@@ -72,3 +72,6 @@
 66. cabalgata
 67. veo
 68. carbón
+69. entonces
+70. venir
+71. poner
