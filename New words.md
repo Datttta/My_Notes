@@ -3,6 +3,7 @@
 1. charcoal
 2. cold cuts
 3. vanilla
+4. peas (already have)
 
 === *Nuevas Palabras* ===
 
