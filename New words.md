@@ -1,9 +1,6 @@
 === *New words* ===
 
-1. vain (she is very vain)
-2. riffraff
-3. comb (I'm going to comb my hair before going out.)
-4. put on (She put on a wonderful meal for us.)
+1. 
 
 === *Nuevas Palabras* ===
 
