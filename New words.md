@@ -83,4 +83,4 @@
 77. ensalada
 78. papas fritas
 79. empanadas
-80. palomitas de maiz
+80. palomitas de maíz
