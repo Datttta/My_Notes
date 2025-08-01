@@ -76,3 +76,4 @@
 70. venir
 71. poner
 72. sana
+73. casera 
