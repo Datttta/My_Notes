@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. charcoal
+2. cold cuts
 
 === *Nuevas Palabras* ===
 
