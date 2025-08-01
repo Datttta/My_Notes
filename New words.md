@@ -88,3 +88,4 @@
 81. arepita
 82. pollo
 83. huevo
+84. muslos
