@@ -75,3 +75,4 @@
 69. entonces
 70. venir
 71. poner
+72. sana
