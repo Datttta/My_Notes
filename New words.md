@@ -87,22 +87,3 @@
 81. arepita
 82. pollo
 83. huevo
-84. guisantes
-85. embutidos
-86. arepas
-87. papa (comida)
-88. bocadillo
-89. Ponle
-90. desmenuzada
-91. aguacate
-92. mostaza
-93. mesera
-94. almuerzo
-95. costilla
-96. cerdo
-97. postre
-98. lengua
-99. vinagreta
-100. canelones
-101. helado
-102. bistec
