@@ -85,3 +85,9 @@
 79. empanadas
 80. palomitas de maíz
 81. arepita
+82. pollo
+83. huevo
+84. guisantes
+85. embutidos
+86. arepas
+87. papa (comida)
