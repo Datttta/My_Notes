@@ -69,3 +69,4 @@
 63. mediodía
 64. reyes
 65. enero
+66. cabalgata
