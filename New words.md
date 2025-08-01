@@ -2,6 +2,7 @@
 
 1. charcoal
 2. cold cuts
+3. vanilla
 
 === *Nuevas Palabras* ===
 
