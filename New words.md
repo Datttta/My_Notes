@@ -98,3 +98,5 @@
 92. mostaza
 93. mesera
 94. almuerzo
+95. costilla
+96. cerdo
