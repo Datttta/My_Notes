@@ -108,4 +108,6 @@
 102. crudo
 103. horno
 104. Ají
-105. cebolla
+105. totopos
+106. frijoles
+107. especias
