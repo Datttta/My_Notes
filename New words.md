@@ -99,3 +99,5 @@
 93. doy
 94. sal
 95. palta
+96. debo
+97. té (bebida)
