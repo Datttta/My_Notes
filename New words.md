@@ -103,3 +103,7 @@
 97. té (bebida)
 98. sin
 99. caliente
+100. pescado
+101. guisado
+102. crudo
+103. horno
