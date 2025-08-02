@@ -96,3 +96,5 @@
 90. fideos
 91. ordenar
 92. trae
+93. doy
+94. sal
