@@ -91,3 +91,8 @@
 85. Ajo
 86. traigo
 87. botella
+88. agua
+89. lenteja
+90. fideos
+91. ordenar
+92. trae
