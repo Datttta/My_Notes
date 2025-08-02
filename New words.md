@@ -102,3 +102,4 @@
 96. debo
 97. té (bebida)
 98. sin
+99. caliente
