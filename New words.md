@@ -88,3 +88,5 @@
 82. pollo
 83. huevo
 84. muslos
+85. Ajo
+86. traigo
