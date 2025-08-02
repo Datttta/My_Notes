@@ -98,3 +98,4 @@
 92. trae
 93. doy
 94. sal
+95. palta
