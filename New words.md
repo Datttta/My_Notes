@@ -5,6 +5,7 @@
 3. vanilla
 4. peas (already have)
 5. Shredded (Shredded meat)
+6. forsaken (why have you forsaken me)
 
 === *Nuevas Palabras* ===
 
