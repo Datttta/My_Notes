@@ -107,3 +107,5 @@
 101. guisado
 102. crudo
 103. horno
+104. Ají
+105. cebolla
