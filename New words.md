@@ -92,22 +92,4 @@
 86. traigo
 87. botella
 88. agua
-89. lenteja
-90. fideos
-91. ordenar
-92. trae
-93. doy
-94. sal
-95. palta
-96. debo
-97. té (bebida)
-98. sin
-99. caliente
-100. pescado
-101. guisado
-102. crudo
-103. horno
-104. Ají
-105. totopos
-106. frijoles
-107. especias
+
