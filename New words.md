@@ -1,11 +1,6 @@
 === *New words* ===
 
-1. charcoal
-2. cold cuts
-3. vanilla
-4. peas (already have)
-5. Shredded (Shredded meat)
-6. forsaken (why have you forsaken me)
+1. 
 
 === *Nuevas Palabras* ===
 
