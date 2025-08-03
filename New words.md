@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. ham
+1. 
 
 === *Nuevas Palabras* ===
 
