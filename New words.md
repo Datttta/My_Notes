@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. morrows
+2. post office
 
 === *Nuevas Palabras* ===
 
@@ -96,4 +97,7 @@
 90. lechuga
 91. bien comunicado
 92. envidia
-
+93. peatonal
+94. contenedores de basura
+95. cajero-
+96. 
