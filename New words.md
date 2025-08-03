@@ -92,4 +92,8 @@
 86. traigo
 87. botella
 88. agua
+89. manteca
+90. lechuga
+91. bien comunicado
+92. envidia
 
