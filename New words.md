@@ -1,7 +1,6 @@
 === *New words* ===
 
-1. morrows
-2. post office
+1. 
 
 === *Nuevas Palabras* ===
 
