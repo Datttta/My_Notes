@@ -104,4 +104,7 @@
 98. venida
 99. piso (comapañeros de piso)
 100. bloque
-
+101. concurrido
+102. despistado
+103. tus
+104. jefa
