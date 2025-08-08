@@ -118,3 +118,13 @@
 111. puesto
 112. compuesto
 113. mono
+114. conozco
+115. me lo passo bien
+116. él-
+117. quienes
+118. sin embargo
+119. Así que-
+120. por-
+121. A (to)
+122. noveno
+123. palillos
