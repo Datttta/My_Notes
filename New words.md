@@ -108,3 +108,27 @@
 102. despistado
 103. tus
 104. jefa
+105. viveiro
+106. genaro
+107. verguenza
+108. basándote
+109. roto
+110. vuelto
+111. puesto
+112. compuesto
+113. dicho
+114. traído-
+115. carné
+116. dibujar
+117. ajedrez
+118. coser
+119. añadir
+120. limpia
+121. poner la lavadora
+122. vas
+123. buen
+124. paracaidismo
+125. oyentes
+126. reprobado
+127. curriculums
+128. permiso
