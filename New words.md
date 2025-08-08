@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. privet
+2. if you will
 
 === *Nuevas Palabras* ===
 
@@ -116,3 +117,4 @@
 110. vuelto
 111. puesto
 112. compuesto
+113. mono
