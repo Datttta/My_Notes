@@ -91,26 +91,3 @@
 83. palomitas de maíz
 84. arepita
 85. pollo
-86. huevo
-87. muslos
-88. Ajo
-89. traigo
-90. botella
-91. agua
-92. manteca
-93. lechuga
-94. bien comunicado
-95. envidia
-96. peatonal
-97. fíjate
-98. dibujo
-99. mío
-100. nuevo
-101. venida
-102. piso (comapañeros de piso)
-103. bloque
-104. 
-105. 
-106. 
-107. 
-108. 
