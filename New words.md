@@ -110,3 +110,4 @@
 103. bloque
 104. concurrido
 105. despistado
+106. intentar
