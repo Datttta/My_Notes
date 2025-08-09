@@ -1,10 +1,6 @@
 === *New words* ===
 
-1. privet
-2. if you will
-3. overlord
-4. porch
-
+1.
 === *Nuevas Palabras* ===
 
 1. perro
