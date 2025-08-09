@@ -1,6 +1,8 @@
 === *New words* ===
 
 1. statemand
+2. objectvally
+
 === *Nuevas Palabras* ===
 
 1. perro
