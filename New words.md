@@ -1,6 +1,6 @@
 === *New words* ===
 
-1.
+1. statemand
 === *Nuevas Palabras* ===
 
 1. perro
