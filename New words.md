@@ -2,6 +2,7 @@
 
 1. statemand
 2. objectvally
+3. absent-minded
 
 === *Nuevas Palabras* ===
 
@@ -108,6 +109,8 @@
 101. venida
 102. piso (comapañeros de piso)
 103. bloque
-104. concurrido
-105. despistado
-106. intentar
+104. 
+105. 
+106. 
+107. 
+108. 
