@@ -10,119 +10,104 @@
 5. pues
 6. guión bajo
 7. jefe
-8. sombrero
-9. Llave
-10. Calle
-11. Vale
-12. Gafas
-13. Patata
-14. Conducir
-15. Zumo
-16. Chulo
-17. Tío
-18. Cantante
-19. taza
-20. según
-21. razas
-22. despreciable
-23. callejero
-24. guisar
-25. aderezar
-26. crees  
-27. empleados
-28. lo
-29. empecemos
-30. bolígrafo
-31. pizarra
-32. Lo siento
-33. papelera
-34. cuaderno
-35. expressarte
-36. ordenador
-37. silla
-38. hoja
-39. azules
-40. gris
-41. beis
-42. chaqueta
-43. pantalones
-44. toalla
-45. ropa interior
-46. sandalias
-47. aspirinas
-48. carnéA
-49. modernos
-50. carné de indentidade
-51. vas
-52. gafas (ropa)
-53. atraco
-54. cursiva
-55. vacaciones
-56. cuenta
-57. párrafo
-58. miércoles
-59. media hora
-60. jueves
-61. lunes
-62. Viernes
-63. mediodía
-64. reyes
-65. enero
-66. cabalgata
-67. veo
-68. carbón
-69. entonces
-70. venir
-71. poner
-72. sana
-73. casera
-74. mantequilla
-75. maní
-76. jamón
-77. ensalada
-78. papas fritas
-79. empanadas
-80. palomitas de maíz
-81. arepita
-82. pollo
-83. huevo
-84. muslos
-85. Ajo
-86. traigo
-87. botella
-88. agua
-89. manteca
-90. lechuga
-91. bien comunicado
-92. envidia
-93. peatonal
-94. fíjate
-95. dibujo
-96. mío
-97. nuevo
-98. venida
-99. piso (comapañeros de piso)
-100. bloque
-101. concurrido
-102. despistado
-103. tus
-104. jefa
-105. viveiro
-106. genaro
-107. verguenza
-108. basándote
-109. roto
-110. vuelto
-111. puesto
-112. compuesto
-113. mono
-114. conozco
-115. me lo passo bien
-116. él-
-117. quienes
-118. sin embargo
-119. Así que-
-120. por-
-121. A (to)
-122. noveno
-123. palillos
+8. techo
+9. sombrero
+10. Llave
+11. Calle
+12. Vale
+13. Gafas
+14. cayo
+15. Patata
+16. Conducir
+17. Zumo
+18. Chulo
+19. Tío
+20. Cantante
+21. taza
+22. según
+23. razas
+24. despreciable
+25. callejero
+26. guisar
+27. aderezar
+28. crees  
+29. empleados
+30. lo
+31. empecemos
+32. bolígrafo
+33. pizarra
+34. Lo siento
+35. papelera
+36. cuaderno
+37. olvidé
+38. expressarte
+39. ordenador
+40. silla
+41. hoja
+42. azules
+43. gris
+44. beis
+45. chaqueta
+46. pantalones
+47. toalla
+48. ropa interior
+49. sandalias
+50. aspirinas
+51. carnéA
+52. modernos
+53. carné de indentidade
+54. vas
+55. gafas (ropa)
+56. atraco
+57. cursiva
+58. vacaciones
+59. cuenta
+60. párrafo
+61. miércoles
+62. media hora
+63. jueves
+64. lunes
+65. Viernes
+66. mediodía
+67. reyes
+68. enero
+69. cabalgata
+70. veo
+71. carbón
+72. entonces
+73. venir
+74. poner
+75. sana
+76. casera
+77. mantequilla
+78. maní
+79. jamón
+80. ensalada
+81. papas fritas
+82. empanadas
+83. palomitas de maíz
+84. arepita
+85. pollo
+86. huevo
+87. muslos
+88. Ajo
+89. traigo
+90. botella
+91. agua
+92. manteca
+93. lechuga
+94. bien comunicado
+95. envidia
+96. peatonal
+97. fíjate
+98. dibujo
+99. mío
+100. nuevo
+101. venida
+102. piso (comapañeros de piso)
+103. bloque
+104. concurrido
+105. despistado
+106. tus
+107. jefa
+108. viveiro
