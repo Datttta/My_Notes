@@ -71,21 +71,3 @@
 65. Viernes
 66. mediodía
 67. reyes
-68. enero
-69. cabalgata
-70. veo
-71. carbón
-72. entonces
-73. venir
-74. poner
-75. sana
-76. casera
-77. mantequilla
-78. maní
-79. jamón
-80. ensalada
-81. papas fritas
-82. empanadas
-83. palomitas de maíz
-84. arepita
-85. pollo
