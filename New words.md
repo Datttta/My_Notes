@@ -3,7 +3,8 @@
 1. statemand
 2. objectvally
 3. fanfold
-4. absent-minded
+4. printouts
+5. absent-minded
 
 === *Nuevas Palabras* ===
 
