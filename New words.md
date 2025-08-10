@@ -5,6 +5,7 @@
 3. fanfold
 4. printouts
 5. absent-minded
+6. inextricably
 
 === *Nuevas Palabras* ===
 
