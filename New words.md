@@ -6,6 +6,7 @@
 4. printouts
 5. absent-minded
 6. inextricably
+7. impregnable
 
 === *Nuevas Palabras* ===
 
