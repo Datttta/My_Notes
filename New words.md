@@ -1,12 +1,6 @@
 === *New words* ===
 
-1. statemand
-2. objectvally
-3. fanfold
-4. printouts
-5. absent-minded
-6. inextricably
-7. impregnable
+1. 
 
 === *Nuevas Palabras* ===
 
