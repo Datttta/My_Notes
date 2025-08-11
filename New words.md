@@ -15,62 +15,64 @@
 7. jefe
 8. techo
 9. sombrero
-10. Llave
-11. Calle
-12. Vale
-13. Gafas
-14. cayo
-15. Patata
-16. Conducir
-17. Zumo
-18. Chulo
-19. Tío
-20. Cantante
-21. taza
-22. según
-23. razas
-24. despreciable
-25. callejero
-26. guisar
-27. aderezar
-28. crees  
-29. empleados
-30. lo
-31. empecemos
-32. bolígrafo
-33. pizarra
-34. Lo siento
-35. papelera
-36. cuaderno
-37. olvidé
-38. expressarte
-39. ordenador
-40. silla
-41. hoja
-42. azules
-43. gris
-44. beis
-45. chaqueta
-46. pantalones
-47. toalla
-48. ropa interior
-49. sandalias
-50. aspirinas
-51. carnéA
-52. modernos
-53. carné de indentidade
-54. vas
-55. gafas (ropa)
-56. atraco
-57. cursiva
-58. vacaciones
-59. cuenta
-60. párrafo
-61. miércoles
-62. media hora
-63. jueves
-64. lunes
-65. Viernes
-66. mediodía
-67. reyes
-68. iba
+10. viejo
+11. Llave
+12. Calle
+13. Vale
+14. Gafas
+15. cayo
+16. Patata
+17. Conducir
+18. Zumo
+19. Chulo
+20. Tío
+21. Cantante
+22. taza
+23. según
+24. razas
+25. despreciable
+26. callejero
+27. guisar
+28. aderezar
+29. crees  
+30. empleados
+31. lo
+32. empecemos
+33. bolígrafo
+34. pizarra
+35. Lo siento
+36. papelera
+37. cuadeEsta clase es la más pequeñarno
+38. olvidé
+39. expressarte
+40. ordenador
+41. silla
+42. hoja
+43. azules
+44. gris
+45. beis
+46. chaqueta
+47. pantalones
+48. toalla
+49. ropa interior
+50. sandalias
+51. aspirinas
+52. carnéA
+53. modernos
+54. carné de indentidade
+55. vas
+56. gafas (ropa)
+57. atraco
+58. cursiva
+59. vacaciones
+60. cuenta
+61. párrafo
+62. miércoles
+63. media hora
+64. jueves
+65. lunes
+66. Viernes
+67. mediodía
+68. reyes
+69. iba
+70. salgo
