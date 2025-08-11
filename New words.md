@@ -73,6 +73,3 @@
 65. lunes
 66. Viernes
 67. mediodía
-68. reyes
-69. iba
-70. salgo
