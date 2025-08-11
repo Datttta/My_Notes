@@ -72,4 +72,3 @@
 64. jueves
 65. lunes
 66. Viernes
-67. mediodía
