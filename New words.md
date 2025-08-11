@@ -1,6 +1,8 @@
 === *New words* ===
 
 1. wash up
+2. give off
+3. give in
 
 === *Nuevas Palabras* ===
 
