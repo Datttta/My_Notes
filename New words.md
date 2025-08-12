@@ -5,6 +5,7 @@
 3. give in
 4. long-overdue
 5. casters
+6. mauled
 
 === *Nuevas Palabras* ===
 
