@@ -2,6 +2,7 @@
 
 1. desensitize
 2. sound (your theory is sound)
+3. flattering
 
 === *Nuevas Palabras* ===
 
