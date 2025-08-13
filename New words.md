@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. desensitize
+2. sound (your theori is sound)
 
 === *Nuevas Palabras* ===
 
