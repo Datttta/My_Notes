@@ -1,12 +1,6 @@
 === *New words* ===
 
-1. wash up
-2. give off
-3. give in
-4. long-overdue
-5. casters
-6. mauled
-7. sinale
+1. 
 
 === *Nuevas Palabras* ===
 
