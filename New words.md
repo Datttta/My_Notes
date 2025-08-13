@@ -6,6 +6,7 @@
 4. long-overdue
 5. casters
 6. mauled
+7. sinale
 
 === *Nuevas Palabras* ===
 
