@@ -21,55 +21,35 @@
 13. Vale
 14. Gafas
 15. Oír
-16. cayo
-17. Patata
-18. Conducir
-19. Zumo
-20. Chulo
-21. Tío
-22. Cantante
-23. taza
-24. según
-25. razas
-26. despreciable
-27. callejero
-28. guisar
-29. aderezar
-30. crees  
-31. empleados
-32. lo
-33. empecemos
-34. bolígrafo
-35. pizarra
-36. Lo siento
-37. papelera
-38. cuadeEsta clase es la más pequeñarno
-39. olvidé
-40. expressarte
-41. ordenador
-42. silla
-43. hoja
-44. azules
-45. gris
-46. beis
-47. chaqueta
-48. pantalones
-49. toalla
-50. ropa interior
-51. sandalias
-52. aspirinas
-53. carnéA
-54. modernos
-55. carné de indentidade
-56. vas
-57. gafas (ropa)
-58. atraco
-59. cursiva
-60. vacaciones
-61. cuenta
-62. párrafo
-63. miércoles
-64. media hora
-65. jueves
-66. lunes
-67. Viernes
+16. sepamos
+17. vengamos
+18. hagamos
+19. oigamos
+20. seamos 
+21. cayo
+23. Patata
+24. Conducir
+25. Zumo
+26. Chulo
+27. Tío
+28. Cantante
+29. taza
+30. según
+31. razas
+32. despreciable
+33. callejero
+34. guisar
+35. aderezar
+36. crees  
+37. empleados
+38. lo
+39. empecemos
+40. bolígrafo
+41. pizarra
+42. Lo siento
+43. papelera
+44. cuadeEsta clase es la más pequeñarno
+45. olvidé
+46. expressarte
+47. ordenador
+48. silla
