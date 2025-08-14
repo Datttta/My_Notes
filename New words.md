@@ -54,5 +54,7 @@
 48. razas
 49. despreciable
 50. callejero
-51. guisar
-52. aderezar
+51. desea
+52. compartas
+53. guisar
+54. aderezar
