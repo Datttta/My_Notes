@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. desensitize
-2. sound (your theory is sound)
-3. flattering
+1. 
 
 === *Nuevas Palabras* ===
 
