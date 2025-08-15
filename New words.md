@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. Mused - And they just keep building htem smaller, he mused.
+2. Crack - Fenda
 
 === *Nuevas Palabras* ===
 
