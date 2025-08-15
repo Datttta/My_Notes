@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. 
+1. Mused - And they just keep building htem smaller, he mused.
 
 === *Nuevas Palabras* ===
 
