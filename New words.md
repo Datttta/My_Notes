@@ -56,9 +56,3 @@
 50. razas
 51. despreciable
 52. callejero
-53. compartas
-54. guisar
-55. hubieras
-56. Dudé
-57. cierto (true)
-58. 
