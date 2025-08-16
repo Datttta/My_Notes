@@ -4,6 +4,7 @@
 2. Crack - Fenda
 3. willed - He willed him
 4. cautionary
+5. mores (social mores)
 
 === *Nuevas Palabras* ===
 
