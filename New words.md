@@ -60,4 +60,5 @@
 54. guisar
 55. hubieras
 56. Dudé
-57. aderezar
+57. cierto (true)
+58. aderezar
