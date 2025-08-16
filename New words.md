@@ -5,6 +5,7 @@
 3. willed - He willed him
 4. cautionary
 5. mores (social mores)
+6. bore - bore him out of the fray              
 
 === *Nuevas Palabras* ===
 
