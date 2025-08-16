@@ -1,11 +1,6 @@
 === *New words* ===
 
-1. Mused - And they just keep building htem smaller, he mused.
-2. Crack - Fenda
-3. willed - He willed him
-4. cautionary
-5. mores (social mores)
-6. bore - bore him out of the fray              
+1.  
 
 === *Nuevas Palabras* ===
 
