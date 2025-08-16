@@ -16,4 +16,8 @@
         DisplayServer=wayland
 
         [Wayland]
-        CompositorCommand="Hyprland" 
+        CompositorCommand="Hyprland"
+
+- Firefox not showing bookmarks after arch maintainance:
+
+    - Maybe opening this folder will fix firefox bookmarks: ~/.mozilla/firefox/izj5orrr.default-release/bookmarkbackups   
