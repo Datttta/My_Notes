@@ -1,6 +1,6 @@
 === *New words* ===
 
-1.  
+1.  dress - food
 
 === *Nuevas Palabras* ===
 
@@ -61,4 +61,4 @@
 55. hubieras
 56. Dudé
 57. cierto (true)
-58. aderezar
+58. 
