@@ -5,4 +5,4 @@
 
     - Specific fild, show cards with a specific word: back:*google*
 
-    - Specific deck: deck:English
+    - Specific deck: deck:<deck-name>
