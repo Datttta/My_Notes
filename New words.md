@@ -43,17 +43,19 @@
 37. distrutado
 38. lo que
 39. oigamos
-40. veo-    
-41. seamos 
-42. cayo
-43. Patata
-44. Conducir
-45. Zumo
-46. Chulo
-47. Tío
-48. Cantante
-49. taza
-50. según
-51. razas
-52. despreciable
-53. callejero
+40.  caerte
+41. borde
+42. sucia
+43. cesto
+44. Puse
+45. Navidad
+46. 
+47. 
+48. 
+49. 
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
