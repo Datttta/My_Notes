@@ -4,7 +4,6 @@
 
 === *Nuevas Palabras* ===
 
-1. perro
 2. zorro
 3. gemela
 4. guión
@@ -45,3 +44,4 @@
 39. oigamos
 40. caerte
 41. borde
+42. volando
