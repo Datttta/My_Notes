@@ -1,6 +1,6 @@
 === *New words* ===
 
-1.  dress - food
+1.   
 
 === *Nuevas Palabras* ===
 
