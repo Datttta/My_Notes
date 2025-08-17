@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. doormat
+2. Sticking up for yourslef
 
 === *Nuevas Palabras* ===
 
