@@ -45,17 +45,3 @@
 39. oigamos
 40. caerte
 41. borde
-42. sucia
-43. cesto
-44. Puse
-45. Navidad
-46. 
-47. 
-48. 
-49. 
-50. 
-51. 
-52. 
-53. 
-54. 
-55. 
