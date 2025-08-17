@@ -43,7 +43,7 @@
 37. distrutado
 38. lo que
 39. oigamos
-40.  caerte
+40. caerte
 41. borde
 42. sucia
 43. cesto
