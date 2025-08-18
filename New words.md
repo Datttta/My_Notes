@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. doormat
-2. Sticking up for yourslef
-3. roundabout - round about
+1. 
 
 === *Nuevas Palabras* ===
 
@@ -20,41 +18,42 @@
 14. viejo
 15. intenta
 16. regresa
-17. clave
-18. enfocar
-19. escenas
-20. retener
-21. Reforzar
-22. embarazada
-23. Llave
-24. Calle
-25. juguetes
-26. Vale
-27. Gafas
-28. Oír
-29. sepamos
-30. vengamos
-31. hagamos
-32. oído-
-33. reído-
-34. sonreído-
-35. leído-
-36. creído-
-37. oyera
-38. cerré
-39. resuelto
-40. haré
-41. comprarás
-42. tendrá
-43. vendrán
-44. dejado
-45. Anillo
-46. auto
-47. ahí
-48. huelga
-49. distrutado
-50. lo que
-51. oigamos
-52. caerte
-53. borde
-54. volando
+17. juzgarme
+18. clave
+19. prometido
+20. enfocar
+21. escenas
+22. retener
+23. Reforzar
+24. embarazada
+25. Llave
+26. Calle
+27. juguetes
+28. Vale
+29. Gafas
+30. Oír
+31. sepamos
+32. vengamos
+33. hagamos
+34. oído-
+35. reído-
+36. sonreído-
+37. leído-
+38. creído-
+39. 
+40. 
+41. 
+42. 
+43. 
+44. 
+45. 
+46. X
+47. 
+48. 
+49. 
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
