@@ -6,3 +6,6 @@
     - Specific fild, show cards with a specific word: back:*google*
 
     - Specific deck: deck:<deck-name>
+
+- Vim:
+    - Select everything betwwen space: viW
