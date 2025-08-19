@@ -1,5 +1,6 @@
 === Todo ===
-- [ ] fix youtube stuttering
+- [ ] add config.py to dotfiles
+- [ ] fix qutebrowser extensions
 
 = Today =
 - [X] Have lunch (time this)
