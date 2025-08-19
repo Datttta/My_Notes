@@ -1,6 +1,7 @@
 === Todo ===
 - [ ] add config.py to dotfiles
 - [ ] fix qutebrowser extensions
+- [ ] organize qutebrowser tabs
 
 = Today =
 - [X] Have lunch (time this)
