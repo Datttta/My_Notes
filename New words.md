@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. bite the dust
+2. passible
 
 === *Nuevas Palabras* ===
 
