@@ -9,3 +9,4 @@
 
 - Vim:
     - Select everything betwwen space: viW
+    - Delete everything inside "", '', (), etc: di<object surrounding the text> 
