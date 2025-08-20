@@ -10,14 +10,9 @@
     - yay -S <name-of-package> --mflags "--skipchecksums"
 
 - Sddm screen tear (splintered strips glitch):
-    - nvims /etc/sddm.conf
-    - add this to the file:
-        [General]
-        DisplayServer=wayland
-
-        [Wayland]
-        CompositorCommand="Hyprland"
-
+    - nvims /etc/default/grub
+    - Remove radeon.si_support=0 from "GRUB_CMDLINE_LINUX_DEFAULT=" line. 
+ 
 - Firefox not showing bookmarks after arch maintainance:
 
     - Maybe opening this folder will fix firefox bookmarks:
