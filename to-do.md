@@ -1,6 +1,4 @@
 === Todo ===
-- [ ] organize qutebrowser tabs
-- [X] edit bookmarks
 
 = Today =
 
