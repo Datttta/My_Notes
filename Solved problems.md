@@ -9,7 +9,7 @@
     - sha256sum <name-of-installer>
     - yay -S <name-of-package> --mflags "--skipchecksums"
 
-- Sddm buggy screen (splintered strips):
+- Sddm glitched screen (splintered strips):
     - nvims /etc/sddm.conf
     - add this to the file:
         [General]
