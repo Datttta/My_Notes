@@ -2,6 +2,7 @@
 
 1. bite the dust
 2. passible
+3. go up to (go up to the gate)
 
 === *Nuevas Palabras* ===
 
