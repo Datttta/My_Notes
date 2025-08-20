@@ -1,6 +1,4 @@
 === Todo ===
-- [X] Fix sddm the right way
-- [X] prevent qutebrowser asking everytime permisison to copy text
 
 = Today =
 
