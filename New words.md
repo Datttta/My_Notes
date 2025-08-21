@@ -5,35 +5,35 @@
 === *Nuevas Palabras* ===
 
 2. zorro
-3. gemela
-4. arbolada
-5. guión
-6. pues
-7. conmovedora
-8. guión bajo
-9. jefe
-10. Quedamos
-11. lluvia
-12. vuelo
-13. dirección - address
-14. techo
-15. sombrero
-16. sonidos
-17. De hecho
-18. suena
-19. viejo
-20. intenta
-21. regresa
-22. juzgarme
-23. clave
-24. prometido
-25. enfocar
-26. escenas
-27. retener
-28. Reforzar
-29. embarazada
-30. Llave
-31. duele
+3. avergonzado
+4. pena
+5. gemela
+6. arbolada
+7. guión
+8. pues
+9. conmovedora
+10. guión bajo
+11. jefe
+12. Quedamos
+13. lluvia
+14. vuelo
+15. dirección - address
+16. techo
+17. sombrero
+18. sonidos
+19. De hecho
+20. suena
+21. viejo
+22. intenta
+23. regresa
+24. juzgarme
+25. clave
+26. prometido
+27. enfocar
+28. escenas
+29. retener
+30. 
+31. 
 32. 
 33. 
 34. 
@@ -45,3 +45,5 @@
 40. 
 41. 
 42. 
+43. 
+44. 
