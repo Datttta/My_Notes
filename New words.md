@@ -13,20 +13,20 @@
 8. nido
 9. habitación
 10. cambió
-11. salga (comes out)
-12. avergonzado
-13. pena
-14. cumpliré
-15. gemela
-16. arbolada
-17. guión
-18. pues
-19. conmovedora
-20. guión bajo
-21. jefe
-22. Quedamos
-23. lluvia
-24. vuelo
+11. carpeta
+12. salga (comes out)
+13. avergonzado
+14. pena
+15. cumpliré
+16. gemela
+17. arbolada
+18. guión
+19. pues
+20. conmovedora
+21. 
+22. 
+23. 
+24. 
 25. 
 26. 
 27. 
@@ -35,3 +35,4 @@
 30. 
 31. 
 32. 
+33. 
