@@ -14,15 +14,15 @@
 9. habitación
 10. cambió
 11. carpeta
-12. salga (comes out)
-13. avergonzado
-14. pena
-15. cumpliré
-16. gemela
-17. arbolada
-18. guión
-19. pues
-20. conmovedora
+12. tuvo
+13. salga (comes out)
+14. avergonzado
+15. pena
+16. cumpliré
+17. gemela
+18. arbolada
+19. guión
+20. pues
 21. 
 22. 
 23. 
@@ -36,3 +36,4 @@
 31. 
 32. 
 33. 
+34. 
