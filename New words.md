@@ -4,6 +4,7 @@
 2. passible
 3. go up to (go up to the gate - aproximar-se)
 4. glichted (the login is gliched)
+5. breakage
 
 === *Nuevas Palabras* ===
 
