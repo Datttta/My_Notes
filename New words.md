@@ -13,32 +13,33 @@
 8. jefe
 9. lluvia
 10. vuelo
-11. techo
-12. sombrero
-13. sonidos
-14. De hecho
-15. suena
-16. viejo
-17. intenta
-18. regresa
-19. juzgarme
-20. clave
-21. prometido
-22. enfocar
-23. escenas
-24. retener
-25. Reforzar
-26. embarazada
-27. Llave
-28. duele
-29. Calle
-30. juguetes
-31. Vale
-32. Gafas
-33. Oír
-34. sepamos
-35. 
+11. dirección - address
+12. techo
+13. sombrero
+14. sonidos
+15. De hecho
+16. suena
+17. viejo
+18. intenta
+19. regresa
+20. juzgarme
+21. clave
+22. prometido
+23. enfocar
+24. escenas
+25. retener
+26. Reforzar
+27. embarazada
+28. Llave
+29. duele
+30. Calle
+31. juguetes
+32. Vale
+33. Gafas
+34. Oír
+35. sepamos
 36. 
 37. 
 38. 
 39. 
+40. 
