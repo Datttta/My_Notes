@@ -5,25 +5,27 @@
 === *Nuevas Palabras* ===
 
 2. zorro
-3. salga (comes out)
-4. avergonzado
-5. pena
-6. cumpliré
-7. gemela
-8. arbolada
-9. guión
-10. pues
-11. conmovedora
-12. guión bajo
-13. jefe
-14. Quedamos
-15. lluvia
-16. vuelo
-17. dirección - address
-18. techo
-19. sombrero
-20. sonidos
-21. De hecho
-22. suena
-23. viejo
-24. intenta
+3. sencillo
+4. me saqué
+5. salga (comes out)
+6. avergonzado
+7. pena
+8. cumpliré
+9. gemela
+10. arbolada
+11. guión
+12. pues
+13. conmovedora
+14. guión bajo
+15. jefe
+16. Quedamos
+17. lluvia
+18. vuelo
+19. dirección - address
+20. techo
+21. sombrero
+22. sonidos
+23. 
+24. 
+25. 
+26. 
