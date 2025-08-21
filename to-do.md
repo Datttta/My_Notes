@@ -1,5 +1,5 @@
 === Todo ===
-- [ ] example
+- [ ] Example
 
 = Today =
 
