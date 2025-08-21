@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. car hood
+1. 
 
 === *Nuevas Palabras* ===
 
