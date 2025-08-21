@@ -1,7 +1,6 @@
 === Todo ===
 - [ ] discover where to see all qutebrowser binding
 
-
 = Today =
 
 = Tasks = 
