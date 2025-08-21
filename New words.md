@@ -12,21 +12,21 @@
 7. cristal
 8. nido
 9. habitación
-10. salga (comes out)
-11. avergonzado
-12. pena
-13. cumpliré
-14. gemela
-15. arbolada
-16. guión
-17. pues
-18. conmovedora
-19. guión bajo
-20. jefe
-21. Quedamos
-22. lluvia
-23. vuelo
-24. dirección - address
+10. cambió
+11. salga (comes out)
+12. avergonzado
+13. pena
+14. cumpliré
+15. gemela
+16. arbolada
+17. guión
+18. pues
+19. conmovedora
+20. guión bajo
+21. jefe
+22. Quedamos
+23. lluvia
+24. vuelo
 25. 
 26. 
 27. 
@@ -34,3 +34,4 @@
 29. 
 30. 
 31. 
+32. 
