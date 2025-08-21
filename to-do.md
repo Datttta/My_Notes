@@ -1,5 +1,5 @@
 === Todo ===
-- [ ] fix swaync
+- [ ] example
 
 = Today =
 
