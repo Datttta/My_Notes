@@ -1,5 +1,5 @@
 === Todo ===
-- [ ] discover where to see all qutebrowser binding
+- [ ] fix swaync
 
 = Today =
 
