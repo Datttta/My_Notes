@@ -8,33 +8,37 @@
 3. gemela
 4. guión
 5. pues
-6. guión bajo
-7. jefe
-8. techo
-9. sombrero
-10. sonidos
-11. De hecho
-12. suena
-14. viejo
-15. intenta
-16. regresa
-17. juzgarme
-18. clave
-19. prometido
-20. enfocar
-21. escenas
-22. retener
-23. Reforzar
-24. embarazada
-25. Llave
-26. Calle
-27. juguetes
-28. Vale
-29. Gafas
-30. Oír
-31. sepamos
-32. vengamos
-33. hagamos
-34. oído-
-35. reído-
-36. sonreído-
+6. conmovedora
+7. guión bajo
+8. jefe
+9. lluvia
+10. vuelo
+11. techo
+12. sombrero
+13. sonidos
+14. De hecho
+15. suena
+16. viejo
+17. intenta
+18. regresa
+19. juzgarme
+20. clave
+21. prometido
+22. enfocar
+23. escenas
+24. retener
+25. Reforzar
+26. embarazada
+27. Llave
+28. duele
+29. Calle
+30. juguetes
+31. Vale
+32. Gafas
+33. Oír
+34. sepamos
+35. 
+36. 
+37. 
+38. 
+39. 
