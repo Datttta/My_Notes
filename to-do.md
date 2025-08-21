@@ -1,5 +1,6 @@
 === Todo ===
 - [ ] Example
+- [ ] Organize you screenshot folder
 
 = Today =
 
