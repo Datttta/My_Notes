@@ -21,3 +21,4 @@
 
 - Nvim:
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
+    - Format nvim code: <leader>fm
