@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. skunk
+2. tree-lined
 
 === *Nuevas Palabras* ===
 
@@ -20,4 +21,4 @@
 15. pena
 16. cumpliré
 17. gemela
-18. arbolada
+18. 
