@@ -1,7 +1,5 @@
 === Todo ===
 - [ ] Example
-- [ ] Organize you screenshot folder
-- [ ] add windowrules such as floating windows when saving files
 - [ ] Equilize you earphone
 
 = Today =
