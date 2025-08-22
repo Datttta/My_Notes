@@ -2,6 +2,7 @@
 
 1. skunk
 2. tree-lined
+3. regraming (regraming lost time)
 
 === *Nuevas Palabras* ===
 
@@ -19,7 +20,7 @@
 13. tuvo
 14. salga (comes out)
 15. avergonzado
-16. pena
-17. cumpliré
+16. 
+17. 
 18. 
 19. 
