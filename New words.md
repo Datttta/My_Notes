@@ -6,19 +6,20 @@
 === *Nuevas Palabras* ===
 
 2. zorro
-3. sencillo
-4. me saqué
-5. colgada
-6. gobierno
-7. cristal
-8. nido
-9. habitación
-10. cambió
-11. carpeta
-12. tuvo
-13. salga (comes out)
-14. avergonzado
-15. pena
-16. cumpliré
-17. gemela
+3. melliza
+4. sencillo
+5. me saqué
+6. colgada
+7. gobierno
+8. cristal
+9. nido
+10. habitación
+11. cambió
+12. carpeta
+13. tuvo
+14. salga (comes out)
+15. avergonzado
+16. pena
+17. cumpliré
 18. 
+19. 
