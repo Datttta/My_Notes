@@ -1,7 +1,7 @@
 === Todo ===
 - [ ] Example
 - [ ] Equilize you earphone
-- [ ] fix timeshift
+- [X] fix timeshift
 
 = Today =
 
