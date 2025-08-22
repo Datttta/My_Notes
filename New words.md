@@ -1,9 +1,6 @@
 === *New words* ===
 
-1. srub
-2. bleach
-3. shootout
-4. silversmith
+1.
 
 === *Nuevas Palabras* ===
 
