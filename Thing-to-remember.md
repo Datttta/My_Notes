@@ -20,4 +20,4 @@
     - Delete word right behind the cursor: *Ctrl+w*
 
 - Nvim:
-    - Search and replace: *:%s/old_text/new_text/g* (you don't need to use the 'g')
+    - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
