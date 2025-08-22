@@ -3,6 +3,7 @@
 1. srub
 2. bleach
 3. shootout
+4. silversmith
 
 === *Nuevas Palabras* ===
 
