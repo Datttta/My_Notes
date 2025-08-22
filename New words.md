@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. srub
+2. bleach
 
 === *Nuevas Palabras* ===
 
