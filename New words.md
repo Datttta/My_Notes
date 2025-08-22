@@ -2,6 +2,7 @@
 
 1. srub
 2. bleach
+3. shootout
 
 === *Nuevas Palabras* ===
 
