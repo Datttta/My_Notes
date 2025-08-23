@@ -1,6 +1,6 @@
 === *New words* ===
 
-3. regraming (regraming lost time)
+1. regraming (regraming lost time)
 
 === *Nuevas Palabras* ===
 
