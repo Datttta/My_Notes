@@ -1,6 +1,5 @@
 === Todo ===
 - [ ] Example
-- [ ] fix timeshift
 
 = Today =
 
