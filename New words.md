@@ -1,9 +1,6 @@
 === *New words* ===
 
-1. skunk
-2. tree-lined
 3. regraming (regraming lost time)
-4. worn-out
 
 === *Nuevas Palabras* ===
 
