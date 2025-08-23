@@ -9,7 +9,7 @@
 
 - Vim:
     - Select everything betwwen space: *viW*
-    - Delete everything inside "", '', (), etc: ci<object surrounding the text>
+    - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
     - Move cursor to the end of the line: *$*
 
 - Nvim:
