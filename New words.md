@@ -1,16 +1,10 @@
 === *New words* ===
 
-1. regraming (regraming lost time)
-2. or so
-3. maul
-4. mole
-5. mule
-6. handicap
-7. decorative
+1. 
 
 === *Nuevas Palabras* ===
 
-2. zorro
-3. enciende
-4. salón
-5. bolsillo
+3. zorro
+4. enciende
+5. salón
+6. bolsillo
