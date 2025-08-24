@@ -2,6 +2,9 @@
 
 1. regraming (regraming lost time)
 2. or so
+3. maul
+4. mole
+5. mule
 
 === *Nuevas Palabras* ===
 
