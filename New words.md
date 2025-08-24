@@ -5,6 +5,7 @@
 3. maul
 4. mole
 5. mule
+6. handicap
 
 === *Nuevas Palabras* ===
 
