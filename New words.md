@@ -6,6 +6,7 @@
 4. mole
 5. mule
 6. handicap
+7. decorative
 
 === *Nuevas Palabras* ===
 
