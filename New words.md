@@ -2,6 +2,7 @@
 
 1. proponent
 2. winds (serpentea)
+3. gasp
 
 === *Nuevas Palabras* ===
 
@@ -14,4 +15,6 @@
 7. marcador
 8. capa
 9. contextura
-10. parrilla
+10. Pusimos
+11. Pidió
+12. 
