@@ -6,6 +6,7 @@
 4. clasp
 5. oversharing
 6. leaving up
+7. subversive
 
 === *Nuevas Palabras* ===
 
