@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. get off
-2. hijacking (hijacking a plane)
-3. magpie
+1.
 
 === *Nuevas Palabras* ===
 
