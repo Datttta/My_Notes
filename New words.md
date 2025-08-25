@@ -3,6 +3,7 @@
 1. proponent
 2. winds (serpentea)
 3. gasp
+4. clasp
 
 === *Nuevas Palabras* ===
 
