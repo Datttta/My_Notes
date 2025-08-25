@@ -8,6 +8,7 @@
 6. leaving up
 7. subversive
 8. brethren
+9. wug
 
 === *Nuevas Palabras* ===
 
