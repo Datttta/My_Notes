@@ -5,6 +5,7 @@
 3. gasp
 4. clasp
 5. oversharing
+6. leaving up
 
 === *Nuevas Palabras* ===
 
