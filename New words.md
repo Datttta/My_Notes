@@ -4,18 +4,22 @@
 2. winds (serpentea)
 3. gasp
 4. clasp
+5. oversharing
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. resbaladiza
-3. cuota
-4. Hubo
-5. roble
-6. tenedor
-7. marcador
-8. capa
-9. contextura
-10. Pusimos
-11. Pidió
+2. cajas
+3. fuerza
+4. complexión
+5. resbaladiza
+6. cuota
+7. Hubo
+8. roble
+9. tenedor
+10. 
+11. 
 12. 
+13. 
+14. 
+15. 
