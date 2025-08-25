@@ -7,6 +7,7 @@
 5. oversharing
 6. leaving up
 7. subversive
+8. brethren
 
 === *Nuevas Palabras* ===
 
