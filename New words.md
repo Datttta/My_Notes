@@ -22,3 +22,4 @@
 8. roble
 9. tenedor
 10. ventaja
+11. Aunque
