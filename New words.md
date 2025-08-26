@@ -1,21 +1,23 @@
 === *New words* ===
 
-1. 
+1. nag (horse) 
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. cajas
-3. fuerza
-4. complexión
-5. resbaladiza
-6. cuota
-7. Hubo
-8. roble
-9. tenedor
-10. ventaja
-11. Aunque
-12. pueblo
-13. feliz
-14. zumo
-15. pingo
+2. solía
+3. cabalgar
+4. cajas
+5. fuerza
+6. complexión
+7. resbaladiza
+8. cuota
+9. Hubo
+10. roble
+11. tenedor
+12. ventaja
+13. Aunque
+14. pueblo
+15. feliz
+16. zumo
+17. 
