@@ -1,14 +1,6 @@
 === *New words* ===
 
-1. proponent
-2. winds (serpentea)
-3. gasp
-4. clasp
-5. oversharing
-6. leaving up
-7. subversive
-8. brethren
-9. wug
+1. 
 
 === *Nuevas Palabras* ===
 
