@@ -26,3 +26,4 @@
 12. pueblo
 13. feliz
 14. zumo
+15. pingo
