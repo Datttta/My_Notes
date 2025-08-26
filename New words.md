@@ -23,3 +23,4 @@
 9. tenedor
 10. ventaja
 11. Aunque
+12. pueblo
