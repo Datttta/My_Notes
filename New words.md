@@ -21,3 +21,4 @@
 7. Hubo
 8. roble
 9. tenedor
+10. ventaja
