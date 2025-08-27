@@ -1,10 +1,6 @@
 === *New words* ===
 
-1. nag (horse)
-2. rodeo
-3. pricks
-4. racks (with racks of your unjust fortune)
-5. unjust (unjust fortune)
+1.
 
 === *Nuevas Palabras* ===
 
