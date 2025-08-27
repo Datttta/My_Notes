@@ -5,54 +5,44 @@
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. primer
-3. puente
-4. sueldo
-5. señal3
-6. aguacero
-7. Mantuvo
-8. sorprendió
-9. rocío
-10. pelaje
-11. salpicó
-12. acero
-13. censo
-14. señalizada
-15. peaje
-16. tormenta
-17. vecinos
-18. sugerencias
-19. caja - checkout
-20. retraso
-21. pantalla
-22. husmeando
-23. llanuras
-24. fatigarse
-25. granjero
-26. cartón
-27. camión
-28. bajar
-29. moño
-30. heredada
-31. humedad
-32. pila
-33. repartidor
-34. destornillador
-35. herramientas
-36. joyas
-37. hicieron
-38. cajones
-39. tires
-40. venta
-41. 
-42. 
-43. 
-44. 
-45. 
-46. 
-47. 
-48. 
-49. 
-50. 
-51. 
-32.
+2. cerrojo
+3. cubiertos
+4. atasca
+5. dámela
+6. Entreno
+7. libres
+8. primer
+9. puente
+10. sueldo
+11. señal3
+12. caja fuerte
+13. aguacero
+14. Mantuvo
+15. sorprendió
+16. rocío
+17. pelaje
+18. salpicó
+19. acero
+20. censo
+21. señalizada
+22. peaje
+23. tormenta
+24. vecinos
+25. sugerencias
+26. caja - checkout
+27. retraso
+28. pantalla
+29. husmeando
+30. llanuras
+31. fatigarse
+32. granjero
+33. cartón
+34. camión
+35. bajar
+36. moño
+37. heredada
+38. humedad
+39. pila
+40. repartidor
+41. destornillador
+42. herramientas
