@@ -2,8 +2,8 @@
 - [ ] Example
 
 = Today =
-- [X] Anki11:00 - 12:10
-- [X] Have lunch 12:10 - 13:10 (time this)
+- [X] Anki 16:20 - 17:30
+- [X] Have lunch 17:30 - 18:10
 - [X] brush
 - [X] To do Loundry 13:15 - 14:15
 - [X] Reading 14:15 - 18:00
