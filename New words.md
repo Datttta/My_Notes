@@ -51,3 +51,4 @@
 41. señalizada
 42. peaje
 43. tormenta
+44. tornillo
