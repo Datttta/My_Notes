@@ -3,6 +3,7 @@
 1. lenient
 2. ration (ration plan)
 3. gauge
+4. bracing (drag a book case against your font door for extra bracing)
 
 === *Nuevas Palabras* ===
 
