@@ -14,43 +14,53 @@
 8. primer
 9. puente
 10. sueldo
-11. 
+11. señal3
 12. moho
 13. caja fuerte
 14. agotó
 15. sótano
 16. dañar
-17. manchas
-18. recargable
-19. aguacero
-20. propina
-21. Mantuvo
-22. sorprendió
-23. bricolaje
-24. rocío
-25. pelaje
-26. salpicó
-27. acero
-28. censo
-29. señalizada
-30. peaje
-31. tormenta
-32. vecinos
-33. sugerencias
-34. caja - checkout
-35. retraso
-36. pantalla
-37. husmeando
-38. llanuras
-39. fatigarse
-40. granjero
-41. cartón
-42. camión
-43. bajar
-44. moño
+17. juego de mesa
+18. finca
+19. escaleras
+20. cola
+21. artículos - items
+22. bisontes
+23. debido
+24. cosecha
+25. copas
+26. muebles
+27. manchas
+28. recargable
+29. aguacero
+30. propina
+31. Mantuvo
+32. sorprendió
+33. bricolaje
+34. rocío
+35. pelaje
+36. salpicó
+37. acero
+38. censo
+39. señalizada
+40. peaje
+41. tormenta
+42. vecinos
+43. sugerencias
+44. 
 45. 
 46. 
 47. 
 48. 
 49. 
 50. 
+51. 
+52. 
+53. 
+54. 
+55. 
+56. 
+57. 
+58. 
+59. 
+60. 
