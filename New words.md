@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. 
+1. lenient
 
 === *Nuevas Palabras* ===
 
@@ -25,42 +25,25 @@
 19. escaleras
 20. cola
 21. artículos - items
-22. bisontes
-23. debido
-24. cosecha
-25. copas
-26. muebles
-27. manchas
-28. recargable
-29. aguacero
-30. propina
-31. Mantuvo
-32. sorprendió
-33. bricolaje
-34. rocío
-35. pelaje
-36. salpicó
-37. acero
-38. censo
-39. señalizada
-40. peaje
-41. tormenta
-42. vecinos
-43. sugerencias
-44. 
-45. 
-46. 
-47. 
-48. 
-49. 
-50. 
-51. 
-52. 
-53. 
-54. 
-55. 
-56. 
-57. 
-58. 
-59. 
-60. 
+22. quejaron
+23. Cajera  
+24. bisontes
+25. debido
+26. cosecha
+27. copas
+28. muebles
+29. manchas
+30. recargable
+31. aguacero
+32. propina
+33. Mantuvo
+34. sorprendió
+35. bricolaje
+36. rocío
+37. pelaje
+38. salpicó
+39. acero
+40. censo
+41. señalizada
+42. peaje
+43. tormenta
