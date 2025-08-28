@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. lenient
+2. ration (ration plan)
 
 === *Nuevas Palabras* ===
 
