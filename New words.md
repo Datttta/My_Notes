@@ -4,7 +4,8 @@
 2. ration (ration plan)
 3. gauge
 4. bracing (drag a book case against your font door for extra bracing)
-5. beside
+5. deligent
+6. beside
 
 === *Nuevas Palabras* ===
 
