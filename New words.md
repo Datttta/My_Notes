@@ -2,6 +2,7 @@
 
 1. lenient
 2. ration (ration plan)
+3. gauge
 
 === *Nuevas Palabras* ===
 
