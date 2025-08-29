@@ -1,33 +1,35 @@
 === *New words* ===
 
-1. 
+1. downpour
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. cerrojo
-3. cubiertos
-4. atasca
-5. dámela
-6. Entreno
-7. libres
-8. primer
-9. puente
-10. sueldo
-11. señal3
-12. moho
-13. caja fuerte
-14. agotó
-15. sótano
-16. dañar
-17. juego de mesa
-18. finca
-19. escaleras
-20. cola
-21. artículos - items
-22. quejaron
-23. Cajera  
-24. bisontes
-25. debido
-26. cuchillo
+2. vigas
+3. gratamente
+4. cerrojo
+5. cubiertos
+6. atasca
+7. dámela
+8. Entreno
+9. libres
+10. primer
+11. puente
+12. sueldo
+13. señal3
+14. moho
+15. caja fuerte
+16. agotó
+17. sótano
+18. dañar
+19. juego de mesa
+20. finca
+21. escaleras
+22. cola
+23. artículos - items
+24. quejaron
+25. Cajera  
+26. bisontes
+27. debido
+28. cuchillo
 
