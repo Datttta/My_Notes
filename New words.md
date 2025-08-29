@@ -6,6 +6,8 @@
 4. bracing (drag a book case against your font door for extra bracing)
 5. deligent
 6. beside
+7. overtly
+8. unmentionable
 
 === *Nuevas Palabras* ===
 
