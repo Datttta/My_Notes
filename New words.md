@@ -1,14 +1,6 @@
 === *New words* ===
 
-1. lenient
-2.  (ration plan)
-3. 
-4.  (drag a book case against your font door for extra bracing)
-5. 
-6. 
-7. 
-8. 
-9.  (friendship)
+1. 
 
 === *Nuevas Palabras* ===
 
