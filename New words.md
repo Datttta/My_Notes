@@ -1,13 +1,14 @@
 === *New words* ===
 
 1. lenient
-2. ration (ration plan)
-3. gauge
-4. bracing (drag a book case against your font door for extra bracing)
-5. deligent
-6. beside
-7. overtly
-8. unmentionable
+2.  (ration plan)
+3. 
+4.  (drag a book case against your font door for extra bracing)
+5. 
+6. 
+7. 
+8. 
+9.  (friendship)
 
 === *Nuevas Palabras* ===
 
