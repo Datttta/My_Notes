@@ -29,23 +29,4 @@
 23. Cajera  
 24. bisontes
 25. debido
-26. cosecha
-27. copas
-28. muebles
-29. manchas
-30. recargable
-31. aguacero
-32. propina
-33. Mantuvo
-34. sorprendió
-35. bricolaje
-36. rocío
-37. pelaje
-38. salpicó
-39. acero
-40. censo
-41. Llovizna    
-42. señalizada
-43. peaje
-44. tormenta
-45. tornillo
+
