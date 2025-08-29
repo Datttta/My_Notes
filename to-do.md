@@ -2,11 +2,11 @@
 - [ ] Example
 
 = Today =
-- [ ] Anki 
-- [ ] Have lunch 12:30 - 13:30
+- [ ] Have lunch 02:00 - 03:00
+- [ ] Anki 03:00 - 04:00 
 - [ ] brush
-- [ ] To do Loundry 13:15 - 13:25
-- [ ] Reading 13:25 - 17:25
+- [ ] To do Loundry 04:05 - 04:25
+- [ ] Reading 04:25 - 19:00
 - [ ] Have dinner 19:00 - 20:00
 - [ ] brush
 
