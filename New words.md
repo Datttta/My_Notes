@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. safe - noun
+2. mildew
 
 === *Nuevas Palabras* ===
 
@@ -11,51 +12,60 @@
 5. molde
 6. mezcla
 7. pasillo
-8. contento
-9. zanahoria
-10. lentitud
-11. suelen
-12. almacenar
-13. caminata
-14. Al
-15. afiló
-16. granero
-17. agotamos
-18. filo
-19. hogar
-20. indispensable
-21. incluye
-22. acampada
-23. mango
-24. rama
-25. suele
-26. roma - blunt
-27. vigas
-28. gratamente
-29. cerrojo
-30. cubiertos
-31. atasca
-32. dámela
-33. Entreno
-34. libres
-35. primer
-36. puente
-37. sueldo
-38. señal3
-39. moho
-40.     
-41. 
-42. 
-43. 
-44. 
-45. 
-46. 
-47. 1
-48. 
+8. caducado
+9. baño - bathroom
+10. juntas
+11. vetas
+13. lejía
+14. crezca
+15. lechtera
+16. olor
+17. coger
+18. contento
+19. zanahoria
+20. lentitud
+21. suelen
+22. almacenar
+23. caminata
+24. Al
+25. afiló
+26. granero
+27. agotamos
+28. filo
+29. hogar
+30. indispensable
+31. incluye
+32. acampada
+33. mango
+34. rama
+35. suele
+36. roma - blunt
+37. vigas
+38. gratamente
+39. cerrojo
+40. cubiertos
+41. atasca
+42. dámela
+43. Entreno
+44. libres
+45. primer
+46. puente
+47. sueldo
+48. señal3
 49. 
-50.   
+50.     
 51. 
 52. 
 53. 
 54. 
+55. 
+56. 
+57. 1
+58. 
+59. 
+60.   
+61. 
+62. 
+63. 
+64. 
 
