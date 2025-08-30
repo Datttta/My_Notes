@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. downpour
+1. 
 
 === *Nuevas Palabras* ===
 
