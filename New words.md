@@ -1,7 +1,6 @@
 === *New words* ===
 
-1. undersell
-2. virtually    
+1.  
 
 === *Nuevas Palabras* ===
 
