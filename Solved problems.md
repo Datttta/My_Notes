@@ -16,4 +16,8 @@
 - Firefox not showing bookmarks after arch maintainance:
 
     - Maybe opening this folder will fix firefox bookmarks:
-        - ~/.mozilla/firefox/izj5orrr.default-release/bookmarkbackups   
+        - ~/.mozilla/firefox/izj5orrr.default-release/bookmarkbackups
+
+- Minecraft pauses when lose focus:
+    - nvim ~/.minecraft/options.txt
+    - change "pauseOnLostFocus:false" to "pauseOnLostFocus:true"
