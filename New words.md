@@ -16,49 +16,33 @@
 10. baño - bathroom
 11. juntas
 12. Riega
-13. llenaba
-14. extraño
-15. vecindario
-16. recaudar
-17. vetas
-18. trastero
-19. fregadero
-20. heno
-21. vivienda
-22. navaja
-23. palomas
-24. posó
-25. recuerdos
-26. bastón
-27. manzano
-28. conocimiento
-29. sendero
-30. pongas
-31. alumnos
-32. obreros
-33. ascensor
-34. humo
-35. hábil
-36. relajarme   
-37. deambulan
-38. deducciones
-39. colgante
-40. pusieron
-41. 
-42. 
-43. 
-44. 
-45. 
-46. 
-47. 
-48. 
-49. 
-50. 
-51. 
-52. 
-53.     
-54. 
-55.     
-56.     
-57. 
-
+13. quitar
+14. Mezclar
+15. llenaba
+16. extraño
+17. vecindario
+18. recaudar
+19. vetas
+20. trastero
+21. fregadero
+22. heno
+23. vivienda
+24. navaja
+25. palomas
+26. posó
+27. recuerdos
+28. bastón
+29. manzano
+30. conocimiento
+31. sendero
+32. pongas
+33. alumnos
+34. obreros
+35. ascensor
+36. humo
+37. hábil
+38. relajarme   
+39. deambulan
+40. deducciones
+41. colgante
+42. pusieron
