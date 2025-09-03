@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. pendant
+2. deductions - tax
 
 === *Nuevas Palabras* ===
 
@@ -48,6 +49,6 @@
 42. hábil
 43. relajarme   
 44. deambulan
-45. deducciones
+45. 
 46. 
 47. 
