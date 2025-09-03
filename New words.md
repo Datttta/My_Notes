@@ -1,7 +1,6 @@
 === *New words* ===
 
-1. graze
-2. beet
+1. pendant
 
 === *Nuevas Palabras* ===
 
@@ -17,37 +16,38 @@
 10. mezcla
 11. estrecha
 12. pasillo
-13. caducado
-14. baño - bathroom
-15. juntas
-16. Riega
-17. quitar
-18. Mezclar
-19. llenaba
-20. extraño
-21. vecindario
-22. recaudar
-23. vetas
-24. trastero
-25. fregadero
-26. heno
-27. vivienda
-28. navaja
-29. palomas
-30. posó
-31. recuerdos
-32. bastón
-33. manzano
-34. conocimiento
-35. sendero
-36. pongas
-37. alumnos
-38. obreros
-39. ascensor
-40. humo
-41. hábil
-42. relajarme   
-43. deambulan
-44. deducciones
-45. colgante
-46. pusieron
+13. acertamiento
+14. caducado
+15. baño - bathroom
+16. juntas
+17. Riega
+18. quitar
+19. Mezclar
+20. llenaba
+21. extraño
+22. vecindario
+23. recaudar
+24. vetas
+25. trastero
+26. fregadero
+27. heno
+28. vivienda
+29. navaja
+30. palomas
+31. posó
+32. recuerdos
+33. bastón
+34. manzano
+35. conocimiento
+36. sendero
+37. pongas
+38. alumnos
+39. obreros
+40. ascensor
+41. humo
+42. hábil
+43. relajarme   
+44. deambulan
+45. deducciones
+46. 
+47. 
