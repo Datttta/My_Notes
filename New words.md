@@ -3,6 +3,7 @@
 1. pendant
 2. deductions - tax
 3. larping (larping as)
+4. cane - baston
 
 === *Nuevas Palabras* ===
 
