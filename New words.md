@@ -2,6 +2,7 @@
 
 1. pendant
 2. deductions - tax
+3. larping (larping as)
 
 === *Nuevas Palabras* ===
 
