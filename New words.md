@@ -12,43 +12,33 @@
 5. le dabas el avion
 6. hornearla
 7. mermelada
-8. adhesivo
-9. molde
-10. mezcla
-11. estrecha
-12. pasillo
-13. acertamiento
-14. caducado
-15. baño - bathroom
-16. juntas
-17. Riega
-18. quitar
-19. Mezclar
-20. llenaba
-21. extraño
-22. vecindario
-23. recaudar
-24. vetas
-25. trastero
-26. fregadero
-27. heno
-28. vivienda
-29. navaja
-30. palomas
-31. posó
-32. recuerdos
-33. bastón
-34. manzano
-35. conocimiento
-36. sendero
-37. pongas
-38. alumnos
-39. obreros
-40. ascensor
-41. humo
-42. hábil
-43. relajarme   
-44. deambulan
-45. 
-46. 
-47. 
+8. rumbo    
+9. adhesivo
+10. anciano
+11. tallado
+12. atrapado
+13. otoño-
+14. terraza
+15. molde
+16. mezcla
+17. estrecha
+18. pasillo
+19. acertamiento
+20. abrigo
+21. caducado
+22. baño - bathroom
+23. juntas
+24. Riega
+25. quitar
+26. Mezclar
+27. llenaba
+28. extraño
+29. vecindario
+30. recaudar
+31. vetas
+32. trastero
+33. fregadero
+34. heno
+35. vivienda
+36. navaja
+37. palomas
