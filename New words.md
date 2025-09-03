@@ -1,50 +1,53 @@
 === *New words* ===
 
-1.  graze
+1. graze
+2. beet
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. bolos
-3. le dabas el avion
-4. hornearla
-5. mermelada
-6. adhesivo
-7. molde
-8. mezcla
-9. estrecha
-10. pasillo
-11. caducado
-12. baño - bathroom
-13. juntas
-14. Riega
-15. quitar
-16. Mezclar
-17. llenaba
-18. extraño
-19. vecindario
-20. recaudar
-21. vetas
-22. trastero
-23. fregadero
-24. heno
-25. vivienda
-26. navaja
-27. palomas
-28. posó
-29. recuerdos
-30. bastón
-31. manzano
-32. conocimiento
-33. sendero
-34. pongas
-35. alumnos
-36. obreros
-37. ascensor
-38. humo
-39. hábil
-40. relajarme   
-41. deambulan
-42. deducciones
-43. colgante
-44. pusieron
+2. remolacha
+3. calabaza
+4. bolos
+5. le dabas el avion
+6. hornearla
+7. mermelada
+8. adhesivo
+9. molde
+10. mezcla
+11. estrecha
+12. pasillo
+13. caducado
+14. baño - bathroom
+15. juntas
+16. Riega
+17. quitar
+18. Mezclar
+19. llenaba
+20. extraño
+21. vecindario
+22. recaudar
+23. vetas
+24. trastero
+25. fregadero
+26. heno
+27. vivienda
+28. navaja
+29. palomas
+30. posó
+31. recuerdos
+32. bastón
+33. manzano
+34. conocimiento
+35. sendero
+36. pongas
+37. alumnos
+38. obreros
+39. ascensor
+40. humo
+41. hábil
+42. relajarme   
+43. deambulan
+44. deducciones
+45. colgante
+46. pusieron
