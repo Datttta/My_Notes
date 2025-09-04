@@ -1,9 +1,6 @@
 === *New words* ===
 
-1. pendant
-2. deductions - tax
-3. larping (larping as)
-4. cane - baston
+1. dividend
 
 === *Nuevas Palabras* ===
 
