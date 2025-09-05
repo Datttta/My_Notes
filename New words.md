@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. dividend
+1. mold - molde
 
 === *Nuevas Palabras* ===
 
@@ -40,5 +40,5 @@
 34. atrapado
 35. otoño-
 36. terraza
-37. molde
-38. mezcla
+37. 
+38. 
