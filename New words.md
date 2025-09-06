@@ -1,7 +1,6 @@
 === *New words* ===
 
-1. mold - molde
-2. terrace
+1. 
 
 === *Nuevas Palabras* ===
 
@@ -43,4 +42,4 @@
 36. calcetines
 37. fiambre
 38. calidad
-39. altillo
+39. 
