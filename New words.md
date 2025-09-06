@@ -1,45 +1,63 @@
 === *New words* ===
 
-1. 
+1. hob - encimera
+2. hallway
+3. preserves
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. pegar
-3. tormenta
-4. huerto
-5. saludable
-6. cinta    
-7. ratones
-8. centro comercial
-9. alfalfa
-10. dactilares
-11. luces
-12. remolacha
-13. ardillas
-14. águilas
-15. fresa
-16. rastros
-17. jabón
-18. queden
-19. suciedad
-20. Extendí - spread
-21. tarros
-22. trozos
-23. mora
-24. ciruela
-25. carril
-26. pasillo1
-27. encimera
-28. golondrinas
-29. a la vez
-30. cueva
-31. iban
-32. polvo
-33. lana
-34. olla
-35. añadir
-36. calcetines
-37. fiambre
-38. calidad
+2. merino
+3. esquiladas
+4. bufanda
+5. adelantar
+7. tejer
+8. paño
+9. ahorrar
+10. espinas
+11. sustanciosa
+12. cálidas
+13. jersey
+14. mármol
+15. recoger
+16. calcetines
+17. mantendrá
+18. hirviendo
+19. pegar
+20. tormenta
+21. huerto
+22. saludable
+23. cinta    
+24. ratones
+25. centro comercial
+26. alfalfa
+27. dactilares
+28. luces
+29. remolacha
+30. ardillas
+31. águilas
+32. fresa
+33. rastros
+34. jabón
+35. queden
+36. suciedad
+37. Extendí - spread
+38. 
 39. 
+40. 
+41. 
+42. 
+43. 
+44. 
+45. 
+46. 
+47.     
+48. 
+49. 
+50. 
+51. 
+52. 
+53. 
+54. 
+55. 
+56. 
