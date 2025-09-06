@@ -97,3 +97,6 @@
 
 - Exec command firefox.desktop:
     - Exec=env MOZ_ENABLE_WAYLAND=1 MOZ_WEBRENDER=1 /usr/lib/firefox/firefox %u
+
+- Start hamachi:
+    - sudo systemctl start logmein-hamachi.service
