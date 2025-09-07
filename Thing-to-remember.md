@@ -27,6 +27,11 @@
     - Open minecraft server:
         - go to your server's folder: cd ~/Games/Mcservers
         - java -Xmx1024M -Xms1024M -jar server.jar nogui
+
     - Restart the server:
         - cd ~/Games/Mcservers/
         - rm world/session.lock
+
+    - Creating backups:
+        - cd ~/Games/Mcservers/ 
+        - zip -r world world
