@@ -22,3 +22,11 @@
     - Move cursor to the end of the line: *Ctrl+e*
     - Delete everything from the cursor's position to the end of the line: *Ctrl+k*
     - Delete word right behind the cursor: *Ctrl+w*
+
+- Minecraft server
+    - Open minecraft server:
+        - go to your server's folder: cd ~/Games/Mcservers
+        - java -Xmx1024M -Xms1024M -jar server.jar nogui
+    - Restart the server:
+        - cd ~/Games/Mcservers/
+        - rm world/session.lock
