@@ -34,4 +34,4 @@
 
     - Creating backups:
         - cd ~/Games/Mcservers/ 
-        - zip -r world world
+        - zip -r world world or cp -r world world_backup
