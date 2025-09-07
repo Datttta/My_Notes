@@ -26,7 +26,7 @@
 - Minecraft server
     - Open minecraft server:
         - go to your server's folder: cd ~/Games/Mcservers
-        - java -Xmx2G -Xms1024M -jar server.jar nogui
+        - java -Xmx2G -Xms1G -jar server.jar nogui
 
     - Restart the server:
         - cd ~/Games/Mcservers/
