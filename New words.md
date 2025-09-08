@@ -1,26 +1,25 @@
 === *New words* ===
 
-1. 
+1. notice - The government will maintain the security measures until further notice.
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. cometa
-3. merino
-4. esquiladas
-5. bufanda
-6. adelantar
-7. bienvenida
-8. desarrollado
-9. tejer
-10. paño
-11. ahorrar
-12. espinas
-13. sustanciosa
-14. cálidas
-15. jersey
-16. mármol
-17. recoger
-18. calcetines
-19. mantendrá
-20.  w
+2. reloj
+3. cometa
+4. merino
+5. zurcirlo
+6. ganchillo    
+7. suave
+8. tibia
+9. rayones
+10. derrames
+11. servirlo
+12. pincharte
+13. abrigado
+14. ponértelo
+15. nevera
+16. tetera
+17. quemarte
+18. esquiladas
+19. bufanda
