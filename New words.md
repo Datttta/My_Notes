@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. sleepers
+1. slippers
 
 === *Nuevas Palabras* ===
 
