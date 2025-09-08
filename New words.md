@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. slippers
+1. 
 
 === *Nuevas Palabras* ===
 
@@ -10,36 +10,17 @@
 4. esquiladas
 5. bufanda
 6. adelantar
-7. tejer
-8. paño
-9. ahorrar
-10. espinas
-11. sustanciosa
-12. cálidas
-13. jersey
-14. mármol
-15. recoger
-16. calcetines
-17. mantendrá
-18. hirviendo
-19. pegar
-20. tormenta
-21. huerto
-22. saludable
-23. cinta    
-24. ratones
-25. centro comercial
-26. alfalfa
-27. dactilares
-28. luces
-29. remolacha
-30. ardillas
-31. águilas
-32. fresa
-33. rastros
-34. jabón
-35. queden
-36. suciedad
-37. Extendí - spread
-38. pechos
-39. chismes
+7. bienvenida
+8. desarrollado
+9. tejer
+10. paño
+11. ahorrar
+12. espinas
+13. sustanciosa
+14. cálidas
+15. jersey
+16. mármol
+17. recoger
+18. calcetines
+19. mantendrá
+20.  w
