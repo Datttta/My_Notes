@@ -1,16 +1,15 @@
 === *New words* ===
 
-1. hob - encimera
-2. hallway
-3. preserves
+1. sleepers
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. merino
-3. esquiladas
-4. bufanda
-5. adelantar
+2. cometa
+3. merino
+4. esquiladas
+5. bufanda
+6. adelantar
 7. tejer
 8. paño
 9. ahorrar
