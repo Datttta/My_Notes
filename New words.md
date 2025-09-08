@@ -42,3 +42,4 @@
 36. suciedad
 37. Extendí - spread
 38. pechos
+39. chismes
