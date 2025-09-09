@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. notice - The government will maintain the security measures until further notice.
+1.  
 
 === *Nuevas Palabras* ===
 
