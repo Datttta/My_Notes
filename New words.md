@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. to darn
+1. larping
 
 === *Nuevas Palabras* ===
 
