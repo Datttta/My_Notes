@@ -1,37 +1,40 @@
 === *New words* ===
 
-1. 
+1. stove burner
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. alfombras
-3. blandito
-4. cuallo
-5. huele
-6. hundiendo
-7. apuraté
-8. latir
-9. hostia
-10. ostras
-11. sábana
-12. asegurarlo
-13. cocción
-14. campanadas
-15. manta
-16. calcetín
-17. arena
-18. soplaba
-19. guarnición
-20. aguja
-21. clavo
-22. vacuna
-23. hondos
-24. arreglarla
-25. eche
-26. hervir
-27. silbó
-28. estufa
-29. hornilla
-30. guantes
-31. harina
+2. calentándose
+3. panadero
+4. Espolvorea   
+5. alfombras
+6. blandito
+7. cuallo
+8. huele
+9. hundiendo
+10. apuraté
+11. latir
+12. hostia
+13. ostras
+14. sábana
+15. asegurarlo
+16. cocción
+17. campanadas
+18. manta
+19. calcetín
+20. arena
+21. soplaba
+22. guarnición
+23. aguja
+24. clavo
+25. vacuna
+26. hondos
+27. arreglarla
+28. eche
+29. hervir
+30. silbó
+31. estufa
+32. 
+33. 
+34. 
