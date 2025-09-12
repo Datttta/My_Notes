@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. larping
+2. indistinctly
 
 === *Nuevas Palabras* ===
 
