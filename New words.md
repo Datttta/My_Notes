@@ -1,40 +1,45 @@
 === *New words* ===
 
 1. stove burner
+2. garnish
+3. side dish
+4. trimming
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. calentándose
-3. panadero
-4. Espolvorea   
-5. alfombras
-6. blandito
-7. cuallo
-8. huele
-9. hundiendo
-10. apuraté
-11. latir
-12. hostia
-13. ostras
-14. sábana
-15. asegurarlo
-16. cocción
-17. campanadas
-18. manta
-19. calcetín
-20. arena
-21. soplaba
-22. guarnición
-23. aguja
-24. clavo
-25. vacuna
-26. hondos
-27. arreglarla
-28. eche
-29. hervir
-30. silbó
-31. estufa
-32. 
-33. 
-34. 
+2. palanca
+3. muelas
+4. molido
+5. hilo
+6. jeringuilla
+7. brújula
+8. perejil
+9. chai
+10. fijar
+11. leyenda
+12. castillos
+13. ante
+14. toros
+15. ponche
+16. llanta
+17. Martillé
+18. pozos
+19. romper
+20. tarjetas
+21. Ojalá
+22. quemó
+23. calentándose
+24. panadero
+25. Espolvorea   
+26. alfombras
+27. blandito
+28. cuallo
+29. huele
+30. hundiendo
+31. apuraté
+32. latir
+33. hostia
+34. ostras
+35. sábana
+36. asegurarlo
