@@ -5,35 +5,45 @@
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. jarrón
-3. reglas
-4. frotándolas
-5. supiera
-6. postales 
-7. glas
-8. rallado
-9. fragua
-10. amasa
-11. colchón
-12. aspirar
-13. equipaje
-14. escaleras
-15. arrugó
-16. caigo
-17. palanca
-18. trimming
-19. muelas
-20. molido
-21. hilo
-22. jeringuilla
-23. brújula
-24. perejil
-25. chai
-26. fijar
-27. leyenda
-28. castillos
-29. ante
-30. toros
-31. ponche
-32. llanta
-33. Martillé
+2. frente - forehead
+3. marearás
+4. Dadme
+5. punzantes
+6. cartel
+7. majestuoso
+8. bordillo
+9. jarrón
+10. pinchó
+11. maletero
+12. desinfló
+13. reglas
+14. frotándolas
+15. supiera
+16. postales 
+17. glas
+18. rallado
+19. fragua
+20. amasa
+21. colchón
+22. aspirar
+23. equipaje
+24. escaleras
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
+31. 
+32. 
+33. 
+34. 
+35. 
+36. 
+37. 
+38. 
+39. 
+40.     
+41. 
+42. 
+43. 
