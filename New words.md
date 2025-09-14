@@ -1,29 +1,36 @@
 === *New words* ===
 
-1. whashed up
-2. double up 
+1. 
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. aerolínea
-3. desempacar
-4. frente - forehead
-5. marearás
-6. Dadme
-7. punzantes
-8. cartel
-9. majestuoso
-10. bordillo
-11. jarrón
-12. pinchó
-13. maletero
-14. desinfló
-15. reglas
-16. frotándolas
-17. supiera
-18. postales 
-19. glas
-20. rallado
-21. fragua
-22. amasa
+2. tijeras
+3. pie
+4. Desecha
+5. espina
+6. taller
+7. Pegamos
+8. ruedas
+9. regalaron
+10. abeja
+11. brazo
+12. muestra
+13. neumático
+14. pinchazo
+15. espacioso
+16. atascó
+17. globo
+18. broma
+19. colchoneta
+20. balón
+21. césped
+22. cáscaraf
+23. hormiguero
+24. moldearla
+25. arcilla
+26. herrero
+27. aerolínea
+28. desempacar
+29. frente - forehead
+30. marearás
