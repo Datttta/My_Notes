@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. whashed up
+2. double up 
 
 === *Nuevas Palabras* ===
 
