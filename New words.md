@@ -5,32 +5,48 @@
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. tijeras
-3. pie
-4. Desecha
-5. espina
-6. taller
-7. Pegamos
-8. ruedas
-9. regalaron
-10. abeja
-11. brazo
-12. muestra
-13. neumático
-14. pinchazo
-15. espacioso
-16. atascó
-17. globo
-18. broma
-19. colchoneta
-20. balón
-21. césped
-22. cáscaraf
-23. hormiguero
-24. moldearla
-25. arcilla
-26. herrero
-27. aerolínea
-28. desempacar
-29. frente - forehead
-30. marearás
+2. portero
+3. pateó
+4. baloncesto
+5. rocas
+6. vasijas
+7. agriete
+8. deseada
+9. arreglaba    
+10. pasajeros
+11. ayuntamiento
+12. sudor
+13. fiebre
+14. arruga
+15. herida
+16. aparcado
+17. frunció
+18. tijeras
+19. pie
+20. Desecha
+21. espina
+22. taller
+23. Pegamos
+24. ruedas
+25. regalaron
+26. abeja
+27. brazo
+28. muestra
+29. neumático
+30. pinchazo
+31. espacioso
+32. atascó
+33. globo
+34. broma
+35. 
+36. 
+37. 
+38.  
+39. 
+40. 
+41. 
+42. 
+43. 
+44. 
+45. 
+46. 
