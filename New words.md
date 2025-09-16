@@ -7,50 +7,30 @@
 1. desagüe
 2. portero
 3. delantero
-4. ceño
-5. sastre
-6. enyesado
-7. manualidades
-8. atorada
-9. tela
-10. podridas
-11. alcalde
-12. pantalón
-13. Plancha
-14. todavía
-15. caducidad
-16. pateó
-17. aceite
-18. baloncesto
-19. rocas
-20. carretilla
-21. goma
-22. rotas
-23. vasijas
-24. recolecta
-25. jardínaba
-26. colmena
-27. agriete
-28. flotando
-29. alineadas
-30. vestíbulo
-31. terráqueo
-32. deseada
-33. arreglaba    
-34. pasajeros
-35. 
-36. 
-37. 
-38. 
-39. 
-40. 
-41. 
-42. 
-43. 
-44. 
-45. 
-46. 
-47. 
-48. 
-49. 
-50. 
+4. aterrizó
+5. ceño
+6. sastre
+7. enyesado
+8. manualidades
+9. atorada
+10. tela
+11. podridas
+12. alcalde
+13. pantalón
+14. Plancha
+15. todavía
+16. caducidad
+17. pateó
+18. aceite
+19. baloncesto
+20. rocas
+21. carretilla
+22. goma
+23. rotas
+24. vasijas
+25. recolecta
+26. jardínaba
+27. colmena
+28. agriete
+29. flotando
+30. alineadas
