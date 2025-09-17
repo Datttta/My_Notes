@@ -2,6 +2,7 @@
 
 1. shake up
 2. fable
+3. self-rightous
 
 === *Nuevas Palabras* ===
 
