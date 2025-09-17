@@ -1,36 +1,39 @@
 === *New words* ===
 
-1. 
+1. chap - agrietar
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. portero
-3. delantero
-4. aterrizó
-5. ceño
-6. sastre
-7. enyesado
-8. manualidades
-9. atorada
-10. tela
-11. podridas
-12. alcalde
-13. pantalón
-14. Plancha
-15. todavía
-16. caducidad
-17. pateó
-18. aceite
-19. baloncesto
-20. rocas
-21. carretilla
-22. goma
-23. rotas
-24. vasijas
-25. recolecta
-26. jardínaba
-27. colmena
-28. agriete
-29. flotando
-30. alineadas
+2. estanque
+3. imágenes
+4. estantería
+5. portero
+6. delantero
+7. aterrizó
+8. ceño
+9. sastre
+10. enyesado
+11. manualidades
+12. atorada
+13. tela
+14. podridas
+15. alcalde
+16. pantalón
+17. Plancha
+18. todavía
+19. caducidad
+20. pateó
+21. aceite
+22. baloncesto
+23. rocas
+24. carretilla
+25. goma
+26. rotas
+27. vasijas
+28. recolecta
+29. jardínaba
+30. colmena
+31. 
+32. 
+33. 
