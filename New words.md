@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. shake up
-2. fable
-3. self-rightous
+1. 
 
 === *Nuevas Palabras* ===
 
