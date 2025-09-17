@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. shake up
+2. fable
 
 === *Nuevas Palabras* ===
 
