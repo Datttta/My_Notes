@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. chap - agrietar
-2. gaskets
-3. cuisine
+1.
 
 === *Nuevas Palabras* ===
 
