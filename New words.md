@@ -4,6 +4,7 @@
 2. screening
 3. holed up
 4. ward off
+5. lieu
 
 === *Nuevas Palabras* ===
 
