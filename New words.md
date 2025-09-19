@@ -1,36 +1,41 @@
 === *New words* ===
 
-1.
+1. wallow
 
 === *Nuevas Palabras* ===
 
 1. desagüe
-2. satelitales
-3. mariposas
-4. bombilla
-5. crujientes
-6. muñeca
-7. atrapó - catch
-8. descomponer
-9. atajó
-10. anotó
-11. desaprobación
-12. alisó
-13. fractura
-14. Llevaré
-15. firmaron
-16. pegamento
-17. feria
-18. amarillentas
-19. grasosa
-20. alquiler 
-21. portería
-22. suelas
-23. abono
-24. amortiguación
-25. ladrillos
-26. planchado
-27. encogió
-28. brillaba
-29. ligeras
-30. acortarlo
+2. sequía
+3. antorchas
+4. plumas
+5. temblor
+6. tendremos
+7. satelitales
+8. mariposas
+9. bombilla
+10. crujientes
+11. muñeca
+12. atrapó - catch
+13. descomponer
+14. atajó
+15. anotó
+16. desaprobación
+17. alisó
+18. fractura
+19. Llevaré
+20. firmaron
+21. pegamento
+22. feria
+23. amarillentas
+24. grasosa
+25. alquiler 
+26. portería
+27. suelas
+28. abono
+29. amortiguación
+30. 
+31. 
+32. 
+33. 
+34. 
+35. 
