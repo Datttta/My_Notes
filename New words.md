@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. wallow
+2. screening
 
 === *Nuevas Palabras* ===
 
