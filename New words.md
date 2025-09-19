@@ -2,6 +2,7 @@
 
 1. wallow
 2. screening
+3. holed up
 
 === *Nuevas Palabras* ===
 
