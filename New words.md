@@ -3,6 +3,7 @@
 1. wallow
 2. screening
 3. holed up
+4. ward off
 
 === *Nuevas Palabras* ===
 
