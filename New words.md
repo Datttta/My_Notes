@@ -1,10 +1,6 @@
 === *New words* ===
 
-1. wallow
-2. screening
-3. holed up
-4. ward off
-5. lieu
+1. 
 
 ==*Nuevas Palabras* ===
 
