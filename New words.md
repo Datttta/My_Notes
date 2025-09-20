@@ -22,4 +22,3 @@
 16. flota
 17. albañil
 18. rodillo
-19. termofusible
