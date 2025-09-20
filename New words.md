@@ -5,25 +5,21 @@
 ==*Nuevas Palabras* ===
 
 1. desagüe
-2. albañil
-3. rodillo
-4. termofusible
-5. artesanías
-6. novelas
-7. dueño
-8. florezcan
-9. sequía
-10. antorchas
-11. plumas
-12. temblor
-13. tendremos
-14. satelitales
-15. mariposas
-16. bombilla
-17. crujientes
-18. muñeca
-19. atrapó - catch
-20. descomponer
-21. atajó
-22. anotó
-23. desaprobación
+2. granja
+3. oruga
+4. red
+5. Hicimos
+6. oscuras
+7. peinaba  
+8. renunciaba
+9. volviera
+10. fuga
+11. tiro
+12. diste
+13. trato
+14. mueca
+15. disgusto
+16. flota
+17. albañil
+18. rodillo
+19. termofusible
