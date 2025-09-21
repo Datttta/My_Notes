@@ -5,23 +5,16 @@
 ==*Nuevas Palabras* ===
 
 1. desagüe
-2. amena
-3. recuento
-4. estirar
-5. granja
-6. oruga
-7. red
-8. Hicimos
-9. oscuras
-10. peinaba  
-11. renunciaba
-12. volviera
-13. fuga
-14. tiro
-15. diste
-16. trato
-17. mueca
-18. disgusto
-19. flota
-20. albañil
-21. rodillo
+2. peces
+3. tejió
+4. cancha
+5. carrera
+6. frustró
+7. ejecutaran
+8. compañía
+9. plomero  
+10. payaso
+11. informe
+12. amena
+13. recuento
+14. estirar
