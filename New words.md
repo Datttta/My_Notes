@@ -5,16 +5,17 @@
 ==*Nuevas Palabras* ===
 
 1. desagüe
-2. peces
-3. tejió
-4. cancha
-5. carrera
-6. frustró
-7. ejecutaran
-8. compañía
-9. plomero  
-10. payaso
-11. informe
-12. amena
-13. recuento
-14. estirar
+2. arrastró
+3. peces
+4. tejió
+5. cancha
+6. carrera
+7. frustró
+8. ejecutaran
+9. compañía
+10. plomero  
+11. payaso
+12. informe
+13. amena
+14. recuento
+15. estirar
