@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. thwarted
+2. exude
 
 ==*Nuevas Palabras* ===
 
