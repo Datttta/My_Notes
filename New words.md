@@ -1,21 +1,23 @@
 === *New words* ===
 
-1. 
+1. thwarted
 
 ==*Nuevas Palabras* ===
 
 1. desagüe
-2. arrastró
-3. peces
-4. tejió
-5. cancha
-6. carrera
-7. frustró
-8. ejecutaran
-9. compañía
-10. plomero  
-11. payaso
-12. informe
-13. amena
-14. recuento
-15. estirar
+2. trucos
+3. salvaje
+4. bienestar
+5. arrecife
+6. atajada
+7. ningún lado
+8. El hecho
+9. ingenieros
+10. pruebas
+11. búsqueda
+12. asesino
+13. presupuesto
+14. viniera
+15. tubería
+16. maquillaje
+17. función
