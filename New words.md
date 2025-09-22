@@ -2,6 +2,7 @@
 
 1. thwarted
 2. exude
+3. heap
 
 ==*Nuevas Palabras* ===
 
