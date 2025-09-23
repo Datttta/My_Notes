@@ -1,11 +1,10 @@
 === *New words* ===
 
-1. 
+1. reef
 
 ==*Nuevas Palabras* ===
 
 1. desagüe
-2. reef
 3. pudimos
 4. buzo
 5. contestado   
@@ -21,9 +20,9 @@
 15. desatascar
 16. exponer
 17. útiles
-18. trucos
-19. salvaje
-20. bienestar
+18. 
+19. 
+20. 
 21. 
 22. 
 23.     
