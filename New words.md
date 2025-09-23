@@ -5,35 +5,20 @@
 ==*Nuevas Palabras* ===
 
 1. desagüe
-3. pudimos
-4. buzo
-5. contestado   
-6. suceso
-7. junta
-8. enmascarado
-9. charla
-10. boda
-11. chequeo
-12. oxidada
-13. alcantarillado
-14. aislada
-15. desatascar
-16. exponer
-17. útiles
-18. 
-19. 
-20. 
-21. 
-22. 
-23.     
-24. 
-25. 
-26.     
-27. 
-28. 
-29. f
-30. 
-31. 
-32. 
-33. 
-34. 
+2. asombrados
+3. falla
+4. pudimos
+5. buzo
+6. contestado   
+7. suceso
+8. junta
+9. enmascarado
+10. charla
+11. boda
+12. chequeo
+13. oxidada
+14. alcantarillado
+15. aislada
+16. desatascar
+17. exponer
+18. útiles
