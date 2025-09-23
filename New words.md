@@ -1,29 +1,40 @@
 === *New words* ===
 
-1. thwarted
-2. exude
-3. heap
-4. just in
-5. glide
-6. significant
+1. 
 
 ==*Nuevas Palabras* ===
 
 1. desagüe
-2. trucos
-3. salvaje
-4. bienestar
-5. arrecife
-6. atajada
-7. ningún lado
-8. El hecho
-9. ingenieros
-10. pruebas
-11. búsqueda
-12. asesino
-13. presupuesto
-14. viniera
-15. tubería
-16. maquillaje
-17. función
-18. planes
+2. reef
+3. pudimos
+4. buzo
+5. contestado   
+6. suceso
+7. junta
+8. enmascarado
+9. charla
+10. boda
+11. chequeo
+12. oxidada
+13. alcantarillado
+14. aislada
+15. desatascar
+16. exponer
+17. útiles
+18. trucos
+19. salvaje
+20. bienestar
+21. 
+22. 
+23.     
+24. 
+25. 
+26.     
+27. 
+28. 
+29. f
+30. 
+31. 
+32. 
+33. 
+34. 
