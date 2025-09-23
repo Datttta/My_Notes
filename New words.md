@@ -4,6 +4,7 @@
 2. exude
 3. heap
 4. just in
+5. glide
 
 ==*Nuevas Palabras* ===
 
