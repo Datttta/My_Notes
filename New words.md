@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. reef
-2. strafe
-3. cornered
+1. 
 
 ==*Nuevas Palabras* ===
 
