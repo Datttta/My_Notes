@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. reef
+2. strafe
 
 ==*Nuevas Palabras* ===
 
