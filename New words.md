@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. sewerage
+2. subject
 
 ==*Nuevas Palabras* ===
 
