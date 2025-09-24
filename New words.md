@@ -8,7 +8,7 @@
 1. flujo
 2. detuvo
 3. apagón
-4. cancha
+4. cancha 
 5. inspecciona
 6. noticiero
 7. conmocionada
@@ -30,3 +30,4 @@
 23. involucraba
 24. desagüe
 25. estropea
+26. asignatura 
