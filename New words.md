@@ -1,35 +1,31 @@
 === *New words* ===
 
-1. 
+1. sewerage
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. grasa
-3. televisor
-4. canales
-5. cerradura
-6. grúa
-7. inodoro
-8. fontanero
-9. riesgos
-10. involucraba
-11. desagüe
-12. estropea
-13. asombrados
-14. falla
-15. pudimos
-16. buzo
-17. contestado   
-18. suceso
-19. junta
-20. enmascarado
-21. charla
-22. boda
-23. chequeo
-24. oxidada
-25. alcantarillado
-26. 
-27. 
-28. 
-29. 
+2. detuvo
+3. apagón
+4. cancha
+5. inspecciona
+6. noticiero
+7. conmocionada
+8. corcho
+9. experto
+10. pareja
+11. civil
+12. insoportable
+13. candado
+14. grasa
+15. televisor
+16. canales
+17. cabaña
+18. cerradura
+19. grúa
+20. inodoro
+21. fontanero
+22. riesgos
+23. involucraba
+24. desagüe
+25. estropea
