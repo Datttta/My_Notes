@@ -5,28 +5,21 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. detuvo
-3. apagón
-4. cancha 
-5. inspecciona
-6. noticiero
-7. conmocionada
-8. corcho
-9. experto
-10. pareja
-11. civil
-12. insoportable
-13. candado
-14. grasa
-15. televisor
-16. canales
-17. cabaña
-18. cerradura
-19. grúa
-20. inodoro
-21. fontanero
-22. riesgos
-23. involucraba
-24. desagüe
-25. estropea
-26. asignatura 
+2. al tanto
+3. sacacorchos
+4. enterarse
+5. extraño
+6. pertenencias
+7. taquilla
+8. cerditos
+9. chimenea
+10. candado
+11. estropeó
+12. calificada
+13. rascacielos
+14. festejado
+15. lavabo
+16. actitud
+17. detuvo
+18. apagón
+19. cancha 
