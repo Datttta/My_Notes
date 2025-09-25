@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. sewerage
-2. subject
-3. boned ( I know I boned this )
+1. 
 
 ==*Nuevas Palabras* ===
 
