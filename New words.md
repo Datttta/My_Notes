@@ -1,25 +1,26 @@
 === *New words* ===
 
-1. 
+1. fault
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. al tanto
-3. sacacorchos
-4. enterarse
-5. extraño
-6. pertenencias
-7. taquilla
-8. cerditos
-9. chimenea
-10. candado
-11. estropeó
-12. calificada
-13. rascacielos
-14. festejado
-15. lavabo
-16. actitud
-17. detuvo
-18. apagón
-19. cancha 
+2. torneo
+3. al tanto
+4. sacacorchos
+5. enterarse
+6. extraño
+7. pertenencias
+8. taquilla
+9. cerditos
+10. chimenea
+11. candado
+12. estropeó
+13. calificada
+14. rascacielos
+15. festejado
+16. lavabo
+17. actitud
+18. detuvo
+19. 
+20.  
