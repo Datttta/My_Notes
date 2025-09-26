@@ -28,3 +28,4 @@
 20. guardaespaldas
 21. acercarse
 22. persecución
+23. corta
