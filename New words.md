@@ -6,31 +6,34 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. estropea
-3. aprendizaje
-4. se fue
-5. detenga
-6. sospechoso
-7. guardaespaldas
-8. acercarse
-9. persecución
-10. corta
-11. torneo
-12. al tanto
-13. sacacorchos
-14. enterarse
-15. extraño
-16. pertenencias
-17. taquilla
-18. cerditos
-19. chimenea
-20. candado
-21. estropeó
-22. calificada
-23. rascacielos
-24. festejado
-25. 
+2. sopló
+3. deseo - noun
+4. pinceles
+5. estropea
+6. aprendizaje
+7. se fue
+8. detenga
+9. sospechoso
+10. guardaespaldas
+11. acercarse
+12. persecución
+13. corta
+14. torneo
+15. al tanto
+16. sacacorchos
+17. enterarse
+18. extraño
+19. pertenencias
+20. taquilla
+21. cerditos
+22. chimenea
+23. candado
+24. estropeó
+25. calificada
 26. 
 27. 
 28. 
-29.  
+29. 
+30. 
+31. 
+32.  
