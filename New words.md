@@ -2,38 +2,29 @@
 
 1. fault (falla)
 2. washbasin
+3. locker
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. sopló
-3. deseo - noun
-4. pinceles
-5. estropea
-6. aprendizaje
-7. se fue
-8. detenga
-9. sospechoso
-10. guardaespaldas
-11. acercarse
-12. persecución
-13. corta
-14. torneo
-15. al tanto
-16. sacacorchos
-17. enterarse
-18. extraño
-19. pertenencias
-20. taquilla
-21. cerditos
-22. chimenea
-23. candado
-24. estropeó
-25. calificada
-26. 
-27. 
-28. 
-29. 
-30. 
-31. 
-32.  
+2. ronda
+3. atrajo
+4. cancelación
+5. pudiste
+6. correteaban
+7. deshollinador
+8. agujero
+9. calentarnos
+10. taquilla
+11. otorgará
+12. sopló
+13. deseo - noun
+14. pinceles
+15. estropea
+16. aprendizaje
+17. se fue
+18. detenga
+19. sospechoso
+20. guardaespaldas
+21. acercarse
+22. persecución
