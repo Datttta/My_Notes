@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. fault
+1. fault (falla)
 
 ==*Nuevas Palabras* ===
 
