@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. fault (falla)
-2. washbasin
-3. locker
+1. 
 
 ==*Nuevas Palabras* ===
 
