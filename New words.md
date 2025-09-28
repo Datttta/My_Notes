@@ -5,25 +5,27 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. ronda
-3. atrajo
-4. cancelación
-5. pudiste
-6. correteaban
-7. deshollinador
-8. agujero
-9. calentarnos
-10. taquilla
-11. otorgará
-12. sopló
-13. deseo - noun
-14. pinceles
-15. estropea
-16. aprendizaje
-17. se fue
-18. detenga
-19. sospechoso
-20. guardaespaldas
-21. acercarse
-22. persecución
-23. corta
+2. hueso
+3. estiramiento
+4. clausura
+5. hoguera
+6. juez
+7. basándose
+8. burbuja
+9. bocina
+10. silbato
+11. paja
+12. enfriarla
+13. guardia
+14. empinada
+15. duela
+16. enojado
+17. gira
+18. saliera
+19. acordonada
+20. ladró
+21. testigos
+22. ronda
+23. atrajo
+24. cancelación
+25. pudiste
