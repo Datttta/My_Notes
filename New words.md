@@ -1,31 +1,35 @@
 === *New words* ===
 
-1. 
+1. cordoned off
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. hueso
-3. estiramiento
-4. clausura
-5. hoguera
-6. juez
-7. basándose
-8. burbuja
-9. bocina
-10. silbato
-11. paja
-12. enfriarla
-13. guardia
-14. empinada
-15. duela
-16. enojado
-17. gira
-18. saliera
-19. acordonada
-20. ladró
-21. testigos
-22. ronda
-23. atrajo
-24. cancelación
-25. pudiste
+2. testimonio
+3. boxeo
+4. antelación
+5. enterar
+6. hueso
+7. estiramiento
+8. clausura
+9. hoguera
+10. juez
+11. basándose
+12. burbuja
+13. bocina
+14. silbato
+15. paja
+16. enfriarla
+17. guardia
+18. empinada
+19. duela
+20. enojado
+21. gira
+22. saliera
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
