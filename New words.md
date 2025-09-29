@@ -1,31 +1,46 @@
 === *New words* ===
 
-1.
+1. tap into
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. desternillate
-3. hilarante
-4. trochante
-5. hijos
-6. explotar
-7. recopilados
-8. peatón
-9. gente
-10. cuello
-11. ahogues
-12. envasarla
-13. procesión
-14. cremallera
-15. ático
-16. inyección    
-17. ley
-18. permiso
-19. boxeo
-20. antelación
-21. enterar
-22. hueso
-23. estiramiento
-24. clausura
-25. hoguera
+2. demandada
+3. paso de cebra
+4. cabestrillo
+5. perlas
+6. huecos
+7. bajar (go down)
+8. vacunación
+9. asaltos
+10. estreno
+11. suscripción
+12. ayuntamiento
+13. incumplir
+14. espalda
+15. garantizó
+16. Encendimos
+17. desternillate
+18. hilarante
+19. trochante
+20. hijos
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
+31.     
+32. 
+33. 
+34. 
+35. 
+36. 
+37. 
+38. 
+39. 
+40. 
