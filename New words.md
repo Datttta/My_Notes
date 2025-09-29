@@ -1,7 +1,6 @@
 === *New words* ===
 
-1. cordoned off
-2. roped off
+1.
 
 ==*Nuevas Palabras* ===
 
