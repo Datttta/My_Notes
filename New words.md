@@ -5,23 +5,14 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. varón
-3. concebir
-4. demandada
-5. paso de cebra
-6. cabestrillo
-7. perlas
-8. huecos
-9. bajar (go down)
-10. vacunación
-11. asaltos
-12. estreno
-13. suscripción
-14. ayuntamiento
-15. incumplir
-16. espalda
-17. garantizó
-18. Encendimos
-19. desternillate
-20. hilarante
-21. trochante
+2. hará
+3. costosas
+4. sumergió
+5. rellenó
+6. incremento
+7. pelea
+8. reseña
+9. cualquiera
+10. defectos
+11. guion
+12. varón
