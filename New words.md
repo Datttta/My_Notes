@@ -1,7 +1,6 @@
 === *New words* ===
 
-1. tap into
-2. fiery
+1.
 
 ==*Nuevas Palabras* ===
 
