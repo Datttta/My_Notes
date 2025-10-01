@@ -8,7 +8,8 @@
 2. ayuno
 3. desapercebido
 4. amañada
-5. cineasta
-6. majísima
-7. inversión
-8. fachada
+5. trampa
+6. cineasta
+7. majísima
+8. inversión
+9. fachada
