@@ -1,18 +1,25 @@
 === *New words* ===
 
-1. swirl
+1. filled out
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. hará
-3. costosas
-4. sumergió
-5. rellenó
-6. incremento
-7. pelea
-8. reseña
-9. cualquiera
-10. defectos
-11. guion
-12. varón
+2. cualquiera
+3. custar
+4. boleto
+5. aconsejó
+6. luchador     
+7. sano
+8. herencia
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15.     
+16. 
+17. 
+18.     
+19. 
