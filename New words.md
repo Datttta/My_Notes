@@ -5,12 +5,13 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. ayuno
-3. desapercebido
-4. amañada
-5. trampa
-6. plagada
-7. cineasta 
-8. majísima
-9. inversión
-10. fachada
+2. pelotas
+3. ayuno
+4. desapercebido
+5. amañada
+6. trampa
+7. plagada
+8. cineasta 
+9. majísima
+10. inversión
+11. fachada
