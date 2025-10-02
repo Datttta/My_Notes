@@ -9,15 +9,16 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. parpadeaba
-3. tablero
-4. faro
-5. hierba
-6. cordero
-7. cárcel
-8. deudas
-9. rodaje
-10. contraseña
-11. peinado
-12. tendió
-13. intermitente
+2. cientos
+3. parpadeaba
+4. tablero
+5. faro
+6. hierba
+7. cordero
+8. cárcel
+9. deudas
+10. rodaje
+11. contraseña
+12. peinado
+13. tendió
+14. intermitente
