@@ -5,14 +5,15 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. pelotas
-3. aputatelo
-4. ayuno
-5. desapercebido
-6. amañada
-7. trampa
-8. plagada
-9. cineasta 
-10. majísima
-11. inversión
-12. fachada
+2. amplia
+3. pelotas
+4. aputatelo
+5. ayuno
+6. desapercebido
+7. amañada
+8. trampa
+9. plagada
+10. cineasta 
+11. majísima
+12.     
+13. 
