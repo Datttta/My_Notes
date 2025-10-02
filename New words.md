@@ -6,12 +6,13 @@
 
 1. flujo
 2. pelotas
-3. ayuno
-4. desapercebido
-5. amañada
-6. trampa
-7. plagada
-8. cineasta 
-9. majísima
-10. inversión
-11. fachada
+3. aputatelo
+4. ayuno
+5. desapercebido
+6. amañada
+7. trampa
+8. plagada
+9. cineasta 
+10. majísima
+11. inversión
+12. fachada
