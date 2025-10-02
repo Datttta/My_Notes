@@ -9,7 +9,8 @@
 3. desapercebido
 4. amañada
 5. trampa
-6. cineasta
-7. majísima
-8. inversión
-9. fachada
+6. plagada
+7. cineasta 
+8. majísima
+9. inversión
+10. fachada
