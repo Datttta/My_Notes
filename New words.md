@@ -9,28 +9,33 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. hierba
-3. cordero
-4. cárcel
-5. deudas
-6. rodaje
-7. contraseña
-8. intermitente
-9. peinado
-10. 
-11. 
-12.   
-13. 
+2. parpadeaba
+3. tablero
+4. faro
+5. hierba
+6. cordero
+7. cárcel
+8. deudas
+9. rodaje
+10. contraseña
+11. peinado
+12. tendió
+13. intermitente
 14. 
 15. 
 16. 
-17. 
+17.   
 18. 
 19. 
-20.     
+20. 
 21. 
 22. 
-23.  
+23. 
 24. 
 25.     
 26. 
+27. 
+28.  
+29. 
+30.     
+31. 
