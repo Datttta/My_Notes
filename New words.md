@@ -1,10 +1,6 @@
 === *New words* ===
 
-1. fixed - rigged
-2. fasting
-3. swindling
-4. ]defraud
-5. tender - public tender
+1. 
 
 ==*Nuevas Palabras* ===
 
