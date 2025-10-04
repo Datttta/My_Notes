@@ -16,4 +16,5 @@
 10. relajante
 11. ascienden
 12. acreedores
-13. a cabo  
+13. a cabo
+14. detener
