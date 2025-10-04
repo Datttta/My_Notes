@@ -1,24 +1,26 @@
 === *New words* ===
 
-1. 
+1. creditors
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. demoteo
-3. traspiéses
-4. suspenso - peliculas
-5. excursionista
-6. aún
-7. invitadas
-8. frugalidad
-9. soledad
-10. haya
-11. alberga
-12. escalones
-13. relajante
-14. ascienden
-15. acreedores
-16. a cabo
-17. detener
-18. achar - tradução
+2. dilo
+3. prisa
+4. demoteo
+5. traspiéses
+6. suspenso - peliculas
+7. excursionista
+8. aún
+9. invitadas
+10. frugalidad
+11. soledad
+12. haya
+13. alberga
+14. escalones
+15. relajante
+16. ascienden
+17. 
+18. 
+19. 
+20. 
