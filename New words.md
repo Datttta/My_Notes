@@ -5,18 +5,20 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. traspiéses
-3. suspenso - peliculas
-4. excursionista
-5. aún
-6. invitadas
-7. frugalidad
-8. soledad
-9. haya
-10. alberga
-11. escalones
-12. relajante
-13. ascienden
-14. acreedores
-15. a cabo
-16. detener
+2. demoteo
+3. traspiéses
+4. suspenso - peliculas
+5. excursionista
+6. aún
+7. invitadas
+8. frugalidad
+9. soledad
+10. haya
+11. alberga
+12. escalones
+13. relajante
+14. ascienden
+15. acreedores
+16. a cabo
+17. detener
+18. achar - tradução
