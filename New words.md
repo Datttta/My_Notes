@@ -1,22 +1,19 @@
 === *New words* ===
 
-1. 
+1. thrift
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. hambriento
-3. paradoja
-4. cientos
-5. parpadeaba
-6. tablero
-7. faro
-8. hierba
-9. cordero
-10. cárcel
-11. deudas
-12. rodaje
-13. contraseña
-14. peinado
-15. tendió
-16. intermitente
+2. excursionista
+3. aún
+4. invitadas
+5. frugalidad
+6. soledad
+7. haya
+8. alberga
+9. escalones
+10. relajante
+11. ascienden
+12. acreedores
+13. a cabo  
