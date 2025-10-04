@@ -5,22 +5,21 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. dilo
-3. prisa
-4. demoteo
-5. traspiéses
-6. suspenso - peliculas
-7. excursionista
-8. aún
-9. invitadas
-10. frugalidad
-11. soledad
-12. haya
-13. alberga
-14. escalones
-15. relajante
-16. ascienden
-17. 
-18. 
-19. 
-20. 
+2. borde
+3. cercanas
+4. adecuado
+5. advirtió
+6. restricciones
+7. aforo
+8. jubilarse
+9. invaluable
+10. mitad
+11. aliento
+12. olas
+13. cifra
+14. deuda
+15. bancarrota
+16. dilo
+17. prisa
+18. demoteo
+19. traspiéses
