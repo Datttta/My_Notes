@@ -6,17 +6,18 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. embalse
-3. desbordamientos
-4. abrumador
-5. anciana
-6. mejilla
-7. tasa
-8. prestaciones
-9. estadística
-10. desarrollara
-11. predecir
-12. fallos
-13. acantilado
-14. impone
-15. redujeron
+2. barajaron 
+3. embalse
+4. desbordamientos
+5. abrumador
+6. anciana
+7. mejilla
+8. tasa
+9. prestaciones
+10. estadística
+11. desarrollara
+12. predecir
+13. fallos
+14. acantilado
+15. impone
+16. redujeron
