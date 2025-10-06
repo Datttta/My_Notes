@@ -1,11 +1,6 @@
 === *New words* ===
 
-1. creditors
-2. catching strays
-3. in regards
-4. purview
-5. sap
-6. gruff
+1. 
 
 ==*Nuevas Palabras* ===
 
