@@ -4,6 +4,8 @@
 2. catching strays
 3. in regards
 4. purview
+5. sap
+6. gruff
 
 ==*Nuevas Palabras* ===
 
