@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. creditors
+2. catching strays
 
 ==*Nuevas Palabras* ===
 
