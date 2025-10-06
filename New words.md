@@ -21,3 +21,4 @@
 14. acantilado
 15. impone
 16. redujeron
+17. preciso - tradução
