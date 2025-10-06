@@ -3,6 +3,7 @@
 1. creditors
 2. catching strays
 3. in regards
+4. perview
 
 ==*Nuevas Palabras* ===
 
