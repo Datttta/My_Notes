@@ -2,6 +2,7 @@
 
 1. mallet
 2. gavel
+3. harnesses - harnesses it
 
 ==*Nuevas Palabras* ===
 
