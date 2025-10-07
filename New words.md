@@ -3,6 +3,8 @@
 1. mallet
 2. gavel
 3. harnesses - harnesses it
+4. infinitesimally
+5. decree (final decree)
 
 ==*Nuevas Palabras* ===
 
