@@ -1,10 +1,11 @@
 === *New words* ===
 
 1. mallet
-2. gavel
-3. harnesses - harnesses it
-4. infinitesimally
-5. decree (final decree)
+2. tablecloth
+3. gavel
+4. harnesses - harnesses it
+5. infinitesimally
+6. decree (final decree)
 
 ==*Nuevas Palabras* ===
 
