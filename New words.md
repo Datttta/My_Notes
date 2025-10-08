@@ -5,14 +5,16 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. Afortunadamente
-3. juguetón
-4. vendaje
-5. posponer
-6. jóvenes
-7. propuso
-8. diapositivas
-9. descendido
-10. presa
-11. apoyo
-12. beso
+2. salados
+3. Afortunadamente
+4. juguetón
+5. vendaje
+6. posponer
+7. jóvenes
+8. propuso
+9. diapositivas
+10. descendido
+11. presa
+12. apoyo
+13. beso
+14. notice - tradução
