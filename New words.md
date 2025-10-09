@@ -5,13 +5,13 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. hacia el
-3. torcedura
-4. ladrillo
-5. teleobjetivo
-6. peluche
-7. gravedad
-8. afortunado
-9. salados
-10. Afortunadamente
-11. juguetón        
+3. multitud
+4. torcedura
+5. ladrillo
+6. teleobjetivo
+7. peluche
+8. gravedad
+9. afortunado
+10. salados
+11. Afortunadamente
+12. juguetón        
