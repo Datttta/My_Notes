@@ -1,16 +1,16 @@
 === *New words* ===
 
-1. timeframes - data
+1. 
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. ladrillo
-3. teleobjetivo
-4. peluche
-5. gravedad
-6. afortunado
-7. salados
-8. Afortunadamente
-9. juguetón
-10. vendaje
+2. torcedura
+3. ladrillo
+4. teleobjetivo
+5. peluche
+6. gravedad
+7. afortunado
+8. salados
+9. Afortunadamente
+10. juguetón        
