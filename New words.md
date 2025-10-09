@@ -1,17 +1,20 @@
 === *New words* ===
 
-1. 
+1. grumpy
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-3. multitud
-4. torcedura
-5. ladrillo
-6. teleobjetivo
-7. peluche
-8. gravedad
-9. afortunado
-10. salados
-11. Afortunadamente
-12. juguetón        
+2. cachorro
+3. tono
+4. delfín
+5. multitud
+6. torcedura
+7. ladrillo
+8. teleobjetivo
+9. peluche
+10. gravedad
+11. afortunado
+12. salados
+13. Afortunadamente
+14. colaciones
