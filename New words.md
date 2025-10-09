@@ -5,16 +5,12 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. salados
-3. Afortunadamente
-4. juguetón
-5. vendaje
-6. posponer
-7. jóvenes
-8. propuso
-9. diapositivas
-10. descendido
-11. presa
-12. apoyo
-13. beso
-14. notice - tradução
+2. ladrillo
+3. teleobjetivo
+4. peluche
+5. gravedad
+6. afortunado
+7. salados
+8. Afortunadamente
+9. juguetón
+10. vendaje
