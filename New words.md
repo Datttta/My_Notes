@@ -18,3 +18,4 @@
 12. salados
 13. Afortunadamente
 14. colaciones
+15. sounds - tradução
