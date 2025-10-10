@@ -19,3 +19,4 @@
 13. Afortunadamente
 14. colaciones
 15. sounds - [[tradução]]
+16. jergas
