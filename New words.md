@@ -14,20 +14,21 @@
 8. tiburones
 9. referido - dolor referido
 10. ballenas
-11. cachorro
-12. tono
-13. delfín
-14. multitud
-15. torcedura
-16. ladrillo
-17. teleobjetivo
-18. peluche
-19. gravedad
-20. afortunado
-21. salados
-22. Afortunadamente
-23. colaciones
-24. sounds - [[tradução]]
-25. jergas
-26. burbuja
-27. pillamos
+11. cucaracha
+12. cachorro
+13. tono
+14. delfín
+15. multitud
+16. torcedura
+17. ladrillo
+18. teleobjetivo
+19. peluche
+20. gravedad
+21. afortunado
+22. salados
+23. Afortunadamente
+24. colaciones
+25. sounds - [[tradução]]
+26. jergas
+27. burbuja
+28. pillamos
