@@ -21,3 +21,4 @@
 15. sounds - [[tradução]]
 16. jergas
 17. burbuja
+18. pillamos
