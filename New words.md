@@ -20,3 +20,4 @@
 14. colaciones
 15. sounds - [[tradução]]
 16. jergas
+17. burbuja
