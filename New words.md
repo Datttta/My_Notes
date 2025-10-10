@@ -17,20 +17,21 @@
 11. cucaracha
 12. albedrío
 13. humano - tradução
-14. cachorro
-15. tono
-16. delfín
-17. multitud
-18. torcedura
-19. ladrillo
-20. teleobjetivo
-21. peluche
-22. gravedad
-23. afortunado
-24. salados
-25. Afortunadamente
-26. colaciones
-27. sounds - [[tradução]]
-28. jergas
-29. burbuja
-30. pillamos
+14. presume
+15. cachorro
+16. tono
+17. delfín
+18. multitud
+19. torcedura
+20. ladrillo
+21. teleobjetivo
+22. peluche
+23. gravedad
+24. afortunado
+25. salados
+26. Afortunadamente
+27. colaciones
+28. sounds - [[tradução]]
+29. jergas
+30. burbuja
+31. pillamos
