@@ -9,20 +9,21 @@
 3. llanto
 4. enfadado
 5. chunga
-6. cachorro
-7. tono
-8. delfín
-9. multitud
-10. torcedura
-11. ladrillo
-12. teleobjetivo
-13. peluche
-14. gravedad
-15. afortunado
-16. salados
-17. Afortunadamente
-18. colaciones
-19. sounds - [[tradução]]
-20. jergas
-21. burbuja
-22. pillamos
+6. irse por las ramas
+7. cachorro
+8. tono
+9. delfín
+10. multitud
+11. torcedura
+12. ladrillo
+13. teleobjetivo
+14. peluche
+15. gravedad
+16. afortunado
+17. salados
+18. Afortunadamente
+19. colaciones
+20. sounds - [[tradução]]
+21. jergas
+22. burbuja
+23. pillamos
