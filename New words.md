@@ -12,20 +12,21 @@
 6. irse por las ramas
 7. débil
 8. tiburones
-9. cachorro
-10. tono
-11. delfín
-12. multitud
-13. torcedura
-14. ladrillo
-15. teleobjetivo
-16. peluche
-17. gravedad
-18. afortunado
-19. salados
-20. Afortunadamente
-21. colaciones
-22. sounds - [[tradução]]
-23. jergas
-24. burbuja
-25. pillamos
+9. referido - dolor referido
+10. cachorro
+11. tono
+12. delfín
+13. multitud
+14. torcedura
+15. ladrillo
+16. teleobjetivo
+17. peluche
+18. gravedad
+19. afortunado
+20. salados
+21. Afortunadamente
+22. colaciones
+23. sounds - [[tradução]]
+24. jergas
+25. burbuja
+26. pillamos
