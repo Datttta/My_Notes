@@ -6,20 +6,21 @@
 
 1. flujo
 2. langosta
-3. cachorro
-4. tono
-5. delfín
-6. multitud
-7. torcedura
-8. ladrillo
-9. teleobjetivo
-10. peluche
-11. gravedad
-12. afortunado
-13. salados
-14. Afortunadamente
-15. colaciones
-16. sounds - [[tradução]]
-17. jergas
-18. burbuja
-19. pillamos
+3. llanto
+4. cachorro
+5. tono
+6. delfín
+7. multitud
+8. torcedura
+9. ladrillo
+10. teleobjetivo
+11. peluche
+12. gravedad
+13. afortunado
+14. salados
+15. Afortunadamente
+16. colaciones
+17. sounds - [[tradução]]
+18. jergas
+19. burbuja
+20. pillamos
