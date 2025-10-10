@@ -18,20 +18,21 @@
 12. albedrío
 13. humano - tradução
 14. presume
-15. cachorro
-16. tono
-17. delfín
-18. multitud
-19. torcedura
-20. ladrillo
-21. teleobjetivo
-22. peluche
-23. gravedad
-24. afortunado
-25. salados
-26. Afortunadamente
-27. colaciones
-28. sounds - [[tradução]]
-29. jergas
-30. burbuja
-31. pillamos
+15. siquiera
+16. cachorro
+17. tono
+18. delfín
+19. multitud
+20. torcedura
+21. ladrillo
+22. teleobjetivo
+23. peluche
+24. gravedad
+25. afortunado
+26. salados
+27. Afortunadamente
+28. colaciones
+29. sounds - [[tradução]]
+30. jergas
+31. burbuja
+32. pillamos
