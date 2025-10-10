@@ -20,20 +20,21 @@
 14. presume
 15. siquiera
 16. estirado - es un estirado
-17. cachorro
-18. tono
-19. delfín
-20. multitud
-21. torcedura
-22. ladrillo
-23. teleobjetivo
-24. peluche
-25. gravedad
-26. afortunado
-27. salados
-28. Afortunadamente
-29. colaciones
-30. sounds - [[tradução]]
-31. jergas
-32. burbuja
-33. pillamos
+17. meando
+18. cachorro
+19. tono
+20. delfín
+21. multitud
+22. torcedura
+23. ladrillo
+24. teleobjetivo
+25. peluche
+26. gravedad
+27. afortunado
+28. salados
+29. Afortunadamente
+30. colaciones
+31. sounds - [[tradução]]
+32. jergas
+33. burbuja
+34. pillamos
