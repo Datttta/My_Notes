@@ -11,20 +11,21 @@
 5. chunga
 6. irse por las ramas
 7. débil
-8. cachorro
-9. tono
-10. delfín
-11. multitud
-12. torcedura
-13. ladrillo
-14. teleobjetivo
-15. peluche
-16. gravedad
-17. afortunado
-18. salados
-19. Afortunadamente
-20. colaciones
-21. sounds - [[tradução]]
-22. jergas
-23. burbuja
-24. pillamos
+8. tiburones
+9. cachorro
+10. tono
+11. delfín
+12. multitud
+13. torcedura
+14. ladrillo
+15. teleobjetivo
+16. peluche
+17. gravedad
+18. afortunado
+19. salados
+20. Afortunadamente
+21. colaciones
+22. sounds - [[tradução]]
+23. jergas
+24. burbuja
+25. pillamos
