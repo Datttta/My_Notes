@@ -5,20 +5,21 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. cachorro
-3. tono
-4. delfín
-5. multitud
-6. torcedura
-7. ladrillo
-8. teleobjetivo
-9. peluche
-10. gravedad
-11. afortunado
-12. salados
-13. Afortunadamente
-14. colaciones
-15. sounds - [[tradução]]
-16. jergas
-17. burbuja
-18. pillamos
+2. langosta
+3. cachorro
+4. tono
+5. delfín
+6. multitud
+7. torcedura
+8. ladrillo
+9. teleobjetivo
+10. peluche
+11. gravedad
+12. afortunado
+13. salados
+14. Afortunadamente
+15. colaciones
+16. sounds - [[tradução]]
+17. jergas
+18. burbuja
+19. pillamos
