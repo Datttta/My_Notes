@@ -5,21 +5,24 @@
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. letrero
-3. borracho
-4. excusas
-5. acechaba
-6. tobillo
-7. muñeca
-8. reportero
-9. conejo
-10. tejido
-11. oso - bear
-12. aperitivos
-13. yogur
-14. ajena
-15. langosta
-16. llanto
-17. enfadado
-18. chunga
-19. irse por las ramas
+2. manualidades
+3. trepar
+4. sacar fotos 
+5. letrero
+6. borracho
+7. excusas
+8. acechaba
+9. tobillo
+10. muñeca
+11. reportero
+12. conejo
+13. tejido
+14. oso - bear
+15. aperitivos
+16. yogur
+17. ajena
+18. langosta
+19. llanto
+20. enfadado
+21. chunga
+22. irse por las ramas
