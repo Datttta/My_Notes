@@ -31,51 +31,52 @@
 19. essay,el ensayo
 20. esbozar
 21. tele - tv
-22. tararear
-23. descansar - nap
-24. siesta
-25. contar cuentos
-26. montañismo
-27. flautín
-28. plaza de comida
-29. carros chocones
-30. el popcorn
-31. disfraz
-32. zanco
-33. el trapecio
-34. el mago
-35. manualidades
-36. trepar
-37. sacar fotos
-38. trotar
-39. actuar
-40. juntarse con amigos
-41. patinar
-42. brincar
-43. saltar a la pata coja
-44. el corre que te pillo
-45. las escondidas
-46. el columpio
-47. el cajón de arena
-48. jalar
-49. casa del árbol
-50. la noria
-51. el carrusel
-52. letrero
-53. borracho
-54. excusas
-55. acechaba
-56. tobillo
-57. muñeca
-58. reportero
-59. conejo
-60. tejido
-61. oso - bear
-62. aperitivos
-63. yogur
-64. ajena
-65. langosta
-66. llanto
-67. enfadado
-68. chunga
-69. irse por las ramas
+22. apuestas - gambling
+23. tararear
+24. descansar - nap
+25. siesta
+26. contar cuentos
+27. montañismo
+28. flautín
+29. plaza de comida
+30. carros chocones
+31. el popcorn
+32. disfraz
+33. zanco
+34. el trapecio
+35. el mago
+36. manualidades
+37. trepar
+38. sacar fotos
+39. trotar
+40. actuar
+41. juntarse con amigos
+42. patinar
+43. brincar
+44. saltar a la pata coja
+45. el corre que te pillo
+46. las escondidas
+47. el columpio
+48. el cajón de arena
+49. jalar
+50. casa del árbol
+51. la noria
+52. el carrusel
+53. letrero
+54. borracho
+55. excusas
+56. acechaba
+57. tobillo
+58. muñeca
+59. reportero
+60. conejo
+61. tejido
+62. oso - bear
+63. aperitivos
+64. yogur
+65. ajena
+66. langosta
+67. llanto
+68. enfadado
+69. chunga
+70. irse por las ramas
