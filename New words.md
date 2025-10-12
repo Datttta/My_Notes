@@ -1,6 +1,7 @@
 === *New words* ===
 
-1. sty  
+1. sty
+2. regaling
 
 ==*Nuevas Palabras* ===
 
