@@ -14,79 +14,90 @@
 1. flujo
 2. conceited,creído
 3. bullicioso
-4. monigote
-5. gimnasia
-6. monopatín
-7. nivel intermedio
-8. principiante
-9. equitación
-10. piratería
-11. diseñar
-12. pala
-13. componer
-14. travesura - prank
-15. bici - bike
-16. quehaceres
-17. mantenimiento
-18. intereses
-19. match,el partido
-20. ocio
-21. essay,el ensayo
-22. esbozar
-23. tele - tv
-24. apuestas - gambling
-25. billar - pool
-26. pedestrismo
-27. lectura
-28. colorear
-29. bajo - bass
-30. bronceado
-31. mancebo
-32. tararear
-33. descansar - nap
-34. siesta
-35. contar cuentos
-36. montañismo
-37. flautín
-38. plaza de comida
-39. carros chocones
-40. el popcorn
-41. disfraz
-42. zanco
-43. el trapecio
-44. el mago
-45. manualidades
-46. trepar
-47. sacar fotos
-48. trotar
-49. actuar
-50. juntarse con amigos
-51. patinar
-52. brincar
-53. saltar a la pata coja
-54. el corre que te pillo
-55. las escondidas
-56. el columpio
-57. el cajón de arena
-58. jalar
-59. casa del árbol
-60. la noria
-61. el carrusel
-62. letrero
-63. borracho
-64. excusas
-65. acechaba
-66. tobillo
-67. muñeca
-68. reportero
-69. conejo
-70. tejido
-71. oso - bear
-72. aperitivos
-73. yogur
-74. ajena
-75. langosta
-76. llanto
-77. enfadado
-78. chunga
-79. irse por las ramas
+4. mundano
+5. buena onda
+6. asustadizo
+7. regordete
+8. rellenito
+9. canoso
+10. sabroso
+11. temible
+12. ancho
+13. mareado
+14. desarreglado
+15. monigote
+16. gimnasia
+17. monopatín
+18. nivel intermedio
+19. principiante
+20. equitación
+21. piratería
+22. diseñar
+23. pala
+24. componer
+25. travesura - prank
+26. bici - bike
+27. quehaceres
+28. mantenimiento
+29. intereses
+30. match,el partido
+31. ocio
+32. essay,el ensayo
+33. esbozar
+34. tele - tv
+35. apuestas - gambling
+36. billar - pool
+37. pedestrismo
+38. lectura
+39. colorear
+40. bajo - bass
+41. bronceado
+42. mancebo
+43. tararear
+44. descansar - nap
+45. siesta
+46. contar cuentos
+47. montañismo
+48. flautín
+49. plaza de comida
+50. carros chocones
+51. el popcorn
+52. disfraz
+53. zanco
+54. el trapecio
+55. el mago
+56. manualidades
+57. trepar
+58. sacar fotos
+59. trotar
+60. actuar
+61. juntarse con amigos
+62. patinar
+63. brincar
+64. saltar a la pata coja
+65. el corre que te pillo
+66. las escondidas
+67. el columpio
+68. el cajón de arena
+69. jalar
+70. casa del árbol
+71. la noria
+72. el carrusel
+73. letrero
+74. borracho
+75. excusas
+76. acechaba
+77. tobillo
+78. muñeca
+79. reportero
+80. conejo
+81. tejido
+82. oso - bear
+83. aperitivos
+84. yogur
+85. ajena
+86. langosta
+87. llanto
+88. enfadado
+89. chunga
+90. irse por las ramas
