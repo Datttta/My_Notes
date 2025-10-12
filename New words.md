@@ -31,6 +31,7 @@
 29. jinxed
 30. scruffy
 31. emaciated
+32. appetizers
 
 ==*Nuevas Palabras* ===
 
@@ -224,23 +225,3 @@
 188. el cajón de arena
 189. jalar
 190. casa del árbol
-191. la noria
-192. el carrusel
-193. letrero
-194. borracho
-195. excusas
-196. acechaba
-197. tobillo
-198. muñeca
-199. reportero
-200. conejo
-201. tejido
-202. oso - bear
-203. aperitivos
-204. yogur
-205. ajena
-206. langosta
-207. llanto
-208. enfadado
-209. chunga
-210. irse por las ramas
