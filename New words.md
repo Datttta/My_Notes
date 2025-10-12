@@ -1,9 +1,6 @@
 === *New words* ===
 
-1. sty
-2. regaling
-3. unbuckle
-4. attentive
+1. 
 
 ==*Nuevas Palabras* ===
 
