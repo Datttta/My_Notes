@@ -7,77 +7,86 @@
 5. games of chance
 6. piccolo
 7. doodle
+8. conceited
 
 ==*Nuevas Palabras* ===
 
 1. flujo
-2. monigote
-3. gimnasia
-4. monopatín
-5. nivel intermedio
-6. principiante
-7. equitación
-8. piratería
-9. diseñar
-10. pala
-11. componer
-12. travesura - prank
-13. bici - bike
-14. quehaceres
-15. mantenimiento
-16. intereses
-17. match,el partido
-18. ocio
-19. essay,el ensayo
-20. esbozar
-21. tele - tv
-22. apuestas - gambling
-23. billar - pool
-24. tararear
-25. descansar - nap
-26. siesta
-27. contar cuentos
-28. montañismo
-29. flautín
-30. plaza de comida
-31. carros chocones
-32. el popcorn
-33. disfraz
-34. zanco
-35. el trapecio
-36. el mago
-37. manualidades
-38. trepar
-39. sacar fotos
-40. trotar
-41. actuar
-42. juntarse con amigos
-43. patinar
-44. brincar
-45. saltar a la pata coja
-46. el corre que te pillo
-47. las escondidas
-48. el columpio
-49. el cajón de arena
-50. jalar
-51. casa del árbol
-52. la noria
-53. el carrusel
-54. letrero
-55. borracho
-56. excusas
-57. acechaba
-58. tobillo
-59. muñeca
-60. reportero
-61. conejo
-62. tejido
-63. oso - bear
-64. aperitivos
-65. yogur
-66. ajena
-67. langosta
-68. llanto
-69. enfadado
-70. chunga
-71. irse por las ramas
+2. conceited,creído
+3. bullicioso
+4. monigote
+5. gimnasia
+6. monopatín
+7. nivel intermedio
+8. principiante
+9. equitación
+10. piratería
+11. diseñar
+12. pala
+13. componer
+14. travesura - prank
+15. bici - bike
+16. quehaceres
+17. mantenimiento
+18. intereses
+19. match,el partido
+20. ocio
+21. essay,el ensayo
+22. esbozar
+23. tele - tv
+24. apuestas - gambling
+25. billar - pool
+26. pedestrismo
+27. lectura
+28. colorear
+29. bajo - bass
+30. bronceado
+31. mancebo
+32. tararear
+33. descansar - nap
+34. siesta
+35. contar cuentos
+36. montañismo
+37. flautín
+38. plaza de comida
+39. carros chocones
+40. el popcorn
+41. disfraz
+42. zanco
+43. el trapecio
+44. el mago
+45. manualidades
+46. trepar
+47. sacar fotos
+48. trotar
+49. actuar
+50. juntarse con amigos
+51. patinar
+52. brincar
+53. saltar a la pata coja
+54. el corre que te pillo
+55. las escondidas
+56. el columpio
+57. el cajón de arena
+58. jalar
+59. casa del árbol
+60. la noria
+61. el carrusel
+62. letrero
+63. borracho
+64. excusas
+65. acechaba
+66. tobillo
+67. muñeca
+68. reportero
+69. conejo
+70. tejido
+71. oso - bear
+72. aperitivos
+73. yogur
+74. ajena
+75. langosta
+76. llanto
+77. enfadado
+78. chunga
+79. irse por las ramas
