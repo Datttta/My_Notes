@@ -36,6 +36,7 @@
 ==*Nuevas Palabras* ===
 
 1. enjuto
+2. ve al grano
 3. muñeca - doll
 4. enojado
 5. enojoso
