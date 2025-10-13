@@ -205,23 +205,3 @@
 178. flautín
 179. plaza de comida
 180. carros chocones
-181. el popcorn
-182. disfraz
-183. zanco
-184. el trapecio
-185. el mago
-186. manualidades
-187. trepar
-188. sacar fotos
-189. trotar
-190. actuar
-191. juntarse con amigos
-192. patinar
-193. brincar
-194. saltar a la pata coja
-195. el corre que te pillo
-196. las escondidas
-197. el columpio
-198. el cajón de arena
-199. jalar
-200. casa del árbol
