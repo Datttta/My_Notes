@@ -463,7 +463,6 @@
 419. piratería
 420. diseñar
 421. pala
-422. componer
 423. travesura - prank
 424. bici - bike
 425. quehaceres
@@ -483,7 +482,6 @@
 439. bronceado
 440. mancebo
 441. tararear
-442. descansar - nap
 443. siesta
 444. contar cuentos
 445. montañismo
