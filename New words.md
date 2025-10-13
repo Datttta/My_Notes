@@ -1,7 +1,6 @@
 === *New words* ===
 
-1. slide - tobogan
-2. bumper cars
+1.bumper cars
 3. cotton candy
 4. food court
 5. games of chance
@@ -27,12 +26,6 @@
 25. meek
 26. stingy
 27. scathing
-28. drooping
-29. jinxed
-30. scruffy
-31. emaciated
-32. appetizers
-33. rambling
 
 ==*Nuevas Palabras* ===
 
