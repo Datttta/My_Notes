@@ -22,10 +22,6 @@
 21. inexhaustible
 22. unappealable
 23. unsuspecting
-24. wiry
-25. meek
-26. stingy
-27. scathing
 
 ==*Nuevas Palabras* ===
 
