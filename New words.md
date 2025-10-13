@@ -37,196 +37,197 @@
 ==*Nuevas Palabras* ===
 
 1. enjuto
-2. conforme
-3. ve al grano
-4. contesta
-5. muñeca - doll
-6. enojado
-7. enojoso
-8. inalámbrico
-9. encinta
-10. endeble
-11. enchufado
-12. empedrado
-13. fornido
-14. fiado
-15. fortuito
-16. fregado
-17. furibundo
-18. fugaz
-19. ebrio
-20. efímero
-21. escuálido
-22. feo
-23. factible
-24. facundo
-25. falaz
-26. faltante
-27. fausto
-28. flaco
-29. flipado
-30. flacucho
-31. filoso
-32. fidedigno
-33. gafe
-34. galano
-35. gallardo
-36. gacho
-37. gamberro
-38. gandalla
-39. gangoso
-40. garboso
-41. garrafal
-42. gaseoso
-43. goloso
-44. gritón
-45. gozoso
-46. güero
-47. guasón
-48. guapetón
-49. guarro
-50. fachoso
-51. greñudo
-52. gregario
-53. grandote
-54. mono
-55. blurred,movido
-56. purple,morado
-57. mordaz
-58. marrano
-59. mañoso
-60. mezquino
-61. huraño
-62. hosco
-63. huérfano
-64. hiriente
-65. hechizo
-66. macizo
-67. magno
-68. malito
-69. marchito
-70. inédito
-71. indebido
-72. hacendado
-73. haragán
-74. harto
-75. hidalgo
-76. hirsuto
-77. incauto
-78. inapelable
-79. flujo
-80. inagotable
-81. inabarcable
-82. inadvertido
-83. impío
-84. impoluto
-85. impuntual
-86. imputable
-87. impávido
-88. jubiloso
-89. experienced,jugado
-90. juicioso
-91. igualito
-92. imperdonable
-93. inencontrable
-94. impetuoso
-95. jactancioso
-96. jocoso
-97. jorobado
-98. lánguido
-99. lúdico
-100. lóbrego
-101. loable
-102. límpido
-103. lascivo
-104. lampiño
-105. lolo
-106. lloroso
-107. locuaz
-108. locochón
-109. liviano
-110. lambiscón
-111. aterrador
-112. larguirucho
-113. lejano
-114. labrado
-115. lacio
-116. apacible
-117. rabioso
-118. jovencito
-119. fodongo
-120. sin fines de lucro
-121. gubernamental
-122. conceited,creído
-123. bullicioso
-124. mundano
-125. buena onda
-126. asustadizo
-127. regordete
-128. rellenito
-129. canoso
-130. sabroso
-131. temible
-132. ancho
-133. mareado
-134. desarreglado
-135. striped,de rayas
-136. checked,de cuadros
-137. entallado
-138. hip,en onda
-139. monigote
-140. gimnasia
-141. monopatín
-142. nivel intermedio
-143. principiante
-144. equitación
-145. piratería
-146. diseñar
-147. pala
-148. componer
-149. travesura - prank
-150. bici - bike
-151. quehaceres
-152. mantenimiento
-153. intereses
-154. match,el partido
-155. ocio
-156. essay,el ensayo
-157. esbozar
-158. tele - tv
-159. apuestas - gambling
-160. billar - pool
-161. pedestrismo
-162. lectura
-163. colorear
-164. bajo - bass
-165. bronceado
-166. mancebo
-167. tararear
-168. descansar - nap
-169. siesta
-170. contar cuentos
-171. montañismo
-172. flautín
-173. plaza de comida
-174. carros chocones
-175. el popcorn
-176. disfraz
-177. zanco
-178. el trapecio
-179. el mago
-180. manualidades
-181. trepar
-182. sacar fotos
-183. trotar
-184. actuar
-185. juntarse con amigos
-186. patinar
-187. brincar
-188. saltar a la pata coja
-189. el corre que te pillo
-190. las escondidas
-191. el columpio
-192. el cajón de arena
-193. jalar
-194. casa del árbol
+2. monton
+3. conforme
+4. ve al grano
+5. contesta
+6. muñeca - doll
+7. enojado
+8. enojoso
+9. inalámbrico
+10. encinta
+11. endeble
+12. enchufado
+13. empedrado
+14. fornido
+15. fiado
+16. fortuito
+17. fregado
+18. furibundo
+19. fugaz
+20. ebrio
+21. efímero
+22. escuálido
+23. feo
+24. factible
+25. facundo
+26. falaz
+27. faltante
+28. fausto
+29. flaco
+30. flipado
+31. flacucho
+32. filoso
+33. fidedigno
+34. gafe
+35. galano
+36. gallardo
+37. gacho
+38. gamberro
+39. gandalla
+40. gangoso
+41. garboso
+42. garrafal
+43. gaseoso
+44. goloso
+45. gritón
+46. gozoso
+47. güero
+48. guasón
+49. guapetón
+50. guarro
+51. fachoso
+52. greñudo
+53. gregario
+54. grandote
+55. mono
+56. blurred,movido
+57. purple,morado
+58. mordaz
+59. marrano
+60. mañoso
+61. mezquino
+62. huraño
+63. hosco
+64. huérfano
+65. hiriente
+66. hechizo
+67. macizo
+68. magno
+69. malito
+70. marchito
+71. inédito
+72. indebido
+73. hacendado
+74. haragán
+75. harto
+76. hidalgo
+77. hirsuto
+78. incauto
+79. inapelable
+80. flujo
+81. inagotable
+82. inabarcable
+83. inadvertido
+84. impío
+85. impoluto
+86. impuntual
+87. imputable
+88. impávido
+89. jubiloso
+90. experienced,jugado
+91. juicioso
+92. igualito
+93. imperdonable
+94. inencontrable
+95. impetuoso
+96. jactancioso
+97. jocoso
+98. jorobado
+99. lánguido
+100. lúdico
+101. lóbrego
+102. loable
+103. límpido
+104. lascivo
+105. lampiño
+106. lolo
+107. lloroso
+108. locuaz
+109. locochón
+110. liviano
+111. lambiscón
+112. aterrador
+113. larguirucho
+114. lejano
+115. labrado
+116. lacio
+117. apacible
+118. rabioso
+119. jovencito
+120. fodongo
+121. sin fines de lucro
+122. gubernamental
+123. conceited,creído
+124. bullicioso
+125. mundano
+126. buena onda
+127. asustadizo
+128. regordete
+129. rellenito
+130. canoso
+131. sabroso
+132. temible
+133. ancho
+134. mareado
+135. desarreglado
+136. striped,de rayas
+137. checked,de cuadros
+138. entallado
+139. hip,en onda
+140. monigote
+141. gimnasia
+142. monopatín
+143. nivel intermedio
+144. principiante
+145. equitación
+146. piratería
+147. diseñar
+148. pala
+149. componer
+150. travesura - prank
+151. bici - bike
+152. quehaceres
+153. mantenimiento
+154. intereses
+155. match,el partido
+156. ocio
+157. essay,el ensayo
+158. esbozar
+159. tele - tv
+160. apuestas - gambling
+161. billar - pool
+162. pedestrismo
+163. lectura
+164. colorear
+165. bajo - bass
+166. bronceado
+167. mancebo
+168. tararear
+169. descansar - nap
+170. siesta
+171. contar cuentos
+172. montañismo
+173. flautín
+174. plaza de comida
+175. carros chocones
+176. el popcorn
+177. disfraz
+178. zanco
+179. el trapecio
+180. el mago
+181. manualidades
+182. trepar
+183. sacar fotos
+184. trotar
+185. actuar
+186. juntarse con amigos
+187. patinar
+188. brincar
+189. saltar a la pata coja
+190. el corre que te pillo
+191. las escondidas
+192. el columpio
+193. el cajón de arena
+194. jalar
+195. casa del árbol
