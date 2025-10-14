@@ -464,23 +464,3 @@
 429. quehaceres
 430. mantenimiento
 431. intereses
-432. match,el partido
-433. ocio
-434. essay,el ensayo
-435. esbozar
-436. tele - tv
-437. apuestas - gambling
-438. billar - pool
-439. pedestrismo
-440. lectura
-441. colorear
-442. bajo - bass
-443. bronceado
-444. mancebo
-445. tararear
-446. siesta
-447. contar cuentos
-448. montañismo
-449. flautín
-450. plaza de comida
-451. carros chocones
