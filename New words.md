@@ -1,44 +1,45 @@
 === *New words* ===
 
 1. bumper cars
-2. rubber band
-3. suck leave
-4. narwhal
-5. preterite
-6. hen
-7. sporty
-8. quarrelsome
-9. abiding
-10. timely
-11. curled up
-12. abject
-13. obliging
-14. scatterbrained
-15. bohemian
-16. brutish
-17. pigheaded
-18. unruly
-19. deranged
-20. exempt
-21. eolian
-22. zanco
-23. cotton candy
-24. food court
-25. games of chance
-26. piccolo
-27. doodle
-28. conceited
-29. slovenly
-30. rabid
-31. bootlicking
-32. lascivious
-33. limpid
-34. godfather
-35. mistreat
-36. chickpea
-37. gerbil
-38. aspirin
-39. flounder
+2. muggy
+3. rubber band
+4. suck leave
+5. narwhal
+6. preterite
+7. hen
+8. sporty
+9. quarrelsome
+10. abiding
+11. timely
+12. curled up
+13. abject
+14. obliging
+15. scatterbrained
+16. bohemian
+17. brutish
+18. pigheaded
+19. unruly
+20. deranged
+21. exempt
+22. eolian
+23. zanco
+24. cotton candy
+25. food court
+26. games of chance
+27. piccolo
+28. doodle
+29. conceited
+30. slovenly
+31. rabid
+32. bootlicking
+33. lascivious
+34. limpid
+35. godfather
+36. mistreat
+37. chickpea
+38. gerbil
+39. aspirin
+40. flounder
 
 ==*Nuevas Palabras* ===
 
@@ -680,3 +681,12 @@
 636. azafata
 637. magistrado
 638. el rotulador fluorescente
+639. la gomita
+640. tape
+641. grapadora
+642. franqueo
+643. carpeta
+644. cálido
+645. bochornoso
+646. asoleado
+647. subir
