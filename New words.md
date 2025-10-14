@@ -40,6 +40,8 @@
 38. unappealable
 39. unsuspecting
 40. feel sorry - estar com dó
+41. swirly
+42. twerps
 
 ==*Nuevas Palabras* ===
 
