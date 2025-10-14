@@ -1,42 +1,43 @@
 === *New words* ===
 
 1. bumper cars
-2. narwhal
-3. preterite
-4. hen
-5. sporty
-6. quarrelsome
-7. abiding
-8. timely
-9. curled up
-10. abject
-11. obliging
-12. scatterbrained
-13. bohemian
-14. brutish
-15. pigheaded
-16. unruly
-17. deranged
-18. exempt
-19. eolian
-20. zanco
-21. cotton candy
-22. food court
-23. games of chance
-24. piccolo
-25. doodle
-26. conceited
-27. slovenly
-28. rabid
-29. bootlicking
-30. lascivious
-31. limpid
-32. godfather
-33. mistreat
-34. chickpea
-35. gerbil
-36. aspirin
-37. flounder
+2. suck leave
+3. narwhal
+4. preterite
+5. hen
+6. sporty
+7. quarrelsome
+8. abiding
+9. timely
+10. curled up
+11. abject
+12. obliging
+13. scatterbrained
+14. bohemian
+15. brutish
+16. pigheaded
+17. unruly
+18. deranged
+19. exempt
+20. eolian
+21. zanco
+22. cotton candy
+23. food court
+24. games of chance
+25. piccolo
+26. doodle
+27. conceited
+28. slovenly
+29. rabid
+30. bootlicking
+31. lascivious
+32. limpid
+33. godfather
+34. mistreat
+35. chickpea
+36. gerbil
+37. aspirin
+38. flounder
 
 ==*Nuevas Palabras* ===
 
@@ -619,3 +620,28 @@
 577. comadreja
 578. mapache
 579. visón
+580. el topo
+581. gacela
+582. venado
+583. perezoso - sloth
+584. badger,el tejón
+585. antílope
+586. castor
+587. la onza
+588. crótalo
+589. caracol
+590. polilla
+591. piojo
+592. escarabajo
+593. pulga
+594. la mantis religiosa
+595. libélula
+596. grillo
+597. chicharra
+598. bicho
+599. ciempiés
+600. garrapata
+601. sanguijuela
+602. los útiles
+603. sirvienta
+604. sick leave,la baja
