@@ -690,3 +690,28 @@
 645. bochornoso
 646. asoleado
 647. subir
+648. chaparrón
+649. ventisca
+650. escampar
+651. destemplado
+652. helado
+653. calentamiento global
+654. chubasquero
+655. escarcha
+656. hace buen tiempo
+657. hace mal tiempo
+658. ira
+659. calina
+660. alud
+661. huaico
+662. cuestionar
+663. presentar
+664. grabar
+665. llorar
+666. atreverse
+667. acurrucar
+668. matar
+669. planificar
+670. huir
+671. suceder
+672. agregar
