@@ -39,6 +39,7 @@
 37. inexhaustible
 38. unappealable
 39. unsuspecting
+40. feel sorry - estar com dó
 
 ==*Nuevas Palabras* ===
 
