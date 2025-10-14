@@ -30,19 +30,6 @@
 28. bootlicking
 29. lascivious
 30. limpid
-31. listless
-32. laudable
-33. jubilant
-34. unpolluted
-35. impassive
-36. unattainable
-37. 
-38. 
-39. 
-40. 
-41.  - estar com dó
-42. 
-43. 
 
 ==*Nuevas Palabras* ===
 
