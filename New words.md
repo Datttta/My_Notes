@@ -1,47 +1,48 @@
 === *New words* ===
 
 1. bumper cars
-2. hen
-3. sporty
-4. quarrelsome
-5. abiding
-6. timely
-7. curled up
-8. abject
-9. obliging
-10. scatterbrained
-11. bohemian
-12. brutish
-13. pigheaded
-14. unruly
-15. deranged
-16. exempt
-17. eolian
-18. zanco
-19. cotton candy
-20. food court
-21. games of chance
-22. piccolo
-23. doodle
-24. conceited
-25. slovenly
-26. rabid
-27. bootlicking
-28. lascivious
-29. limpid
-30. listless
-31. laudable
-32. jubilant
-33. unpolluted
-34. impassive
-35. unattainable
-36. impious
-37. inexhaustible
-38. unappealable
-39. unsuspecting
-40.  - estar com dó
-41. 
+2. preterite
+3. hen
+4. sporty
+5. quarrelsome
+6. abiding
+7. timely
+8. curled up
+9. abject
+10. obliging
+11. scatterbrained
+12. bohemian
+13. brutish
+14. pigheaded
+15. unruly
+16. deranged
+17. exempt
+18. eolian
+19. zanco
+20. cotton candy
+21. food court
+22. games of chance
+23. piccolo
+24. doodle
+25. conceited
+26. slovenly
+27. rabid
+28. bootlicking
+29. lascivious
+30. limpid
+31. listless
+32. laudable
+33. jubilant
+34. unpolluted
+35. impassive
+36. unattainable
+37. impious
+38. inexhaustible
+39. unappealable
+40. 
+41.  - estar com dó
 42. 
+43. 
 
 ==*Nuevas Palabras* ===
 
