@@ -735,3 +735,5 @@
 690. encausar
 691. procesar
 692. hurtar
+693. rasguñar
+694. posarse
