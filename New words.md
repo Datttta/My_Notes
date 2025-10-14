@@ -645,3 +645,36 @@
 602. los útiles
 603. sirvienta
 604. sick leave,la baja
+605. las finanzas
+606. retail,minorista
+607. despedir
+608. kitchen assistant,el pinche
+609. head,el/la mayor
+610. principal,el director del colegio
+611. teacher,el maestro
+612. laborable
+613. En qué trabajas tú?
+614. solicitar
+615. la banca
+616. el bufete
+617. la reina
+618. jornalero
+619. media jornada
+620. enlace
+621. tiempo completo
+622. dueño
+623. fontanería
+624. résumé,CV
+625. la comparsa
+626. socorrista
+627. predicador
+628. pandilla
+629. friegaplatos
+630. ganarse la vida
+631. bailarín
+632. pretendiente
+633. el gremio
+634. docencia
+635. gañán
+636. azafata
+637. magistrado
