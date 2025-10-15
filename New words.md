@@ -30,18 +30,6 @@
 28. games of chance
 29. piccolo
 30. doodle
-31. conceited
-32. slovenly
-33. rabid
-34. bootlicking
-35. lascivious
-36. limpid
-37. godfather
-38. mistreat
-39. chickpea
-40. gerbil
-41. aspirin
-42. flounder
 
 ==*Nuevas Palabras* ===
 
