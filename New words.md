@@ -1,35 +1,36 @@
 === *New words* ===
 
 1. bumper cars
-2. snow flake - i am snow flake
-3. ladle
-4. muggy
-5. rubber band
-6. suck leave
-7. narwhal
-8. preterite
-9. hen
-10. sporty
-11. quarrelsome
-12. abiding
-13. timely
-14. curled up
-15. abject
-16. obliging
-17. scatterbrained
-18. bohemian
-19. brutish
-20. pigheaded
-21. unruly
-22. deranged
-23. exempt
-24. eolian
-25. zanco
-26. cotton candy
-27. food court
-28. games of chance
-29. piccolo
-30. doodle
+2. pilfer
+3. snow flake - i am snow flake
+4. ladle
+5. muggy
+6. rubber band
+7. suck leave
+8. narwhal
+9. preterite
+10. hen
+11. sporty
+12. quarrelsome
+13. abiding
+14. timely
+15. curled up
+16. abject
+17. obliging
+18. scatterbrained
+19. bohemian
+20. brutish
+21. pigheaded
+22. unruly
+23. deranged
+24. exempt
+25. eolian
+26. zanco
+27. cotton candy
+28. food court
+29. games of chance
+30. piccolo
+31. doodle
 
 ==*Nuevas Palabras* ===
 
