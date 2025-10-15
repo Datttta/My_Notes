@@ -707,23 +707,3 @@
 672. agregar
 673. apagar
 674. apretar
-675. aprovechar
-676. aullar
-677. resaber
-678. retener
-679. desplazar
-680. adjuntar
-681. rendir un examen
-682. repasar
-683. saltear
-684. triturar
-685. rallar
-686. pelar
-687. espolvorear
-688. picar
-689. absolver
-690. encausar
-691. procesar
-692. hurtar
-693. rasguñar
-694. posarse
