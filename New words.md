@@ -20,17 +20,6 @@
 18. scatterbrained
 19. bohemian
 20. brutish
-21. pigheaded
-22. unruly
-23. deranged
-24. exempt
-25. eolian
-26. zanco
-27. cotton candy
-28. food court
-29. games of chance
-30. piccolo
-31. doodle
 
 ==*Nuevas Palabras* ===
 
