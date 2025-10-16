@@ -1,26 +1,27 @@
 === *New words* ===
 
 1. bumper cars
-2. pilfer
-3. snow flake - i am snow flake
-4. ladle
-5. muggy
-6. rubber band
-7. suck leave
-8. narwhal
-9. preterite
-10. hen
-11. sporty
-12. quarrelsome
-13. abiding
-14. timely
-15. curled up
-16. abject
-17. obliging
-18. scatterbrained
-19. bohemian
-20. brutish
-21. box office
+2. mudslide
+3. pilfer
+4. snow flake - i am snow flake
+5. ladle
+6. muggy
+7. rubber band
+8. suck leave
+9. narwhal
+10. preterite
+11. hen
+12. sporty
+13. quarrelsome
+14. abiding
+15. timely
+16. curled up
+17. abject
+18. obliging
+19. scatterbrained
+20. bohemian
+21. brutish
+22. box office
 
 ==*Nuevas Palabras* ===
 
@@ -680,23 +681,3 @@
 654. destemplado
 655. helado
 656. calentamiento global
-657. chubasquero
-658. escarcha
-659. hace buen tiempo
-660. hace mal tiempo
-661. ira
-662. calina
-663. alud
-664. huaico
-665. cuestionar
-666. presentar
-667. grabar
-668. llorar
-669. atreverse
-670. acurrucar
-671. matar
-672. planificar
-673. huir
-674. suceder
-675. agregar
-676. apagar
