@@ -1,16 +1,17 @@
 === *New words* ===
 
 1. bumper cars
-2. mudslide
-3. rechles
-4. nitpichy
-5. pilfer
-6. snow flake - i am snow flake
-7. ladle
-8. muggy
-9. rubber band
-10. suck leave
-11. narwhal
+2. unseasonably
+3. mudslide
+4. rechles
+5. nitpichy
+6. pilfer
+7. snow flake - i am snow flake
+8. ladle
+9. muggy
+10. rubber band
+11. suck leave
+12. narwhal
 
 ==*Nuevas Palabras* ===
 
