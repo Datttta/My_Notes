@@ -12,18 +12,6 @@
 10. suck leave
 11. narwhal
 12. preterite
-13. hen
-14. sporty
-15. quarrelsome
-16. abiding
-17. timely
-18. curled up
-19. abject
-20. obliging
-21. scatterbrained
-22. bohemian
-23. brutish
-24. box office
 
 ==*Nuevas Palabras* ===
 
