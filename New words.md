@@ -659,4 +659,3 @@
 640. ganarse la vida
 641. bailarín
 642. pretendiente
-643. el gremio
