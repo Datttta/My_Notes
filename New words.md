@@ -2,26 +2,27 @@
 
 1. bumper cars
 2. mudslide
-3. pilfer
-4. snow flake - i am snow flake
-5. ladle
-6. muggy
-7. rubber band
-8. suck leave
-9. narwhal
-10. preterite
-11. hen
-12. sporty
-13. quarrelsome
-14. abiding
-15. timely
-16. curled up
-17. abject
-18. obliging
-19. scatterbrained
-20. bohemian
-21. brutish
-22. box office
+3. rechless
+4. pilfer
+5. snow flake - i am snow flake
+6. ladle
+7. muggy
+8. rubber band
+9. suck leave
+10. narwhal
+11. preterite
+12. hen
+13. sporty
+14. quarrelsome
+15. abiding
+16. timely
+17. curled up
+18. abject
+19. obliging
+20. scatterbrained
+21. bohemian
+22. brutish
+23. box office
 
 ==*Nuevas Palabras* ===
 
