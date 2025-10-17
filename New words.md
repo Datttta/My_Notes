@@ -656,23 +656,3 @@
 640. bailarín
 641. pretendiente
 642. el gremio
-643. docencia
-644. gañán
-645. azafata
-646. magistrado
-647. el rotulador fluorescente
-648. la gomita
-649. tape
-650. grapadora
-651. franqueo
-652. carpeta
-653. cálido
-654. bochornoso
-655. asoleado
-656. subir
-657. chaparrón
-658. ventisca
-659. escampar
-660. destemplado
-661. helado
-662. calentamiento global
