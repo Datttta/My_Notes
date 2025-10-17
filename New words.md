@@ -11,7 +11,6 @@
 9. rubber band
 10. suck leave
 11. narwhal
-12. preterite
 
 ==*Nuevas Palabras* ===
 
