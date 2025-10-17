@@ -2,16 +2,17 @@
 
 1. bumper cars
 2. unseasonably
-3. mudslide
-4. rechles
-5. nitpichy
-6. pilfer
-7. snow flake - i am snow flake
-8. ladle
-9. muggy
-10. rubber band
-11. suck leave
-12. narwhal
+3. clear up - stop raining
+4. mudslide
+5. rechles
+6. nitpichy
+7. pilfer
+8. snow flake - i am snow flake
+9. ladle
+10. muggy
+11. rubber band
+12. suck leave
+13. narwhal
 
 ==*Nuevas Palabras* ===
 
