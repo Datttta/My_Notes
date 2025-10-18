@@ -630,23 +630,3 @@
 622. principal,el director del colegio
 623. teacher,el maestro
 624. laborable
-625. En qué trabajas tú?
-626. solicitar
-627. la banca
-628. el bufete
-629. la reina
-630. jornalero
-631. media jornada
-632. enlace
-633. tiempo completo
-634. dueño
-635. fontanería
-636. résumé,CV
-637. la comparsa
-638. socorrista
-639. predicador
-640. pandilla
-641. friegaplatos
-642. ganarse la vida
-643. bailarín
-644. pretendiente
