@@ -4,10 +4,11 @@
 2. liaison
 3. law firm
 4. thickets "I'm gonna build my house in the wildest thickets"
-5. vacancy
-6. suitor
-7. artistry
-8. through me off
+5. take off (tirar)
+6. vacancy
+7. suitor
+8. artistry
+9. through me off
 
 ==*Nuevas Palabras* ===
 
