@@ -4,7 +4,7 @@
 2. liaison
 3. law firm
 4. thickets "I'm gonna build my house in the wildest thickets"
-5. take off (tirar)
+5. take off (tirar algo de cima)
 6. vacancy
 7. suitor
 8. artistry
