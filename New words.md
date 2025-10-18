@@ -3,10 +3,11 @@
 1. bumper cars
 2. liaison
 3. law firm
-4. vacancy
-5. suitor
-6. artistry
-7. through me off
+4. thickets "I'm gonna build my house in the wildest thickets"
+5. vacancy
+6. suitor
+7. artistry
+8. through me off
 
 ==*Nuevas Palabras* ===
 
