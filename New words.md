@@ -2,19 +2,20 @@
 
 1. bumper cars
 2. through me off
-3. unseasonably
-4. clear up - stop raining
-5. muggy
-6. mudslide
-7. rechles
-8. nitpichy
-9. pilfer
-10. snow flake - i am snow flake
-11. ladle
-12. muggy
-13. rubber band
-14. suck leave
-15. narwhal
+3. tarp - tarp has sprung a leak
+4. unseasonably
+5. clear up - stop raining
+6. muggy
+7. mudslide
+8. rechles
+9. nitpichy
+10. pilfer
+11. snow flake - i am snow flake
+12. ladle
+13. muggy
+14. rubber band
+15. suck leave
+16. narwhal
 
 ==*Nuevas Palabras* ===
 
