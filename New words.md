@@ -6,10 +6,11 @@
 4. thickets "I'm gonna build my house in the wildest thickets"
 5. take off (tirar algo de cima)
 6. take out (tirar algo dentro de algo)
-7. vacancy
-8. suitor
-9. artistry
-10. through me off
+7. take away (tirar e levar)
+8. vacancy
+9. suitor
+10. artistry
+11. through me off
 
 ==*Nuevas Palabras* ===
 
