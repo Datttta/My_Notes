@@ -1,19 +1,20 @@
 === *New words* ===
 
 1. bumper cars
-2. unseasonably
-3. clear up - stop raining
-4. muggy
-5. mudslide
-6. rechles
-7. nitpichy
-8. pilfer
-9. snow flake - i am snow flake
-10. ladle
-11. muggy
-12. rubber band
-13. suck leave
-14. narwhal
+2. through me off
+3. unseasonably
+4. clear up - stop raining
+5. muggy
+6. mudslide
+7. rechles
+8. nitpichy
+9. pilfer
+10. snow flake - i am snow flake
+11. ladle
+12. muggy
+13. rubber band
+14. suck leave
+15. narwhal
 
 ==*Nuevas Palabras* ===
 
