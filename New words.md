@@ -7,10 +7,12 @@
 5. take off (tirar algo de cima)
 6. take out (tirar algo dentro de algo)
 7. take away (tirar e levar)
-8. vacancy
-9. suitor
-10. artistry
-11. through me off
+8. take away (tirar coisas subjetivas)
+9. take down (tirar algo e levar pra baixo)
+10. vacancy
+11. suitor
+12. artistry
+13. through me off
 
 ==*Nuevas Palabras* ===
 
