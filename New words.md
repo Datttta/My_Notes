@@ -1,8 +1,9 @@
 === *New words* ===
 
 1. bumper cars
-2. artistry
-3. through me off
+2. suitor
+3. artistry
+4. through me off
 
 ==*Nuevas Palabras* ===
 
