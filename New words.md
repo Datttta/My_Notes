@@ -1,9 +1,10 @@
 === *New words* ===
 
 1. bumper cars
-2. liaison
-3. law firm
-4. postage
+2. tick - bug
+3. liaison
+4. law firm
+5. postage
 
 ==*Nuevas Palabras* ===
 
