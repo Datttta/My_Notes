@@ -3,16 +3,6 @@
 1. bumper cars
 2. liaison
 3. law firm
-4. thickets "I'm gonna build my house in the wildest thickets"
-5. take off (tirar algo de cima)
-6. take out (tirar algo dentro de algo)
-7. take away (tirar e levar)
-8. take away (tirar coisas subjetivas)
-9. take down (tirar algo e levar pra baixo)
-10. vacancy
-11. suitor
-12. artistry
-13. through me off
 
 ==*Nuevas Palabras* ===
 
