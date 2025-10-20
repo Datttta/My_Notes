@@ -1,10 +1,6 @@
 === *New words* ===
 
-1. bumper cars
-2. tick - bug
-3. liaison
-4. law firm
-5. postage
+1. 
 
 ==*Nuevas Palabras* ===
 
