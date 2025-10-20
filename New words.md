@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. dung
+1. dung ( ball of dunk)
 
 ==*Nuevas Palabras* ===
 
