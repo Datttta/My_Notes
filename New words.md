@@ -614,23 +614,3 @@
 605. polilla
 606. piojo
 607. escarabajo
-608. pulga
-609. la mantis religiosa
-610. libélula
-611. grillo
-612. chicharra
-613. bicho
-614. ciempiés
-615. garrapata
-616. sanguijuela
-617. los útiles
-618. sirvienta
-619. sick leave,la baja
-620. las finanzas
-621. retail,minorista
-622. despedir
-623. kitchen assistant,el pinche
-624. head,el/la mayor
-625. principal,el director del colegio
-626. teacher,el maestro
-627. laborable
