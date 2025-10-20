@@ -9,7 +9,7 @@
 ==*Nuevas Palabras* ===
 
 1. cordillera
-2. 
+2. nenúfar
 3. reclutador
 4. Actualicé
 5. vacante
