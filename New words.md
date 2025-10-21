@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. dung ( ball of dunk)
+2. errand
 
 ==*Nuevas Palabras* ===
 
