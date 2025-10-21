@@ -2,6 +2,7 @@
 
 1. dung ( ball of dunk)
 2. principal - school
+3. outing
 
 ==*Nuevas Palabras* ===
 
