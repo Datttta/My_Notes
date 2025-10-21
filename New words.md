@@ -1,7 +1,7 @@
 === *New words* ===
 
 1. dung ( ball of dunk)
-2. errand
+2. principal - school
 
 ==*Nuevas Palabras* ===
 
