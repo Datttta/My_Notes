@@ -1,17 +1,18 @@
 === *New words* ===
 
 1. skittish
-2. traffic island
-3. camper
-4. seat
-5. pill
-6. exonerate
-7. dumbfound
-8. derail
-9. overact
-10. dribble past
-11. worldly
-12. conceited
+2. dirt bike
+3. traffic island
+4. camper
+5. seat
+6. pill
+7. exonerate
+8. dumbfound
+9. derail
+10. overact
+11. dribble past
+12. worldly
+13. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -765,3 +766,7 @@
 748. la casa rodante
 749. cadena
 750. despegar
+751. traffic island, el refugio
+752. señales de tránsito
+753. freno
+754. paradero
