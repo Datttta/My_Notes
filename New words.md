@@ -1,9 +1,10 @@
 === *New words* ===
 
 1. skittish
-2. dribble past
-3. worldly
-4. conceited
+2. overact
+3. dribble past
+4. worldly
+5. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -569,3 +570,29 @@
 560. ladrar
 561. amonestar
 562. regatear
+563. to be left,quedar
+564. borrar
+565. dorar
+566. marcharse
+567. extrañar
+568. echar
+569. catar
+570. platicar
+571. suponer
+572. retumbar
+573. reventar
+574. molestar
+575. acumular
+576. reanudar
+577. meter
+578. trasladar
+579. señalar
+580. provenir
+581. asesorar
+582. adiestrar
+583. abarcar
+584. apresurarse
+585. cautivar
+586. cortejar
+587. esforzarse
+588. sobreactuar
