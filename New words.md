@@ -1,13 +1,14 @@
 === *New words* ===
 
 1. skittish
-2. exonerate
-3. dumbfound
-4. derail
-5. overact
-6. dribble past
-7. worldly
-8. conceited
+2. pill
+3. exonerate
+4. dumbfound
+5. derail
+6. overact
+7. dribble past
+8. worldly
+9. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -678,3 +679,7 @@
 665. amamantar
 666. varar
 667. cargar con
+668. regañar
+669. ajardinar
+670. clavar
+671. formar bolitas
