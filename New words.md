@@ -1,12 +1,13 @@
 === *New words* ===
 
 1. skittish
-2. dumbfound
-3. derail
-4. overact
-5. dribble past
-6. worldly
-7. conceited
+2. exonerate
+3. dumbfound
+4. derail
+5. overact
+6. dribble past
+7. worldly
+8. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -633,3 +634,13 @@
 621. dar parte de
 622. sembrar
 623. acribillar
+624. erigir
+625. lucirse en
+626. quedar bien
+627. arrasar
+628. chorrear
+629. timar
+630. estrellar
+631. desentonar
+632. hallar
+633. exculpar
