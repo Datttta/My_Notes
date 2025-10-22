@@ -689,3 +689,44 @@
 675. predisponer
 676. fastidiar
 677. rendirle culto a
+678. atestiguar
+679. temblar
+680. dar un codazo a
+681. callar
+682. destapar
+683. urdir
+684. maquinar
+685. desplomarse
+686. diluviar
+687. apilar
+688. editar
+689. apalear
+690. apetecer
+691. canturrear
+692. bullir
+693. zumbar
+694. agobiar
+695. teclear
+696. malgastar
+697. estallar
+698. disponer
+699. ataviar
+700. rascar
+701. tachar
+702. maldecir
+703. infundir
+704. binar
+705. aventar
+706. enmarcar
+707. tender
+708. acorralar
+709. acaparar
+710. limitar con
+711. lindar con
+712. dotar de personal
+713. perfilar
+714. repiquetear
+715. conceder
+716. ceras
+717. figurar
+718. sacar a relucir
