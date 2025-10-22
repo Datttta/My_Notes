@@ -606,3 +606,26 @@
 595. aplastar
 596. aporrear
 597. perdurar
+598. meter prisa
+599. arrancar
+600. hacer escala
+601. encomendar
+602. barrer
+603. hacerle la zancadilla a
+604. cribar
+605. abanicar
+606. avivar
+607. escoger
+608. rogar
+609. volcar
+610. emplear
+611. deshuesar
+612. enfadarse
+613. pasarle la factura a
+614. becar
+615. plañir
+616. techar
+617. valorar
+618. hollar
+619. hojear
+620. pillar
