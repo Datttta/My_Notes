@@ -742,3 +742,11 @@
 727. to feel like,tener ganas de
 728. to look forward to,estar deseando
 729. talonar
+730. inculcar
+731. escandalizar
+732. corregir
+733. ajar
+734. esfumarse
+735. seto
+736. erizar
+737. responder con evasivas
