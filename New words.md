@@ -1,18 +1,20 @@
 === *New words* ===
 
 1. skittish
-2. dirt bike
-3. traffic island
-4. camper
-5. seat
-6. pill
-7. exonerate
-8. dumbfound
-9. derail
-10. overact
-11. dribble past
-12. worldly
-13. conceited
+2. bow - ship
+3. roof rack
+4. dirt bike
+5. traffic island
+6. camper
+7. seat
+8. pill
+9. exonerate
+10. dumbfound
+11. derail
+12. overact
+13. dribble past
+14. worldly
+15. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -770,3 +772,17 @@
 752. señales de tránsito
 753. freno
 754. paradero
+755. rumbo
+756. senda
+757. cruce
+758. enlace
+759. mast,el árbol
+760. shaft,el árbol
+761. belt,la banda
+762. el choque
+763. inflador
+764. portaequipajes
+765. cochera
+766. ferrocarril
+767. velamen
+768. la proa
