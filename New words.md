@@ -1,15 +1,16 @@
 === *New words* ===
 
 1. skittish
-2. seat
-3. pill
-4. exonerate
-5. dumbfound
-6. derail
-7. overact
-8. dribble past
-9. worldly
-10. conceited
+2. camper
+3. seat
+4. pill
+5. exonerate
+6. dumbfound
+7. derail
+8. overact
+9. dribble past
+10. worldly
+11. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -750,3 +751,14 @@
 735. seto
 736. erizar
 737. responder con evasivas
+738. estar al mando de
+739. ralentizar
+740. el caminito
+741. el intermitente
+742. autocar
+743. el estanque
+744. carro de combate
+745. la vuelta
+746. el acoplado
+747. caravana
+748. la casa rodante
