@@ -1,20 +1,22 @@
 === *New words* ===
 
 1. skittish
-2. bow - ship
-3. roof rack
-4. dirt bike
-5. traffic island
-6. camper
-7. seat
-8. pill
-9. exonerate
-10. dumbfound
-11. derail
-12. overact
-13. dribble past
-14. worldly
-15. conceited
+2. aground
+3. starboard
+4. bow - ship
+5. roof rack
+6. dirt bike
+7. traffic island
+8. camper
+9. seat
+10. pill
+11. exonerate
+12. dumbfound
+13. derail
+14. overact
+15. dribble past
+16. worldly
+17. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -786,3 +788,7 @@
 766. ferrocarril
 767. velamen
 768. la proa
+769. el babor
+770. el estribor
+771. corbeta
+772. encallar
