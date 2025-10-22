@@ -683,3 +683,9 @@
 669. ajardinar
 670. clavar
 671. formar bolitas
+672. empeñar
+673. tasar
+674. manar
+675. predisponer
+676. fastidiar
+677. rendirle culto a
