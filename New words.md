@@ -559,23 +559,3 @@
 553. apacible
 554. rabioso
 555. jovencito
-556. fodongo
-557. sin fines de lucro
-558. gubernamental
-559. conceited,creído
-560. bullicioso
-561. mundano
-562. buena onda
-563. asustadizo
-564. regordete
-565. rellenito
-566. canoso
-567. sabroso
-568. temible
-569. ancho
-570. mareado
-571. desarreglado
-572. striped,de rayas
-573. checked,de cuadros
-574. entallado
-575. hip,en onda
