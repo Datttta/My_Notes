@@ -1,8 +1,9 @@
 === *New words* ===
 
 1. skittish
-2. worldly
-3. conceited
+2. dribble past
+3. worldly
+4. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -561,3 +562,10 @@
 553. apacible
 554. rabioso
 555. jovencito
+556. abatirse
+557. ronronear
+558. sacar a pasear
+559. maullar
+560. ladrar
+561. amonestar
+562. regatear
