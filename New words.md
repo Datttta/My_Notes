@@ -1,11 +1,12 @@
 === *New words* ===
 
 1. skittish
-2. derail
-3. overact
-4. dribble past
-5. worldly
-6. conceited
+2. dumbfound
+3. derail
+4. overact
+5. dribble past
+6. worldly
+7. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -629,3 +630,6 @@
 618. hollar
 619. hojear
 620. pillar
+621. dar parte de
+622. sembrar
+623. acribillar
