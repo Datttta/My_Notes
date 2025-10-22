@@ -654,3 +654,27 @@
 641. desportillar
 642. rendir
 643. mellar
+644. suministrar
+645. amotinarse
+646. bendecir
+647. toquetear
+648. sortear
+649. perjudicar
+650. avasallar
+651. pulir
+652. lijar
+653. machacar
+654. noquear
+655. encuestar
+656. enlazar
+657. someterse
+658. acarrear
+659. conllevar
+660. resquebrajar
+661. chasquear
+662. emperifollar
+663. engalanar
+664. regir
+665. amamantar
+666. varar
+667. cargar con
