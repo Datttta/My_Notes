@@ -1,16 +1,17 @@
 === *New words* ===
 
 1. skittish
-2. camper
-3. seat
-4. pill
-5. exonerate
-6. dumbfound
-7. derail
-8. overact
-9. dribble past
-10. worldly
-11. conceited
+2. traffic island
+3. camper
+4. seat
+5. pill
+6. exonerate
+7. dumbfound
+8. derail
+9. overact
+10. dribble past
+11. worldly
+12. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -762,3 +763,5 @@
 746. el acoplado
 747. caravana
 748. la casa rodante
+749. cadena
+750. despegar
