@@ -1,14 +1,15 @@
 === *New words* ===
 
 1. skittish
-2. pill
-3. exonerate
-4. dumbfound
-5. derail
-6. overact
-7. dribble past
-8. worldly
-9. conceited
+2. seat
+3. pill
+4. exonerate
+5. dumbfound
+6. derail
+7. overact
+8. dribble past
+9. worldly
+10. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -730,3 +731,14 @@
 716. ceras
 717. figurar
 718. sacar a relucir
+719. atrabancar
+720. recaudar
+721. envidiar
+722. azotar
+723. arremeter
+724. allanar
+725. to weigh,levar
+726. reclamar
+727. to feel like,tener ganas de
+728. to look forward to,estar deseando
+729. talonar
