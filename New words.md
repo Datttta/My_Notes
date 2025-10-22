@@ -797,3 +797,4 @@
 774. surtidor
 775. el tubo de escape
 776. el jefe de tren
+777. pasar por encima 
