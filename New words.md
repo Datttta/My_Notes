@@ -644,3 +644,13 @@
 631. desentonar
 632. hallar
 633. exculpar
+634. gozar
+635. descodificar
+636. entresacar
+637. menguar
+638. halagar
+639. regatear
+640. aullar
+641. desportillar
+642. rendir
+643. mellar
