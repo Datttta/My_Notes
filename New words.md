@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. skittish
+2. worldly
 
 ==*Nuevas Palabras* ===
 
