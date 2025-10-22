@@ -1,10 +1,11 @@
 === *New words* ===
 
 1. skittish
-2. overact
-3. dribble past
-4. worldly
-5. conceited
+2. derail
+3. overact
+4. dribble past
+5. worldly
+6. conceited
 
 ==*Nuevas Palabras* ===
 
@@ -596,3 +597,12 @@
 586. cortejar
 587. esforzarse
 588. sobreactuar
+589. trazar
+590. enjabonar
+591. nombrar
+592. entumecer
+593. chillar
+594. adelgazar
+595. aplastar
+596. aporrear
+597. perdurar
