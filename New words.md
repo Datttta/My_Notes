@@ -769,23 +769,3 @@
 760. rumbo
 761. senda
 762. cruce
-763. enlace
-764. mast,el árbol
-765. shaft,el árbol
-766. belt,la banda
-767. el choque
-768. inflador
-769. portaequipajes
-770. cochera
-771. ferrocarril
-772. velamen
-773. la proa
-774. el babor
-775. el estribor
-776. corbeta
-777. encallar
-778. el sitio
-779. surtidor
-780. el tubo de escape
-781. el jefe de tren
-782. pasar por encima 
