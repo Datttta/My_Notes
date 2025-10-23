@@ -776,4 +776,3 @@
 767. paradero
 768. rumbo
 769. senda
-770. 
