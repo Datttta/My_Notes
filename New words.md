@@ -3,21 +3,21 @@
 1. skittish
 2. exhaust - car
 3. aground
-4. starboard
-5. bow - ship
-6. roof rack
-7. dirt bike
-8. traffic island
-9. camper
-10. seat
-11. pill
-12. exonerate
-13. dumbfound
-14. derail
-15. overact
-16. dribble past
-17. worldly
-18. conceited
+4. 
+5.  - ship
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
 
 ==*Nuevas Palabras* ===
 
