@@ -756,23 +756,3 @@
 750. esfumarse
 751. seto
 752. erizar
-753. responder con evasivas
-754. estar al mando de
-755. ralentizar
-756. el caminito
-757. el intermitente
-758. autocar
-759. el estanque
-760. carro de combate
-761. la vuelta
-762. el acoplado
-763. caravana
-764. la casa rodante
-765. cadena
-766. despegar
-767. traffic island, el refugio
-768. señales de tránsito
-769. freno
-770. paradero
-771. rumbo
-772. hacia
