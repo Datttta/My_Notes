@@ -1,9 +1,6 @@
 === *New words* ===
 
-1. skittish
-2. exhaust - car
-3. aground
-4. starboard    
+1.  
 
 ==*Nuevas Palabras* ===
 
