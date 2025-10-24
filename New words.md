@@ -756,7 +756,3 @@
 749. inculcar
 750. escandalizar
 751. corregir
-752. ajar
-753. esfumarse
-754. seto
-755. 
