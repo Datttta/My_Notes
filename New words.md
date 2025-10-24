@@ -1,6 +1,6 @@
 === *New words* ===
 
-1.  conceited - he is very  conceited mand
+1.  conceited - he is very  conceited man  
 
 ==*Nuevas Palabras* ===
 
