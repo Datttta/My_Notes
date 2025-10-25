@@ -736,4 +736,4 @@
 730. limitar con
 731. lindar con
 732. dotar de personal
-733. talón
+733. ancla
