@@ -736,23 +736,3 @@
 730. limitar con
 731. lindar con
 732. dotar de personal
-733. perfilar
-734. repiquetear
-735. conceder
-736. ceras
-737. figurar
-738. sacar a relucir
-739. atrabancar
-740. recaudar
-741. envidiar
-742. azotar
-743. arremeter
-744. allanar
-745. to weigh,levar
-746. reclamar
-747. to feel like,tener ganas de
-748. to look forward to,estar deseando
-749. talonar
-750. inculcar
-751. escandalizar
-752. corregir
