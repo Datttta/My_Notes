@@ -1,7 +1,6 @@
 === *New words* ===
 
-1.  conceited - he is very  conceited man
-2. to bristle
+1.
 
 ==*Nuevas Palabras* ===
 
