@@ -1,10 +1,11 @@
 === *New words* ===
 
 1. censorship
-2. guesthouse
-3. bellhop
-4. thunderclap
-5. ticket office
+2. chiefly
+3. guesthouse
+4. bellhop
+5. thunderclap
+6. ticket office
 
 ==*Nuevas Palabras* ===
 
@@ -804,3 +805,9 @@
 794. plegable
 795. la fianza
 796. orilla
+797. seguro que
+798. no cabe duda de que
+799. naturalmente
+800. de la misma manera
+801. da igual
+802. below,a continuación
