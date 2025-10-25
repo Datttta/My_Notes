@@ -2,6 +2,7 @@
 
 1. censorship
 2. thunderclap
+3. ticket office
 
 ==*Nuevas Palabras* ===
 
@@ -791,3 +792,8 @@
 784. el andén
 785. el parlante
 786. extranjero
+787. lluvioso
+788. brumoso
+789. de niebla
+790. tentempié
+791. lujo
