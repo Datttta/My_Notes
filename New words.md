@@ -1,8 +1,9 @@
 === *New words* ===
 
 1. censorship
-2. thunderclap
-3. ticket office
+2. bellhop
+3. thunderclap
+4. ticket office
 
 ==*Nuevas Palabras* ===
 
@@ -797,3 +798,5 @@
 789. de niebla
 790. tentempié
 791. lujo
+792. estancia
+793. luna de miel
