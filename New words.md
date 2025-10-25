@@ -737,3 +737,5 @@
 731. lindar con
 732. dotar de personal
 733. ancla
+734. campanas
+735. retrato
