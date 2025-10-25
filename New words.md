@@ -1,6 +1,6 @@
 === *New words* ===
 
-1.
+1. censorship
 
 ==*Nuevas Palabras* ===
 
@@ -741,3 +741,27 @@
 735. retrato
 736. posterior
 737. fondear
+738. ver
+739. cartel
+740. butaca
+741. broadcasting,la difusión
+742. retransmisión
+743. cadena
+744. humorismo
+745. policiaco
+746. wéstern
+747. programa de concursos
+748. estrella
+749. el set
+750. doblar
+751. situarse
+752. locutor
+753. presenter,el conductor
+754. commercial,el spot
+755. la cuña
+756. double,el/la doble
+757. substitute,el/la suplente
+758. shot,la toma
+759. take,la toma
+760. medios de comunicación
+761. still,el fotograma
