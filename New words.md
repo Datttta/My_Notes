@@ -1,11 +1,12 @@
 === *New words* ===
 
 1. censorship
-2. chiefly
-3. guesthouse
-4. bellhop
-5. thunderclap
-6. ticket office
+2. swing - toy
+3. chiefly
+4. guesthouse
+5. bellhop
+6. thunderclap
+7. ticket office
 
 ==*Nuevas Palabras* ===
 
@@ -811,3 +812,19 @@
 800. de la misma manera
 801. da igual
 802. below,a continuación
+803. más importante aún
+804. prioritariamente
+805. for instance,sin ir más lejos
+806. that is,es decir
+807. al fin y al cabo
+808. no obstante
+809. empero
+810. aún más
+811. más allá
+812. at length,detenidamente
+813. immediately,ipso facto
+814. in the meantime,mientras tanto
+815. hence,de ahí que
+816. since,ya que
+817. thus,por lo tanto
+818. thus,por ello
