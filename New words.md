@@ -1,12 +1,13 @@
 === *New words* ===
 
 1. censorship
-2. swing - toy
-3. chiefly
-4. guesthouse
-5. bellhop
-6. thunderclap
-7. ticket office
+2. spinning top
+3. swing - toy
+4. chiefly
+5. guesthouse
+6. bellhop
+7. thunderclap
+8. ticket office
 
 ==*Nuevas Palabras* ===
 
@@ -828,3 +829,9 @@
 816. since,ya que
 817. thus,por lo tanto
 818. thus,por ello
+819. el patio
+820. top,la peonza
+821. jóvenes
+822. canica
+823. juego de mesa
+824. el trompo
