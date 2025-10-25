@@ -836,3 +836,27 @@
 822. canica
 823. juego de mesa
 824. el trompo
+825. el lazo de saltar
+826. season,la temporada
+827. reloj pulsera
+828. manilla
+829. anteanoche
+830. brevemente
+831. anteayer
+832. en ocasiones
+833. el día entero
+834. ñuede
+835. er
+836. pocosa
+837. vustas
+838. next,que viene
+839. as soon as,en cuanto
+840. as soon as,tan pronto como
+841. longest,más largo
+842. daybreak,el albor
+843. sunrise,la salida del sol
+844. ratos libres
+845. tiempo de ocio
+846. plazo de duración
+847. la vigencia
+848. ha pasado mucho tiempo
