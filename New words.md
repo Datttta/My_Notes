@@ -1,13 +1,14 @@
 === *New words* ===
 
 1. censorship
-2. spinning top
-3. swing - toy
-4. chiefly
-5. guesthouse
-6. bellhop
-7. thunderclap
-8. ticket office
+2. jump rope
+3. spinning top
+4. swing - toy
+5. chiefly
+6. guesthouse
+7. bellhop
+8. thunderclap
+9. ticket office
 
 ==*Nuevas Palabras* ===
 
