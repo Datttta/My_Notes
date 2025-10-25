@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. censorship
+2. thunderclap
 
 ==*Nuevas Palabras* ===
 
@@ -765,3 +766,28 @@
 759. take,la toma
 760. medios de comunicación
 761. still,el fotograma
+762. documentary,el documental
+763. reseña
+764. trailer, avances
+765. obra maestra
+766. diablura
+767. tener gracia
+768. la risa
+769. sentido del humor
+770. to check in,facturar
+771. asiento de ventanilla
+772. asiento de pasillo
+773. customs,la aduana
+774. la ruta
+775. visado
+776. la cuota
+777. la huésped
+778. el hostal
+779. folleto
+780. posada
+781. pasaje
+782. tour,el recorrido
+783. cinturón de seguridad
+784. el andén
+785. el parlante
+786. extranjero
