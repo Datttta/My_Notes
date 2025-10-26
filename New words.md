@@ -834,23 +834,3 @@
 828. reloj pulsera
 829. manilla
 830. anteanoche
-831. brevemente
-832. anteayer
-833. en ocasiones
-834. el día entero
-835. ñuede
-836. er
-837. pocosa
-838. vustas
-839. next,que viene
-840. as soon as,en cuanto
-841. as soon as,tan pronto como
-842. longest,más largo
-843. daybreak,el albor
-844. sunrise,la salida del sol
-845. ratos libres
-846. tiempo de ocio
-847. plazo de duración
-848. la vigencia
-849. ha pasado mucho tiempo
-850. filia
