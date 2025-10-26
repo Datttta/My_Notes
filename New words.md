@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. censorship
+1. 
 
 ==*Nuevas Palabras* ===
 
