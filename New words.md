@@ -1,15 +1,16 @@
 === *New words* ===
 
 1. censorship
-2. for (for 50 years)
-3. jump rope
-4. spinning top
-5. swing - toy
-6. chiefly
-7. guesthouse
-8. bellhop
-9. thunderclap
-10. ticket office
+2. surveillance
+3. for (for 50 years)
+4. jump rope
+5. spinning top
+6. swing - toy
+7. chiefly
+8. guesthouse
+9. bellhop
+10. thunderclap
+11. ticket office
 
 ==*Nuevas Palabras* ===
 
