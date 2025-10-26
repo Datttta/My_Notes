@@ -2,15 +2,16 @@
 
 1. censorship
 2. surveillance
-3. for (for 50 years)
-4. jump rope
-5. spinning top
-6. swing - toy
-7. chiefly
-8. guesthouse
-9. bellhop
-10. thunderclap
-11. ticket office
+3. snarky
+4. for (for 50 years)
+5. jump rope
+6. spinning top
+7. swing - toy
+8. chiefly
+9. guesthouse
+10. bellhop
+11. thunderclap
+12. ticket office
 
 ==*Nuevas Palabras* ===
 
