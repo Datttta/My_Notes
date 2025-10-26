@@ -1,18 +1,6 @@
 === *New words* ===
 
 1. censorship
-2. flouted
-3. surveillance
-4. snarky
-5. for (for 50 years)
-6. jump rope
-7. spinning top
-8. swing - toy
-9. chiefly
-10. guesthouse
-11. bellhop
-12. thunderclap
-13. ticket office
 
 ==*Nuevas Palabras* ===
 
