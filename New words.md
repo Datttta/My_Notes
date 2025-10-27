@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. key in
+2. rebound
 
 ==*Nuevas Palabras* ===
 
@@ -874,3 +875,10 @@
 868. alineación
 869. arquero
 870. la goma
+871. banquillo
+872. pitar
+873. pantalones cortos
+874. el pito
+875. el chut
+876. tiempo suplementario
+877. lanzamiento
