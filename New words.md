@@ -1,9 +1,10 @@
 === *New words* ===
 
 1. key in
-2. thrashing
-3. own goal
-4. rebound
+2. disallow
+3. thrashing
+4. own goal
+5. rebound
 
 ==*Nuevas Palabras* ===
 
@@ -902,3 +903,4 @@
 893. start,la salida
 894. abarajar
 895. saddle,el sillín
+896. stick,el palo
