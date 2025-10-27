@@ -887,13 +887,18 @@
 881. block,el tapón
 882. placar
 883. to catch, atrapar
-884. zambullirse
-885. el largo
-886. ride,la cabalgata
-887. heat,la eliminatoria
-888. point,el tanto
-889. stamina,el fondo
-890. title,el cetro
-891. lead,la delantera
-892. indiscrecion
-893. start,la salida
+884. Sujeta
+885. cuero
+886. zambullirse
+887. Herraje
+888. el largo
+889. disminución
+890. ride,la cabalgata
+891. heat,la eliminatoria
+892. point,el tanto
+893. stamina,el fondo
+894. title,el cetro
+895. lead,la delantera
+896. indiscrecion
+897. start,la salida
+898. encaje
