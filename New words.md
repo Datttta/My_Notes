@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. 
+1. key in
 
 ==*Nuevas Palabras* ===
 
@@ -835,3 +835,32 @@
 829. manilla
 830. anteanoche
 831. aplicándose
+832. contestar
+833. la consola
+834. to download,descargar
+835. ver en streaming
+836. mouse,el ratón
+837. to pick up,descolgar
+838. hit,el jit
+839. to key in,picar
+840. etiquetar
+841. to surf,navegar por
+842. entorno
+843. to paste,pegar
+844. to delete,borrar
+845. guglear
+846. to charge,cargar
+847. speaker,el altavoz
+848. actualizar
+849. headphones,los auriculares
+850. to link,enlazar
+851. to load,cargarse
+852. to press,oprimir
+853. to scroll,desplazar
+854. to click,cliquear
+855. hacer clic en
+856. to press,pulsar
+857. feature,la prestación
+858. loop,el bucle
+859. coma
+860. bat,el bate
