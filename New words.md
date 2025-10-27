@@ -868,3 +868,9 @@
 862. enceste
 863. casco
 864. tauromaquia
+865. balonmano
+866. amonestar
+867. mallas
+868. alineación
+869. arquero
+870. la goma
