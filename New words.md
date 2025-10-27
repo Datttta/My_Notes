@@ -1,8 +1,9 @@
 === *New words* ===
 
 1. key in
-2. own goal
-3. rebound
+2. thrashing
+3. own goal
+4. rebound
 
 ==*Nuevas Palabras* ===
 
@@ -885,3 +886,6 @@
 877. lanzamiento
 878. rechace
 879. autogol
+880. amonestación
+881. block,el tapón
+882. placar
