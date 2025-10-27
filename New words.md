@@ -893,3 +893,9 @@
 884. zambullirse
 885. el largo
 886. ride,la cabalgata
+887. heat,la eliminatoria
+888. point,el tanto
+889. stamina,el fondo
+890. title,el cetro
+891. lead,la delantera
+892. indiscrecion
