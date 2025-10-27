@@ -889,3 +889,4 @@
 880. amonestación
 881. block,el tapón
 882. placar
+883. to catch, atrapar
