@@ -1,10 +1,11 @@
 === *New words* ===
 
 1. key in
-2. disallow
-3. thrashing
-4. own goal
-5. rebound
+2. inning
+3. disallow
+4. thrashing
+5. own goal
+6. rebound
 
 ==*Nuevas Palabras* ===
 
@@ -904,3 +905,6 @@
 894. abarajar
 895. saddle,el sillín
 896. stick,el palo
+897. noquear
+898. precalentar
+899. to call,pitar
