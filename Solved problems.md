@@ -21,3 +21,6 @@
 - Minecraft pauses when lose focus:
     - nvim ~/.minecraft/options.txt
     - change "pauseOnLostFocus:false" to "pauseOnLostFocus:true"
+
+- Pacman failed to syncronize all databases:
+    - sudo rm /var/lib/pacman/db.lck
