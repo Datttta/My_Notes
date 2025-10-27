@@ -864,3 +864,7 @@
 858. loop,el bucle
 859. coma
 860. bat,el bate
+861. la canasta
+862. enceste
+863. casco
+864. tauromaquia
