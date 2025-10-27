@@ -890,3 +890,6 @@
 881. block,el tapón
 882. placar
 883. to catch, atrapar
+884. zambullirse
+885. el largo
+886. ride,la cabalgata
