@@ -38,3 +38,6 @@
 
 - anki background images folder:
     - /home/DROS/.local/share/Anki2/addons21/1210908941/user_files/background/
+
+- Fzf history:
+    - Alt + a
