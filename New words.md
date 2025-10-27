@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. key in
-2. rebound
+2. own goal
+3. rebound
 
 ==*Nuevas Palabras* ===
 
@@ -882,3 +883,5 @@
 875. el chut
 876. tiempo suplementario
 877. lanzamiento
+878. rechace
+879. autogol
