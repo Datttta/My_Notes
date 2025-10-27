@@ -1,11 +1,12 @@
 === *New words* ===
 
 1. key in
-2. inning
-3. disallow
-4. thrashing
-5. own goal
-6. rebound
+2. clamps (verb)
+3. inning
+4. disallow
+5. thrashing
+6. own goal
+7. rebound
 
 ==*Nuevas Palabras* ===
 
