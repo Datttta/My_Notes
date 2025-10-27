@@ -908,3 +908,14 @@
 897. noquear
 898. precalentar
 899. to call,pitar
+900. aire libre
+901. bajo techo
+902. el puesto
+903. el tenderete
+904. asequible
+905. razonable
+906. cash,el efectivo
+907. almacenes
+908. robar
+909. ganga
+910. el bono
