@@ -1,14 +1,6 @@
 === *New words* ===
 
-1. key in
-2. dropper
-3. proposition
-4.  (verb)
-5. 
-6. 
-7. 
-8. 
-9. 
+1. 
 
 ==*Nuevas Palabras* ===
 
