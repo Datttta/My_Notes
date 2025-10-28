@@ -886,23 +886,3 @@
 880. amonestación
 881. block,el tapón
 882. placar
-883. to catch, atrapar
-884. Sujeta
-885. cuero
-886. zambullirse
-887. Herraje
-888. el largo
-889. disminución
-890. ride,la cabalgata
-891. heat,la eliminatoria
-892. point,el tanto
-893. stamina,el fondo
-894. title,el cetro
-895. lead,la delantera
-896. indiscrecion
-897. start,la salida
-898. encaje
-899. billetes - dinero
-900. tiraba
-901. maletín
-902. changements
