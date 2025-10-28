@@ -947,3 +947,12 @@
 933. lonchera
 934. estuche
 935. sacapuntas
+936. libreta
+937. cátedra
+938. bachillerato
+939. casillero
+940. boarding school,el internado
+941. promedio
+942. boceto
+943. piadoso
+944. limosna
