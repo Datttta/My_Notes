@@ -957,3 +957,9 @@
 942. boceto
 943. piadoso
 944. limosna
+945. beato
+946. creencia
+947. ahijado
+948. madrina
+949. padrino
+950. flojera
