@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. beforehand
-2. savior
+2. quilt
+3. savior
 
 ==*Nuevas Palabras* ===
 
@@ -889,3 +890,20 @@
 882. placar
 883. muelle
 884. secreto - noun
+885. cono
+886. cuadro
+887. rombo
+888. redondel
+889. rastrillo
+890. espantapájaros
+891. follaje
+892. bellota
+893. gorro
+894. naranjado
+895. especia
+896. deshielo
+897. retoño
+898. charco
+899. orilla del mar
+900. paleta de hielo
+901. bochornoso
