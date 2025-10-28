@@ -1,8 +1,10 @@
 === *New words* ===
 
 1. beforehand
-2. quilt
-3. savior
+2. icicle
+3. ice skate
+4. quilt
+5. savior
 
 ==*Nuevas Palabras* ===
 
@@ -907,3 +909,12 @@
 899. orilla del mar
 900. paleta de hielo
 901. bochornoso
+902. edredón
+903. manopla
+904. leño
+905. carámbano
+906. calefacción
+907. franela
+908. gusto
+909. excavar
+910. cohete
