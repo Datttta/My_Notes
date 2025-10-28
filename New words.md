@@ -1,10 +1,11 @@
 === *New words* ===
 
 1. beforehand
-2. icicle
-3. ice skate
-4. quilt
-5. savior
+2. compound
+3. icicle
+4. ice skate
+5. quilt
+6. savior
 
 ==*Nuevas Palabras* ===
 
@@ -918,3 +919,4 @@
 908. gusto
 909. excavar
 910. cohete
+911. transbordador
