@@ -1,11 +1,13 @@
 === *New words* ===
 
 1. beforehand
-2. compound
-3. icicle
-4. ice skate
-5. quilt
-6. savior
+2. Scotch tape
+3. to wane
+4. compound
+5. icicle
+6. ice skate
+7. quilt
+8. savior
 
 ==*Nuevas Palabras* ===
 
@@ -920,3 +922,25 @@
 909. excavar
 910. cohete
 911. transbordador
+912. compuesto
+913. crecer
+914. órgano
+915. cráter
+916. sustraer
+917. restar
+918. mate
+919. conteo
+920. menos
+921. Tierra
+922. clon
+923. heredar
+924. pez
+925. comedor
+926. inscribir
+927. master's degree,la maestría
+928. los apuntes
+929. coro
+930. teclear
+931. en parejas
+932. rotulador
+933. lonchera
