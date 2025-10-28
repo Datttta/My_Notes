@@ -1,13 +1,14 @@
 === *New words* ===
 
 1. beforehand
-2. Scotch tape
-3. to wane
-4. compound
-5. icicle
-6. ice skate
-7. quilt
-8. savior
+2. pencil sharpener
+3. Scotch tape
+4. to wane
+5. compound
+6. icicle
+7. ice skate
+8. quilt
+9. savior
 
 ==*Nuevas Palabras* ===
 
@@ -944,3 +945,5 @@
 931. en parejas
 932. rotulador
 933. lonchera
+934. estuche
+935. sacapuntas
