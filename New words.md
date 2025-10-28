@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. beforehand
+2. savior
 
 ==*Nuevas Palabras* ===
 
