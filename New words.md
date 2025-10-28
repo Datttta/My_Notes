@@ -1,14 +1,15 @@
 === *New words* ===
 
 1. beforehand
-2. pencil sharpener
-3. Scotch tape
-4. to wane
-5. compound
-6. icicle
-7. ice skate
-8. quilt
-9. savior
+2. alms
+3. pencil sharpener
+4. Scotch tape
+5. to wane
+6. compound
+7. icicle
+8. ice skate
+9. quilt
+10. savior
 
 ==*Nuevas Palabras* ===
 
