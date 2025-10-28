@@ -46,3 +46,5 @@
     - Alt + <F1>: connect to you earbuds
     - Alt + <F2>: disconnect you device
     - Alt + <F3>: Show device info (including battery porcentage)
+    - Alt + <F4>: Change audio profile to low latency
+    - Alt + <F5>: Change audio profile to high quality
