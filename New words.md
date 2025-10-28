@@ -1,8 +1,6 @@
 === *New words* ===
 
-1. coroner
-2. belly down
-3. greedy ass
+1. 
 
 ==*Nuevas Palabras* ===
 
