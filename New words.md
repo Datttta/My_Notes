@@ -887,4 +887,3 @@
 881. block,el tapón
 882. placar
 883. muelle
-884. tener
