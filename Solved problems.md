@@ -24,3 +24,10 @@
 
 - Pacman failed to syncronize all databases:
     - sudo rm /var/lib/pacman/db.lck
+
+- Bluetooth not working (SetDiscoveryFilter failed: org.bluez.Error.NotReady 
+    Failed to start discovery: org.bluez.Error.NotReady):
+    - sudo rfkill block Bluetooth
+    - sudo rfkill unblock Bluetooth
+    - sudo systemctl restart bluetooth
+
