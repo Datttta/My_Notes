@@ -5,8 +5,9 @@
 3. get in the way
 4. get confuse
 5. take responsability
-6. ace
-7. write down
+6. hold responsible
+7. ace
+8. write down
 
 ==*Nuevas Palabras* ===
 
