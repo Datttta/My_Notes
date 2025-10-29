@@ -3,8 +3,9 @@
 1. patchwork
 2. leave out
 3. get in the way
-4. ace
-5. write down
+4. get confuse
+5. ace
+6. write down
 
 ==*Nuevas Palabras* ===
 
