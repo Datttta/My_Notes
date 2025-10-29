@@ -11,7 +11,7 @@
 9. icicle
 10. ice skate
 11. quilt
-12. savior
+12. 
 
 ==*Nuevas Palabras* ===
 
