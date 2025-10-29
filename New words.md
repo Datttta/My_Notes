@@ -935,23 +935,3 @@
 929. coro
 930. teclear
 931. en parejas
-932. rotulador
-933. lonchera
-934. estuche
-935. sacapuntas
-936. libreta
-937. cátedra
-938. bachillerato
-939. casillero
-940. boarding school,el internado
-941. promedio
-942. boceto
-943. piadoso
-944. limosna
-945. beato
-946. creencia
-947. ahijado
-948. madrina
-949. padrino
-950. flojera
-951. anejo
