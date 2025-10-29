@@ -48,3 +48,5 @@
     - Alt + <F3>: Show device info (including battery porcentage)
     - Alt + <F4>: Change audio profile to low latency
     - Alt + <F5>: Change audio profile to high quality
+
+- Comment more than one line at the same time nvim
