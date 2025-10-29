@@ -940,3 +940,4 @@
 933. imparte
 934. lápices
 935. sobresaliente
+936. rectitud
