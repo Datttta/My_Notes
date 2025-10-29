@@ -937,3 +937,5 @@
 930. teclear
 931. en parejas
 932. bautizo
+933. imparte
+934. lápices
