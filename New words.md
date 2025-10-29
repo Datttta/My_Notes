@@ -4,8 +4,9 @@
 2. leave out
 3. get in the way
 4. get confuse
-5. ace
-6. write down
+5. take responsability
+6. ace
+7. write down
 
 ==*Nuevas Palabras* ===
 
