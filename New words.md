@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. patchwork
+2. write down
 
 ==*Nuevas Palabras* ===
 
