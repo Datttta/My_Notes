@@ -10,7 +10,7 @@
 8. compound
 9. icicle
 10. ice skate
-11. quilt
+11. 
 12. 
 
 ==*Nuevas Palabras* ===
