@@ -1,16 +1,17 @@
 === *New words* ===
 
 1. beforehand
-2. distorted
-3. alms
-4. pencil sharpener
-5. Scotch tape
-6. to wane
-7. compound
-8. icicle
-9. ice skate
-10. quilt
-11. savior
+2. abysmal
+3. distorted
+4. alms
+5. pencil sharpener
+6. Scotch tape
+7. to wane
+8. compound
+9. icicle
+10. ice skate
+11. quilt
+12. savior
 
 ==*Nuevas Palabras* ===
 
