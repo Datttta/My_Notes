@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. butthurt
+2. two-all
 
 ==*Nuevas Palabras* ===
 
@@ -921,4 +922,3 @@
 915. cráter
 916. sustraer
 917. pregrado
-918. el partido
