@@ -28,5 +28,4 @@
 - Bluetooth not working (SetDiscoveryFilter failed: org.bluez.Error.NotReady 
     Failed to start discovery: org.bluez.Error.NotReady):
     - sudo rfkill unblock Bluetooth
-    - sudo systemctl restart bluetooth
 
