@@ -1,15 +1,6 @@
 === *New words* ===
 
-1. patchwork
-2. subcommittee
-3. contends
-4. leave out
-5. get in the way
-6. get confuse
-7. take responsability
-8. hold responsible
-9. ace
-10. write down
+1. 
 
 ==*Nuevas Palabras* ===
 
