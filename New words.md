@@ -906,4 +906,4 @@
 900. nevada
 901. ardía
 902. trozo
-903. paleta
+903. lienzo
