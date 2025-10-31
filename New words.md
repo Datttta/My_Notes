@@ -1,8 +1,10 @@
 === *New words* ===
 
 1. butthurt
-2. impedence
-3. two-all
+2. fiddling
+3. tinkering
+4. impedence
+5. two-all
 
 ==*Nuevas Palabras* ===
 
