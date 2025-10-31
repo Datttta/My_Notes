@@ -51,3 +51,7 @@
 
 - Comment more than one line at the same time nvim:
     - Select the line and type *gc*
+
+- Flatpak:
+    - show flatpak apps: flatpak list
+    - unistall: flatpak uninstall <app-name>
