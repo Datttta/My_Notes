@@ -902,23 +902,3 @@
 896. deshielo
 897. retoño
 898. charco
-899. orilla del mar
-900. paleta de hielo
-901. bochornoso
-902. edredón
-903. manopla
-904. leño
-905. carámbano
-906. calefacción
-907. franela
-908. gusto
-909. excavar
-910. cohete
-911. transbordador
-912. compuesto
-913. crecer
-914. órgano
-915. cráter
-916. sustraer
-917. pregrado
-918. capilla
