@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. butthurt
-2. two-all
+2. impedence
+3. two-all
 
 ==*Nuevas Palabras* ===
 
