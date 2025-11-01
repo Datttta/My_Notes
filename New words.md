@@ -934,3 +934,4 @@
 928. gamberro
 929. pendenciero
 930. alborotador
+931. burden,el lastre
