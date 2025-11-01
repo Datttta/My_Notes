@@ -975,4 +975,17 @@
 967. cercanías
 968. las afueras
 969. rasuradora
-
+970. dentífrico
+971. nail file,la lima
+972. pañal
+973. wrap,el rebozo
+974. sonaja
+975. mameluco
+976. babero
+977. cochecito
+978. darse el gusto
+979. muchacho
+980. raza
+981. tercera edad
+982. belleza
+983. sense,el juicio
