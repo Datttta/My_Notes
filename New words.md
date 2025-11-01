@@ -889,3 +889,5 @@
 883. muelle
 884. tiñó
 885. madriguera
+886. produciendo
+887. encendido
