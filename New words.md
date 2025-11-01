@@ -888,23 +888,3 @@
 882. placar
 883. muelle
 884. secreto - noun
-885. cono
-886. cuadro
-887. rombo
-888. redondel
-889. rastrillo
-890. espantapájaros
-891. follaje
-892. bellota
-893. gorro
-894. naranjado
-895. especia
-896. deshielo
-897. retoño
-898. charco
-899. tras la
-900. nevada
-901. ardía
-902. trozo
-903. lienzo
-904. judido
