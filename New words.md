@@ -1005,3 +1005,8 @@
 997. sesgo
 998. darling,el cariño
 999. acurrucado - curled up
+1000. bonico
+1001. vejez
+1002. campesino
+1003. coetáneo
+1004. renacuajo
