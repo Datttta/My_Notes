@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. wallop
-2. senselessness
+2. marina
+3. senselessness
 
 ==*Nuevas Palabras* ===
 
@@ -941,3 +942,23 @@
 934. desgracia
 935. riña
 936. jealousy,los celos
+937. close to,cabe
+938. más allá de
+939. through,a través de
+940. except,excepto
+941. to run,concurrir
+942. alcaldesa
+943. devenir
+944. lealtad
+945. contact,la palanca
+946. connections,el enchufe
+947. sublevarse
+948. seat,el escaño
+949. overthrow,el derrocamiento
+950. carnicería
+951. frutería
+952. ferretería
+953. jardín trasero
+954. pradera
+955. en ninguna parte
+956. el puerto deportivo
