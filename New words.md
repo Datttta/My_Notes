@@ -962,3 +962,17 @@
 954. pradera
 955. en ninguna parte
 956. el puerto deportivo
+957. block,la manzana
+958. condado
+959. fuente
+960. office,el despacho
+961. study,el despacho
+962. glorieta
+963. tip,el extremo
+964. dump,el vertedero
+965. fence,la valla
+966. reapertura
+967. cercanías
+968. las afueras
+969. rasuradora
+
