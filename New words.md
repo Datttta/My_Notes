@@ -891,3 +891,4 @@
 885. madriguera
 886. produciendo
 887. encendido
+888. ahuyentar
