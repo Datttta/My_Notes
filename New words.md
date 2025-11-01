@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. 
+1. wallop
 
 ==*Nuevas Palabras* ===
 
@@ -892,3 +892,45 @@
 886. produciendo
 887. encendido
 888. ahuyentar
+889. boletín informativo
+890. estrofa
+891. leyenda - legend
+892. borrador
+893. issue,el número
+894. print,la letra de imprenta
+895. tebeo
+896. ghostwriter,el negro
+897. speech bubble,el bocadillo
+898. hipérbole
+899. seudónimo
+900. fluency,la fluidez
+901. summary,el resumen
+902. de qué se trata
+903. cómo se dice
+904. a qué
+905. de qué está hecho
+906. qué lleva puesto
+907. hacia dónde
+908. ¿Qué aspecto tienes?
+909. el montón
+910. a great deal of,la mar de
+911. pañuelo
+912. pecho,a lo hecho
+913. necias
+914. nunca es tarde si la dicha es buena
+915. Nunca llueve a gusto de todos
+916. El hábito no hace al monje
+917. tal astilla,de tal palo
+918. grandes remedios.,A grandes males
+919. A donde fueres haz lo que vieres
+920. más vale tarde que nunca
+921. to work out,descifrar
+922. fight,la bronca
+923. to hurt,hacer daño
+924. traicionar
+925. escisión
+926. amenaza
+927. asumir un reto
+928. gamberro
+929. pendenciero
+930. alborotador
