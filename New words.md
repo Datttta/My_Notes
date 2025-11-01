@@ -989,3 +989,19 @@
 981. tercera edad
 982. belleza
 983. sense,el juicio
+984. upbringing,la crianza
+985. quídam
+986. malquerer
+987. velatorio
+988. chai
+989. muchedumbre
+990. affaire
+991. hinchada
+992. machito
+993. acosador
+994. cumplido
+995. cenáculo
+996. apapacho
+997. sesgo
+998. darling,el cariño
+999. acurrucado - curled up
