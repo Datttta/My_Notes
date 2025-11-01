@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. wallop
+2. senselessness
 
 ==*Nuevas Palabras* ===
 
@@ -935,3 +936,8 @@
 929. pendenciero
 930. alborotador
 931. burden,el lastre
+932. estallar
+933. reventar
+934. desgracia
+935. riña
+936. jealousy,los celos
