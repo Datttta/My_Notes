@@ -1010,3 +1010,4 @@
 1002. campesino
 1003. coetáneo
 1004. renacuajo
+1005. en directo
