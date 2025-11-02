@@ -1111,3 +1111,5 @@
 1096. estaño
 1097. fieltro
 1098. flirtear
+1099. idilio
+1100. marriage,el enlace
