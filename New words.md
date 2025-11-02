@@ -1068,3 +1068,10 @@
 1056. customs,la aduana
 1057. alcista
 1058. arancel
+1059. préstamo
+1060. prestar
+1061. la carencia
+1062. portamonedas
+1063. mareado
+1064. mascarilla
+1065. apapachado
