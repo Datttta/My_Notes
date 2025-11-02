@@ -1014,3 +1014,14 @@
 1007. espinilla
 1008. hígado
 1009. temple,la sien
+1010. encía
+1011. yema
+1012. el párpado
+1013. freckle,la peca
+1014. nudillo
+1015. flequillo
+1016. coleta
+1017. patilla
+1018. bigote
+1019. sujetapapeles
+1020. grapadora
