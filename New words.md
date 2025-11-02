@@ -1064,3 +1064,7 @@
 1052. arriendo
 1053. tasar
 1054. tacaño
+1055. mean,tacaño
+1056. customs,la aduana
+1057. alcista
+1058. arancel
