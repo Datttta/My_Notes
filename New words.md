@@ -1097,3 +1097,7 @@
 1084. enfriamiento
 1085. acute,agudo
 1086. concebir
+1087. cubrebocas
+1088. barbijo
+1089. carencia de
+1090. quejarse - moan
