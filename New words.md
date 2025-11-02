@@ -989,23 +989,3 @@
 983. sense,el juicio
 984. upbringing,la crianza
 985. quídam
-986. malquerer
-987. velatorio
-988. chai
-989. muchedumbre
-990. affaire
-991. hinchada
-992. machito
-993. acosador
-994. cumplido
-995. cenáculo
-996. apapacho
-997. sesgo
-998. darling,el cariño
-999. acurrucado - curled up
-1000. bonico
-1001. vejez
-1002. campesino
-1003. coetáneo
-1004. renacuajo
-1005. en directo
