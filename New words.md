@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. sickly
+2. collarbone
 
 ==*Nuevas Palabras* ===
 
@@ -992,3 +993,24 @@
 986. encogido
 987. abuchedores
 988. irrespetuosos
+989. canijo’
+990. ente
+991. amigazo
+992. nalgas
+993. codo
+994. uña
+995. hueso
+996. ceja
+997. costilla
+998. seno
+999. pantorrilla
+1000. pulgar
+1001. lomo
+1002. poto
+1003. dedo índice
+1004. meñique
+1005. ombligo
+1006. pezón
+1007. espinilla
+1008. hígado
+1009. temple,la sien
