@@ -1,9 +1,10 @@
 === *New words* ===
 
 1. sickly
-2. choppy
-3. wilted
-4. collarbone
+2. petal
+3. choppy
+4. wilted
+5. collarbone
 
 ==*Nuevas Palabras* ===
 
@@ -1034,3 +1035,8 @@
 1025. agreste
 1026. arroyo
 1027. encrespado
+1028. ribera
+1029. la cala
+1030. bajamar
+1031. pleamar
+1032. autóctono
