@@ -1047,3 +1047,20 @@
 1035. corteza
 1036. enredadera
 1037. tañer
+1038. puntear
+1039. tambor
+1040. estribillo
+1041. ejecutar
+1042. molido
+1043. hacienda
+1044. haber
+1045. adinerado
+1046. indigente
+1047. dough,la plata
+1048. fund,el fondo
+1049. bursátil
+1050. codicioso
+1051. reserve,el encaje
+1052. arriendo
+1053. tasar
+1054. tacaño
