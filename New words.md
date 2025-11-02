@@ -1025,3 +1025,4 @@
 1018. bigote
 1019. sujetapapeles
 1020. grapadora
+1021. el/la portátil
