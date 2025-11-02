@@ -1,8 +1,9 @@
 === *New words* ===
 
 1. sickly
-2. wilted
-3. collarbone
+2. choppy
+3. wilted
+4. collarbone
 
 ==*Nuevas Palabras* ===
 
@@ -1030,3 +1031,6 @@
 1022. envelope,el sobre
 1023. duodécimo
 1024. undécimo
+1025. agreste
+1026. arroyo
+1027. encrespado
