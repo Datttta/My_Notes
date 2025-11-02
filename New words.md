@@ -1,13 +1,15 @@
 === *New words* ===
 
 1. sickly
-2. conceive
-3. to strum
-4. to drum
-5. petal
-6. choppy
-7. wilted
-8. collarbone
+2. felt - fieltro
+3. sprain
+4. conceive
+5. to strum
+6. to drum
+7. petal
+8. choppy
+9. wilted
+10. collarbone
 
 ==*Nuevas Palabras* ===
 
@@ -1101,3 +1103,10 @@
 1088. barbijo
 1089. carencia de
 1090. quejarse - moan
+1091. esguince
+1092. entumecido
+1093. galeno
+1094. facultativo
+1095. pulgada
+1096. estaño
+1097. fieltro
