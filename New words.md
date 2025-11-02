@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. sickly
-2. collarbone
+2. wilted
+3. collarbone
 
 ==*Nuevas Palabras* ===
 
@@ -1027,3 +1028,5 @@
 1020. grapadora
 1021. el/la portátil
 1022. envelope,el sobre
+1023. duodécimo
+1024. undécimo
