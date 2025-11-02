@@ -1,9 +1,6 @@
 === *New words* ===
 
-1. wallop
-2. death toll
-3. marina
-4. senselessness
+1. 
 
 ==*Nuevas Palabras* ===
 
