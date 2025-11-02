@@ -1,15 +1,16 @@
 === *New words* ===
 
 1. sickly
-2. felt - fieltro
-3. sprain
-4. conceive
-5. to strum
-6. to drum
-7. petal
-8. choppy
-9. wilted
-10. collarbone
+2. better half
+3. felt - fieltro
+4. sprain
+5. conceive
+6. to strum
+7. to drum
+8. petal
+9. choppy
+10. wilted
+11. collarbone
 
 ==*Nuevas Palabras* ===
 
@@ -1113,4 +1114,4 @@
 1098. flirtear
 1099. idilio
 1100. marriage,el enlace
-1101. el chavo
+1101. media naranja
