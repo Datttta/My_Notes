@@ -1,10 +1,12 @@
 === *New words* ===
 
 1. sickly
-2. petal
-3. choppy
-4. wilted
-5. collarbone
+2. to strum
+3. to drum
+4. petal
+5. choppy
+6. wilted
+7. collarbone
 
 ==*Nuevas Palabras* ===
 
@@ -1040,3 +1042,8 @@
 1030. bajamar
 1031. pleamar
 1032. autóctono
+1033. pétalo
+1034. hiedra
+1035. corteza
+1036. enredadera
+1037. tañer
