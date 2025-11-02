@@ -1,12 +1,13 @@
 === *New words* ===
 
 1. sickly
-2. to strum
-3. to drum
-4. petal
-5. choppy
-6. wilted
-7. collarbone
+2. conceive
+3. to strum
+4. to drum
+5. petal
+6. choppy
+7. wilted
+8. collarbone
 
 ==*Nuevas Palabras* ===
 
@@ -1075,3 +1076,24 @@
 1063. mareado
 1064. mascarilla
 1065. apapachado
+1066. dolido
+1067. domiciliario
+1068. calentura
+1069. anteojos
+1070. ictus
+1071. cordura
+1072. encasar
+1073. ensalmar
+1074. endeble
+1075. padecimiento
+1076. el parto - delivery
+1077. birth,el parto
+1078. discapacidad
+1079. tos
+1080. muletilla
+1081. contagio
+1082. lávate
+1083. píldora
+1084. enfriamiento
+1085. acute,agudo
+1086. concebir
