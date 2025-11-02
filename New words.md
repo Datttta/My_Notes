@@ -989,4 +989,4 @@
 983. sense,el juicio
 984. upbringing,la crianza
 985. quídam
-986. rana
+986. encogido
