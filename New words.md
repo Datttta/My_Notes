@@ -1026,3 +1026,4 @@
 1019. sujetapapeles
 1020. grapadora
 1021. el/la portátil
+1022. envelope,el sobre
