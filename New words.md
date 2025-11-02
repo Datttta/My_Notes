@@ -990,3 +990,5 @@
 984. upbringing,la crianza
 985. quídam
 986. encogido
+987. abuchedores
+988. irrespetuosos
