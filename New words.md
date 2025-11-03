@@ -1,16 +1,17 @@
 === *New words* ===
 
 1. sickly
-2. better half
-3. felt - fieltro
-4. sprain
-5. conceive
-6. to strum
-7. to drum
-8. petal
-9. choppy
-10. wilted
-11. collarbone
+2. old-world
+3. better half
+4. felt - fieltro
+5. sprain
+6. conceive
+7. to strum
+8. to drum
+9. petal
+10. choppy
+11. wilted
+12. collarbone
 
 ==*Nuevas Palabras* ===
 
