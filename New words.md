@@ -1087,4 +1087,3 @@
 1081. contagio
 1082. lávate
 1083. ejerce
-1084. tos
