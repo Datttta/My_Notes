@@ -1086,23 +1086,3 @@
 1080. muletilla
 1081. contagio
 1082. lávate
-1083. píldora
-1084. enfriamiento
-1085. acute,agudo
-1086. concebir
-1087. cubrebocas
-1088. barbijo
-1089. carencia de
-1090. quejarse - moan
-1091. esguince
-1092. entumecido
-1093. galeno
-1094. facultativo
-1095. pulgada
-1096. estaño
-1097. fieltro
-1098. flirtear
-1099. idilio
-1100. marriage,el enlace
-1101. media naranja
-1102. empeorando
