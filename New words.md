@@ -1067,3 +1067,4 @@
 1061. la carencia
 1062. portamonedas
 1063. mareado
+1064. aportar
