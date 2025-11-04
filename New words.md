@@ -1068,3 +1068,4 @@
 1062. portamonedas
 1063. mareado
 1064. aportar
+1065. Padece
