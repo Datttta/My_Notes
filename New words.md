@@ -1070,3 +1070,4 @@
 1064. aportar
 1066. rompecabezas
 1067. tapa
+1068. supo
