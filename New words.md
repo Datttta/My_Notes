@@ -1072,3 +1072,4 @@
 1067. tapa
 1068. supo
 1069. marcos
+1070. trasladado
