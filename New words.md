@@ -1069,3 +1069,4 @@
 1063. mareado
 1064. aportar
 1065. Padece
+1066. rompecabezas
