@@ -1067,23 +1067,3 @@
 1061. la carencia
 1062. portamonedas
 1063. mareado
-1064. mascarilla
-1065. apapachado
-1066. dolido
-1067. domiciliario
-1068. calentura
-1069. anteojos
-1070. ictus
-1071. cordura
-1072. encasar
-1073. ensalmar
-1074. endeble
-1075. padecimiento
-1076. el parto - delivery
-1077. birth,el parto
-1078. discapacidad
-1079. tos
-1080. muletilla
-1081. contagio
-1082. lávate
-1083. ejerce
