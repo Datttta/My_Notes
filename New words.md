@@ -1118,3 +1118,7 @@
 1112. recetar
 1113. gasolinera
 1114. carne de res
+1115. hermanastro
+1116. cálido
+1117. shame,la pena
+1118. shrimp,la gamba
