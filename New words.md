@@ -1060,3 +1060,14 @@
 1054. el amorcito
 1055. el ligue
 1056. darling,el encanto
+1057. chino
+1058. fluent,suelto
+1059. sign language,la lengua de signos
+1060. cangrejo
+1061. adelgazar
+1062. perjudicar
+1063. estornudar
+1064. amenaza
+1065. sabiduría
+1066. travieso
+1067. to get engaged,comprometerse
