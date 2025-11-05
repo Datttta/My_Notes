@@ -1132,3 +1132,9 @@
 1125. celoso
 1126. planchar
 1127. escáner
+1128. chorizo
+1129. quitar la mesa
+1130. gracioso
+1131. nieta
+1132. plátano
+1133. despacio
