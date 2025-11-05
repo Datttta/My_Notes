@@ -1190,3 +1190,4 @@
 1172. el gusto es mío
 1173. menaje
 1174. tentempié
+1175. tarta
