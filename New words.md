@@ -1,17 +1,18 @@
 === *New words* ===
 
 1. parrot
-2. caught between a rock and a hard place
-3. rest on one's laurels
-4. take for a ride
-5. hit the bullseye
-6. joined at the hip
-7. put the cart before the horse
-8. not mince words
-9. get one's act together
-10. spare no expense
-11. hurray
-12. deforestation
+2. tableware
+3. caught between a rock and a hard place
+4. rest on one's laurels
+5. take for a ride
+6. hit the bullseye
+7. joined at the hip
+8. put the cart before the horse
+9. not mince words
+10. get one's act together
+11. spare no expense
+12. hurray
+13. deforestation
 
 ==*Nuevas Palabras* ===
 
