@@ -1055,3 +1055,4 @@
 1049. pese a
 1050. acertijo
 1051. amorcito corazón
+1052. la muñeca
