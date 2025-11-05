@@ -1196,3 +1196,6 @@
 1176. lonja
 1177. brécol
 1178. coliflor
+1179. col - cabbage
+1180. pepino
+1181. insalubre
