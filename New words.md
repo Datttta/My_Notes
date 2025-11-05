@@ -1128,3 +1128,4 @@
 1121. to try,tratar de
 1122. culpable
 1123. sudar
+1124. toser
