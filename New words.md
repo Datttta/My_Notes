@@ -1,15 +1,16 @@
 === *New words* ===
 
 1. parrot
-2. take for a ride
-3. hit the bullseye
-4. joined at the hip
-5. put the cart before the horse
-6. not mince words
-7. get one's act together
-8. spare no expense
-9. hurray
-10. deforestation
+2. rest on one's laurels
+3. take for a ride
+4. hit the bullseye
+5. joined at the hip
+6. put the cart before the horse
+7. not mince words
+8. get one's act together
+9. spare no expense
+10. hurray
+11. deforestation
 
 ==*Nuevas Palabras* ===
 
@@ -1173,3 +1174,4 @@
 1158. dar gato por liebre
 1159. meter la pata
 1160. costar un ojo de la cara
+1161. estar hasta las narices
