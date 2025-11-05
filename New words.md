@@ -1,14 +1,15 @@
 === *New words* ===
 
 1. parrot
-2. hit the bullseye
-3. joined at the hip
-4. put the cart before the horse
-5. not mince words
-6. get one's act together
-7. spare no expense
-8. hurray
-9. deforestation
+2. take for a ride
+3. hit the bullseye
+4. joined at the hip
+5. put the cart before the horse
+6. not mince words
+7. get one's act together
+8. spare no expense
+9. hurray
+10. deforestation
 
 ==*Nuevas Palabras* ===
 
