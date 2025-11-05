@@ -1185,3 +1185,4 @@
 1168. Cómo has estado
 1169. más o menos
 1170. genial
+1171. qué tal tu día
