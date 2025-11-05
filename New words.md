@@ -1053,6 +1053,3 @@
 1047. dough,la plata
 1048. impuso
 1049. pese a
-1050. renta
-1051. ganancias
-1052. alza
