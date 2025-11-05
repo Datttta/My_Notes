@@ -1167,3 +1167,5 @@
 1153. no tener pelos en la lengua
 1154. empezar la casa por el tejado
 1155. se me hace la boca agua
+1156. dar en el blanco
+1157. dar en el clavo
