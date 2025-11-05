@@ -1,9 +1,10 @@
 === *New words* ===
 
 1. parrot
-2. spare no expense
-3. hurray
-4. deforestation
+2. get one's act together
+3. spare no expense
+4. hurray
+5. deforestation
 
 ==*Nuevas Palabras* ===
 
