@@ -1052,3 +1052,4 @@
 1046. indigente
 1047. dough,la plata
 1048. impuso
+1049. pese a
