@@ -1180,3 +1180,4 @@
 1163. a duras penas
 1164. pasarse de la raya
 1165. salirse con la suya
+1166. encantado de conocerle
