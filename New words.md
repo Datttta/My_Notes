@@ -1184,3 +1184,4 @@
 1167. es un placer conocerte
 1168. Cómo has estado
 1169. más o menos
+1170. genial
