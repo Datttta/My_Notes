@@ -1141,3 +1141,6 @@
 1134. bruja
 1135. estrés
 1136. muchacho
+1137. sed
+1138. gramo
+1139. regio
