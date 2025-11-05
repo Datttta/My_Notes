@@ -1163,3 +1163,4 @@
 1151. tomar el pelo
 1152. quedarse de piedra
 1153. no tener pelos en la lengua
+1154. empezar la casa por el tejado
