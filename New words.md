@@ -1051,23 +1051,3 @@
 1045. adinerado
 1046. indigente
 1047. dough,la plata
-1048. fund,el fondo
-1049. bursátil
-1050. codicioso
-1051. reserve,el encaje
-1052. arriendo
-1053. tasar
-1054. tacaño
-1055. mean,tacaño
-1056. customs,la aduana
-1057. alcista
-1058. arancel
-1059. préstamo
-1060. prestar
-1061. la carencia
-1062. portamonedas
-1063. mareado
-1064. aportar
-1066. rompecabezas
-1067. tapa
-1068. supo
