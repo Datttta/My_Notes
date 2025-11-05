@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. parrot
-2. deforestation
+2. hurray
+3. deforestation
 
 ==*Nuevas Palabras* ===
 
@@ -1144,3 +1145,7 @@
 1137. sed
 1138. gramo
 1139. regio
+1140. Ca
+1141. Anjá
+1142. Órale
+1143. enhorabuena
