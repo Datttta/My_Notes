@@ -1188,3 +1188,4 @@
 1170. genial
 1171. qué tal tu día
 1172. el gusto es mío
+1173. menaje
