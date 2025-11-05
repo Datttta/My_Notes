@@ -1156,3 +1156,6 @@
 1146. estar como una cabra
 1147. tirar la casa por la ventana
 1148. ponerse las pilas
+1149. pan comido
+1150. hacer su agosto
+1151. tomar el pelo
