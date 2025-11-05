@@ -1071,3 +1071,42 @@
 1065. sabiduría
 1066. travieso
 1067. to get engaged,comprometerse
+1068. hígado
+1069. court,la cancha
+1070. la almohada
+1071. vanidoso
+1072. el mostrador
+1073. cadera
+1074. hervir
+1075. sudadera
+1076. sembrar
+1077. chuleta
+1078. consejero
+1079. escenario
+1080. barrer
+1081. novedoso
+1082. agrio
+1083. link,el enlace
+1084. el impermeable
+1085. el arete
+1086. servilleta
+1087. apodo
+1088. carnicería
+1089. camioneta
+1090. exposición
+1091. pesadilla
+1092. enojarse
+1093. envase
+1094. peluquería
+1095. ciencia ficción
+1096. aparcamiento
+1097. enfado
+1098. apasionado
+1099. estupendo
+1100. ceja
+1101. aburrirse
+1102. buzón
+1103. to make up,componer
+1104. soler
+1105. terapia
+1106. asar
