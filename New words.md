@@ -1,19 +1,20 @@
 === *New words* ===
 
 1. parrot
-2. yam
-3. tableware
-4. caught between a rock and a hard place
-5. rest on one's laurels
-6. take for a ride
-7. hit the bullseye
-8. joined at the hip
-9. put the cart before the horse
-10. not mince words
-11. get one's act together
-12. spare no expense
-13. hurray
-14. deforestation
+2. cauliflower
+3. yam
+4. tableware
+5. caught between a rock and a hard place
+6. rest on one's laurels
+7. take for a ride
+8. hit the bullseye
+9. joined at the hip
+10. put the cart before the horse
+11. not mince words
+12. get one's act together
+13. spare no expense
+14. hurray
+15. deforestation
 
 ==*Nuevas Palabras* ===
 
@@ -1193,3 +1194,5 @@
 1174. tentempié
 1175. tarta
 1176. lonja
+1177. brécol
+1178. coliflor
