@@ -1,11 +1,12 @@
 === *New words* ===
 
 1. parrot
-2. not mince words
-3. get one's act together
-4. spare no expense
-5. hurray
-6. deforestation
+2. put the cart before the horse
+3. not mince words
+4. get one's act together
+5. spare no expense
+6. hurray
+7. deforestation
 
 ==*Nuevas Palabras* ===
 
