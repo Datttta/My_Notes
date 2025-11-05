@@ -1159,3 +1159,4 @@
 1149. pan comido
 1150. hacer su agosto
 1151. tomar el pelo
+1152. quedarse de piedra
