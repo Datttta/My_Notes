@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. 
+1. parrot
 
 ==*Nuevas Palabras* ===
 
@@ -1110,3 +1110,10 @@
 1104. soler
 1105. terapia
 1106. asar
+1107. pasarlo mal
+1108. patrimonio
+1109. estar a dieta
+1110. pariente
+1111. talla
+1112. recetar
+1113. gasolinera
