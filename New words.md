@@ -1161,3 +1161,4 @@
 1150. hacer su agosto
 1151. tomar el pelo
 1152. quedarse de piedra
+1153. no tener pelos en la lengua
