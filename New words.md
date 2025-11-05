@@ -1177,3 +1177,4 @@
 1160. costar un ojo de la cara
 1161. estar hasta las narices
 1162. dormirse en los laureles
+1163. a duras penas
