@@ -1170,3 +1170,6 @@
 1155. se me hace la boca agua
 1156. dar en el blanco
 1157. dar en el clavo
+1158. dar gato por liebre
+1159. meter la pata
+1160. costar un ojo de la cara
