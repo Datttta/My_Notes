@@ -1117,3 +1117,4 @@
 1111. talla
 1112. recetar
 1113. gasolinera
+1114. carne de res
