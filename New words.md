@@ -1,7 +1,6 @@
 === *New words* ===
 
-1. rollerblading
-2. pass by
+1. 
 
 ==*Nuevas Palabras* ===
 
