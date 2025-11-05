@@ -1129,3 +1129,6 @@
 1122. culpable
 1123. sudar
 1124. toser
+1125. celoso
+1126. planchar
+1127. escáner
