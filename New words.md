@@ -1127,3 +1127,4 @@
 1120. pantalones cortos
 1121. to try,tratar de
 1122. culpable
+1123. sudar
