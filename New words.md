@@ -1058,3 +1058,5 @@
 1052. la muñeca
 1053. mijo
 1054. el amorcito
+1055. el ligue
+1056. darling,el encanto
