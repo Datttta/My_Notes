@@ -1191,3 +1191,4 @@
 1173. menaje
 1174. tentempié
 1175. tarta
+1176. lonja
