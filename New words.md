@@ -1,8 +1,9 @@
 === *New words* ===
 
 1. parrot
-2. hurray
-3. deforestation
+2. spare no expense
+3. hurray
+4. deforestation
 
 ==*Nuevas Palabras* ===
 
@@ -1149,3 +1150,6 @@
 1141. Anjá
 1142. Órale
 1143. enhorabuena
+1144. sirena
+1145. destello
+1146. estar como una cabra
