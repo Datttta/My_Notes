@@ -1170,4 +1170,4 @@
 1162. dormirse en los laureles
 1163. a duras penas
 1164. pasarse de la raya
-1165. repollo
+1165. morado
