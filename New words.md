@@ -1284,3 +1284,14 @@
 1268. encumbrado
 1269. regocijado
 1270. conmocionado
+1271. pity,la pena
+1272. sorrow,la pena
+1273. intranquilo
+1274. depre
+1275. desprecio
+1276. tita
+1277. reencuentro
+1278. cuna
+1279. baby bottle,el chupón
+1280. biberón
+1281. pañal
