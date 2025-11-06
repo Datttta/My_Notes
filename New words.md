@@ -1170,23 +1170,4 @@
 1162. dormirse en los laureles
 1163. a duras penas
 1164. pasarse de la raya
-1165. salirse con la suya
-1166. encantado de conocerle
-1167. es un placer conocerte
-1168. Cómo has estado
-1169. más o menos
-1170. genial
-1171. qué tal tu día
-1172. el gusto es mío
-1173. menaje
-1174. tentempié
-1175. tarta
-1176. lonja
-1177. brécol
-1178. coliflor
-1179. col - cabbage
-1180. pepino
-1181. insalubre
-1182. lástimA
-1183. al menos
-1184. casa
+1165. repollo
