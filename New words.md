@@ -1189,3 +1189,4 @@
 1181. insalubre
 1182. lástimA
 1183. al menos
+1184. casa
