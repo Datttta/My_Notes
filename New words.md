@@ -1,16 +1,17 @@
 === *New words* ===
 
 1. parrot
-2. soy
-3. salt shaker
-4. mayo
-5. griddle
-6. cone - icecream
-7. fig
-8. oatmeal
-9. wolf down
-10. exchange progam
-11. cauliflower
+2. elation
+3. soy
+4. salt shaker
+5. mayo
+6. griddle
+7. cone - icecream
+8. fig
+9. oatmeal
+10. wolf down
+11. exchange progam
+12. cauliflower
 
 ==*Nuevas Palabras* ===
 
@@ -1269,3 +1270,12 @@
 1254. el batido
 1255. gofre
 1256. bizcocho
+1257. crujiente
+1258. vajilla
+1259. pileta
+1260. escurrir
+1261. moler
+1262. picoso
+1263. entrante
+1264. o sea
+1265. exaltación
