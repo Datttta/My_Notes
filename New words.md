@@ -1210,3 +1210,4 @@
 1203. poco hecho
 1204. término medio
 1205. al punto
+1206. bien hecho
