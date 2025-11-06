@@ -1233,3 +1233,5 @@
 1223. avena
 1224. tabla
 1225. higo
+1226. delantal
+1227. lonchería
