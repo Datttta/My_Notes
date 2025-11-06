@@ -1311,3 +1311,15 @@
 1295. abono
 1296. vertedero
 1297. la protesta
+1298. tomar una siesta
+1299. apresar
+1300. inculpar
+1301. excarcelar
+1302. apaño
+1303. camello
+1304. huir
+1305. encausar
+1306. enjuiciar
+1307. ultrajar
+1308. parecerse
+1309. déjame
