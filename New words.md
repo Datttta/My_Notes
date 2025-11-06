@@ -1242,3 +1242,7 @@
 1231. paso
 1232. rallador
 1233. cucurucho
+1234. menear
+1235. picadillo
+1236. oporto
+1237. fuente
