@@ -1216,3 +1216,4 @@
 1208. jarabe
 1209. la gaseosa
 1210. spoiled,dañado
+1211. zampar
