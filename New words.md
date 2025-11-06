@@ -1296,3 +1296,12 @@
 1280. biberón
 1281. pañal
 1282. osito
+1283. mameluco
+1284. rebozo
+1285. sonaja
+1286. yerno
+1287. hijastros
+1288. arroyo
+1289. riachuelo
+1290. poza
+1291. tromba
