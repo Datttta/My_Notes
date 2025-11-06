@@ -1169,3 +1169,40 @@
 1162. dormirse en los laureles
 1163. a duras penas
 1164. pasarse de la raya
+1165. barbacoa
+1166. avellana
+1167. vainilla
+1168. pay
+1169. dulce
+1170. golosina
+1171. tienda de comestibles
+1172. jitomate
+1173. cereza
+1174. coco
+1175. durazno
+1176. cocido
+1177. melocotón
+1178. almendra
+1179. cacahuate
+1180. tazón
+1181. menu,la carta
+1182. repostería
+1183. cuchara
+1184. cucharilla
+1185. cucharón
+1186. espátula
+1187. paleta
+1188. garbanzo
+1189. legumbre
+1190. hirviente
+1191. nuez
+1192. picor
+1193. dátil
+1194. cascar
+1195. gallina
+1196. pinta
+1197. comida basura
+1198. carne de ave
+1199. papas fritas
+1200. caldo
+1201. tostada
