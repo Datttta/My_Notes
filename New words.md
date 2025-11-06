@@ -1253,3 +1253,4 @@
 1241. pelón
 1242. la fonda
 1243. redondo
+1244. plancha
