@@ -1235,3 +1235,7 @@
 1225. higo
 1226. delantal
 1227. lonchería
+1228. tartera
+1229. achicharrado
+1230. ahumado
+1231. paso
