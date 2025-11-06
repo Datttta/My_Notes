@@ -1267,3 +1267,5 @@
 1252. rebanadas
 1253. pastelito
 1254. el batido
+1255. gofre
+1256. bizcocho
