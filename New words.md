@@ -1305,3 +1305,9 @@
 1289. riachuelo
 1290. poza
 1291. tromba
+1292. emanación
+1293. reciclaje
+1294. erosionar
+1295. abono
+1296. vertedero
+1297. la protesta
