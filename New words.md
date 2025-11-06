@@ -1,8 +1,9 @@
 === *New words* ===
 
 1. parrot
-2. exchange progam
-3. cauliflower
+2. wolf down
+3. exchange progam
+4. cauliflower
 
 ==*Nuevas Palabras* ===
 
@@ -1211,3 +1212,7 @@
 1204. término medio
 1205. al punto
 1206. bien hecho
+1207. taste,la boca
+1208. jarabe
+1209. la gaseosa
+1210. spoiled,dañado
