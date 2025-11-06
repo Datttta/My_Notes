@@ -1206,3 +1206,7 @@
 1199. papas fritas
 1200. caldo
 1201. tostada
+1202. utensilio
+1203. poco hecho
+1204. término medio
+1205. al punto
