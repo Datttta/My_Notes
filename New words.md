@@ -1331,3 +1331,4 @@
 1315. hiciste
 1316. a ver
 1317. antoja
+1318. fortalezas
