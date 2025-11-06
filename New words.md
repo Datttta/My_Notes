@@ -1,11 +1,12 @@
 === *New words* ===
 
 1. parrot
-2. fig
-3. oatmeal
-4. wolf down
-5. exchange progam
-6. cauliflower
+2. cone - icecream
+3. fig
+4. oatmeal
+5. wolf down
+6. exchange progam
+7. cauliflower
 
 ==*Nuevas Palabras* ===
 
@@ -1239,3 +1240,5 @@
 1229. achicharrado
 1230. ahumado
 1231. paso
+1232. rallador
+1233. cucurucho
