@@ -1279,3 +1279,8 @@
 1263. entrante
 1264. o sea
 1265. exaltación
+1266. estupor
+1267. agobiado
+1268. encumbrado
+1269. regocijado
+1270. conmocionado
