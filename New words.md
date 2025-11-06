@@ -1263,3 +1263,6 @@
 1249. lo malo es que
 1250. ripe,a punto
 1251. pelar
+1252. rebanadas
+1253. pastelito
+1254. el batido
