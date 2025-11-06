@@ -1,15 +1,16 @@
 === *New words* ===
 
 1. parrot
-2. salt shaker
-3. mayo
-4. griddle
-5. cone - icecream
-6. fig
-7. oatmeal
-8. wolf down
-9. exchange progam
-10. cauliflower
+2. soy
+3. salt shaker
+4. mayo
+5. griddle
+6. cone - icecream
+7. fig
+8. oatmeal
+9. wolf down
+10. exchange progam
+11. cauliflower
 
 ==*Nuevas Palabras* ===
 
