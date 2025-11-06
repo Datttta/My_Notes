@@ -1246,3 +1246,7 @@
 1235. picadillo
 1236. oporto
 1237. fuente
+1238. destapar
+1239. fregar
+1240. tocino
+1241. pelón
