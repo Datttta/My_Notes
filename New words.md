@@ -1187,3 +1187,5 @@
 1179. col - cabbage
 1180. pepino
 1181. insalubre
+1182. lástimA
+1183. al menos
