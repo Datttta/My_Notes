@@ -3,19 +3,6 @@
 1. parrot
 2. exchange progam
 3. cauliflower
-4. yam
-5. tableware
-6. caught between a rock and a hard place
-7. rest on one's laurels
-8. take for a ride
-9. hit the bullseye
-10. joined at the hip
-11. put the cart before the horse
-12. not mince words
-13. get one's act together
-14. spare no expense
-15. hurray
-16. deforestation
 
 ==*Nuevas Palabras* ===
 
