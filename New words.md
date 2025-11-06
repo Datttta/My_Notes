@@ -1,9 +1,10 @@
 === *New words* ===
 
 1. parrot
-2. wolf down
-3. exchange progam
-4. cauliflower
+2. oatmeal
+3. wolf down
+4. exchange progam
+5. cauliflower
 
 ==*Nuevas Palabras* ===
 
@@ -1217,3 +1218,15 @@
 1209. la gaseosa
 1210. spoiled,dañado
 1211. zampar
+1212. cantina
+1213. chicle
+1214. soso
+1215. mordisco
+1216. panqueque
+1217. piña
+1218. to grow,criar
+1219. nata
+1220. cucharadita
+1221. nécora
+1222. jaiba
+1223. avena
