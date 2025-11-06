@@ -1261,3 +1261,5 @@
 1247. tabernero
 1248. insípido
 1249. lo malo es que
+1250. ripe,a punto
+1251. pelar
