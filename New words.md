@@ -1232,3 +1232,4 @@
 1222. jaiba
 1223. avena
 1224. tabla
+1225. higo
