@@ -1,13 +1,14 @@
 === *New words* ===
 
 1. parrot
-2. griddle
-3. cone - icecream
-4. fig
-5. oatmeal
-6. wolf down
-7. exchange progam
-8. cauliflower
+2. mayo
+3. griddle
+4. cone - icecream
+5. fig
+6. oatmeal
+7. wolf down
+8. exchange progam
+9. cauliflower
 
 ==*Nuevas Palabras* ===
 
@@ -1254,3 +1255,4 @@
 1242. la fonda
 1243. redondo
 1244. plancha
+1245. tallarines
