@@ -1323,3 +1323,11 @@
 1307. ultrajar
 1308. parecerse
 1309. déjame
+1310. vámonos
+1311. vale la pena
+1312. merece la pena
+1313. extraño
+1314. te echo de menos
+1315. hiciste
+1316. a ver
+1317. antoja
