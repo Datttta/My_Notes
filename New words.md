@@ -1,10 +1,11 @@
 === *New words* ===
 
 1. parrot
-2. oatmeal
-3. wolf down
-4. exchange progam
-5. cauliflower
+2. fig
+3. oatmeal
+4. wolf down
+5. exchange progam
+6. cauliflower
 
 ==*Nuevas Palabras* ===
 
@@ -1230,3 +1231,4 @@
 1221. nécora
 1222. jaiba
 1223. avena
+1224. tabla
