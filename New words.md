@@ -1,12 +1,13 @@
 === *New words* ===
 
 1. badger
-2. real estate
-3. brooch
-4. beret
-5. boating - boating well
-6. interchangeable
-7. jaring
+2. hem - cloth
+3. real estate
+4. brooch
+5. beret
+6. boating - boating well
+7. interchangeable
+8. jaring
 
 ==*Nuevas Palabras* ===
 
