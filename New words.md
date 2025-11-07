@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. badger
+2. boating
 
 ==*Nuevas Palabras* ===
 
