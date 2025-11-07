@@ -1301,23 +1301,3 @@
 1296. vertedero
 1297. la protesta
 1298. tomar una siesta
-1299. apresar
-1300. inculpar
-1301. excarcelar
-1302. apaño
-1303. camello
-1304. huir
-1305. encausar
-1306. enjuiciar
-1307. ultrajar
-1308. parecerse
-1309. déjame
-1310. vámonos
-1311. vale la pena
-1312. merece la pena
-1313. extraño
-1314. te echo de menos
-1315. hiciste
-1316. a ver
-1317. antoja
-1318. fortalezas
