@@ -1306,3 +1306,4 @@
 1301. fuiste
 1302. parece
 1303. arrestado
+1304. someter
