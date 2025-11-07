@@ -1313,3 +1313,22 @@
 1305. extraño - other meaning than unusual
 1306. burlas
 1307. caducadas
+1308. imprescindible
+1309. de improviso
+1310. que aproveche
+1311. enhorabuena
+1312. colorado
+1313. ]destituido
+1314. fastidioso
+1315. conductor
+1316. damnificado
+1317. masa
+1318. recolección
+1319. echar
+1320. restar
+1321. alhajas
+1322. leotardos
+1323. rajar
+1324. bragueta
+1325. botonadura
+1326. toca
