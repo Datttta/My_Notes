@@ -1,11 +1,12 @@
 === *New words* ===
 
 1. badger
-2. brooch
-3. beret
-4. boating - boating well
-5. interchangeable
-6. jaring
+2. real estate
+3. brooch
+4. beret
+5. boating - boating well
+6. interchangeable
+7. jaring
 
 ==*Nuevas Palabras* ===
 
@@ -1345,3 +1346,6 @@
 1335. bata
 1336. tejano
 1337. albornoz
+1338. estampado
+1339. costumbre
+1340. ricura
