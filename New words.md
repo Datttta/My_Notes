@@ -1307,3 +1307,4 @@
 1302. parece
 1303. arrestado
 1304. someter
+1305. extraño - other meaning than unusual
