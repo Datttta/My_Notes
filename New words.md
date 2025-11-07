@@ -2,6 +2,7 @@
 
 1. badger
 2. boating - boating well
+3. interchangeable
 
 ==*Nuevas Palabras* ===
 
