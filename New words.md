@@ -1350,3 +1350,5 @@
 1339. costumbre
 1340. ricura
 1341. soledad
+1342. encargar
+1343. petardo
