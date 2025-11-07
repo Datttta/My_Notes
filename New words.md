@@ -1,9 +1,10 @@
 === *New words* ===
 
 1. badger
-2. boating - boating well
-3. interchangeable
-4. jaring
+2. beret
+3. boating - boating well
+4. interchangeable
+5. jaring
 
 ==*Nuevas Palabras* ===
 
@@ -1332,3 +1333,12 @@
 1324. bragueta
 1325. botonadura
 1326. toca
+1327. caber
+1328. chistera
+1329. transparente
+1330. la raja
+1331. culera
+1332. plegado
+1333. chillar
+1334. en boga
+1335. bata
