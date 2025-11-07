@@ -1304,3 +1304,5 @@
 1299. perteneciente
 1300. relativo
 1301. fuiste
+1302. parece
+1303. arrestado
