@@ -1303,3 +1303,4 @@
 1298. tomar una siesta
 1299. perteneciente
 1300. relativo
+1301. fuiste
