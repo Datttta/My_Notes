@@ -1,10 +1,11 @@
 === *New words* ===
 
 1. badger
-2. beret
-3. boating - boating well
-4. interchangeable
-5. jaring
+2. brooch
+3. beret
+4. boating - boating well
+5. interchangeable
+6. jaring
 
 ==*Nuevas Palabras* ===
 
@@ -1342,3 +1343,4 @@
 1333. chillar
 1334. en boga
 1335. bata
+1336. tejano
