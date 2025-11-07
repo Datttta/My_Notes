@@ -1311,3 +1311,5 @@
 1303. arrestado
 1304. someter
 1305. extraño - other meaning than unusual
+1306. burlas
+1307. caducadas
