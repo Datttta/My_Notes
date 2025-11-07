@@ -3,12 +3,13 @@
 1. badger
 2. hem - cloth
 3. joint - fast food joint
-4. real estate
-5. brooch
-6. beret
-7. boating - boating well
-8. interchangeable
-9. jaring
+4. batch - tea
+5. real estate
+6. brooch
+7. beret
+8. boating - boating well
+9. interchangeable
+10. jaring
 
 ==*Nuevas Palabras* ===
 
