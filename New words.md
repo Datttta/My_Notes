@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. yardwork
+2. mulching
 
 ==*Nuevas Palabras* ===
 
