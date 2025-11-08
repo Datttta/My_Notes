@@ -1,12 +1,13 @@
 === *New words* ===
 
 1. yardwork
-2. rocking chair
-3. bedspread
-4. footstool
-5. skylight
-6. abode
-7. mulching
+2. to weed
+3. rocking chair
+4. bedspread
+5. footstool
+6. skylight
+7. abode
+8. mulching
 
 ==*Nuevas Palabras* ===
 
@@ -1391,3 +1392,8 @@
 1380. casa solariega
 1381. colcha
 1382. mecedora
+1383. piso
+1384. fregar
+1385. regar
+1386. desyerbar
+1387. trapear el piso
