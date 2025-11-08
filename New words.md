@@ -1,16 +1,6 @@
 === *New words* ===
 
-1. badger
-2. tipped over
-3. hem - cloth
-4. joint - fast food joint
-5. batch - tea
-6. real estate
-7. brooch
-8. beret
-9. boating - boating well
-10. interchangeable
-11. jaring
+1. 
 
 ==*Nuevas Palabras* ===
 
