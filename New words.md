@@ -1,11 +1,12 @@
 === *New words* ===
 
 1. yardwork
-2. bedspread
-3. footstool
-4. skylight
-5. abode
-6. mulching
+2. rocking chair
+3. bedspread
+4. footstool
+5. skylight
+6. abode
+7. mulching
 
 ==*Nuevas Palabras* ===
 
