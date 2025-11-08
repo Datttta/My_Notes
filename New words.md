@@ -1381,3 +1381,4 @@
 1373. balda
 1374. acogedor
 1375. tragaluz
+1376. el cofre
