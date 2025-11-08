@@ -1409,3 +1409,13 @@
 1395. gusano
 1396. avispa
 1397. jaula
+1398. ronronear
+1399. capar
+1400. aparear
+1401. ladrido
+1402. el calamar
+1403. medusa
+1404. bogavante
+1405. almeja
+1406. avestruz
+1407. pavo real
