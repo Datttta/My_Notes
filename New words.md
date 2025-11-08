@@ -1342,3 +1342,4 @@
 1337. albornoz
 1338. estampado
 1339. costumbre
+1340. arrendamiento
