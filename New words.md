@@ -1390,3 +1390,4 @@
 1379. invernadero
 1380. casa solariega
 1381. colcha
+1382. mecedora
