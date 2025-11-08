@@ -1,14 +1,15 @@
 === *New words* ===
 
 1. yardwork
-2. under the table payment
-3. to weed
-4. rocking chair
-5. bedspread
-6. footstool
-7. skylight
-8. abode
-9. mulching
+2. renovation
+3. under the table payment
+4. to weed
+5. rocking chair
+6. bedspread
+7. footstool
+8. skylight
+9. abode
+10. mulching
 
 ==*Nuevas Palabras* ===
 
@@ -1405,3 +1406,6 @@
 1392. borrego
 1393. pingüino
 1394. murciélago
+1395. gusano
+1396. avispa
+1397. jaula
