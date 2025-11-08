@@ -1341,4 +1341,4 @@
 1336. tejano
 1337. albornoz
 1338. estampado
-1339. costumbre
+1339. rebaja
