@@ -1,13 +1,14 @@
 === *New words* ===
 
 1. yardwork
-2. to weed
-3. rocking chair
-4. bedspread
-5. footstool
-6. skylight
-7. abode
-8. mulching
+2. under the table payment
+3. to weed
+4. rocking chair
+5. bedspread
+6. footstool
+7. skylight
+8. abode
+9. mulching
 
 ==*Nuevas Palabras* ===
 
@@ -1396,4 +1397,9 @@
 1384. fregar
 1385. regar
 1386. desyerbar
-1387. trapear 
+1387. trapear
+1388. de comer
+1389. báscula
+1390. oso hormiguero
+1391. pulpo
+1392. borrego
