@@ -1396,4 +1396,4 @@
 1384. fregar
 1385. regar
 1386. desyerbar
-1387. trapear el piso
+1387. trapear 
