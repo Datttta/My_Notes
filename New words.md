@@ -1,8 +1,9 @@
 === *New words* ===
 
 1. yardwork
-2. abode
-3. mulching
+2. skylight
+3. abode
+4. mulching
 
 ==*Nuevas Palabras* ===
 
@@ -1379,3 +1380,4 @@
 1372. pulcro
 1373. balda
 1374. acogedor
+1375. tragaluz
