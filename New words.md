@@ -1,9 +1,10 @@
 === *New words* ===
 
 1. yardwork
-2. skylight
-3. abode
-4. mulching
+2. footstool
+3. skylight
+4. abode
+5. mulching
 
 ==*Nuevas Palabras* ===
 
@@ -1382,3 +1383,7 @@
 1374. acogedor
 1375. tragaluz
 1376. el cofre
+1377. tomar en arriendo
+1378. seto
+1379. invernadero
+1380. casa solariega
