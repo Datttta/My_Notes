@@ -1403,3 +1403,4 @@
 1390. oso hormiguero
 1391. pulpo
 1392. borrego
+1393. pingüino
