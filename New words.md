@@ -1394,23 +1394,3 @@
 1387. trapear
 1388. de comer
 1389. báscula
-1390. oso hormiguero
-1391. pulpo
-1392. borrego
-1393. pingüino
-1394. murciélago
-1395. gusano
-1396. avispa
-1397. jaula
-1398. ronronear
-1399. capar
-1400. aparear
-1401. ladrido
-1402. el calamar
-1403. medusa
-1404. bogavante
-1405. almeja
-1406. avestruz
-1407. pavo real
-1408. siglo
-1409. asalto
