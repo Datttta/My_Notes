@@ -1,15 +1,16 @@
 === *New words* ===
 
 1. yardwork
-2. renovation
-3. under the table payment
-4. to weed
-5. rocking chair
-6. bedspread
-7. footstool
-8. skylight
-9. abode
-10. mulching
+2. sonof
+3. renovation
+4. under the table payment
+5. to weed
+6. rocking chair
+7. bedspread
+8. footstool
+9. skylight
+10. abode
+11. mulching
 
 ==*Nuevas Palabras* ===
 
