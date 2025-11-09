@@ -3,17 +3,6 @@
 1. yardwork
 2. sonof
 3. face the wall
-4. unlienable
-5. miscarriage
-6. renovation
-7. under the table payment
-8. to weed
-9. rocking chair
-10. bedspread
-11. footstool
-12. skylight
-13. abode
-14. mulching
 
 ==*Nuevas Palabras* ===
 
