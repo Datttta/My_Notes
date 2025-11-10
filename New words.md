@@ -1385,3 +1385,4 @@
 1380. desdicha
 1381. pringada
 1382. acecha
+1383. comprobando
