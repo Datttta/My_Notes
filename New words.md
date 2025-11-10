@@ -1384,3 +1384,4 @@
 1372. pulcro
 1373. parrillada
 1374. fregona
+1375. pertenece
