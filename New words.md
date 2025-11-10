@@ -2,9 +2,10 @@
 
 1. yardwork
 2. cuetsy
-3. authoritarianism
-4. sonof
-5. face the wall
+3. divorced
+4. authoritarianism
+5. sonof
+6. face the wall
 
 ==*Nuevas Palabras* ===
 
