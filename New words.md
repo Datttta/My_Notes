@@ -1384,3 +1384,4 @@
 1379. desarraigada
 1380. desdicha
 1381. pringada
+1382. acecha
