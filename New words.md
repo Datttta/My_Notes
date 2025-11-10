@@ -1,13 +1,6 @@
 === *New words* ===
 
-1. yardwork
-2. nudge
-3. cuetsy
-4. divorced - divorced from reality
-5. contraption
-6. authoritarianism
-7. sonof
-8. face the wall
+1. 
 
 ==*Nuevas Palabras* ===
 
