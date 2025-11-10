@@ -1383,3 +1383,4 @@
 1371. tacho
 1372. pulcro
 1373. parrillada
+1374. fregona
