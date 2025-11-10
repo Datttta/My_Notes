@@ -1400,4 +1400,3 @@
 1389. báscula
 1390. depredador
 1391. brumo
-1392. promedio
