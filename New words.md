@@ -1381,3 +1381,4 @@
 1376. desde hace
 1377. a continuación
 1378. nomas
+1379. desarraigada
