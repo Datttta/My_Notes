@@ -1394,3 +1394,4 @@
 1387. trapear
 1388. de comer
 1389. báscula
+1390. depredador
