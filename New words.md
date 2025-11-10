@@ -1385,3 +1385,4 @@
 1373. parrillada
 1374. fregona
 1375. pertenece
+1376. desde hace
