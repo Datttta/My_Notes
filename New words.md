@@ -1382,23 +1382,4 @@
 1370. el tramo
 1371. tacho
 1372. pulcro
-1373. balda
-1374. acogedor
-1375. tragaluz
-1376. el cofre
-1377. tomar en arriendo
-1378. seto
-1379. invernadero
-1380. casa solariega
-1381. colcha
-1382. mecedora
-1383. piso
-1384. fregar
-1385. regar
-1386. desyerbar
-1387. trapear
-1388. de comer
-1389. báscula
-1390. depredador
-1391. brumo
-1392. asados
+1373. parrillada
