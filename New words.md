@@ -1,9 +1,10 @@
 === *New words* ===
 
 1. yardwork
-2. authoritarianism
-3. sonof
-4. face the wall
+2. cuetsy
+3. authoritarianism
+4. sonof
+5. face the wall
 
 ==*Nuevas Palabras* ===
 
