@@ -3,6 +3,7 @@
 1. secular - secular state
 2. day in day out
 3. rack
+4. fakeout
 
 ==*Nuevas Palabras* ===
 
