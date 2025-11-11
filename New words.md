@@ -1369,23 +1369,3 @@
 1364. cacerola
 1365. sin hogar
 1366. taburete
-1367. lavavajillas
-1368. mascota
-1369. tidy,ordenado
-1370. el tramo
-1371. tacho
-1372. pulcro
-1373. parrillada
-1374. fregona
-1375. pertenece
-1376. desde hace
-1377. a continuación
-1378. nomas
-1379. desarraigada
-1380. desdicha
-1381. pringada
-1382. acecha
-1383. comprobando
-1384. embaucador
-1385. porche
-1386. hembras
