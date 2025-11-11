@@ -54,3 +54,6 @@
 - Flatpak:
     - show flatpak apps: flatpak list
     - unistall: flatpak uninstall <app-name>
+
+- Hibernation on terminal:
+    - Hibernate for a specific time: sudo rtcwake -m disk -s <time in seconds>
