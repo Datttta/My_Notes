@@ -1,11 +1,6 @@
 === *New words* ===
 
-1. secular - secular state
-2. day in day out
-3. rack
-4. fakeout
-5. begger
-6. 
+1.
 
 ==*Nuevas Palabras* ===
 
