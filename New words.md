@@ -4,6 +4,7 @@
 2. day in day out
 3. rack
 4. fakeout
+5. acolades
 
 ==*Nuevas Palabras* ===
 
