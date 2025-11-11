@@ -56,4 +56,5 @@
     - unistall: flatpak uninstall <app-name>
 
 - Hibernation on terminal:
-    - Hibernate for a specific time: sudo rtcwake -m disk -s <time in seconds>
+    - Hibernate for a specific time: sudo rtcwake -m disk -t $(date -d "2 minutes" +%s)
+    - Awake from hibernation in a specific moment: sudo rtcwake -m disk -t $(date -d "today 10:50" +%s)
