@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. secular - secular state
+2. day in day out
 
 ==*Nuevas Palabras* ===
 
