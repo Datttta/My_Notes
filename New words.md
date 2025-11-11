@@ -4,8 +4,8 @@
 2. day in day out
 3. rack
 4. fakeout
-5. acolades
-6. sniff out
+5. begger
+6. 
 
 ==*Nuevas Palabras* ===
 
