@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. denialist
+1. 
 
 ==*Nuevas Palabras* ===
 
