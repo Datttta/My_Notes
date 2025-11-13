@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. demoted
+1. 
 
 ==*Nuevas Palabras* ===
 
