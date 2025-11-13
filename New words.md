@@ -9,6 +9,7 @@
 7. abnormal
 8. privy
 9. feign
+10. levity
 
 ==*Nuevas Palabras* ===
 
