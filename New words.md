@@ -1335,3 +1335,4 @@
 1330. cordones
 1331. nudo
 1332. dosis
+1333. tirria
