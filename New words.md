@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. damning
+2. lot - she just came to our lot this morning
 
 ==*Nuevas Palabras* ===
 
