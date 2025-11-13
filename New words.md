@@ -8,6 +8,7 @@
 6. corporal - kitchen corporal
 7. abnormal
 8. privy
+9. feign
 
 ==*Nuevas Palabras* ===
 
