@@ -7,6 +7,7 @@
 5. adjutant
 6. corporal - kitchen corporal
 7. abnormal
+8. privy
 
 ==*Nuevas Palabras* ===
 
