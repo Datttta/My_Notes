@@ -1350,23 +1350,3 @@
 1345. trece
 1346. corbata
 1347. pastilla
-1348. ninguno
-1349. antipático
-1350. julio
-1351. junio
-1352. marzo
-1353. octubre
-1354. diciembre
-1355. noviembre
-1356. septiembre
-1357. agosto
-1358. mayo
-1359. abril
-1360. febrero
-1361. mobiliario
-1362. vajilla
-1363. retrete
-1364. cacerola
-1365. sin hogar
-1366. taburete
-1367. hierba
