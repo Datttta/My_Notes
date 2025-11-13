@@ -1332,23 +1332,3 @@
 1327. caber
 1328. chistera
 1329. transparente
-1330. la raja
-1331. culera
-1332. plegado
-1333. chillar
-1334. en boga
-1335. bata
-1336. tejano
-1337. albornoz
-1338. estampado
-1339. rebaja
-1340. tal vez
-1341. peluquero
-1342. diecinueve
-1343. dieciocho
-1344. diecisiete
-1345. trece
-1346. corbata
-1347. pastilla
-1348. vivienda
-1349. desquiciado
