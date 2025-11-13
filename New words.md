@@ -1334,3 +1334,4 @@
 1329. transparente
 1330. cordones
 1331. nudo
+1332. dosis
