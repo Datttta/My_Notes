@@ -5,6 +5,7 @@
 3. soused
 4. mon vieux
 5. adjutant
+6. corporal - kitchen corporal
 
 ==*Nuevas Palabras* ===
 
