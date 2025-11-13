@@ -6,6 +6,7 @@
 4. mon vieux
 5. adjutant
 6. corporal - kitchen corporal
+7. abnormal
 
 ==*Nuevas Palabras* ===
 
