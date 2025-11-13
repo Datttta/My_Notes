@@ -4,6 +4,7 @@
 2. lot - she just came to our lot this morning
 3. soused
 4. mon vieux
+5. adjutant
 
 ==*Nuevas Palabras* ===
 
