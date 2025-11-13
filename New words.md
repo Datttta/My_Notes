@@ -2,6 +2,7 @@
 
 1. damning
 2. lot - she just came to our lot this morning
+3. soused
 
 ==*Nuevas Palabras* ===
 
