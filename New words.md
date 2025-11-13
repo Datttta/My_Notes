@@ -1332,4 +1332,5 @@
 1327. caber
 1328. chistera
 1329. transparente
-1330. cordones 
+1330. cordones
+1331. nudo
