@@ -1333,4 +1333,3 @@
 1328. chistera
 1329. transparente
 1330. anuda
-1331. bata
