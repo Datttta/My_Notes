@@ -1,16 +1,17 @@
 === *New words* ===
 
 1. damning
-2. lot - she just came to our lot this morning
-3. soused
-4. mon vieux
-5. adjutant
-6. corporal - kitchen corporal
-7. abnormal
-8. privy
-9. feign
-10. levity
-11. white wash
+2. heron
+3. lot - she just came to our lot this morning
+4. soused
+5. mon vieux
+6. adjutant
+7. corporal - kitchen corporal
+8. abnormal
+9. privy
+10. feign
+11. levity
+12. white wash
 
 ==*Nuevas Palabras* ===
 
