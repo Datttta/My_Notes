@@ -10,6 +10,7 @@
 8. privy
 9. feign
 10. levity
+11. white wash
 
 ==*Nuevas Palabras* ===
 
