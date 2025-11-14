@@ -1318,3 +1318,4 @@
 1313. ]destituido
 1314. fastidioso
 1315. juncos
+1316. pecas
