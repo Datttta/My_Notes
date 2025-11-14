@@ -1321,4 +1321,3 @@
 1316. pecas
 1317. rebunzo
 1318. longitudinalmente
-1319. echar
