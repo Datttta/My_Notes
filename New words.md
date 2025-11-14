@@ -5,7 +5,7 @@
 ==*Nuevas Palabras* ===
 
 1. eslabones
-2. 
+2. precaución
 3. tersura
 4. apetencia
 5. tersura
