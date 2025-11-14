@@ -1346,4 +1346,4 @@
 1331. nudo
 1332. dosis
 1333. tirria
-1334. arretê
+1334. arrête
