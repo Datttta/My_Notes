@@ -1317,3 +1317,4 @@
 1312. colorado
 1313. ]destituido
 1314. fastidioso
+1315. juncos
