@@ -5,1124 +5,1125 @@
 ==*Nuevas Palabras* ===
 
 1. eslabones
-2. tersura
-3. apetencia
-4. tersura
-5. remolque
-6. recorrido
-7. cordillera
-8. centenarios
-9. charco
-10. aplastándolo
-11. franjas
-12. conducto
-13. expender
-14. buque
-15. desplegó
-16. hinchó
-17. eje
-18. mástil
-19. melocotón
-20. durazno
-21. plátano
-22. cacahuete
-23. percha
-24. cazaba
-25. amenaza
-26. sonajero
-27. depredador
-28. hurgando
-29. el paso
-30. meneandome
-31. nenúfar
-32. exuberante
-33. reclutador
-34. Actualicé
-35. vacante
-36. Edad
-37. u
-38. grapas
-39. rana
-40. falo
-41. ciervo
-42. depredador 
-43. apuntes
-44. joyería
-45. delito
-46. venado
-47. tijereta
-48. mariquita
-49. corneja
-50. personalmente
-51. alguna vez
-52. en su mayoría
-53. así así
-54. despacio
-55. sumamente
-56. sobre todo
-57. cuanto - the more
-58. aún así
-59. lindo
-60. jamás
-61. dorso
-62. afanosamente
-63. luego
-64. musaraña
-65. el jerbo
-66. rara vez
-67. deprisa
-68. de mala gana
-69. gana
-70. por desgracia
-71. estupendamente
-72. algo
-73. anteayer
-74. anteanoche
-75. estrepitosamente
-76. adonde
-77. ahorita
-78. tal
-79. asimismo
-80. arriba
-81. en punto
-82. acá
-83. por consiguiente
-84. por lo tanto
-85. despacito
-86. hace mucho
-87. propiciar
-88. tumbarse
-89. romper con
-90. imprudente
-91. banda sonora
-92. céntrico
-93. chocar con
-94. cepillarse el pelo
-95. agachado
-96. hacer clic
-97. empollón
-98. estar harto de
-99. portarse mal
-100. drogadicto
-101. chaleco salvavidas
-102. cráter
-103. estrella de cine
-104. echar al buzón
-105. suerte
-106. sino
-107. barrer
-108. stocking,la media
-109. muñeca - doll
-110. solamente
-111. fondo
-112. atreverse
-113. coquetear
-114. sugerencia
-115. quehacer
-116. nuez
-117. teñir
-118. hembra
-119. to assemble,armar
-120. toronja
-121. exitoso
-122. pulgar
-123. imaginar
-124. mensual
-125. dime
-126. oler
-127. to have an afternoon snack,merendar
-128. aduana
-129. proveer
-130. rumbo 
-131. garbanzo
-132. petición
-133. prejuicio
-134. chaval
-135. sacar una buena nota
-136. narrar
-137. hostal
-138. tratarse de
-139. aspirina
-140. ternura
-141. redacción
-142. arroba
-143. desprecio
-144. oficio
-145. porvenir
-146. aclarar
-147. lema
-148. bate
-149. tomar apuntes
-150. Pascua
-151. opinar - to believe
-152. arriesgar
-153. docena
-154. cortometraje
-155. remo
-156. mercancía
-157. linterna
-158. avance
-159. madurez
-160. gestionar
-161. aceituna
-162. asesor
-163. bromear
-164. dulzura
-165. hijastro
-166. cascada
-167. generalmente
-168. otorgar
-169. sacapuntas
-170. asco
-171. cobarde
-172. mantel
-173. recorrido
-174. rescatar
-175. achievement,el logro
-176. terco
-177. apostar
-178. calefacción
-179. lector
-180. padrino
-181. estar de moda
-182. yendo
-183. quise
-184. allá
-185. enforcarte
-186. me visto
-187. la tarjeta postal
-188. andén
-189. dictadura
-190. gel
-191. guionista
-192. sandía
-193. auxiliar de vuelo
-194. acordarse
-195. contenedor
-196. derrochar
-197. aire acondicionado
-198. invento
-199. tableta
-200. lenteja
-201. licencia de conducir
-202. cerrajero
-203. sentido del humor
-204. cumplir
-205. amanecer
-206. picar
-207. acudir
-208. despegar
-209. belleza
-210. regar
-211. yerno
-212. fin
-213. sartén
-214. hacerse
-215. pañuelo
-216. nuera
-217. torta
-218. lastimarse
-219. yeso
-220. encuesta
-221. liso
-222. juzgar
-223. cambiante
-224. creencia
-225. challenge,el reto
-226. placer
-227. suegro
-228. flojo
-229. orilla
-230. aportar
-231. fomentar
-232. la ganga
-233. rana
-234. influir
-235. madrina
-236. los celos
-237. rizado
-238. viudo
-239. pelar
-240. niñez
-241. el volante
-242. durazno
-243. chino
-244. empeorar
-245. hormiga
-246. mito
-247. bisabuelo
-248. acogedor
-249. fenomenal
-250. pastelería
-251. enhorabuena
-252. mostaza
-253. patineta
-254. adicto
-255. afanoso
-256. afligido
-257. agripado
-258. agorero
-259. ajeno
-260. agrio
-261. agridulce
-262. agreste
-263. rechazar
-264. afuera
-265. ni
-266. tener ganas de
-267. suegra
-268. aquella
-269. cadena
-270. la gallina
-271. interrogante
-272. mezquino
-273. planeado
-274. perplejo
-275. avasallador
-276. autóctono
-277. soñoliento
-278. tieso
-279. sordo
-280. avisado
-281. baboso
-282. pinto
-283. parejo
-284. ajeno
-285. avaro
-286. saltado
-287. apasionante
-288. automotriz
-289. cazurro
-290. lodoso
-291. voladizo
-292. retrasado
-293. rizado
-294. aturdido
-295. idóneo
-296. zurdo
-297. celoso
-298. listo
-299. carnal
-300. soso
-301. chido
-302. húmedo
-303. oxidado
-304. pretend,de mentira
-305. bellaco
-306. consentido
-307. garrido
-308. blando
-309. basura
-310. interino
-311. estival
-312. pícaro
-313. bienaventurado
-314. cabal
-315. de fondo
-316. codicioso
-317. mentecato
-318. adjunto
-319. orgulloso
-320. agachado
-321. aterido
-322. ninguna
-323. terco
-324. tozudo
-325. enfadado
-326. honrado
-327. ordenado
-328. suelto
-329. flaco
-330. esotérico
-331. ruidoso
-332. confiado
-333. indiscutido
-334. pendenciero
-335. farsante
-336. caricia
-337. pelado
-338. anular
-339. perdurable
-340. socarrón
-341. torpe
-342. basto
-343. desinteresado
-344. echado
-345. veraniego
-346. borde
-347. postal
-348. amplio
-349. venidero
-350. activo - working
-351. equivocado
-352. soberbio
-353. promedio
-354. cursi
-355. subrayado
-356. agobiado
-357. insensato
-358. borroso
-359. jubilado
-360. cardinal
-361. grato
-362. gaucho
-363. rayado
-364. umbroso
-365. acurrucado
-366. acreedor
-367. acorazado
-368. vanidoso
-369. tarumba
-370. well-dressed,puesto
-371. polvoriento
-372. bullicioso
-373. corriente
-374. lactante
-375. hueco
-376. encargado
-377. abyecto
-378. acaudalado
-379. abultado
-380. acuoso
-381. acomedido
-382. boricua
-383. bobo
-384. brumoso
-385. brioso
-386. bronco
-387. burlón
-388. burdo
-389. buzo
-390. abarrotado
-391. abatible
-392. abismal
-393. abnegado
-394. abochornado
-395. abombado
-396. abonado
-397. abovedado
-398. abrasador
-399. anticuado
-400. atolondrado
-401. añejo
-402. campero
-403. canalla
-404. canijo
-405. captor
-406. carmesí
-407. casposo
-408. catete
-409. catrín
-410. chafa
-411. chueco
-412. chimuelo
-413. chiquito
-414. chilango
-415. chucho
-416. choto
-417. cochino
-418. bacano
-419. barbudo
-420. beato
-421. bienhechor
-422. bohemio
-423. enjuto
-424. calato
-425. cabizbajo
-426. cabreado
-427. cabrero
-428. cacarizo
-429. cafre
-430. diáfano
-431. caballeroso
-432. cabezón
-433. despectivo
-434. desvalido
-435. desplazado
-436. diminuto
-437. dudoso
-438. díscolo
-439. dañino
-440. delator
-441. demente
-442. depurado
-443. desatado
-444. desquiciado
-445. escarlata
-446. escarpado
-447. erizado
-448. escalofriante
-449. estable
-450. exento
-451. cubo
-452. palas - shovel
-453. balanceaba
-454. un rato
-455. remolino
-456. monton
-457. afônica
-458. yendo
-459. enredé
-460. haberme
-461. conforme
-462. ve al grano
-463. contesta
-464. muñeca - doll
-465. enojado
-466. enojoso
-467. inalámbrico
-468. encinta
-469. endeble
-470. enchufado
-471. empedrado
-472. fornido
-473. fiado
-474. fortuito
-475. fregado
-476. furibundo
-477. fugaz
-478. ebrio
-479. efímero
-480. escuálido
-481. feo
-482. factible
-483. facundo
-484. falaz
-485. faltante
-486. fausto
-487. flaco
-488. flipado
-489. flacucho
-490. filoso
-491. fidedigno
-492. gafe
-493. galano
-494. gallardo
-495. gacho
-496. gamberro
-497. gandalla
-498. gangoso
-499. garboso
-500. garrafal
-501. gaseoso
-502. goloso
-503. gritón
-504. gozoso
-505. güero
-506. guasón
-507. guapetón
-508. guarro
-509. fachoso
-510. greñudo
-511. gregario
-512. grandote
-513. mono
-514. blurred,movido
-515. purple,morado
-516. mordaz
-517. marrano
-518. mañoso
-519. mezquino
-520. huraño
-521. hosco
-522. huérfano
-523. hiriente
-524. hechizo
-525. macizo
-526. magno
-527. malito
-528. marchito
-529. inédito
-530. indebido
-531. hacendado
-532. haragán
-533. harto
-534. hidalgo
-535. hirsuto
-536. incauto
-537. inapelable
-538. flujo
-539. inagotable
-540. inabarcable
-541. inadvertido
-542. impío
-543. impoluto
-544. impuntual
-545. imputable
-546. impávido
-547. jubiloso
-548. experienced,jugado
-549. juicioso
-550. igualito
-551. imperdonable
-552. inencontrable
-553. impetuoso
-554. jactancioso
-555. jocoso
-556. jorobado
-557. lánguido
-558. lúdico
-559. lóbrego
-560. loable
-561. límpido
-562. lascivo
-563. lampiño
-564. lolo
-565. lloroso
-566. locuaz
-567. locochón
-568. liviano
-569. lambiscón
-570. aterrador
-571. larguirucho
-572. lejano
-573. labrado
-574. lacio
-575. apacible
-576. rabioso
-577. jovencito
-578. abatirse
-579. ronronear
-580. sacar a pasear
-581. maullar
-582. ladrar
-583. amonestar
-584. regatear
-585. to be left,quedar
-586. borrar
-587. dorar
-588. marcharse
-589. extrañar
-590. echar
-591. catar
-592. platicar
-593. suponer
-594. retumbar
-595. reventar
-596. molestar
-597. acumular
-598. reanudar
-599. meter
-600. trasladar
-601. señalar
-602. provenir
-603. asesorar
-604. adiestrar
-605. abarcar
-606. apresurarse
-607. cautivar
-608. cortejar
-609. esforzarse
-610. sobreactuar
-611. trazar
-612. enjabonar
-613. nombrar
-614. entumecer
-615. chillar
-616. adelgazar
-617. aplastar
-618. aporrear
-619. perdurar
-620. meter prisa
-621. arrancar
-622. hacer escala
-623. encomendar
-624. barrer
-625. hacerle la zancadilla a
-626. cribar
-627. abanicar
-628. avivar
-629. escoger
-630. rogar
-631. volcar
-632. emplear
-633. deshuesar
-634. enfadarse
-635. pasarle la factura a
-636. becar
-637. plañir
-638. techar
-639. valorar
-640. hollar
-641. hojear
-642. pillar
-643. dar parte de
-644. sembrar
-645. acribillar
-646. erigir
-647. lucirse en
-648. quedar bien
-649. arrasar
-650. chorrear
-651. timar
-652. estrellar
-653. desentonar
-654. hallar
-655. exculpar
-656. gozar
-657. descodificar
-658. entresacar
-659. menguar
-660. halagar
-661. regatear
-662. aullar
-663. desportillar
-664. rendir
-665. mellar
-666. suministrar
-667. amotinarse
-668. bendecir
-669. toquetear
-670. sortear
-671. perjudicar
-672. avasallar
-673. pulir
-674. lijar
-675. machacar
-676. noquear
-677. encuestar
-678. enlazar
-679. someterse
-680. acarrear
-681. conllevar
-682. resquebrajar
-683. chasquear
-684. emperifollar
-685. engalanar
-686. regir
-687. amamantar
-688. varar
-689. cargar con
-690. regañar
-691. ajardinar
-692. clavar
-693. formar bolitas
-694. empeñar
-695. tasar
-696. manar
-697. predisponer
-698. fastidiar
-699. rendirle culto a
-700. atestiguar
-701. temblar
-702. dar un codazo a
-703. callar
-704. destapar
-705. urdir
-706. maquinar
-707. desplomarse
-708. diluviar
-709. apilar
-710. editar
-711. apalear
-712. apetecer
-713. canturrear
-714. bullir
-715. zumbar
-716. agobiar
-717. teclear
-718. malgastar
-719. estallar
-720. disponer
-721. ataviar
-722. rascar
-723. tachar
-724. maldecir
-725. infundir
-726. binar
-727. aventar
-728. enmarcar
-729. tender
-730. acorralar
-731. acaparar
-732. limitar con
-733. lindar con
-734. dotar de personal
-735. campanas
-736. retrato
-737. posterior
-738. fondear
-739. ver
-740. cartel
-741. butaca
-742. broadcasting,la difusión
-743. retransmisión
-744. cadena
-745. humorismo
-746. policiaco
-747. wéstern
-748. programa de concursos
-749. estrella
-750. el set
-751. doblar
-752. situarse
-753. locutor
-754. presenter,el conductor
-755. commercial,el spot
-756. la cuña
-757. double,el/la doble
-758. substitute,el/la suplente
-759. shot,la toma
-760. take,la toma
-761. medios de comunicación
-762. still,el fotograma
-763. documentary,el documental
-764. reseña
-765. trailer, avances
-766. obra maestra
-767. diablura
-768. tener gracia
-769. la risa
-770. sentido del humor
-771. to check in,facturar
-772. asiento de ventanilla
-773. asiento de pasillo
-774. customs,la aduana
-775. la ruta
-776. visado
-777. la cuota
-778. la huésped
-779. el hostal
-780. folleto
-781. posada
-782. pasaje
-783. tour,el recorrido
-784. cinturón de seguridad
-785. el andén
-786. el parlante
-787. extranjero
-788. lluvioso
-789. brumoso
-790. de niebla
-791. tentempié
-792. lujo
-793. estancia
-794. luna de miel
-795. plegable
-796. la fianza
-797. orilla
-798. seguro que
-799. no cabe duda de que
-800. naturalmente
-801. de la misma manera
-802. da igual
-803. below,a continuación
-804. más importante aún
-805. prioritariamente
-806. for instance,sin ir más lejos
-807. that is,es decir
-808. al fin y al cabo
-809. no obstante
-810. empero
-811. aún más
-812. más allá
-813. at length,detenidamente
-814. immediately,ipso facto
-815. in the meantime,mientras tanto
-816. hence,de ahí que
-817. since,ya que
-818. thus,por lo tanto
-819. thus,por ello
-820. el patio
-821. top,la peonza
-822. jóvenes
-823. canica
-824. juego de mesa
-825. el trompo
-826. el lazo de saltar
-827. season,la temporada
-828. reloj pulsera
-829. manilla
-830. anteanoche
-831. aplicándose
-832. contestar
-833. la consola
-834. to download,descargar
-835. ver en streaming
-836. mouse,el ratón
-837. to pick up,descolgar
-838. hit,el jit
-839. to key in,picar
-840. etiquetar
-841. to surf,navegar por
-842. entorno
-843. to paste,pegar
-844. to delete,borrar
-845. guglear
-846. to charge,cargar
-847. speaker,el altavoz
-848. actualizar
-849. headphones,los auriculares
-850. to link,enlazar
-851. to load,cargarse
-852. to press,oprimir
-853. to scroll,desplazar
-854. to click,cliquear
-855. hacer clic en
-856. to press,pulsar
-857. feature,la prestación
-858. loop,el bucle
-859. coma
-860. bat,el bate
-861. la canasta
-862. enceste
-863. casco
-864. tauromaquia
-865. balonmano
-866. amonestar
-867. mallas
-868. alineación
-869. arquero
-870. la goma
-871. banquillo
-872. pitar
-873. pantalones cortos
-874. el pito
-875. el chut
-876. tiempo suplementario
-877. lanzamiento
-878. rechace
-879. autogol
-880. amonestación
-881. block,el tapón
-882. placar
-883. muelle
-884. tiñó
-885. madriguera
-886. produciendo
-887. encendido
-888. ahuyentar
-889. boletín informativo
-890. estrofa
-891. leyenda - legend
-892. borrador
-893. issue,el número
-894. print,la letra de imprenta
-895. tebeo
-896. ghostwriter,el negro
-897. speech bubble,el bocadillo
-898. hipérbole
-899. seudónimo
-900. fluency,la fluidez
-901. summary,el resumen
-902. de qué se trata
-903. cómo se dice
-904. a qué
-905. de qué está hecho
-906. qué lleva puesto
-907. hacia dónde
-908. ¿Qué aspecto tienes?
-909. el montón
-910. a great deal of,la mar de
-911. pañuelo
-912. pecho,a lo hecho
-913. necias
-914. nunca es tarde si la dicha es buena
-915. Nunca llueve a gusto de todos
-916. El hábito no hace al monje
-917. tal astilla,de tal palo
-918. grandes remedios.,A grandes males
-919. A donde fueres haz lo que vieres
-920. más vale tarde que nunca
-921. to work out,descifrar
-922. fight,la bronca
-923. to hurt,hacer daño
-924. traicionar
-925. escisión
-926. amenaza
-927. asumir un reto
-928. gamberro
-929. pendenciero
-930. alborotador
-931. burden,el lastre
-932. estallar
-933. reventar
-934. desgracia
-935. riña
-936. jealousy,los celos
-937. close to,cabe
-938. más allá de
-939. through,a través de
-940. except,excepto
-941. to run,concurrir
-942. alcaldesa
-943. devenir
-944. lealtad
-945. contact,la palanca
-946. connections,el enchufe
-947. sublevarse
-948. seat,el escaño
-949. overthrow,el derrocamiento
-950. carnicería
-951. frutería
-952. ferretería
-953. jardín trasero
-954. pradera
-955. en ninguna parte
-956. el puerto deportivo
-957. block,la manzana
-958. condado
-959. fuente
-960. office,el despacho
-961. study,el despacho
-962. glorieta
-963. tip,el extremo
-964. dump,el vertedero
-965. fence,la valla
-966. reapertura
-967. cercanías
-968. las afueras
-969. rasuradora
-970. dentífrico
-971. nail file,la lima
-972. pañal
-973. wrap,el rebozo
-974. sonaja
-975. mameluco
-976. babero
-977. cochecito
-978. darse el gusto
-979. muchacho
-980. raza
-981. tercera edad
-982. belleza
-983. sense,el juicio
-984. upbringing,la crianza
-985. quídam
-986. encogido
-987. abuchedores
-988. irrespetuosos
-989. canijo’
-990. ente
-991. amigazo
-992. nalgas
-993. codo
-994. uña
-995. hueso
-996. ceja
-997. costilla
-998. seno
-999. pantorrilla
-1000. pulgar
-1001. lomo
-1002. poto
-1003. dedo índice
-1004. meñique
-1005. ombligo
-1006. pezón
-1007. espinilla
-1008. hígado
-1009. temple,la sien
-1010. encía
-1011. yema
-1012. el párpado
-1013. freckle,la peca
-1014. nudillo
-1015. flequillo
-1016. coleta
-1017. patilla
-1018. bigote
-1019. sujetapapeles
-1020. grapadora
-1021. el/la portátil
-1022. envelope,el sobre
-1023. duodécimo
-1024. undécimo
-1025. agreste
-1026. arroyo
-1027. encrespado
-1028. ribera
-1029. la cala
-1030. bajamar
-1031. pleamar
-1032. autóctono
-1033. pétalo
-1034. hiedra
-1035. corteza
-1036. enredadera
-1037. tañer
-1038. puntear
-1039. tambor
-1040. estribillo
-1041. ejecutar
-1042. molido
-1043. hacienda
-1044. haber
-1045. adinerado
-1046. indigente
-1047. dough,la plata
-1048. impuso
-1049. pese a
-1050. acertijo
-1051. amorcito corazón
-1052. la muñeca
-1053. mijo
-1054. el amorcito
-1055. el ligue
-1056. darling,el encanto
-1057. chino
-1058. fluent,suelto
-1059. sign language,la lengua de signos
-1060. cangrejo
-1061. adelgazar
-1062. perjudicar
-1063. estornudar
-1064. amenaza
-1065. sabiduría
-1066. travieso
-1067. to get engaged,comprometerse
-1068. hígado
-1069. court,la cancha
-1070. la almohada
-1071. vanidoso
-1072. el mostrador
-1073. cadera
-1074. hervir
-1075. sudadera
-1076. sembrar
-1077. chuleta
-1078. consejero
-1079. escenario
-1080. barrer
-1081. novedoso
-1082. agrio
-1083. link,el enlace
-1084. el impermeable
-1085. el arete
-1086. servilleta
-1087. apodo
-1088. carnicería
-1089. camioneta
-1090. exposición
-1091. pesadilla
-1092. enojarse
-1093. envase
-1094. peluquería
-1095. ciencia ficción
-1096. aparcamiento
-1097. enfado
-1098. apasionado
-1099. estupendo
-1100. ceja
-1101. aburrirse
-1102. buzón
-1103. to make up,componer
-1104. soler
-1105. terapia
-1106. asar
-1107. pasarlo mal
-1108. patrimonio
-1109. estar a dieta
-1110. pariente
-1111. talla
-1112. recetar
-1113. gasolinera
-1114. carne de res
-1115. hermanastro
-1116. cálido
-1117. shame,la pena
-1118. shrimp,la gamba
-1119. freír
+2. 
+3. tersura
+4. apetencia
+5. tersura
+6. remolque
+7. recorrido
+8. cordillera
+9. centenarios
+10. charco
+11. aplastándolo
+12. franjas
+13. conducto
+14. expender
+15. buque
+16. desplegó
+17. hinchó
+18. eje
+19. mástil
+20. melocotón
+21. durazno
+22. plátano
+23. cacahuete
+24. percha
+25. cazaba
+26. amenaza
+27. sonajero
+28. depredador
+29. hurgando
+30. el paso
+31. meneandome
+32. nenúfar
+33. exuberante
+34. reclutador
+35. Actualicé
+36. vacante
+37. Edad
+38. u
+39. grapas
+40. rana
+41. falo
+42. ciervo
+43. depredador 
+44. apuntes
+45. joyería
+46. delito
+47. venado
+48. tijereta
+49. mariquita
+50. corneja
+51. personalmente
+52. alguna vez
+53. en su mayoría
+54. así así
+55. despacio
+56. sumamente
+57. sobre todo
+58. cuanto - the more
+59. aún así
+60. lindo
+61. jamás
+62. dorso
+63. afanosamente
+64. luego
+65. musaraña
+66. el jerbo
+67. rara vez
+68. deprisa
+69. de mala gana
+70. gana
+71. por desgracia
+72. estupendamente
+73. algo
+74. anteayer
+75. anteanoche
+76. estrepitosamente
+77. adonde
+78. ahorita
+79. tal
+80. asimismo
+81. arriba
+82. en punto
+83. acá
+84. por consiguiente
+85. por lo tanto
+86. despacito
+87. hace mucho
+88. propiciar
+89. tumbarse
+90. romper con
+91. imprudente
+92. banda sonora
+93. céntrico
+94. chocar con
+95. cepillarse el pelo
+96. agachado
+97. hacer clic
+98. empollón
+99. estar harto de
+100. portarse mal
+101. drogadicto
+102. chaleco salvavidas
+103. cráter
+104. estrella de cine
+105. echar al buzón
+106. suerte
+107. sino
+108. barrer
+109. stocking,la media
+110. muñeca - doll
+111. solamente
+112. fondo
+113. atreverse
+114. coquetear
+115. sugerencia
+116. quehacer
+117. nuez
+118. teñir
+119. hembra
+120. to assemble,armar
+121. toronja
+122. exitoso
+123. pulgar
+124. imaginar
+125. mensual
+126. dime
+127. oler
+128. to have an afternoon snack,merendar
+129. aduana
+130. proveer
+131. rumbo 
+132. garbanzo
+133. petición
+134. prejuicio
+135. chaval
+136. sacar una buena nota
+137. narrar
+138. hostal
+139. tratarse de
+140. aspirina
+141. ternura
+142. redacción
+143. arroba
+144. desprecio
+145. oficio
+146. porvenir
+147. aclarar
+148. lema
+149. bate
+150. tomar apuntes
+151. Pascua
+152. opinar - to believe
+153. arriesgar
+154. docena
+155. cortometraje
+156. remo
+157. mercancía
+158. linterna
+159. avance
+160. madurez
+161. gestionar
+162. aceituna
+163. asesor
+164. bromear
+165. dulzura
+166. hijastro
+167. cascada
+168. generalmente
+169. otorgar
+170. sacapuntas
+171. asco
+172. cobarde
+173. mantel
+174. recorrido
+175. rescatar
+176. achievement,el logro
+177. terco
+178. apostar
+179. calefacción
+180. lector
+181. padrino
+182. estar de moda
+183. yendo
+184. quise
+185. allá
+186. enforcarte
+187. me visto
+188. la tarjeta postal
+189. andén
+190. dictadura
+191. gel
+192. guionista
+193. sandía
+194. auxiliar de vuelo
+195. acordarse
+196. contenedor
+197. derrochar
+198. aire acondicionado
+199. invento
+200. tableta
+201. lenteja
+202. licencia de conducir
+203. cerrajero
+204. sentido del humor
+205. cumplir
+206. amanecer
+207. picar
+208. acudir
+209. despegar
+210. belleza
+211. regar
+212. yerno
+213. fin
+214. sartén
+215. hacerse
+216. pañuelo
+217. nuera
+218. torta
+219. lastimarse
+220. yeso
+221. encuesta
+222. liso
+223. juzgar
+224. cambiante
+225. creencia
+226. challenge,el reto
+227. placer
+228. suegro
+229. flojo
+230. orilla
+231. aportar
+232. fomentar
+233. la ganga
+234. rana
+235. influir
+236. madrina
+237. los celos
+238. rizado
+239. viudo
+240. pelar
+241. niñez
+242. el volante
+243. durazno
+244. chino
+245. empeorar
+246. hormiga
+247. mito
+248. bisabuelo
+249. acogedor
+250. fenomenal
+251. pastelería
+252. enhorabuena
+253. mostaza
+254. patineta
+255. adicto
+256. afanoso
+257. afligido
+258. agripado
+259. agorero
+260. ajeno
+261. agrio
+262. agridulce
+263. agreste
+264. rechazar
+265. afuera
+266. ni
+267. tener ganas de
+268. suegra
+269. aquella
+270. cadena
+271. la gallina
+272. interrogante
+273. mezquino
+274. planeado
+275. perplejo
+276. avasallador
+277. autóctono
+278. soñoliento
+279. tieso
+280. sordo
+281. avisado
+282. baboso
+283. pinto
+284. parejo
+285. ajeno
+286. avaro
+287. saltado
+288. apasionante
+289. automotriz
+290. cazurro
+291. lodoso
+292. voladizo
+293. retrasado
+294. rizado
+295. aturdido
+296. idóneo
+297. zurdo
+298. celoso
+299. listo
+300. carnal
+301. soso
+302. chido
+303. húmedo
+304. oxidado
+305. pretend,de mentira
+306. bellaco
+307. consentido
+308. garrido
+309. blando
+310. basura
+311. interino
+312. estival
+313. pícaro
+314. bienaventurado
+315. cabal
+316. de fondo
+317. codicioso
+318. mentecato
+319. adjunto
+320. orgulloso
+321. agachado
+322. aterido
+323. ninguna
+324. terco
+325. tozudo
+326. enfadado
+327. honrado
+328. ordenado
+329. suelto
+330. flaco
+331. esotérico
+332. ruidoso
+333. confiado
+334. indiscutido
+335. pendenciero
+336. farsante
+337. caricia
+338. pelado
+339. anular
+340. perdurable
+341. socarrón
+342. torpe
+343. basto
+344. desinteresado
+345. echado
+346. veraniego
+347. borde
+348. postal
+349. amplio
+350. venidero
+351. activo - working
+352. equivocado
+353. soberbio
+354. promedio
+355. cursi
+356. subrayado
+357. agobiado
+358. insensato
+359. borroso
+360. jubilado
+361. cardinal
+362. grato
+363. gaucho
+364. rayado
+365. umbroso
+366. acurrucado
+367. acreedor
+368. acorazado
+369. vanidoso
+370. tarumba
+371. well-dressed,puesto
+372. polvoriento
+373. bullicioso
+374. corriente
+375. lactante
+376. hueco
+377. encargado
+378. abyecto
+379. acaudalado
+380. abultado
+381. acuoso
+382. acomedido
+383. boricua
+384. bobo
+385. brumoso
+386. brioso
+387. bronco
+388. burlón
+389. burdo
+390. buzo
+391. abarrotado
+392. abatible
+393. abismal
+394. abnegado
+395. abochornado
+396. abombado
+397. abonado
+398. abovedado
+399. abrasador
+400. anticuado
+401. atolondrado
+402. añejo
+403. campero
+404. canalla
+405. canijo
+406. captor
+407. carmesí
+408. casposo
+409. catete
+410. catrín
+411. chafa
+412. chueco
+413. chimuelo
+414. chiquito
+415. chilango
+416. chucho
+417. choto
+418. cochino
+419. bacano
+420. barbudo
+421. beato
+422. bienhechor
+423. bohemio
+424. enjuto
+425. calato
+426. cabizbajo
+427. cabreado
+428. cabrero
+429. cacarizo
+430. cafre
+431. diáfano
+432. caballeroso
+433. cabezón
+434. despectivo
+435. desvalido
+436. desplazado
+437. diminuto
+438. dudoso
+439. díscolo
+440. dañino
+441. delator
+442. demente
+443. depurado
+444. desatado
+445. desquiciado
+446. escarlata
+447. escarpado
+448. erizado
+449. escalofriante
+450. estable
+451. exento
+452. cubo
+453. palas - shovel
+454. balanceaba
+455. un rato
+456. remolino
+457. monton
+458. afônica
+459. yendo
+460. enredé
+461. haberme
+462. conforme
+463. ve al grano
+464. contesta
+465. muñeca - doll
+466. enojado
+467. enojoso
+468. inalámbrico
+469. encinta
+470. endeble
+471. enchufado
+472. empedrado
+473. fornido
+474. fiado
+475. fortuito
+476. fregado
+477. furibundo
+478. fugaz
+479. ebrio
+480. efímero
+481. escuálido
+482. feo
+483. factible
+484. facundo
+485. falaz
+486. faltante
+487. fausto
+488. flaco
+489. flipado
+490. flacucho
+491. filoso
+492. fidedigno
+493. gafe
+494. galano
+495. gallardo
+496. gacho
+497. gamberro
+498. gandalla
+499. gangoso
+500. garboso
+501. garrafal
+502. gaseoso
+503. goloso
+504. gritón
+505. gozoso
+506. güero
+507. guasón
+508. guapetón
+509. guarro
+510. fachoso
+511. greñudo
+512. gregario
+513. grandote
+514. mono
+515. blurred,movido
+516. purple,morado
+517. mordaz
+518. marrano
+519. mañoso
+520. mezquino
+521. huraño
+522. hosco
+523. huérfano
+524. hiriente
+525. hechizo
+526. macizo
+527. magno
+528. malito
+529. marchito
+530. inédito
+531. indebido
+532. hacendado
+533. haragán
+534. harto
+535. hidalgo
+536. hirsuto
+537. incauto
+538. inapelable
+539. flujo
+540. inagotable
+541. inabarcable
+542. inadvertido
+543. impío
+544. impoluto
+545. impuntual
+546. imputable
+547. impávido
+548. jubiloso
+549. experienced,jugado
+550. juicioso
+551. igualito
+552. imperdonable
+553. inencontrable
+554. impetuoso
+555. jactancioso
+556. jocoso
+557. jorobado
+558. lánguido
+559. lúdico
+560. lóbrego
+561. loable
+562. límpido
+563. lascivo
+564. lampiño
+565. lolo
+566. lloroso
+567. locuaz
+568. locochón
+569. liviano
+570. lambiscón
+571. aterrador
+572. larguirucho
+573. lejano
+574. labrado
+575. lacio
+576. apacible
+577. rabioso
+578. jovencito
+579. abatirse
+580. ronronear
+581. sacar a pasear
+582. maullar
+583. ladrar
+584. amonestar
+585. regatear
+586. to be left,quedar
+587. borrar
+588. dorar
+589. marcharse
+590. extrañar
+591. echar
+592. catar
+593. platicar
+594. suponer
+595. retumbar
+596. reventar
+597. molestar
+598. acumular
+599. reanudar
+600. meter
+601. trasladar
+602. señalar
+603. provenir
+604. asesorar
+605. adiestrar
+606. abarcar
+607. apresurarse
+608. cautivar
+609. cortejar
+610. esforzarse
+611. sobreactuar
+612. trazar
+613. enjabonar
+614. nombrar
+615. entumecer
+616. chillar
+617. adelgazar
+618. aplastar
+619. aporrear
+620. perdurar
+621. meter prisa
+622. arrancar
+623. hacer escala
+624. encomendar
+625. barrer
+626. hacerle la zancadilla a
+627. cribar
+628. abanicar
+629. avivar
+630. escoger
+631. rogar
+632. volcar
+633. emplear
+634. deshuesar
+635. enfadarse
+636. pasarle la factura a
+637. becar
+638. plañir
+639. techar
+640. valorar
+641. hollar
+642. hojear
+643. pillar
+644. dar parte de
+645. sembrar
+646. acribillar
+647. erigir
+648. lucirse en
+649. quedar bien
+650. arrasar
+651. chorrear
+652. timar
+653. estrellar
+654. desentonar
+655. hallar
+656. exculpar
+657. gozar
+658. descodificar
+659. entresacar
+660. menguar
+661. halagar
+662. regatear
+663. aullar
+664. desportillar
+665. rendir
+666. mellar
+667. suministrar
+668. amotinarse
+669. bendecir
+670. toquetear
+671. sortear
+672. perjudicar
+673. avasallar
+674. pulir
+675. lijar
+676. machacar
+677. noquear
+678. encuestar
+679. enlazar
+680. someterse
+681. acarrear
+682. conllevar
+683. resquebrajar
+684. chasquear
+685. emperifollar
+686. engalanar
+687. regir
+688. amamantar
+689. varar
+690. cargar con
+691. regañar
+692. ajardinar
+693. clavar
+694. formar bolitas
+695. empeñar
+696. tasar
+697. manar
+698. predisponer
+699. fastidiar
+700. rendirle culto a
+701. atestiguar
+702. temblar
+703. dar un codazo a
+704. callar
+705. destapar
+706. urdir
+707. maquinar
+708. desplomarse
+709. diluviar
+710. apilar
+711. editar
+712. apalear
+713. apetecer
+714. canturrear
+715. bullir
+716. zumbar
+717. agobiar
+718. teclear
+719. malgastar
+720. estallar
+721. disponer
+722. ataviar
+723. rascar
+724. tachar
+725. maldecir
+726. infundir
+727. binar
+728. aventar
+729. enmarcar
+730. tender
+731. acorralar
+732. acaparar
+733. limitar con
+734. lindar con
+735. dotar de personal
+736. campanas
+737. retrato
+738. posterior
+739. fondear
+740. ver
+741. cartel
+742. butaca
+743. broadcasting,la difusión
+744. retransmisión
+745. cadena
+746. humorismo
+747. policiaco
+748. wéstern
+749. programa de concursos
+750. estrella
+751. el set
+752. doblar
+753. situarse
+754. locutor
+755. presenter,el conductor
+756. commercial,el spot
+757. la cuña
+758. double,el/la doble
+759. substitute,el/la suplente
+760. shot,la toma
+761. take,la toma
+762. medios de comunicación
+763. still,el fotograma
+764. documentary,el documental
+765. reseña
+766. trailer, avances
+767. obra maestra
+768. diablura
+769. tener gracia
+770. la risa
+771. sentido del humor
+772. to check in,facturar
+773. asiento de ventanilla
+774. asiento de pasillo
+775. customs,la aduana
+776. la ruta
+777. visado
+778. la cuota
+779. la huésped
+780. el hostal
+781. folleto
+782. posada
+783. pasaje
+784. tour,el recorrido
+785. cinturón de seguridad
+786. el andén
+787. el parlante
+788. extranjero
+789. lluvioso
+790. brumoso
+791. de niebla
+792. tentempié
+793. lujo
+794. estancia
+795. luna de miel
+796. plegable
+797. la fianza
+798. orilla
+799. seguro que
+800. no cabe duda de que
+801. naturalmente
+802. de la misma manera
+803. da igual
+804. below,a continuación
+805. más importante aún
+806. prioritariamente
+807. for instance,sin ir más lejos
+808. that is,es decir
+809. al fin y al cabo
+810. no obstante
+811. empero
+812. aún más
+813. más allá
+814. at length,detenidamente
+815. immediately,ipso facto
+816. in the meantime,mientras tanto
+817. hence,de ahí que
+818. since,ya que
+819. thus,por lo tanto
+820. thus,por ello
+821. el patio
+822. top,la peonza
+823. jóvenes
+824. canica
+825. juego de mesa
+826. el trompo
+827. el lazo de saltar
+828. season,la temporada
+829. reloj pulsera
+830. manilla
+831. anteanoche
+832. aplicándose
+833. contestar
+834. la consola
+835. to download,descargar
+836. ver en streaming
+837. mouse,el ratón
+838. to pick up,descolgar
+839. hit,el jit
+840. to key in,picar
+841. etiquetar
+842. to surf,navegar por
+843. entorno
+844. to paste,pegar
+845. to delete,borrar
+846. guglear
+847. to charge,cargar
+848. speaker,el altavoz
+849. actualizar
+850. headphones,los auriculares
+851. to link,enlazar
+852. to load,cargarse
+853. to press,oprimir
+854. to scroll,desplazar
+855. to click,cliquear
+856. hacer clic en
+857. to press,pulsar
+858. feature,la prestación
+859. loop,el bucle
+860. coma
+861. bat,el bate
+862. la canasta
+863. enceste
+864. casco
+865. tauromaquia
+866. balonmano
+867. amonestar
+868. mallas
+869. alineación
+870. arquero
+871. la goma
+872. banquillo
+873. pitar
+874. pantalones cortos
+875. el pito
+876. el chut
+877. tiempo suplementario
+878. lanzamiento
+879. rechace
+880. autogol
+881. amonestación
+882. block,el tapón
+883. placar
+884. muelle
+885. tiñó
+886. madriguera
+887. produciendo
+888. encendido
+889. ahuyentar
+890. boletín informativo
+891. estrofa
+892. leyenda - legend
+893. borrador
+894. issue,el número
+895. print,la letra de imprenta
+896. tebeo
+897. ghostwriter,el negro
+898. speech bubble,el bocadillo
+899. hipérbole
+900. seudónimo
+901. fluency,la fluidez
+902. summary,el resumen
+903. de qué se trata
+904. cómo se dice
+905. a qué
+906. de qué está hecho
+907. qué lleva puesto
+908. hacia dónde
+909. ¿Qué aspecto tienes?
+910. el montón
+911. a great deal of,la mar de
+912. pañuelo
+913. pecho,a lo hecho
+914. necias
+915. nunca es tarde si la dicha es buena
+916. Nunca llueve a gusto de todos
+917. El hábito no hace al monje
+918. tal astilla,de tal palo
+919. grandes remedios.,A grandes males
+920. A donde fueres haz lo que vieres
+921. más vale tarde que nunca
+922. to work out,descifrar
+923. fight,la bronca
+924. to hurt,hacer daño
+925. traicionar
+926. escisión
+927. amenaza
+928. asumir un reto
+929. gamberro
+930. pendenciero
+931. alborotador
+932. burden,el lastre
+933. estallar
+934. reventar
+935. desgracia
+936. riña
+937. jealousy,los celos
+938. close to,cabe
+939. más allá de
+940. through,a través de
+941. except,excepto
+942. to run,concurrir
+943. alcaldesa
+944. devenir
+945. lealtad
+946. contact,la palanca
+947. connections,el enchufe
+948. sublevarse
+949. seat,el escaño
+950. overthrow,el derrocamiento
+951. carnicería
+952. frutería
+953. ferretería
+954. jardín trasero
+955. pradera
+956. en ninguna parte
+957. el puerto deportivo
+958. block,la manzana
+959. condado
+960. fuente
+961. office,el despacho
+962. study,el despacho
+963. glorieta
+964. tip,el extremo
+965. dump,el vertedero
+966. fence,la valla
+967. reapertura
+968. cercanías
+969. las afueras
+970. rasuradora
+971. dentífrico
+972. nail file,la lima
+973. pañal
+974. wrap,el rebozo
+975. sonaja
+976. mameluco
+977. babero
+978. cochecito
+979. darse el gusto
+980. muchacho
+981. raza
+982. tercera edad
+983. belleza
+984. sense,el juicio
+985. upbringing,la crianza
+986. quídam
+987. encogido
+988. abuchedores
+989. irrespetuosos
+990. canijo’
+991. ente
+992. amigazo
+993. nalgas
+994. codo
+995. uña
+996. hueso
+997. ceja
+998. costilla
+999. seno
+1000. pantorrilla
+1001. pulgar
+1002. lomo
+1003. poto
+1004. dedo índice
+1005. meñique
+1006. ombligo
+1007. pezón
+1008. espinilla
+1009. hígado
+1010. temple,la sien
+1011. encía
+1012. yema
+1013. el párpado
+1014. freckle,la peca
+1015. nudillo
+1016. flequillo
+1017. coleta
+1018. patilla
+1019. bigote
+1020. sujetapapeles
+1021. grapadora
+1022. el/la portátil
+1023. envelope,el sobre
+1024. duodécimo
+1025. undécimo
+1026. agreste
+1027. arroyo
+1028. encrespado
+1029. ribera
+1030. la cala
+1031. bajamar
+1032. pleamar
+1033. autóctono
+1034. pétalo
+1035. hiedra
+1036. corteza
+1037. enredadera
+1038. tañer
+1039. puntear
+1040. tambor
+1041. estribillo
+1042. ejecutar
+1043. molido
+1044. hacienda
+1045. haber
+1046. adinerado
+1047. indigente
+1048. dough,la plata
+1049. impuso
+1050. pese a
+1051. acertijo
+1052. amorcito corazón
+1053. la muñeca
+1054. mijo
+1055. el amorcito
+1056. el ligue
+1057. darling,el encanto
+1058. chino
+1059. fluent,suelto
+1060. sign language,la lengua de signos
+1061. cangrejo
+1062. adelgazar
+1063. perjudicar
+1064. estornudar
+1065. amenaza
+1066. sabiduría
+1067. travieso
+1068. to get engaged,comprometerse
+1069. hígado
+1070. court,la cancha
+1071. la almohada
+1072. vanidoso
+1073. el mostrador
+1074. cadera
+1075. hervir
+1076. sudadera
+1077. sembrar
+1078. chuleta
+1079. consejero
+1080. escenario
+1081. barrer
+1082. novedoso
+1083. agrio
+1084. link,el enlace
+1085. el impermeable
+1086. el arete
+1087. servilleta
+1088. apodo
+1089. carnicería
+1090. camioneta
+1091. exposición
+1092. pesadilla
+1093. enojarse
+1094. envase
+1095. peluquería
+1096. ciencia ficción
+1097. aparcamiento
+1098. enfado
+1099. apasionado
+1100. estupendo
+1101. ceja
+1102. aburrirse
+1103. buzón
+1104. to make up,componer
+1105. soler
+1106. terapia
+1107. asar
+1108. pasarlo mal
+1109. patrimonio
+1110. estar a dieta
+1111. pariente
+1112. talla
+1113. recetar
+1114. gasolinera
+1115. carne de res
+1116. hermanastro
+1117. cálido
+1118. shame,la pena
+1119. shrimp,la gamba
+1120. freír
 1121. to try,tratar de
 1122. culpable
 1123. sudar
@@ -1320,4 +1321,3 @@
 1315. juncos
 1316. pecas
 1317. rebunzo
-1318. precaución
