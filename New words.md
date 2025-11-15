@@ -3,7 +3,7 @@
 1. compliana
 2. end of the stick
 3. fussy
-4. line up
+4. lineup
 5. tadpole
 
 ==*Nuevas Palabras* ===
