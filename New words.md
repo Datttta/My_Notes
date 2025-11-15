@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. compliana
-2. tadpole
+2. end of the stick
+3. tadpole
 
 ==*Nuevas Palabras* ===
 
