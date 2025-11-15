@@ -1303,3 +1303,4 @@
 1296. vertedero
 1297. la protesta
 1298. tomar una siesta
+1299. a lo lejos
