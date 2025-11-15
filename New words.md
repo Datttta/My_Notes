@@ -1303,23 +1303,3 @@
 1296. vertedero
 1297. la protesta
 1298. tomar una siesta
-1299. perteneciente
-1300. relativo
-1301. fuiste
-1302. parece
-1303. arrestado
-1304. someter
-1305. extraño - other meaning than unusual
-1306. burlas
-1307. caducadas
-1308. imprescindible
-1309. de improviso
-1310. que aproveche
-1311. enhorabuena
-1312. colorado
-1313. ]destituido
-1314. fastidioso
-1315. juncos
-1316. pecas
-1317. rebunzo
-1318. tartamudo
