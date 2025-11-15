@@ -1322,3 +1322,4 @@
 1315. juncos
 1316. pecas
 1317. rebunzo
+1318. tartamudo
