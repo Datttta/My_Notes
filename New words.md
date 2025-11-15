@@ -4,7 +4,8 @@
 2. end of the stick
 3. fussy
 4. lineup
-5. tadpole
+5. pull around
+6. tadpole
 
 ==*Nuevas Palabras* ===
 
