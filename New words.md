@@ -1,6 +1,7 @@
 === *New words* ===
 
-1. compliant
+1. compliana
+2. tadpole
 
 ==*Nuevas Palabras* ===
 
