@@ -1,11 +1,12 @@
 === *New words* ===
 
 1. compliana
-2. end of the stick
-3. fussy
-4. lineup
-5. pull around
-6. tadpole
+2. welds
+3. end of the stick
+4. fussy
+5. lineup
+6. pull around
+7. tadpole
 
 ==*Nuevas Palabras* ===
 
