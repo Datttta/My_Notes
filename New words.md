@@ -1286,3 +1286,4 @@
 1280. biberón
 1281. pañal
 1282. veía
+1283. campana
