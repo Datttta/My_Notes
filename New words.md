@@ -1285,23 +1285,3 @@
 1279. baby bottle,el chupón
 1280. biberón
 1281. pañal
-1282. osito
-1283. mameluco
-1284. rebozo
-1285. sonaja
-1286. yerno
-1287. hijastros
-1288. arroyo
-1289. riachuelo
-1290. poza
-1291. tromba
-1292. emanación
-1293. reciclaje
-1294. erosionar
-1295. abono
-1296. vertedero
-1297. la protesta
-1298. tomar una siesta
-1299. a lo lejos
-1300. enrojecida
-1301. extremadamente
