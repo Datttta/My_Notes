@@ -1287,3 +1287,4 @@
 1281. pañal
 1282. veía
 1283. campana
+1284. asedio
