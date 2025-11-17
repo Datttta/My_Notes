@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. overcoat
+2. died down
 
 ==*Nuevas Palabras* ===
 
