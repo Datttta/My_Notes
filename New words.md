@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. wyling
+2. prosody
 
 ==*Nuevas Palabras* ===
 
