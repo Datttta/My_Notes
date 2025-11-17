@@ -1288,3 +1288,4 @@
 1282. veía
 1283. campana
 1284. asedio
+1285. extrañamos
