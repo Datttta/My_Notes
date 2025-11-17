@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. 
+1. wyling
 
 ==*Nuevas Palabras* ===
 
@@ -1269,3 +1269,4 @@
 1263. entrante
 1264. o sea
 1265. exaltación
+1266. valle
