@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. overcoat
-2. died down
+2. died dowa
+3. shot up
 
 ==*Nuevas Palabras* ===
 
