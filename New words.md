@@ -1253,23 +1253,3 @@
 1247. tabernero
 1248. insípido
 1249. lo malo es que
-1250. ripe,a punto
-1251. pelar
-1252. rebanadas
-1253. pastelito
-1254. el batido
-1255. gofre
-1256. bizcocho
-1257. crujiente
-1258. vajilla
-1259. pileta
-1260. escurrir
-1261. moler
-1262. picoso
-1263. entrante
-1264. o sea
-1265. exaltación
-1266. valle
-1267. borró
-1268. arropado
-1269. medicinas
