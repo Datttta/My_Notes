@@ -1251,4 +1251,3 @@
 1245. tallarines
 1246. aplastar
 1247. tabernero
-1248. insípido
