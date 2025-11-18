@@ -1271,3 +1271,4 @@
 1264. o sea
 1265. exaltación
 1266. valle
+1267. borró
