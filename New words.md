@@ -1,8 +1,8 @@
 === *New words* ===
 
-1. wyling
-2. exempt
-3. prosody
+1. 
+2. 
+3. 
 
 ==*Nuevas Palabras* ===
 
@@ -1273,3 +1273,4 @@
 1265. exaltación
 1266. valle
 1267. borró
+1268. arropado
