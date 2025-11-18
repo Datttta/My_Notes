@@ -1252,4 +1252,3 @@
 1246. aplastar
 1247. tabernero
 1248. insípido
-1249. lo malo es que
