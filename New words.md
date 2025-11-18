@@ -1272,3 +1272,4 @@
 1266. valle
 1267. borró
 1268. arropado
+1269. medicinas
