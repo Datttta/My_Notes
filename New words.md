@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. wyling
-2. prosody
+2. exempt
+3. prosody
 
 ==*Nuevas Palabras* ===
 
