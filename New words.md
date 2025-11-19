@@ -1231,23 +1231,3 @@
 1225. higo
 1226. delantal
 1227. lonchería
-1228. tartera
-1229. achicharrado
-1230. ahumado
-1231. paso
-1232. rallador
-1233. cucurucho
-1234. menear
-1235. picadillo
-1236. oporto
-1237. fuente
-1238. destapar
-1239. fregar
-1240. tocino
-1241. pelón
-1242. la fonda
-1243. redondo
-1244. plancha
-1245. tallarines
-1246. aplastar
-1247. tabernero
