@@ -1235,5 +1235,3 @@
 1229. grosor
 1230. ajos
 1231. raparse
-1232. panceta
-1233. pegue 
