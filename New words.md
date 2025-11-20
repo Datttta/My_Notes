@@ -1220,3 +1220,4 @@
 1214. finamente
 1215. espesor
 1216. Ponte
+1217. repostería
