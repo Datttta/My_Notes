@@ -1216,3 +1216,4 @@
 1210. spoiled,dañado
 1211. zampar
 1212. cantina
+1213. ras
