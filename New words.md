@@ -1216,23 +1216,3 @@
 1210. spoiled,dañado
 1211. zampar
 1212. cantina
-1213. chicle
-1214. soso
-1215. mordisco
-1216. panqueque
-1217. piña
-1218. to grow,criar
-1219. nata
-1220. cucharadita
-1221. nécora
-1222. jaiba
-1223. avena
-1224. tabla
-1225. higo
-1226. delantal
-1227. lonchería
-1228. freírlas
-1229. grosor
-1230. ajos
-1231. raparse
-1232. vetas
