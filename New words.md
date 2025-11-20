@@ -1218,3 +1218,4 @@
 1212. cantina
 1213. ras
 1214. finamente
+1215. espesor
