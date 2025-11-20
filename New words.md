@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. installments
+1. 
 
 ==*Nuevas Palabras* ===
 
