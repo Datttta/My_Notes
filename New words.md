@@ -1233,3 +1233,4 @@
 1227. lonchería
 1228. freírlas
 1229. grosor
+1230. ajos
