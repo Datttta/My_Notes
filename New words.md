@@ -1231,3 +1231,4 @@
 1225. higo
 1226. delantal
 1227. lonchería
+1228. freírlas
