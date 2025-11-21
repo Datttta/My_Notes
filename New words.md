@@ -7,7 +7,8 @@
 5. overturned
 6. mattering
 7. bell peppers
-8. utterance
+8. damage - money you have to pay
+9. utterance
 
 ==*Nuevas Palabras* ===
 
