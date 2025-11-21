@@ -1204,23 +1204,3 @@
 1197. comida basura
 1198. carne de ave
 1199. papas fritas
-1200. caldo
-1201. tostada
-1202. utensilio
-1203. poco hecho
-1204. término medio
-1205. al punto
-1206. bien hecho
-1207. taste,la boca
-1208. jarabe
-1209. la gaseosa
-1210. spoiled,dañado
-1211. zampar
-1212. cantina
-1213. ras
-1214. finamente
-1215. espesor
-1216. bonito - que bonito estar de volta
-1217. volta
-1218. relajado
-1219. pensionados
