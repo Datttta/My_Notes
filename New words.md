@@ -1221,3 +1221,4 @@
 1215. espesor
 1216. bonito - que bonito estar de volta
 1217. volta
+1218. relajado
