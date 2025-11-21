@@ -1,11 +1,6 @@
 === *New words* ===
 
-1. borders - verb
-2. bursting - apertado
-3. gussied
-4. dolled up
-5. scoffs
-6. wear down
+1. 
 
 ==*Nuevas Palabras* ===
 
