@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. borders
+1. borders - verb
 
 ==*Nuevas Palabras* ===
 
