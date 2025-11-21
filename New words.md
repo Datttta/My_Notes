@@ -10,7 +10,8 @@
 8. damage - money you have to pay
 9. shipments
 10. steep - expensive
-11. utterance
+11. recursive
+12. utterance
 
 ==*Nuevas Palabras* ===
 
