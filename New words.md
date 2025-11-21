@@ -9,7 +9,8 @@
 7. bell peppers
 8. damage - money you have to pay
 9. shipments
-10. utterance
+10. steep - expensive
+11. utterance
 
 ==*Nuevas Palabras* ===
 
