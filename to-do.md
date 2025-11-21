@@ -1,5 +1,6 @@
 === Todo ===
 - [ ] Example
+- [ ] hyprland in terminal error
 
 = Today =
 - [ ] Anki & memHack 11:15 - 12:15
