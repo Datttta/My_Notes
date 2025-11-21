@@ -6,7 +6,8 @@
 4. bounds
 5. overturned
 6. mattering
-7. utterance
+7. bell peppers
+8. utterance
 
 ==*Nuevas Palabras* ===
 
