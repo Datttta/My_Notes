@@ -1,7 +1,8 @@
 === *New words* ===
 
 1. lent
-2. utterance
+2. post street
+3. utterance
 
 ==*Nuevas Palabras* ===
 
