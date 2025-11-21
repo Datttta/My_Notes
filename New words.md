@@ -2,7 +2,8 @@
 
 1. lent
 2. post street
-3. utterance
+3. foul - there must have been a foul every minute
+4. utterance
 
 ==*Nuevas Palabras* ===
 
