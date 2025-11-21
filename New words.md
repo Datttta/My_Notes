@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. lent
+2. utterance
 
 ==*Nuevas Palabras* ===
 
