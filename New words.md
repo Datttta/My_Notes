@@ -2,6 +2,8 @@
 
 1. borders - verb
 2. bursting - apertado
+3. gussied
+4. dolled up
 
 ==*Nuevas Palabras* ===
 
