@@ -1202,5 +1202,5 @@
 1195. gallina
 1196. pinta
 1197. comida basura
-1198. carne de ave
-1199. papas fritas
+1198. res - carne
+1199. 
