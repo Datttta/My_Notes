@@ -8,7 +8,8 @@
 6. mattering
 7. bell peppers
 8. damage - money you have to pay
-9. utterance
+9. shipments
+10. utterance
 
 ==*Nuevas Palabras* ===
 
