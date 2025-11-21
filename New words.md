@@ -1,6 +1,7 @@
 === *New words* ===
 
 1. borders - verb
+2. bursting - apertado
 
 ==*Nuevas Palabras* ===
 
