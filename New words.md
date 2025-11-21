@@ -1203,4 +1203,3 @@
 1196. pinta
 1197. comida basura
 1198. res - carne
-1199. 
