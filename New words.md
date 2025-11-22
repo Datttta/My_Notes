@@ -1184,23 +1184,3 @@
 1178. almendra
 1179. cacahuate
 1180. tazón
-1181. menu,la carta
-1182. repostería
-1183. cuchara
-1184. cucharilla
-1185. cucharón
-1186. espátula
-1187. paleta
-1188. garbanzo
-1189. legumbre
-1190. hirviente
-1191. nuez
-1192. picor
-1193. dátil
-1194. cascar
-1195. gallina
-1196. pinta
-1197. comida basura
-1198. res - carne
-1199. traumado
-1200. copa
