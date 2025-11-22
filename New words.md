@@ -1185,3 +1185,4 @@
 1179. cacahuate
 1180. tazón
 1181. apariencia
+1182. tortitas
