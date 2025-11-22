@@ -1,17 +1,6 @@
 === *New words* ===
 
-1. lent
-2. post street
-3. foul - there must have been a foul every minute
-4. bounds
-5. overturned
-6. mattering
-7. bell peppers
-8. damage - money you have to pay
-9. shipments
-10. steep - expensive
-11. recursive
-12. utterance
+1. 
 
 ==*Nuevas Palabras* ===
 
