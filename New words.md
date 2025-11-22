@@ -1187,3 +1187,4 @@
 1181. apariencia
 1182. tortitas
 1183. refregar
+1184. garabatos
