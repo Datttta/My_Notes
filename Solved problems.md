@@ -31,5 +31,6 @@
     - sudo rfkill unblock Bluetooth
 
 - cannot open shared object file: No such file or directory:
+    - use which -a <app>
     - Make sure you have the not working app in /usr/bin/<app>
     - then remove the app in ~/.local/bin/<app> 
