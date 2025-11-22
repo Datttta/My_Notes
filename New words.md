@@ -1186,3 +1186,4 @@
 1180. tazón
 1181. apariencia
 1182. tortitas
+1183. refregar
