@@ -36,4 +36,6 @@
 
 - Update mirror-list:
     - sudo reflector -c Brazil --download-timeout 60 -a 6 --sort rate --save /etc/pacman.d/mirrorlist;
+
+    - sudo reflector --protocol https --latest 50 --sort rate --fastest 15 --download-timeout 20 --save /etc/pacman.d/mirrorlist
     
