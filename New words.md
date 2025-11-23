@@ -1,6 +1,6 @@
 === *New words* ===
 
-1. subdued
+1. 
 
 ==*Nuevas Palabras* ===
 
@@ -1168,23 +1168,3 @@
 1162. dormirse en los laureles
 1163. a duras penas
 1164. pasarse de la raya
-1165. barbacoa
-1166. avellana
-1167. vainilla
-1168. pay
-1169. dulce
-1170. golosina
-1171. tienda de comestibles
-1172. jitomate
-1173. cereza
-1174. coco
-1175. durazno
-1176. cocido
-1177. melocotón
-1178. almendra
-1179. cacahuate
-1180. tazón
-1181. apariencia
-1182. tortitas
-1183. refregar
-1184. garabatos
