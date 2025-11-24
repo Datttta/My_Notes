@@ -1,6 +1,6 @@
 === Ai scripts ===
 
-- Create anki cards highlighting the key words:
+- Create anki cards highlighting the key words, translation on the back part:
     - Create sentences for anki using the words I am going to send. front it will be the sentence example on the language of the word I sent you, and the back will be the traslation, show the sentences without "front" or "back" before it, use a specif line for each part of the card, on the back part, bold the translated word with markdown tags, on the front part add "<b><u>" right after and before the chosen word (the tags must be visible) e.g.(<u><b>Lo siento</b></u>, no pude llegar a tiempo por el tráfico.). Make at least 6 examples.
 
 - Create anki cards with the back part being the meaning from the dicitonary:
