@@ -7,3 +7,4 @@
 [[Solved problems]]
 [[Thing-to-remember]]
 [[Ai-scripts]]
+[[Rhymes]]
