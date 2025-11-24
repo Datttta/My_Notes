@@ -1,7 +1,7 @@
 === New words ===
 
 1. caressed
-2. sweetness
+2. sweetner
 
 ==*Nuevas Palabras* ===
 
