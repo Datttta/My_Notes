@@ -1148,3 +1148,5 @@
 1142. Órale
 1143. enhorabuena
 1144. no te
+1145. revés
+1146. espabilar
