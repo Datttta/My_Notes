@@ -1,4 +1,4 @@
-=== *New words* ===
+=== New words ===
 
 1. caressed
 
