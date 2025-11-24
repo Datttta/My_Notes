@@ -1147,23 +1147,4 @@
 1141. Anjá
 1142. Órale
 1143. enhorabuena
-1144. sirena
-1145. destello
-1146. estar como una cabra
-1147. tirar la casa por la ventana
-1148. ponerse las pilas
-1149. pan comido
-1150. hacer su agosto
-1151. tomar el pelo
-1152. quedarse de piedra
-1153. no tener pelos en la lengua
-1154. empezar la casa por el tejado
-1155. se me hace la boca agua
-1156. dar en el blanco
-1157. dar en el clavo
-1158. dar gato por liebre
-1159. meter la pata
-1160. costar un ojo de la cara
-1161. estar hasta las narices
-1162. dormirse en los laureles
-1163. a duras penas
+1144. no te
