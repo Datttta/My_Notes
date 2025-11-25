@@ -3,6 +3,7 @@
 1. welfare
 2. adversrial
 3. semiotics
+4. owed
 
 ==*Nuevas Palabras* ===
 
