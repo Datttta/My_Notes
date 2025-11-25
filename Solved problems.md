@@ -33,4 +33,8 @@
 - cannot open shared object file: No such file or directory:
     - use which -a <app>
     - Make sure you have the not working app in /usr/bin/<app>
-    - then remove the app in ~/.local/bin/<app> 
+    - then remove the app in ~/.local/bin/<app>
+
+- flatpak error: qt.qpa.plugin: Could not load the Qt platform plugin "xcb" in "" even though it was found. This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+    - flatpak override --user --env=QT_QPA_PLATFORM=wayland <com.stremio.Stremio(link you used to download)>
+
