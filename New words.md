@@ -2,6 +2,7 @@
 
 1. sidetracked
 2. Awward
+3. exposure
 
 ==*Nuevas Palabras* ===
 
