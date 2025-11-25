@@ -1133,3 +1133,4 @@
 1127. escáner
 1128. chorizo
 1129. quitar la mesa
+1130. Hazlo
