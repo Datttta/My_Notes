@@ -1151,3 +1151,4 @@
 1145. revés
 1146. espabilar
 1147. cita
+1148. flojito
