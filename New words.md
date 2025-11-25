@@ -1150,3 +1150,4 @@
 1144. no te
 1145. revés
 1146. espabilar
+1147. cita
