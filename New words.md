@@ -1132,7 +1132,3 @@
 1126. planchar
 1127. escáner
 1128. chorizo
-1129. quitar la mesa
-1130. Hazlo
-1131. cuento
-1132. hechicera
