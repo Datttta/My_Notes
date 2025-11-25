@@ -1135,3 +1135,4 @@
 1129. quitar la mesa
 1130. Hazlo
 1131. cuento
+1132. hechicera
