@@ -1,6 +1,7 @@
 === New words ===
 
 1. sidetracked
+2. Awward
 
 ==*Nuevas Palabras* ===
 
