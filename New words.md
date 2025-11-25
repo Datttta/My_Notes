@@ -1,6 +1,7 @@
 === New words ===
 
 1. welfare
+2. adversrial
 
 ==*Nuevas Palabras* ===
 
