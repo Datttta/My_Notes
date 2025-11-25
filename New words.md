@@ -1134,3 +1134,4 @@
 1128. chorizo
 1129. quitar la mesa
 1130. Hazlo
+1131. cuento
