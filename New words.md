@@ -1132,3 +1132,4 @@
 1126. planchar
 1127. escáner
 1128. chorizo
+1129. elogios
