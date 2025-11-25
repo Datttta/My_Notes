@@ -1133,23 +1133,3 @@
 1127. escáner
 1128. chorizo
 1129. quitar la mesa
-1130. gracioso
-1131. nieta
-1132. plátano
-1133. despacio
-1134. bruja
-1135. estrés
-1136. muchacho
-1137. sed
-1138. gramo
-1139. regio
-1140. Ca
-1141. Anjá
-1142. Órale
-1143. enhorabuena
-1144. no te
-1145. revés
-1146. espabilar
-1147. cita
-1148. flojito
-1149. halagos
