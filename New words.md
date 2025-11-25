@@ -1152,3 +1152,4 @@
 1146. espabilar
 1147. cita
 1148. flojito
+1149. halagos
