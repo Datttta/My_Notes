@@ -1128,3 +1128,4 @@
 1122. torpe
 1123. agrede
 1124. liadas
+1125. denarios
