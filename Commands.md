@@ -35,6 +35,9 @@
 
     - tar -xzvf file.tar.gz *-C* /target/directory (use -C to target directories)
 
+- Compressing files:
+    - .zip: zip -r <folder-name> <zip-name>
+
  
 - Giving permission to other users to read and access a foler or files:
     - *chmod -R o+rx* | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
