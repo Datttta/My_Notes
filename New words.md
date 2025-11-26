@@ -1123,3 +1123,4 @@
 1117. cálido
 1118. shame,la pena
 1119. amenaza
+1120. párpado
