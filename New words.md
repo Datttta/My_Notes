@@ -1124,3 +1124,4 @@
 1118. shame,la pena
 1119. amenaza
 1120. párpado
+1121. alabanzas
