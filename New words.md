@@ -1144,3 +1144,4 @@
 1135. pestaña
 1136. punheteira
 1137. escupir
+1138. matón
