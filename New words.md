@@ -1125,4 +1125,4 @@
 1119. amenaza
 1120. párpado
 1121. alabanzas
-1122. celos
+1123. ]recelo
