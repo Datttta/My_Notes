@@ -1126,3 +1126,4 @@
 1120. párpado
 1121. alabanzas
 1122. torpe
+1123. agrede
