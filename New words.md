@@ -1139,3 +1139,5 @@
 1130. rato
 1131. aléjate
 1132. chotas
+1133. boludos
+1134. falopa
