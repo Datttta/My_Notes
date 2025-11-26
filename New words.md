@@ -1138,3 +1138,4 @@
 1129. elogios
 1130. rato
 1131. aléjate
+1132. chotas
