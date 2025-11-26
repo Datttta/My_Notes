@@ -33,7 +33,7 @@
 
     - Creating backups:
         - cd ~/Games/Mcservers/ 
-        - zip -r world world or cp -r world world_backup
+        - zip -r <folder-name> <zip-name> or cp -r world world_backup
 
 - anki background images folder:
     - /home/DROS/.local/share/Anki2/addons21/1210908941/user_files/background/
