@@ -1122,3 +1122,4 @@
 1116. hermanastro
 1117. cálido
 1118. shame,la pena
+1119. amenaza
