@@ -1122,23 +1122,3 @@
 1116. hermanastro
 1117. cálido
 1118. shame,la pena
-1119. shrimp,la gamba
-1120. freír
-1121. to try,tratar de
-1122. culpable
-1123. sudar
-1124. toser
-1125. celoso
-1126. planchar
-1127. escáner
-1128. chorizo
-1129. elogios
-1130. rato
-1131. aléjate
-1132. chotas
-1133. boludos
-1134. falopa
-1135. pestaña
-1136. punheteira
-1137. escupir
-1138. matón
