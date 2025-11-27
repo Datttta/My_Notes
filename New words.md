@@ -1110,3 +1110,4 @@
 1104. to make up,componer
 1105. soler
 1106. terapia
+1107. pliegues
