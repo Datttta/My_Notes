@@ -1114,3 +1114,4 @@
 1108. templado
 1109. jactancioso
 1110. servilleta
+1111. apesta
