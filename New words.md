@@ -1110,23 +1110,3 @@
 1104. to make up,componer
 1105. soler
 1106. terapia
-1107. asar
-1108. pasarlo mal
-1109. patrimonio
-1110. estar a dieta
-1111. pariente
-1112. talla
-1113. recetar
-1114. gasolinera
-1115. carne de res
-1116. hermanastro
-1117. cálido
-1118. shame,la pena
-1119. amenaza
-1120. párpado
-1121. alabanzas
-1122. torpe
-1123. agrede
-1124. liadas
-1125. denarios
-1126. resopla
