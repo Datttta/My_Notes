@@ -1103,3 +1103,4 @@
 1097. aparcamiento
 1098. chasquido
 1099. turbado
+1100. desprender
