@@ -1119,3 +1119,4 @@
 1108. plantear
 1109. tantear
 1110. vikingo
+1111. judía
