@@ -1,6 +1,6 @@
 === Todo ===
 - [ ] Example
-- [ ] hyprland in terminal error
+- [ ] How to menage your storage
 
 = Today =
 - [ ] Anki & memHack 11:15 - 12:15
