@@ -1122,3 +1122,4 @@
 1109. tantear
 1110. vikingo
 1111. judía
+1112. pellizco
