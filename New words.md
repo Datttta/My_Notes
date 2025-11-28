@@ -1118,3 +1118,4 @@
 1107. baca
 1108. plantear
 1109. tantear
+1110. vikingo
