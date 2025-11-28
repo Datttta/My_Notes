@@ -1,6 +1,8 @@
 === Todo ===
 - [ ] Example
 - [ ] How to menage your storage
+- [ ] delte linux-firmware-nvidia
+- [ ] see what is linux-firmware-athros
 
 = Today =
 - [ ] Anki & memHack 11:15 - 12:15
