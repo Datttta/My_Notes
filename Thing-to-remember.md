@@ -7,25 +7,25 @@
     - Specific word: re:\b<word>\b
 
 - Exctrating files:
-    - .tar: *tar -xvf* file.tar
+    - *.tar*: tar -xvf file.tar
 
-    - .tar.gz or .tgz: *tar -xzvf* file.tar.gz
+    - *.tar.gz or .tgz*: tar -xzvf file.tar.gz
 
-    - .tar.bz2: *tar -xjvf* file.tar.bz2
+    - *.tar.bz2*: tar -xjvf file.tar.bz2
 
-    - .tar.xz: *tar -xJvf* file.tar.xz
+    - *.tar.xz*: tar -xJvf file.tar.xz
 
-    - .zip: *unzip* file.zip
+    - *.zip*: unzip file.zip
 
-    - .rar: *unrar x* file.rar
+    - *.rar*: unrar x file.rar
 
-    - .7z: *7z x* file.7z
+    - *.7z*: 7z x file.7z
     
-    - .gz (single): *gunzip* file.gz
+    - *.gz* (single): gunzip file.gz
     
-    - .bz2 (single): *bunzip2* file.bz2
+    - *.bz2* (single): bunzip2 file.bz2
 
-    - .xz (single): *unxz* file.xzvf
+    - *.xz* (single): unxz file.xzvf
 
     - tar -xzvf file.tar.gz *-C* /target/directory (use -C to target directories)
 
