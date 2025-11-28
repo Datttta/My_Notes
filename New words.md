@@ -1123,3 +1123,4 @@
 1110. vikingo
 1111. judía
 1112. pellizco
+1113. pelusa
