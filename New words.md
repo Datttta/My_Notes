@@ -1116,3 +1116,5 @@
 1105. vano
 1106. alarde
 1107. baca
+1108. plantear
+1109. tantear
