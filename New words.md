@@ -4,6 +4,7 @@
 2. massarated
 3. conveyor
 4. oxymoron
+5. conceptualize
 
 ==*Nuevas Palabras* ===
 
