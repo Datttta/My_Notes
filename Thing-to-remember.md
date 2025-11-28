@@ -167,4 +167,3 @@
 
 - Storage:
     - check storage usage per folder: du -sh *
-
