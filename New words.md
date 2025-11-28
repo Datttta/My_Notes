@@ -1,11 +1,12 @@
 === New words ===
 
 1. outwit
-2. massarated
-3. conveyor
-4. oxymoron
-5. conceptualize
-6. entitlement
+2. short notice
+3. massarated
+4. conveyor
+5. oxymoron
+6. conceptualize
+7. entitlement
 
 ==*Nuevas Palabras* ===
 
