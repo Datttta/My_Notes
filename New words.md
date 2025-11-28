@@ -1110,3 +1110,8 @@
 1099. turbado
 1100. desprender
 1101. Despedir
+1102. pedante
+1103. Engreída
+1104. inoportuno
+1105. vano
+1106. alarde
