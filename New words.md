@@ -3,6 +3,7 @@
 1. outwit
 2. massarated
 3. conveyor
+4. oxymoron
 
 ==*Nuevas Palabras* ===
 
