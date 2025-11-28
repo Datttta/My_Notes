@@ -167,3 +167,6 @@
 
 - Storage:
     - check storage usage per folder: du -sh *
+
+- Thunar:
+    - open thuner in the current directory: thuner .
