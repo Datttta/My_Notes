@@ -2,11 +2,12 @@
 
 1. outwit
 2. short notice
-3. massarated
-4. conveyor
-5. oxymoron
-6. conceptualize
-7. entitlement
+3. catared
+4. massarated
+5. conveyor
+6. oxymoron
+7. conceptualize
+8. entitlement
 
 ==*Nuevas Palabras* ===
 
