@@ -1115,3 +1115,4 @@
 1104. inoportuno
 1105. vano
 1106. alarde
+1107. baca
