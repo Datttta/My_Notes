@@ -1,6 +1,7 @@
 === New words ===
 
 1. outwit
+2. massarated
 
 ==*Nuevas Palabras* ===
 
