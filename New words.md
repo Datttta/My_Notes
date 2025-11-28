@@ -1101,22 +1101,3 @@
 1095. peluquería
 1096. ciencia ficción
 1097. aparcamiento
-1098. enfado
-1099. apasionado
-1100. estupendo
-1101. ceja
-1102. aburrirse
-1103. buzón
-1104. to make up,componer
-1105. soler
-1106. terapia
-1107. Doblez
-1108. templado
-1109. jactancioso
-1110. servilleta
-1111. apesta
-1112. alterado
-1113. perturbado
-1114. burlar - mock
-1115. Chasquear
-1116. tendedero
