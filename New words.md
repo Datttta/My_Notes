@@ -1115,3 +1115,4 @@
 1109. jactancioso
 1110. servilleta
 1111. apesta
+1112. alterado
