@@ -1117,3 +1117,4 @@
 1111. apesta
 1112. alterado
 1113. perturbado
+1114. burlar
