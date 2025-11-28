@@ -1119,3 +1119,4 @@
 1113. perturbado
 1114. burlar - mock
 1115. Chasquear
+1116. tendedero
