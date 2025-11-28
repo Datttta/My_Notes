@@ -1118,3 +1118,4 @@
 1112. alterado
 1113. perturbado
 1114. burlar
+1115. Chasquear
