@@ -1101,3 +1101,4 @@
 1095. peluquería
 1096. ciencia ficción
 1097. aparcamiento
+1098. chasquido
