@@ -5,6 +5,7 @@
 3. conveyor
 4. oxymoron
 5. conceptualize
+6. entitlement
 
 ==*Nuevas Palabras* ===
 
