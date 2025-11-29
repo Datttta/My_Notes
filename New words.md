@@ -1,14 +1,15 @@
 === New words ===
 
 1. outwit
-2. goad
-3. short notice
-4. catared
-5. massarated
-6. conveyor
-7. oxymoron
-8. conceptualize
-9. entitlement
+2. overshadowed
+3. goad
+4. short notice
+5. catared
+6. massarated
+7. conveyor
+8. oxymoron
+9. conceptualize
+10. entitlement
 
 ==*Nuevas Palabras* ===
 
