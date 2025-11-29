@@ -1,5 +1,6 @@
 === Todo ===
 - [ ] Example
+- [ ] change waybar style
 
 = Today =
 - [ ] Anki & memHack 11:15 - 12:15
