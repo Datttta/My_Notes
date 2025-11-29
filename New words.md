@@ -1100,3 +1100,4 @@
 1094. envase
 1095. pelillo
 1097. probar
+1098. echar
