@@ -2,15 +2,6 @@
 
 1. outwit
 2. overshadowed
-3. to talk the hind legs off a donkey
-4. goad
-5. short notice
-6. catared
-7. massarated
-8. conveyor
-9. oxymoron
-10. conceptualize
-11. entitlement
 
 ==*Nuevas Palabras* ===
 
