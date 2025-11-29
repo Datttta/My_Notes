@@ -1,7 +1,6 @@
 === New words ===
 
 1. outwit
-2. overshadowed
 
 ==*Nuevas Palabras* ===
 
