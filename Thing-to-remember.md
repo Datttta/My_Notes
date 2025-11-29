@@ -36,7 +36,7 @@
     - Select everything betwwen space: *viW*
     - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
     - Move cursor to the end of the line: *$*
-    - "Clear" line: cc
+    - "Clear" line: *cc*
 
 - Nvim:
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
