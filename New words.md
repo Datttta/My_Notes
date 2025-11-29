@@ -1098,3 +1098,4 @@
 1092. pesadilla
 1093. enojarse
 1094. envase
+1095. pelillo
