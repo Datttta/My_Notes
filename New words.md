@@ -1100,3 +1100,4 @@
 1094. envase
 1095. pelillo
 1096. confundido
+1097. rama
