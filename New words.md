@@ -1127,3 +1127,4 @@
 1111. judía
 1112. pellizco
 1113. pelusa
+1114. hablar hasta por los codos
