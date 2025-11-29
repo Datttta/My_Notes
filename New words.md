@@ -1098,23 +1098,3 @@
 1092. pesadilla
 1093. enojarse
 1094. envase
-1095. peluquería
-1096. ciencia ficción
-1097. aparcamiento
-1098. chasquido
-1099. turbado
-1100. desprender
-1101. Despedir
-1102. pedante
-1103. Engreída
-1104. inoportuno
-1105. vano
-1106. alarde
-1107. baca
-1108. plantear
-1109. tantear
-1110. vikingo
-1111. judía
-1112. pellizco
-1113. pelusa
-1114. hablar hasta por los codos
