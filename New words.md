@@ -1,11 +1,12 @@
 === New words ===
 
 1. outwit
-2. flare up
-3. brodigy
-4. Just never mind what I said earlier
-5. unfortunate
-6. Overt
+2. checked out
+3. flare up
+4. brodigy
+5. Just never mind what I said earlier
+6. unfortunate
+7. Overt
 
 ==*Nuevas Palabras* ===
 
