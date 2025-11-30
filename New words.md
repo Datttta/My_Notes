@@ -1,12 +1,6 @@
 === New words ===
 
-1. outwit
-2. checked out
-3. flare up
-4. brodigy
-5. Just never mind what I said earlier
-6. unfortunate
-7. Overt
+1. 
 
 ==*Nuevas Palabras* ===
 
