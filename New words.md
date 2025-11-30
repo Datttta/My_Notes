@@ -2,6 +2,7 @@
 
 1. bothersome
 2. pep
+3. unstuck
 
 ==*Nuevas Palabras* ===
 
