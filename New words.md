@@ -3,6 +3,7 @@
 1. bothersome
 2. pep
 3. unstuck
+4. comedic
 
 ==*Nuevas Palabras* ===
 
