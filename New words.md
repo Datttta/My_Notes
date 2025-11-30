@@ -1,6 +1,7 @@
 === New words ===
 
 1. outwit
+2. flare up
 
 ==*Nuevas Palabras* ===
 
