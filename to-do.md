@@ -3,10 +3,9 @@
 - [ ] change waybar style
 
 = Today =
-- [ ] Anki & memHack 11:15 - 12:15
-- [ ] Loundry 12:15 - 12:30
-- [ ] have lnch 12:30 - 13:30
+- [ ] Have lunch 12:40 - 13:40
 - [ ] brush
+- [ ] Languages (shadowing) 13:45 - 14:45
 - [ ] Have dinner 19:00 - 20:00
 - [ ] brush
 
