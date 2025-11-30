@@ -1,6 +1,7 @@
 === New words ===
 
 1. bothersome
+2. pep
 
 ==*Nuevas Palabras* ===
 
@@ -1087,4 +1088,3 @@
 1081. jubilación
 1082. Arillo
 1083. pendiente
-1084. escoba
