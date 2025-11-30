@@ -1086,3 +1086,4 @@
 1080. vacante
 1081. jubilación
 1082. Arillo
+1083. pendiente
