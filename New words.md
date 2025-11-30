@@ -1102,3 +1102,4 @@
 1097. probar
 1098. echar
 1099. capitania
+1100. erudición
