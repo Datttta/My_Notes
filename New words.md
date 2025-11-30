@@ -3,6 +3,7 @@
 1. outwit
 2. flare up
 3. brodigy
+4. Just never mind what I said earlier
 
 ==*Nuevas Palabras* ===
 
