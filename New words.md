@@ -4,6 +4,7 @@
 2. flare up
 3. brodigy
 4. Just never mind what I said earlier
+5. unfortunate
 
 ==*Nuevas Palabras* ===
 
