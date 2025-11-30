@@ -1083,23 +1083,3 @@
 1077. sembrar
 1078. chuleta
 1079. consejero
-1080. escenario
-1081. barrer
-1082. novedoso
-1083. agrio
-1084. link,el enlace
-1085. el impermeable
-1086. el arete
-1087. servilleta
-1088. apodo
-1089. carnicería
-1090. camioneta
-1091. exposición
-1092. pesadilla
-1093. enojarse
-1094. envase
-1095. pelillo
-1097. probar
-1098. echar
-1099. capitania
-1100. erudición
