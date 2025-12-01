@@ -1067,23 +1067,3 @@
 1061. cangrejo
 1062. adelgazar
 1063. perjudicar
-1064. estornudar
-1065. amenaza
-1066. sabiduría
-1067. travieso
-1068. to get engaged,comprometerse
-1069. hígado
-1070. court,la cancha
-1071. la almohada
-1072. vanidoso
-1073. el mostrador
-1074. cadera
-1075. hervir
-1076. sudadera
-1077. sembrar
-1078. chuleta
-1079. consejero
-1080. vacante
-1081. jubilación
-1082. Arillo
-1083. pendiente
