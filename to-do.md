@@ -3,7 +3,8 @@
 - [ ] change waybar style
 
 = Today =
-
+- [ ] Brush
+- [ ] shadowing
 
 = Tasks = 
 - Loundry
