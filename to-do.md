@@ -3,7 +3,7 @@
 - [ ] change waybar style
 
 = Today =
-- [ ] Brush
+- [X] Brush
 - [ ] shadowing
 
 = Tasks = 
