@@ -4,6 +4,7 @@
 2. wipe down
 3. worst come the worst
 4. plaster
+5. minor - minor changes
 
 ==*Nuevas Palabras* ===
 
