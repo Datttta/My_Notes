@@ -1018,52 +1018,53 @@
 1012. yema
 1013. el párpado
 1014. freckle,la peca
-1015. nudillo
-1016. flequillo
-1017. coleta
-1018. patilla
-1019. bigote
-1020. sujetapapeles
-1021. grapadora
-1022. el/la portátil
-1023. envelope,el sobre
-1024. duodécimo
-1025. undécimo
-1026. agreste
-1027. arroyo
-1028. encrespado
-1029. ribera
-1030. la cala
-1031. bajamar
-1032. pleamar
-1033. autóctono
-1034. pétalo
-1035. hiedra
-1036. corteza
-1037. enredadera
-1038. tañer
-1039. puntear
-1040. tambor
-1041. estribillo
-1042. ejecutar
-1043. molido
-1044. hacienda
-1045. haber
-1046. adinerado
-1047. indigente
-1048. dough,la plata
-1049. impuso
-1050. pese a
-1051. acertijo
-1052. amorcito corazón
-1053. la muñeca
-1054. mijo
-1055. el amorcito
-1056. el ligue
-1057. darling,el encanto
-1058. chino
-1059. fluent,suelto
-1060. sign language,la lengua de signos
-1061. cangrejo
-1062. adelgazar
+1015. enfermo
+1016. nudillo
+1017. flequillo
+1018. coleta
+1019. patilla
+1020. bigote
+1021. sujetapapeles
+1022. grapadora
+1023. el/la portátil
+1024. envelope,el sobre
+1025. duodécimo
+1026. undécimo
+1027. agreste
+1028. arroyo
+1029. encrespado
+1030. ribera
+1031. la cala
+1032. bajamar
+1033. pleamar
+1034. autóctono
+1035. pétalo
+1036. hiedra
+1037. corteza
+1038. enredadera
+1039. tañer
+1040. puntear
+1041. tambor
+1042. estribillo
+1043. ejecutar
+1044. molido
+1045. hacienda
+1046. haber
+1047. adinerado
+1048. indigente
+1049. dough,la plata
+1050. impuso
+1051. pese a
+1052. acertijo
+1053. amorcito corazón
+1054. la muñeca
+1055. mijo
+1056. el amorcito
+1057. el ligue
+1058. darling,el encanto
+1059. chino
+1060. fluent,suelto
+1061. sign language,la lengua de signos
+1062. cangrejo
 1063. 
+1064. 
