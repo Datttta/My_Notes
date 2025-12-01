@@ -1066,4 +1066,4 @@
 1060. sign language,la lengua de signos
 1061. cangrejo
 1062. adelgazar
-1063. perjudicar
+1063. 
