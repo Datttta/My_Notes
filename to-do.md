@@ -1,6 +1,7 @@
 === Todo ===
 - [ ] Example
 - [ ] change waybar style
+- [ ] start using fastfetch
 
 = Today =
 - [X] Brush
