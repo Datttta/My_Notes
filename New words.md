@@ -1,6 +1,7 @@
 === New words ===
 
 1. speed off
+2. wipe down
 
 ==*Nuevas Palabras* ===
 
