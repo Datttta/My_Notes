@@ -3,6 +3,7 @@
 1. speed off
 2. wipe down
 3. worst come the worst
+4. plaster
 
 ==*Nuevas Palabras* ===
 
