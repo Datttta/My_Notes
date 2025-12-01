@@ -4,8 +4,6 @@
 - [ ] start using fastfetch
 
 = Today =
-- [X] Brush
-- [ ] shadowing
 
 = Tasks = 
 - Loundry
