@@ -1065,6 +1065,3 @@
 1059. chino
 1060. fluent,suelto
 1061. sign language,la lengua de signos
-1062. cangrejo
-1063. 
-1064. 
