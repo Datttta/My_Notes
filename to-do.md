@@ -1,6 +1,7 @@
 === Todo ===
 - [ ] Example
-- [ ] change waybar style
+- [X] change waybar style
+- [ ] add pc temperature to waybar
 - [ ] start using fastfetch
 
 = Today =
