@@ -1,10 +1,11 @@
 === New words ===
 
 1. speed off
-2. wipe down
-3. worst come the worst
-4. plaster
-5. minor - minor changes
+2. adaptive
+3. wipe down
+4. worst come the worst
+5. plaster
+6. minor - minor changes
 
 ==*Nuevas Palabras* ===
 
