@@ -7,9 +7,9 @@
 
 = Today =
 - [ ] _
-- [ ] Have lunch 18:00 - 19:00
+- [ ] Have lunch 17:00 - 18:00
 - [ ] brush
-- [ ] Langauges with shadowing (19:05 - 20:20)
+- [ ] Langauges with shadowing (18:05 - 19:20)
 
 = Tasks = 
 - Loundry
