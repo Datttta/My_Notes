@@ -5,6 +5,7 @@
 - [ ] add pc temperature to waybar
 - [ ] start using fastfetch
 - [ ] change workspace style in waybar
+- [ ] download a calendar and start when you click on the waybar calendar
 
 = Today =
 - [ ] _
