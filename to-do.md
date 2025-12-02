@@ -6,6 +6,10 @@
 - [ ] change workspace style in waybar
 
 = Today =
+- [ ] _
+- [ ] Have lunch 18:00 - 19:00
+- [ ] brush
+- [ ] Langauges with shadowing (19:05 - 20:20)
 
 = Tasks = 
 - Loundry
