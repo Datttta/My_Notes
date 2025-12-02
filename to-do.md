@@ -1,13 +1,14 @@
 === Todo ===
 - [ ] Example
 - [X] change waybar style
+- [ ] Change the distance between the modules from the edge of the screen 
 - [ ] add pc temperature to waybar
 - [ ] start using fastfetch
 - [ ] change workspace style in waybar
 
 = Today =
 - [ ] _
-- [ ] Have lunch 17:00 - 18:00
+- [X] Have lunch 17:00 - 18:00
 - [ ] brush
 - [ ] Langauges with shadowing (18:05 - 19:20)
 
