@@ -1042,3 +1042,4 @@
 1036. hiedra
 1037. corteza
 1038. sortija
+1039. pegadizo
