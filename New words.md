@@ -1,6 +1,6 @@
 === New words ===
 
-1. idiomatic
+1. 
 
 ==*Nuevas Palabras* ===
 
@@ -1045,3 +1045,4 @@
 1040. tema - al longo del tema
 1041. campanas - intrumento
 1042. tañer
+1043. demás
