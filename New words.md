@@ -1043,3 +1043,5 @@
 1037. corteza
 1038. sortija
 1039. pegadizo
+1040. tema - al longo del tema
+1041. campanas - intrumento
