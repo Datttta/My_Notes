@@ -1046,23 +1046,3 @@
 1040. puntear
 1041. tambor
 1042. estribillo
-1043. ejecutar
-1044. molido
-1045. hacienda
-1046. haber
-1047. adinerado
-1048. indigente
-1049. dough,la plata
-1050. impuso
-1051. pese a
-1052. acertijo
-1053. amorcito corazón
-1054. la muñeca
-1055. mijo
-1056. el amorcito
-1057. el ligue
-1058. darling,el encanto
-1059. chino
-1060. fluent,suelto
-1061. sign language,la lengua de signos
-1062. alentador
