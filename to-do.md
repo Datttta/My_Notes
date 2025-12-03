@@ -9,9 +9,6 @@
 
 = Today =
 - [ ] _
-- [X] Have lunch 17:00 - 18:00
-- [ ] brush
-- [ ] Langauges with shadowing (18:05 - 19:20)
 
 = Tasks = 
 - Loundry
