@@ -1045,3 +1045,4 @@
 1039. pegadizo
 1040. tema - al longo del tema
 1041. campanas - intrumento
+1042. tañer
