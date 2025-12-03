@@ -1027,23 +1027,3 @@
 1021. sujetapapeles
 1022. grapadora
 1023. el/la portátil
-1024. envelope,el sobre
-1025. duodécimo
-1026. undécimo
-1027. agreste
-1028. arroyo
-1029. encrespado
-1030. ribera
-1031. la cala
-1032. bajamar
-1033. pleamar
-1034. autóctono
-1035. pétalo
-1036. hiedra
-1037. corteza
-1038. sortija
-1040. tema - al longo del tema
-1041. campanas - intrumento
-1042. tañer
-1043. demás
-1044. envanezca
