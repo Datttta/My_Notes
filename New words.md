@@ -1046,3 +1046,4 @@
 1040. puntear
 1041. tambor
 1042. estribillo
+1043. rizado
