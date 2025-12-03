@@ -1027,3 +1027,4 @@
 1021. sujetapapeles
 1022. grapadora
 1023. el/la portátil
+1024. ensenada
