@@ -1041,9 +1041,4 @@
 1035. pétalo
 1036. hiedra
 1037. corteza
-1038. enredadera
-1039. tañer
-1040. puntear
-1041. tambor
-1042. estribillo
-1043. rizado
+1038. sortija
