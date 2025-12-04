@@ -6,6 +6,7 @@
 4. snore-fest
 5. nodding off
 6. webinar
+7. catnap
 
 === *Nuevas Palabras* ===
 
