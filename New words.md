@@ -1015,3 +1015,4 @@
 1009. abuchear
 1010. mando
 1011. acordar
+1012. tragar
