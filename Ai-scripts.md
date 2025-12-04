@@ -9,6 +9,6 @@
 - Create a document that can export cards wiht the back part being translation directly to anki:
     - Create anki cards with the words I'm going to send, the front part must be a phrase in Spanish and the back will be the translation in English. - You must underline and bold the spanish word in the pharse, on the back you must bold the translation of that word e.g. front: <u><b>Lo siento</b></u>, no pude llegar a tiempo por el tráfico; back: <b>Sorry</b>, I couldn't get there on time because of traffic Output Format, - Do not have the first row being "Front" and "Back". - You should include each flashcard on a new line and use the pipe separator | to separate the front and back. Create sentence with good verbal tense variation,and put everything in a code block.
 
-- Create a list of card I can send directly to anki:
+- Create a list of card with the back part being the meaning from the dicitonary I can send directly to anki:
     - Create anki cards with the words I'm going to send, the front part must be a phrase in Spanish and the back will be the meaning of that word or expression found in the dicitonary. You must underline and bold the spanish word in the phrase, e.g. front: <u><b>Lo siento</b></u>, no pude llegar a tiempo por el tráfico. back: "Lamentar, tener por doloroso y malo algo. You should include each flashcard on a new line and use the pipe separator | to separate the front and back. - Put everything in a code block.
 
