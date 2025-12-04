@@ -1,6 +1,7 @@
 === New words ===
 
 1. as of
+2. mishap
 
 === *Nuevas Palabras* ===
 
