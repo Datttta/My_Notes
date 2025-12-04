@@ -1010,3 +1010,4 @@
 1004. dedo índice
 1005. meñique
 1006. ombligo
+1007. anclara
