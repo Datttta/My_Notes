@@ -3,6 +3,7 @@
 1. as of
 2. mishap
 3. shut-eye
+4. snore-fest
 
 === *Nuevas Palabras* ===
 
