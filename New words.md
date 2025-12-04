@@ -1010,23 +1010,3 @@
 1004. dedo índice
 1005. meñique
 1006. ombligo
-1007. pezón
-1008. espinilla
-1009. hígado
-1010. temple,la sien
-1011. encía
-1012. yema
-1013. el párpado
-1014. freckle,la peca
-1015. enfermo
-1016. nudillo
-1017. flequillo
-1018. coleta
-1019. patilla
-1020. bigote
-1021. sujetapapeles
-1022. grapadora
-1023. el/la portátil
-1024. ensenada
-1025. mango
-1026. oficina
