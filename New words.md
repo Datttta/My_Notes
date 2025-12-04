@@ -1022,3 +1022,4 @@
 1010. mando
 1011. acordar
 1012. tragar
+1013. merca
