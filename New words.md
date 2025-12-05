@@ -997,23 +997,3 @@
 991. ente
 992. amigazo
 993. nalgas
-994. codo
-995. uña
-996. hueso
-997. ceja
-998. costilla
-999. seno
-1000. pantorrilla
-1001. pulgar
-1002. lomo
-1003. poto
-1004. dedo índice
-1005. meñique
-1006. ombligo
-1007. anclara
-1008. folios
-1009. abuchear
-1010. mando
-1011. acordar
-1012. tragar
-1013. merca
