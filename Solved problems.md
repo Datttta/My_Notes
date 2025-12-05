@@ -9,7 +9,7 @@
     - sha256sum <name-of-installer>
     - yay -S <name-of-package> --mflags "--skipchecksums"
 
-- Sddm screen tear glitch:
+- Sddm screen tearing glitch:
     - nvims /etc/default/grub
     - Remove radeon.si_support=0 from "GRUB_CMDLINE_LINUX_DEFAULT=" line. 
  
