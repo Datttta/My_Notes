@@ -1000,3 +1000,4 @@
 994. cargado
 995. retenida
 996. perecedera
+997. desagrado
