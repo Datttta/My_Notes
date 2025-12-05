@@ -997,3 +997,4 @@
 991. ente
 992. amigazo
 993. nalgas
+994. mercancía
