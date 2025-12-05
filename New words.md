@@ -999,6 +999,3 @@
 993. nalgas
 994. cargado
 995. retenida
-996. perecedera
-997. desagrado
-998. Doblé
