@@ -1,13 +1,14 @@
 === New words ===
 
 1. as of
-2. off putting
-3. mishap
-4. shut-eye
-5. snore-fest
-6. nodding off
-7. webinar
-8. catnap
+2. water park
+3. off putting
+4. mishap
+5. shut-eye
+6. snore-fest
+7. nodding off
+8. webinar
+9. catnap
 
 === *Nuevas Palabras* ===
 
