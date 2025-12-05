@@ -998,3 +998,4 @@
 992. amigazo
 993. nalgas
 994. cargado
+995. retenida
