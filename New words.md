@@ -1,15 +1,6 @@
 === New words ===
 
-1. as of
-2. water park
-3. bother
-4. off putting
-5. mishap
-6. shut-eye
-7. snore-fest
-8. nodding off
-9. webinar
-10. catnap
+1. 
 
 === *Nuevas Palabras* ===
 
