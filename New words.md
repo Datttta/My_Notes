@@ -2,13 +2,14 @@
 
 1. as of
 2. water park
-3. off putting
-4. mishap
-5. shut-eye
-6. snore-fest
-7. nodding off
-8. webinar
-9. catnap
+3. bother
+4. off putting
+5. mishap
+6. shut-eye
+7. snore-fest
+8. nodding off
+9. webinar
+10. catnap
 
 === *Nuevas Palabras* ===
 
