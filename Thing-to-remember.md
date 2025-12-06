@@ -81,6 +81,7 @@
 - Flatpak:
     - show flatpak apps: flatpak list
     - unistall: flatpak uninstall <app-name>
+    - flatpak .desktop folder: /var/lib/flatpak/exports/share/applications/
 
 - Hibernation on terminal:
     - Hibernate for a specific time: sudo rtcwake -m disk -t $(date -d "2 minutes" +%s)
