@@ -983,3 +983,4 @@
 977. babero
 978. cochecito
 979. enfoque
+980. extraño - awkward
