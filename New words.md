@@ -982,23 +982,3 @@
 976. mameluco
 977. babero
 978. cochecito
-979. darse el gusto
-980. muchacho
-981. raza
-982. tercera edad
-983. belleza
-984. sense,el juicio
-985. upbringing,la crianza
-986. quídam
-987. encogido
-988. abuchedores
-989. irrespetuosos
-990. canijo’
-991. ente
-992. amigazo
-993. nalgas
-994. cargado
-995. retenida
-996. extraño - awkward
-997. lateral - pensamento lateral
-998. lucía
