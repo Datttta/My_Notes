@@ -1000,3 +1000,5 @@
 994. cargado
 995. retenida
 996. extraño - awkward
+997. lateral - pensamento lateral
+998. lucía
