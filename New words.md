@@ -965,23 +965,3 @@
 959. condado
 960. fuente
 961. office,el despacho
-962. study,el despacho
-963. glorieta
-964. tip,el extremo
-965. dump,el vertedero
-966. fence,la valla
-967. reapertura
-968. cercanías
-969. las afueras
-970. rasuradora
-971. dentífrico
-972. nail file,la lima
-973. pañal
-974. wrap,el rebozo
-975. sonaja
-976. mameluco
-977. babero
-978. Carricoche
-979. monos
-980. zorra
-981. frotando
