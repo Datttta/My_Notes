@@ -961,8 +961,3 @@
 955. pradera
 956. en ninguna parte
 957. el puerto deportivo
-958. block,la manzana
-959. condado
-960. fuente
-961. office,el despacho
-962. Limó
