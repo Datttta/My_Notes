@@ -30,7 +30,7 @@
     - tar -xzvf file.tar.gz *-C* /target/directory (use -C to target directories)
 
 - Compressing files:
-    - .zip: zip -r <folder-name> <zip-name>
+    - .zip: zip -r <zip-name>.zip <folder-to-zip>
 
 - Vim:
     - Select everything betwwen space: *viW*
