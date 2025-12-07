@@ -958,6 +958,3 @@
 952. frutería
 953. ferretería
 954. jardín trasero
-955. pradera
-956. en ninguna parte
-957. el puerto deportivo
