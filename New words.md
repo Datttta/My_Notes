@@ -1,6 +1,6 @@
 === New words ===
 
-1. nay - sound horse
+1.  
 
 === *Nuevas Palabras* ===
 
