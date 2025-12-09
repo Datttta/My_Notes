@@ -928,3 +928,4 @@
 922. orden
 923. incívicas
 924. refrán
+925. halla
