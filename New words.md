@@ -923,3 +923,4 @@
 917. El hábito no hace al monje
 918. tal astilla,de tal palo
 919. grandes remedios.,A grandes males
+920. detenidamente
