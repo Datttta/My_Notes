@@ -6,6 +6,7 @@
 - [ ] add flatpak to the waybar
 - [ ] start using fastfetch
 - [ ] change workspace style in waybar
+- [ ] open a menu showing updates available when you hover/clock on a icon in waybar
 - [X] download a calendar and start when you click on the waybar calendar
 
 = Today =
