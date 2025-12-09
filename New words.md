@@ -1,6 +1,6 @@
 === New words ===
 
-1. sway  
+1.   
 
 === *Nuevas Palabras* ===
 
