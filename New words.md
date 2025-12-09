@@ -924,3 +924,5 @@
 918. tal astilla,de tal palo
 919. grandes remedios.,A grandes males
 920. detenidamente
+921. entorpece
+922. orden
