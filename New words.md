@@ -926,3 +926,4 @@
 920. detenidamente
 921. entorpece
 922. orden
+923. incívicas
