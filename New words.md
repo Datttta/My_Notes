@@ -1,6 +1,7 @@
 === New words ===
 
 1. snotty
+2. unnacounted for
 
 === *Nuevas Palabras* ===
 
