@@ -939,23 +939,3 @@
 933. estallar
 934. reventar
 935. desgracia
-936. riña
-937. jealousy,los celos
-938. close to,cabe
-939. más allá de
-940. through,a través de
-941. except,excepto
-942. to run,concurrir
-943. alcaldesa
-944. devenir
-945. lealtad
-946. contact,la palanca
-947. connections,el enchufe
-948. sublevarse
-949. seat,el escaño
-950. overthrow,el derrocamiento
-951. carnicería
-952. frutería
-953. ferretería
-954. jardín trasero
-955. suponiblemente
