@@ -929,3 +929,4 @@
 923. incívicas
 924. refrán
 925. halla
+926. gamberradas
