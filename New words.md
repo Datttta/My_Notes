@@ -1,8 +1,6 @@
 === New words ===
 
-1. snotty
-2. unnacounted for
-3. screen / screeening
+1. 
 
 === *Nuevas Palabras* ===
 
