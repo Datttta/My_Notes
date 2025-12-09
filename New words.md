@@ -923,22 +923,3 @@
 917. El hábito no hace al monje
 918. tal astilla,de tal palo
 919. grandes remedios.,A grandes males
-920. A donde fueres haz lo que vieres
-921. más vale tarde que nunca
-922. to work out,descifrar
-923. fight,la bronca
-924. to hurt,hacer daño
-925. traicionar
-926. escisión
-927. amenaza
-928. asumir un reto
-929. gamberro
-930. pendenciero
-931. alborotador
-932. burden,el lastre
-933. estallar
-934. reventar
-935. desgracia
-936. impredecible
-937. Reflexionaron
-938. a lo largo
