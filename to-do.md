@@ -6,7 +6,7 @@
 - [ ] add flatpak to the waybar
 - [ ] start using fastfetch
 - [X] change workspace style in waybar
-- [ ] open a menu showing updates available when you hover/clock on a icon in waybar
+- [X] open a menu showing updates available when you hover/clock on a icon in waybar
 - [ ] add module to show if caps lock is activated or not
 - [X] download a calendar and start when you click on the waybar calendar
 
