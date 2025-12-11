@@ -7,7 +7,7 @@
 - [X] change workspace style in waybar
 - [X] open a menu showing updates available when you hover/clock on a icon in waybar
 - [X] download a calendar and start when you click on the waybar calendar
-- [ ] add module to show if caps lock is activated or not
+- [X] add module to show if caps lock is activated or not
 - [ ] start using fastfetch
 
 = Today =
