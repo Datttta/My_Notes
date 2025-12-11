@@ -1,6 +1,6 @@
 === New words ===
 
-1. imperpement
+1. imperppement
 
 === *Nuevas Palabras* ===
 
