@@ -1,7 +1,6 @@
 === New words ===
 
-1. littering
-2. bivvy
+1. 
 
 === *Nuevas Palabras* ===
 
@@ -899,23 +898,4 @@
 892. leyenda - legend
 893. borrador
 894. issue,el número
-895. print,la letra de imprenta
-896. tebeo
-897. ghostwriter,el negro
-898. speech bubble,el bocadillo
-899. hipérbole
-900. seudónimo
-901. fluency,la fluidez
-902. summary,el resumen
-903. de qué se trata
-904. cómo se dice
-905. a qué
-906. de qué está hecho
-907. qué lleva puesto
-908. enseñanza
-909. disposición
-910. astilla
-911. dicha
-912. fíes
-913. complacer
-914. impide
+895. escritorio
