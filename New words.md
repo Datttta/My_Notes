@@ -912,3 +912,4 @@
 906. de qué está hecho
 907. qué lleva puesto
 908. enseñanza
+909. disposición
