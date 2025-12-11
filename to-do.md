@@ -1,7 +1,5 @@
 === Todo ===
 - [ ] Example
-- [ ] add module to show if caps lock is activated or not
-- [ ] start using fastfetch
 - [X] change waybar style
 - [X] Change the distance between the modules from the edge of the screen 
 - [X] add pc temperature to waybar
@@ -9,6 +7,8 @@
 - [X] change workspace style in waybar
 - [X] open a menu showing updates available when you hover/clock on a icon in waybar
 - [X] download a calendar and start when you click on the waybar calendar
+- [ ] add module to show if caps lock is activated or not
+- [ ] start using fastfetch
 
 = Today =
 - [ ] _
