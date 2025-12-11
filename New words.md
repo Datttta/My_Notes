@@ -1,6 +1,7 @@
 === New words ===
 
 1. littering
+2. bivvy
 
 === *Nuevas Palabras* ===
 
