@@ -10,7 +10,7 @@
 - [X] add module to show if caps lock is activated or not
 - [ ] start using fastfetch
 - [ ] test matugen
-- [ ] solve sddm error
+- [ ] fix sddm
 
 = Today =
 - [ ] _
