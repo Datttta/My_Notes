@@ -1,6 +1,8 @@
 === New words ===
 
 1. imperppement
+2. accusavaly
+3. flood - noun
 
 === *Nuevas Palabras* ===
 
