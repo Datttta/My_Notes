@@ -899,4 +899,4 @@
 893. borrador
 894. issue,el número
 895. escritorio
-896. historieta
+896. viñetas
