@@ -911,23 +911,3 @@
 905. a qué
 906. de qué está hecho
 907. qué lleva puesto
-908. hacia dónde
-909. ¿Qué aspecto tienes?
-910. el montón
-911. a great deal of,la mar de
-912. pañuelo
-913. pecho,a lo hecho
-914. necias
-915. nunca es tarde si la dicha es buena
-916. Nunca llueve a gusto de todos
-917. El hábito no hace al monje
-918. tal astilla,de tal palo
-919. grandes remedios.,A grandes males
-920. detenidamente
-921. entorpece
-922. orden
-923. incívicas
-924. refrán
-925. halla
-926. gamberradas
-927. capuchon
