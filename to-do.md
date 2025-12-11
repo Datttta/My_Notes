@@ -9,6 +9,7 @@
 - [X] download a calendar and start when you click on the waybar calendar
 - [X] add module to show if caps lock is activated or not
 - [ ] start using fastfetch
+- [ ] test matugen
 
 = Today =
 - [ ] _
