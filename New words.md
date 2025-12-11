@@ -900,3 +900,4 @@
 894. issue,el número
 895. escritorio
 896. viñetas
+897. de - de niño
