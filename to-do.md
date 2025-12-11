@@ -1,7 +1,7 @@
 === Todo ===
 - [ ] Example
-- [ ] start using fastfetch
 - [ ] add module to show if caps lock is activated or not
+- [ ] start using fastfetch
 - [X] change waybar style
 - [X] Change the distance between the modules from the edge of the screen 
 - [X] add pc temperature to waybar
