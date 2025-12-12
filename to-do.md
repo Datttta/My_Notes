@@ -9,6 +9,7 @@
 - [X] download a calendar and start when you click on the waybar calendar
 - [X] add module to show if caps lock is activated or not
 - [X] start using fastfetch
+- [ ] Save your desktop screenshop on drive
 - [ ] listen to copacabana song
 - [ ] add fastfetch to dotfiles
 - [ ] add lsd to dotfiles
