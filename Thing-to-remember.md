@@ -162,7 +162,7 @@
     - asciiquarium (sea animation)
     - cava (bar spectrum audio visualizer)
     - tenki (clock with rain effect)
-    - pipe.sh -t <0-9> (pipes running on the screen)
+    - pipe.sh -t <0-9> (pipes running on the screen): https://github.com/pipeseroni/pipes.sh
 
 - Exec command firefox.desktop:
     - Exec=env MOZ_ENABLE_WAYLAND=1 MOZ_WEBRENDER=1 /usr/lib/firefox/firefox %u
