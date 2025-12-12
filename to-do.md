@@ -1,6 +1,7 @@
 === Todo ===
 - [ ] Example
 - [ ] Save your desktop screenshop on drive
+- [ ] how to change festfatch logo when you type fastfetch
 - [ ] change browser
 - [ ] listen to copacabana song
 - [ ] add fastfetch to dotfiles
