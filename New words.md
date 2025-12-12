@@ -884,4 +884,3 @@
 878. lanzamiento
 879. prendido
 880. cableado
-881. encendir
