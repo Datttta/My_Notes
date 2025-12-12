@@ -180,5 +180,6 @@
     - get the file type: -mime query filetype <PATH_TO_FILE>
     - then use: xdg-mime default <APPLICATION> <FILE_TYPE>
     - Exemple:
-        - xdg-mime query filetype /home/DROS/Videos/Video_bueno.avi
+        - xdg-mime query filetype ~/Videos/Video_bueno.avi
+        - the output will be: video/x-msvideo
         - xdg-mime default mpv.desktop video/x-msvideo
