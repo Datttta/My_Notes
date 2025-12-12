@@ -2,6 +2,7 @@
 
 1. egregious
 2. barebones
+3. breathtaking
 
 === *Nuevas Palabras* ===
 
