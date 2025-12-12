@@ -161,7 +161,7 @@
     - cmatrix -b (b is to make some caracters bold)
     - asciiquarium (sea animation)
     - cava (bar spectrum audio visualizer)
-    - tenki (clock with rain effect)
+    - tenki (clock with rain effect, you can use metoar effect with --mode metoar)
     - tty-clock -s -c (normal clock -s is for seconds and c is to center the clock)
     - pipe.sh -t <0-9> (pipes running on the screen): https://github.com/pipeseroni/pipes.sh
 
