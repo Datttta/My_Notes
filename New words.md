@@ -883,3 +883,4 @@
 877. tiempo suplementario
 878. lanzamiento
 879. rechace
+880. quepo
