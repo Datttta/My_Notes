@@ -11,6 +11,7 @@
 - [X] start using fastfetch
 - [ ] add fastfetch to dotfiles
 - [ ] add lsd to dotfiles
+- [ ] see how to create a script file to install all you fonts
 - [ ] test matugen
 - [ ] fix sddm
 
