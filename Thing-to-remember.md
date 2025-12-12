@@ -81,6 +81,7 @@
 - Flatpak:
     - show flatpak apps: flatpak list
     - unistall: flatpak uninstall <app-name>
+    - uninstall unused: flatpak uninstall --unused
     - flatpak .desktop folder: /var/lib/flatpak/exports/share/applications/
 
 - Hibernation on terminal:
