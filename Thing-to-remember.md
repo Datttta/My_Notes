@@ -175,3 +175,10 @@
 
 - Thunar:
     - open thuner in the current directory: thuner .
+
+- Choose default app, works for nnn:
+    - get the file type: -mime query filetype <PATH_TO_FILE>
+    - then use: xdg-mime default <APPLICATION> <FILE_TYPE>
+    - Exemple:
+        - xdg-mime query filetype /home/DROS/Videos/Video_bueno.avi
+        - xdg-mime default mpv.desktop video/x-msvideo
