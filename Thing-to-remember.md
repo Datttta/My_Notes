@@ -162,8 +162,8 @@
     - asciiquarium (sea animation)
     - cava (bar spectrum audio visualizer)
     - tenki (clock with rain effect)
-    - pipe.sh -t <0-9> (pipes running on the screen): https://github.com/pipeseroni/pipes.sh
     - tty-clock -s -c (normal clock -s is for seconds and c is to center the clock)
+    - pipe.sh -t <0-9> (pipes running on the screen): https://github.com/pipeseroni/pipes.sh
 
 - Exec command firefox.desktop:
     - Exec=env MOZ_ENABLE_WAYLAND=1 MOZ_WEBRENDER=1 /usr/lib/firefox/firefox %u
