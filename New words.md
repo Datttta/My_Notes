@@ -1,8 +1,6 @@
 === New words ===
 
-1. egregious
-2. barebones
-3. breathtaking
+1. 
 
 === *Nuevas Palabras* ===
 
@@ -903,3 +901,4 @@
 895. escritorio
 896. viñetas
 897. de - de niño
+898. toca
