@@ -8,7 +8,9 @@
 - [X] open a menu showing updates available when you hover/clock on a icon in waybar
 - [X] download a calendar and start when you click on the waybar calendar
 - [X] add module to show if caps lock is activated or not
-- [ ] start using fastfetch
+- [X] start using fastfetch
+- [ ] add fastfetch to dotfiles
+- [ ] add lsd to dotfiles
 - [ ] test matugen
 - [ ] fix sddm
 
