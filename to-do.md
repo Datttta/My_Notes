@@ -12,6 +12,7 @@
 - [ ] add fastfetch to dotfiles
 - [ ] add lsd to dotfiles
 - [ ] see how to create a script file to install all you fonts
+- [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] fix sddm
 
