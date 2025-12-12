@@ -882,8 +882,3 @@
 876. el chut
 877. tiempo suplementario
 878. lanzamiento
-879. rechace
-880. reciente
-881. prendido
-882. tormenta eléctrica
-883. guarida
