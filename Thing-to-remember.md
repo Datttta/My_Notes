@@ -183,3 +183,6 @@
         - xdg-mime query filetype ~/Videos/Video_bueno.avi
         - the output will be: video/x-msvideo
         - xdg-mime default mpv.desktop video/x-msvideo
+
+- Yazi:
+    - help: double press "~"
