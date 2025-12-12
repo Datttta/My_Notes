@@ -1,6 +1,7 @@
 === Todo ===
 - [ ] Example
 - [ ] Save your desktop screenshop on drive
+- [ ] change browser
 - [ ] listen to copacabana song
 - [ ] add fastfetch to dotfiles
 - [ ] add lsd to dotfiles
