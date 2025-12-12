@@ -883,23 +883,3 @@
 877. tiempo suplementario
 878. lanzamiento
 879. rechace
-880. autogol
-881. amonestación
-882. block,el tapón
-883. placar
-884. muelle
-885. tiñó
-886. madriguera
-887. produciendo
-888. encendido
-889. ahuyentar
-890. boletín informativo
-891. estrofa
-892. leyenda - legend
-893. borrador
-894. issue,el número
-895. escritorio
-896. viñetas
-897. de - de niño
-898. toca
-899. copla
