@@ -886,3 +886,4 @@
 880. reciente
 881. prendido
 882. tormenta eléctrica
+883. guarida
