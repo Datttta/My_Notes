@@ -1,6 +1,7 @@
 === New words ===
 
 1. egregious
+2. barebones
 
 === *Nuevas Palabras* ===
 
