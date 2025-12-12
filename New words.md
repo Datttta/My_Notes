@@ -882,3 +882,5 @@
 876. el chut
 877. tiempo suplementario
 878. lanzamiento
+879. prendido
+880. cableado
