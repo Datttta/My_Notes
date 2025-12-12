@@ -12,7 +12,9 @@
 - [ ] listen to copacabana song
 - [ ] add fastfetch to dotfiles
 - [ ] add lsd to dotfiles
+- [ ] add yazi to dotfiles
 - [ ] see how to create a script file to install all you fonts
+- [ ] learn how to use yazi
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] fix sddm
