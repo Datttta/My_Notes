@@ -1,16 +1,12 @@
 === Todo ===
 - [ ] Example
-- [X] Save your desktop screenshop on drive
-- [X] how to change festfatch logo when you type fastfetch
-- [X] Make yazi remeber sort order by
 - [ ] organize yazi ini.lua
 - [ ] test nord theme for yazi
 - [ ] change browser
 - [ ] listen to copacabana song
-- [ ] add fastfetch to dotfiles
 - [ ] add lsd to dotfiles
-- [ ] add yazi to dotfiles
 - [ ] see how to create a script file to install all you fonts
+- [ ] make tasks finished to go to another anohter line in vimwiki
 - [ ] learn how to use yazi double press ~ to help
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
