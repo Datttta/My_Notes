@@ -2,6 +2,8 @@
 - [ ] Example
 - [X] Save your desktop screenshop on drive
 - [X] how to change festfatch logo when you type fastfetch
+- [X] Make yazi remeber sort order by
+- [ ] organize yazi ini.lua
 - [ ] test nord theme for yazi
 - [ ] change browser
 - [ ] listen to copacabana song
