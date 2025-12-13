@@ -867,3 +867,4 @@
 861. bat,el bate
 862. pringados
 863. bajarse
+864. desvalida
