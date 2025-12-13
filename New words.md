@@ -2,6 +2,7 @@
 
 1. commitment
 2. turn someone in
+3. take in stide
 
 === *Nuevas Palabras* ===
 
