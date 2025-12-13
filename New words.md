@@ -865,3 +865,4 @@
 859. loop,el bucle
 860. coma
 861. bat,el bate
+862. pringados
