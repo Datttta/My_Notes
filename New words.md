@@ -1,6 +1,7 @@
 === New words ===
 
 1. commitment
+2. turn someone in
 
 === *Nuevas Palabras* ===
 
