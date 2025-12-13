@@ -865,23 +865,3 @@
 859. loop,el bucle
 860. coma
 861. bat,el bate
-862. la canasta
-863. enceste
-864. casco
-865. tauromaquia
-866. balonmano
-867. amonestar
-868. mallas
-869. alineación
-870. arquero
-871. la goma
-872. banquillo
-873. pitar
-874. pantalones cortos
-875. el pito
-876. el chut
-877. tiempo suplementario
-878. lanzamiento
-879. prendido
-880. cableado
-881. equipos - la tormenta electrica daño varios equipos
