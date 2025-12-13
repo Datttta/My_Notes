@@ -866,4 +866,4 @@
 860. coma
 861. bat,el bate
 862. pringados
-863. Apagaron
+863. bajarse
