@@ -867,4 +867,3 @@
 861. bat,el bate
 862. pringados
 863. Apagaron
-864. reglamentario
