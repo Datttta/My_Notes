@@ -1,7 +1,8 @@
 === Todo ===
 - [ ] Example
-- [ ] organize yazi ini.lua
-- [ ] test nord theme for yazi
+- [X] organize yazi ini.lua
+- [X] test nord theme for yazi
+- [ ] add tokyo night theme for nvim
 - [ ] change browser
 - [ ] listen to copacabana song
 - [ ] add lsd to dotfiles
