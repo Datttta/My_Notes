@@ -846,5 +846,3 @@
 840. to key in,picar
 841. etiquetar
 842. to surf,navegar por
-843. entorno
-844. to paste,pegar
