@@ -1,6 +1,6 @@
 === New words ===
 
-1. holdouts
+1. 
 
 === *Nuevas Palabras* ===
 
@@ -848,23 +848,3 @@
 842. to surf,navegar por
 843. entorno
 844. to paste,pegar
-845. to delete,borrar
-846. guglear
-847. to charge,cargar
-848. speaker,el altavoz
-849. actualizar
-850. headphones,los auriculares
-851. to link,enlazar
-852. to load,cargarse
-853. to press,oprimir
-854. to scroll,desplazar
-855. to click,cliquear
-856. hacer clic en
-857. to press,pulsar
-858. feature,la prestación
-859. loop,el bucle
-860. coma
-861. bat,el bate
-862. pringados
-863. bajarse
-864. historial
