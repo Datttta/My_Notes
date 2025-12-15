@@ -827,23 +827,3 @@
 821. el patio
 822. top,la peonza
 823. jóvenes
-824. canica
-825. juego de mesa
-826. el trompo
-827. el lazo de saltar
-828. season,la temporada
-829. reloj pulsera
-830. manilla
-831. anteanoche
-832. aplicándose
-833. contestar
-834. la consola
-835. to download,descargar
-836. ver en streaming
-837. mouse,el ratón
-838. to pick up,descolgar
-839. hit,el jit
-840. to key in,picar
-841. etiquetar
-842. to surf,navegar por
-843. influye
