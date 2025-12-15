@@ -37,8 +37,8 @@
     - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
     - Move cursor to the end of the line: *$*
     - "Clear" line: *cc*
-    - Dar background with tokyo night - moon style colors: nvim /home/DROS/.local/share/nvim/lazy/tokyonight.nvim/lua/tokyonight/colors/night.lua
-    - change the line "local ret = vim.deepcopy(require("tokyonight.colors.storm"))" to "local ret = vim.deepcopy(require("tokyonight.colors.moon"))" 
+    - Dark background with tokyo night - moon style colors: nvim /home/DROS/.local/share/nvim/lazy/tokyonight.nvim/lua/tokyonight/colors/night.lua
+        - change the line "local ret = vim.deepcopy(require("tokyonight.colors.storm"))" to "local ret = vim.deepcopy(require("tokyonight.colors.moon"))" 
 
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
     - Format nvim code: *<leader>fm*
