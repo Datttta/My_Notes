@@ -3,8 +3,8 @@
 - [X] organize yazi ini.lua
 - [X] test nord theme for yazi
 - [X] add tokyo night theme for nvim
-- [ ] fix autoformat
-- [ ] fox nvim borders 
+- [X] fix autoformat
+- [ ] fix nvim borders 
 - [ ] change browser
 - [ ] listen to copacabana song
 - [ ] add lsd to dotfiles
