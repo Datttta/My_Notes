@@ -826,4 +826,3 @@
 820. thus,por ello
 821. el patio
 822. top,la peonza
-823. jóvenes
