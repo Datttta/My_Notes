@@ -3,6 +3,7 @@
 - [X] organize yazi ini.lua
 - [X] test nord theme for yazi
 - [ ] add tokyo night theme for nvim
+- [ ] fix autoformat
 - [ ] change browser
 - [ ] listen to copacabana song
 - [ ] add lsd to dotfiles
