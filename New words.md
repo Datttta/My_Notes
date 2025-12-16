@@ -811,5 +811,3 @@
 805. sequías
 806. rechazaran
 807. retrasara
-808. rescindido
-809. al final y al cabo
