@@ -1,6 +1,8 @@
 === New words ===
 
 1. destitute
+2. caress
+3. amorously
 
 === *Nuevas Palabras* ===
 
