@@ -808,23 +808,3 @@
 802. de la misma manera
 803. da igual
 804. below,a continuación
-805. más importante aún
-806. prioritariamente
-807. for instance,sin ir más lejos
-808. that is,es decir
-809. al fin y al cabo
-810. no obstante
-811. empero
-812. aún más
-813. más allá
-814. at length,detenidamente
-815. immediately,ipso facto
-816. in the meantime,mientras tanto
-817. hence,de ahí que
-818. since,ya que
-819. thus,por lo tanto
-820. thus,por ello
-821. el patio
-822. talleres
-823. top,la peonza
-824. acondicionado
