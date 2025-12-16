@@ -808,7 +808,7 @@
 802. de la misma manera
 803. da igual
 804. below,a continuación
-805. presupuesto
+805. sequías
 806. rechazaran
 807. retrasara
 808. rescindido
