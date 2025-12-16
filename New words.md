@@ -810,3 +810,4 @@
 804. below,a continuación
 805. presupuesto
 806. rechazaran
+807. retrasara
