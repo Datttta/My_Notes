@@ -14,6 +14,7 @@
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] fix sddm
+- [ ] organize you bookmarks
 
 = Today =
 - [ ] _
