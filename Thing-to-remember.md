@@ -154,8 +154,8 @@
         - chmod 700 ~/.ssh
 
 - Star an app with xwayland/x11:
-    - *GDK_BACKEND=x11* <app>
-    - <app> --ozone-platform=x11
+    - for gtk apps: *GDK_BACKEND=x11* <app>
+    - for Chromium browsers: <app> *--ozone-platform=x11*
 
 - Open swaync (Sway Notification Centre):
     - swaync-client -t
