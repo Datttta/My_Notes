@@ -4,6 +4,10 @@
     -URL: about:config 
     - browser.fullscreen.autohide true to false
 
+- Chromium bases browsers not showing the tabs in fullscreen:
+    - go to the <app>.desktop file
+    - change the exec line to <app> --ozone-platform=x11
+
 - "Failed to install the following packages. Manual intervention is required":
     - cd ~/.cache/yay/<name-of-package>
     - sha256sum <name-of-installer>
