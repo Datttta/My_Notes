@@ -155,6 +155,7 @@
 
 - Star an app with xwayland/x11:
     - *GDK_BACKEND=x11* <app>
+    - <app> --ozone-platform=x11
 
 - Open swaync (Sway Notification Centre):
     - swaync-client -t
