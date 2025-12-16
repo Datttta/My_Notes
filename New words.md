@@ -808,3 +808,5 @@
 802. de la misma manera
 803. da igual
 804. below,a continuación
+805. presupuesto
+806. rechazaran
