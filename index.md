@@ -4,6 +4,6 @@
 [[New words]]
 [[Maintainance]]
 [[Solved problems]]
-[[Thing-to-remember]]
+[[Things-to-remember]]
 [[Ai-scripts]]
 [[Rhymes]]
