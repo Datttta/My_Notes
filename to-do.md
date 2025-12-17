@@ -3,7 +3,6 @@
 == Inbox ==
 - [ ] Example
 - [ ] listen to copacabana song
-- [ ] see how to create a script file to install all you fonts
 - [ ] learn how to use yazi double press ~ to help
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
