@@ -793,23 +793,3 @@
 787. el parlante
 788. extranjero
 789. lluvioso
-790. brumoso
-791. de niebla
-792. tentempié
-793. lujo
-794. estancia
-795. luna de miel
-796. plegable
-797. la fianza
-798. orilla
-799. seguro que
-800. no cabe duda de que
-801. naturalmente
-802. de la misma manera
-803. da igual
-804. below,a continuación
-805. sequías
-806. rechazaran
-807. retrasara
-808. percha
-809. chiflado
