@@ -2,6 +2,7 @@
 
 1. reinserted
 2. monologue
+3. atrophy - verb
 
 === *Nuevas Palabras* ===
 
