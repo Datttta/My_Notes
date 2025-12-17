@@ -1,9 +1,6 @@
 === New words ===
 
-1. reinserted
-2. monologue
-3. atrophy - verb
-4. tooling
+1. 
 
 === Nuevas Palabras ===
 
