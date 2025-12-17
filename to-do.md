@@ -9,7 +9,10 @@
 - [ ] fix sddm
 - [ ] organize you bookmarks
 -
-= Completed tasks =
+=== Today ===
+- [ ] _
+-
+=== Completed tasks ===
 - [X] fix nvim borders 
 - [X] fix autoformat
 - [X] add tokyo night theme for nvim
@@ -18,10 +21,8 @@
 - [X] change browser
 - [X] make tasks finished to go to another anohter line in vimwiki
 
-= Today =
-- [ ] _
 
-= Tasks = 
+=== Tasks === 
 - Loundry
 - Dishes
 - English (memHack and anki)
