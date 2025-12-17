@@ -1,6 +1,7 @@
 === New words ===
 
 1. reinserted
+2. monologue
 
 === *Nuevas Palabras* ===
 
