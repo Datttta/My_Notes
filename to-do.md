@@ -1,11 +1,5 @@
 === Todo ===
 - [ ] Example
-- [X] organize yazi ini.lua
-- [X] test nord theme for yazi
-- [X] add tokyo night theme for nvim
-- [X] fix autoformat
-- [ ] fix nvim borders 
-- [ ] change browser
 - [ ] listen to copacabana song
 - [ ] add lsd to dotfiles
 - [ ] see how to create a script file to install all you fonts
@@ -17,6 +11,12 @@
 - [ ] organize you bookmarks
 -
 = Completed tasks =
+- [X] fix nvim borders 
+- [X] fix autoformat
+- [X] add tokyo night theme for nvim
+- [X] test nord theme for yazi
+- [X] organize yazi ini.lua
+- [X] change browser
 
 = Today =
 - [ ] _
