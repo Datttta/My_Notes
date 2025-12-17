@@ -25,6 +25,6 @@
 === Tasks === 
 - Loundry
 - Dishes
-- English (memHack and anki)
+- Languages (memHack and anki)
 - Reading
 - listening
