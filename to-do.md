@@ -1,4 +1,4 @@
-= Tasks Overview =
+=== Tasks Overview ===
 
 == Inbox ==
 - [ ] Example
