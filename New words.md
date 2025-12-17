@@ -794,3 +794,4 @@
 788. extranjero
 789. lluvioso
 790. excéntrico
+791. aplazara
