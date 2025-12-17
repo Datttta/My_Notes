@@ -4,7 +4,7 @@
 - [X] test nord theme for yazi
 - [X] add tokyo night theme for nvim
 - [X] fix autoformat
-- [X] fix nvim borders 
+- [ ] fix nvim borders 
 - [ ] change browser
 - [ ] listen to copacabana song
 - [ ] add lsd to dotfiles
@@ -15,6 +15,8 @@
 - [ ] test matugen
 - [ ] fix sddm
 - [ ] organize you bookmarks
+-
+= Completed tasks =
 
 = Today =
 - [ ] _
