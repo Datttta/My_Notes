@@ -793,3 +793,4 @@
 787. el parlante
 788. extranjero
 789. lluvioso
+790. excéntrico
