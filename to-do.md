@@ -14,7 +14,7 @@
 == Today ==
 - [ ] _
 -
-== Completed ==
+= Completed =
 - [X] fix nvim borders 
 - [X] fix autoformat
 - [X] add tokyo night theme for nvim
