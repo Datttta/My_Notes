@@ -795,4 +795,3 @@
 789. lluvioso
 790. excéntrico
 791. aplazara
-792. estudio
