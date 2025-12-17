@@ -4,7 +4,7 @@
 2. monologue
 3. atrophy - verb
 
-=== *Nuevas Palabras* ===
+=== Nuevas Palabras ===
 
 1. eslabones
 2. precaución
