@@ -7,7 +7,7 @@
     - Specific word: re:\b<word>\b
 
 - Exctrating files:
-    - *.tar*: tar -xvf file.ta
+    - *.tar*: tar -xvf file.tar
 
     - *.tar.gz or .tgz*: tar -xzvf file.tar.gz
 
