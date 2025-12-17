@@ -5,7 +5,7 @@
 - [X] add tokyo night theme for nvim
 - [X] fix autoformat
 - [X] fix nvim borders 
-- [X] change browser
+- [ ] change browser
 - [ ] listen to copacabana song
 - [ ] add lsd to dotfiles
 - [ ] see how to create a script file to install all you fonts
