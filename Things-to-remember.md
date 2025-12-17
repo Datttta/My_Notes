@@ -135,8 +135,9 @@
 
 - Find files with fzf:
     - to preview files use: *fzf --preview="cat {}"*
-
     - preview with syxtax highlight: *fzf --preview="bat --color=always {}"*
+    - look for a file a directory: fd <directory> <what-you-want-to-fint>
+    - loof for a file in the current directory: fd . <what-you-want-to-fint>
 
 - How to see hidden files with ls:
     - use: *ls -a*
