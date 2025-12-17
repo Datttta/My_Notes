@@ -1,4 +1,6 @@
-=== Todo ===
+= Tasks Overview =
+
+== Inbox ==
 - [ ] Example
 - [ ] listen to copacabana song
 - [ ] add lsd to dotfiles
@@ -9,10 +11,10 @@
 - [ ] fix sddm
 - [ ] organize you bookmarks
 -
-=== Today ===
+== Today ==
 - [ ] _
 -
-=== Completed tasks ===
+== Completed ==
 - [X] fix nvim borders 
 - [X] fix autoformat
 - [X] add tokyo night theme for nvim
@@ -22,7 +24,7 @@
 - [X] make tasks finished to go to another anohter line in vimwiki
 
 
-=== Tasks === 
+== Tasks ==
 - Loundry
 - Dishes
 - Languages (memHack and anki)
