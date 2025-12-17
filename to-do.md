@@ -3,17 +3,16 @@
 == Inbox ==
 - [ ] Example
 - [ ] listen to copacabana song
-- [ ] add lsd to dotfiles
 - [ ] see how to create a script file to install all you fonts
 - [ ] learn how to use yazi double press ~ to help
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] fix sddm
 - [ ] organize you bookmarks
--
+
 == Today ==
 - [ ] _
--
+
 == Completed ==
 - [X] fix nvim borders 
 - [X] fix autoformat
@@ -22,6 +21,8 @@
 - [X] organize yazi ini.lua
 - [X] change browser
 - [X] move finished tasks to another line
+- [X] add lsd to dotfiles
+- [X] improved the change task line
 
 
 == Tasks ==
