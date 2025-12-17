@@ -3,7 +3,6 @@
 - [ ] listen to copacabana song
 - [ ] add lsd to dotfiles
 - [ ] see how to create a script file to install all you fonts
-- [ ] make tasks finished to go to another anohter line in vimwiki
 - [ ] learn how to use yazi double press ~ to help
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
@@ -17,6 +16,7 @@
 - [X] test nord theme for yazi
 - [X] organize yazi ini.lua
 - [X] change browser
+- [X] make tasks finished to go to another anohter line in vimwiki
 
 = Today =
 - [ ] _
