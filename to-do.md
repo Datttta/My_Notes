@@ -21,7 +21,7 @@
 - [X] test nord theme for yazi
 - [X] organize yazi ini.lua
 - [X] change browser
-- [X] make tasks finished to go to another anohter line in vimwiki
+- [X] move finished tasks to another line
 
 
 == Tasks ==
