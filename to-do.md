@@ -2,7 +2,7 @@
 
 == Inbox ==
 - [ ] _
-- [ ] fix [[vivaldi]]
+- [ ] Add zip plugin to yazi
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] fix sddm
@@ -23,6 +23,7 @@
 - [X] improved the change task line
 - [X] learn how to use yazi double press ~ to help
 - [X] listen to copacabana song
+- [X] fix vivaldi
 
 
 == Tasks ==
