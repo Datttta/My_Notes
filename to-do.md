@@ -2,6 +2,7 @@
 
 == Inbox ==
 - [ ] _
+- [ ] fix vivaldi
 - [ ] listen to copacabana song
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
