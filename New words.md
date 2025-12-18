@@ -1,8 +1,6 @@
 === New words ===
 
-1. traverse
-2. disembowled
-3. screws bolts
+1. 
 
 === Nuevas Palabras ===
 
