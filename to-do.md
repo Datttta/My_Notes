@@ -18,7 +18,6 @@
 - [X] add tokyo night theme for nvim
 - [X] test nord theme for yazi
 - [X] organize yazi ini.lua
-- [X] change browser
 - [X] move finished tasks to another line
 - [X] add lsd to dotfiles
 - [X] improved the change task line
