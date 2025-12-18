@@ -3,7 +3,6 @@
 == Inbox ==
 - [ ] Example
 - [ ] listen to copacabana song
-- [ ] learn how to use yazi double press ~ to help
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] fix sddm
@@ -21,6 +20,7 @@
 - [X] move finished tasks to another line
 - [X] add lsd to dotfiles
 - [X] improved the change task line
+- [X] learn how to use yazi double press ~ to help
 
 
 == Tasks ==
