@@ -777,23 +777,3 @@
 771. sentido del humor
 772. to check in,facturar
 773. asiento de ventanilla
-774. asiento de pasillo
-775. customs,la aduana
-776. la ruta
-777. visado
-778. la cuota
-779. la huésped
-780. el hostal
-781. folleto
-782. posada
-783. pasaje
-784. tour,el recorrido
-785. cinturón de seguridad
-786. el andén
-787. el parlante
-788. extranjero
-789. lluvioso
-790. excéntrico
-791. aplazara
-792. perrito
-793. passando de alguien
