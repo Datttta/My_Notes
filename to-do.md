@@ -1,7 +1,7 @@
 === Todo ===
 
 == Inbox ==
-- [ ] Example
+- [ ] _
 - [ ] listen to copacabana song
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
