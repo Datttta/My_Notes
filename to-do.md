@@ -7,6 +7,7 @@
 - [ ] test matugen
 - [ ] fix sddm
 - [ ] organize you bookmarks
+- [ ] improve neo tree search system
 
 == Today ==
 - [ ] _
