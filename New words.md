@@ -796,3 +796,4 @@
 790. excéntrico
 791. aplazara
 792. perrito
+793. passando de alguien
