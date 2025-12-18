@@ -2,8 +2,7 @@
 
 == Inbox ==
 - [ ] _
-- [ ] fix vivaldi
-- [ ] listen to copacabana song
+- [ ] fix [[vivaldi]]
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] fix sddm
@@ -23,6 +22,7 @@
 - [X] add lsd to dotfiles
 - [X] improved the change task line
 - [X] learn how to use yazi double press ~ to help
+- [X] listen to copacabana song
 
 
 == Tasks ==
