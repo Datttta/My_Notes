@@ -1,6 +1,7 @@
 === New words ===
 
 1. traverse
+2. disembowled
 
 === Nuevas Palabras ===
 
