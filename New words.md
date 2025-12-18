@@ -780,3 +780,4 @@
 794. pospusiera
 795. antelación
 796. Abróchese
+797. commprovar
