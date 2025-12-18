@@ -779,5 +779,3 @@
 773. asiento de ventanilla
 794. pospusiera
 795. antelación
-796. alojamiento
-797. itinerario
