@@ -777,3 +777,7 @@
 771. sentido del humor
 772. to check in,facturar
 773. asiento de ventanilla
+794. pospusiera
+795. antelación
+796. alojamiento
+797. itinerario
