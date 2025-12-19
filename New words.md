@@ -1,16 +1,6 @@
 === New words ===
 
-1. semblance
-3. cluster
-4. moot point
-5. fire up
-6. agro - verb
-7. alienates
-8. sheepish
-9. putty
-10. conmissaration
-11. keep from
-12. contaminating
+1. 
 
 === Nuevas Palabras ===
 
