@@ -11,6 +11,7 @@
 
 == Today ==
 - [ ] _
+- [ ] Have breakfast
 
 == Completed ==
 - [X] fix nvim borders 
