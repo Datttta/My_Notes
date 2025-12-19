@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] Add zip plugin to yazi
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] fix sddm
@@ -24,6 +23,8 @@
 - [X] learn how to use yazi double press ~ to help
 - [X] listen to copacabana song
 - [X] fix vivaldi
+- [X] Add zip plugin to yazi
+- [X] Add compress plugin to yazi
 
 
 == Tasks ==
