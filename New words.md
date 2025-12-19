@@ -3,11 +3,12 @@
 1. as to
 2. fire up
 3. agro - verb
-4. sheepish
-5. putty
-6. conmissaration
-7. keep from
-8. contaminating
+4. alienates
+5. sheepish
+6. putty
+7. conmissaration
+8. keep from
+9. contaminating
 
 === Nuevas Palabras ===
 
