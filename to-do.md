@@ -12,9 +12,6 @@
 
 == Today ==
 - [ ] _
-- [ ] Add new words to anki
-- [ ] Languages/have dinner
-- [ ] brush
 
 == Completed ==
 - [X] fix nvim borders 
@@ -30,9 +27,6 @@
 - [X] fix vivaldi
 - [X] Add zip plugin to yazi
 - [X] Add compress plugin to yazi
-- [X] Have breakfast
-- [X] brush
-
 
 == Tasks ==
 - Loundry
