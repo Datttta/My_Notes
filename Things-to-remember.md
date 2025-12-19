@@ -179,6 +179,7 @@
 - Storage:
     - check storage usage per folder: du -sh *
     - check overall disk usage: df -h
+    - check only linux partition: df -h /
 
 - Thunar:
     - open thuner in the current directory: thuner .
