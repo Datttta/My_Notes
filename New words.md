@@ -764,24 +764,4 @@
 758. double,el/la doble
 759. substitute,el/la suplente
 760. shot,la toma
-761. take,la toma
-762. medios de comunicación
-763. still,el fotograma
-764. documentary,el documental
-765. reseña
-766. trailer, avances
-767. obra maestra
-768. diablura
-769. tener gracia
-770. la risa
-771. sentido del humor
-772. to check in,facturar
-773. asiento de ventanilla
-794. pospusiera
-795. antelación
-796. Abróchese
-797. commprovar
-798. maldigo
-799. de acuerdo
-800. hoyo
-801. flipes
+761. matiz
