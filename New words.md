@@ -1,7 +1,7 @@
 === New words ===
 
 1. 
-2. 
+2. cluster
 3. moot point
 4. fire up
 5. agro - verb
