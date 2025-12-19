@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] how to see free/used space in disk in arch linux
 - [ ] fix pacman -syu error
 - [ ] fix sddm
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
@@ -27,6 +26,7 @@
 - [X] fix vivaldi
 - [X] Add zip plugin to yazi
 - [X] Add compress plugin to yazi
+- [X] how to see free/used space in disk in arch linux
 
 == Tasks ==
 - Loundry
