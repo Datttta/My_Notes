@@ -1,6 +1,6 @@
 === New words ===
 
-1. 
+1. as to
 
 === Nuevas Palabras ===
 
