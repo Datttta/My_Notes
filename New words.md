@@ -1,14 +1,15 @@
 === New words ===
 
 1. as to
-2. fire up
-3. agro - verb
-4. alienates
-5. sheepish
-6. putty
-7. conmissaration
-8. keep from
-9. contaminating
+2. make pretend
+3. fire up
+4. agro - verb
+5. alienates
+6. sheepish
+7. putty
+8. conmissaration
+9. keep from
+10. contaminating
 
 === Nuevas Palabras ===
 
