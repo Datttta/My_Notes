@@ -12,6 +12,10 @@
 == Today ==
 - [ ] _
 - [ ] Have breakfast
+- [ ] brush
+- [ ] Add new words to anki
+- [ ] Languages/have dinner
+- [ ] brush
 
 == Completed ==
 - [X] fix nvim borders 
