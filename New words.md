@@ -1,8 +1,9 @@
 === New words ===
 
 1. as to
-2. keep from
-3. contaminating
+2. sheepish
+3. keep from
+4. contaminating
 
 === Nuevas Palabras ===
 
