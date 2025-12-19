@@ -1,11 +1,12 @@
 === New words ===
 
 1. as to
-2. sheepish
-3. putty
-4. conmissaration
-5. keep from
-6. contaminating
+2. fire up
+3. sheepish
+4. putty
+5. conmissaration
+6. keep from
+7. contaminating
 
 === Nuevas Palabras ===
 
