@@ -1,6 +1,7 @@
 === New words ===
 
 1. retrieve
+2. insufferable
 
 === Nuevas Palabras ===
 
