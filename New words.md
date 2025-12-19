@@ -1,6 +1,7 @@
 === New words ===
 
 1. as to
+2. keep from
 
 === Nuevas Palabras ===
 
