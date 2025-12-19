@@ -1,7 +1,7 @@
 === New words ===
 
 1. 
-2. make believe
+2. 
 3. decenter
 4. fire up
 5. agro - verb
@@ -793,3 +793,4 @@
 797. commprovar
 798. maldigo
 799. de acuerdo
+800. hoyo
