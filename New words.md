@@ -1,6 +1,6 @@
 === New words ===
 
-1. 
+1. vile
 2. cluster
 3. moot point
 4. fire up
