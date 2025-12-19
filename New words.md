@@ -2,8 +2,9 @@
 
 1. as to
 2. sheepish
-3. keep from
-4. contaminating
+3. putty
+4. keep from
+5. contaminating
 
 === Nuevas Palabras ===
 
