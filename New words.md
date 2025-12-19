@@ -1,6 +1,6 @@
 === New words ===
 
-1. as to
+1. 
 2. make believe
 3. decenter
 4. fire up
@@ -791,3 +791,5 @@
 795. antelación
 796. Abróchese
 797. commprovar
+798. maldigo
+799. de acuerdo
