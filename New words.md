@@ -1,7 +1,7 @@
 === New words ===
 
 1. as to
-2. make pretend
+2. make believe
 3. fire up
 4. agro - verb
 5. alienates
