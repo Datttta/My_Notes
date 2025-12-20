@@ -747,4 +747,4 @@
 741. cartel
 742. radiofónico
 743. ubicarse
-744. diferido
+744. horario estelar
