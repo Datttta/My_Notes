@@ -1,10 +1,6 @@
 === New words ===
 
-1. retrieve
-2. spans
-3. bleacher
-4. insufferable
-5. smoking gun
+1. 
 
 === Nuevas Palabras ===
 
