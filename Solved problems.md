@@ -15,7 +15,8 @@
 
 - Sddm screen tearing glitch:
     - nvims /etc/default/grub
-    - Remove radeon.si_support=0 from "GRUB_CMDLINE_LINUX_DEFAULT=" line. 
+    - Remove radeon.si_support=0 from "GRUB_CMDLINE_LINUX_DEFAULT=" line.
+    - run: sudo grub-mkconfig -o /boot/grub/grub.cfg
  
 - Firefox not showing bookmarks after arch maintainance:
 
