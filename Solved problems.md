@@ -13,7 +13,7 @@
     - sha256sum <name-of-installer>
     - yay -S <name-of-package> --mflags "--skipchecksums"
 
-- Sddm screen tearing glitch:
+- Sddm sddm not working on starup:
     - Have this file /etc/X11/xorg.conf.d/20-intel.conf
     - add this content:
         Section "Device"
