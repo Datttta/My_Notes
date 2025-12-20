@@ -49,3 +49,6 @@
 
 - Steam opens a black screen and closes afterwords:
     - make sure there is only one exec= in steam.desktop 
+
+- nvim:
+    - Reinstall a plugin: rm ~/.local/share/nvim/lazy/<your-plugin>
