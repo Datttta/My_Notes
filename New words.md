@@ -745,23 +745,3 @@
 739. fondear
 740. ver
 741. cartel
-742. butaca
-743. broadcasting,la difusión
-744. retransmisión
-745. cadena
-746. humorismo
-747. policiaco
-748. wéstern
-749. programa de concursos
-750. estrella
-751. el set
-752. doblar
-753. situarse
-754. locutor
-755. presenter,el conductor
-756. commercial,el spot
-757. la cuña
-758. double,el/la doble
-759. substitute,el/la suplente
-760. shot,la toma
-761. matiz
