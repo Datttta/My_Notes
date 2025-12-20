@@ -42,7 +42,7 @@
 
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
     - Format nvim code: *<leader>fm*
-    - Update lazyvim plugins: :Lazy update on nvim
+    - Update lazyvim plugins: *:Lazy update* on nvim
 
 - Kitty terminal:
     - Delete text on terminal: *Ctrl+u*
