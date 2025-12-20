@@ -1,8 +1,9 @@
 === New words ===
 
 1. retrieve
-2. insufferable
-3. smoking gun
+2. bleacher
+3. insufferable
+4. smoking gun
 
 === Nuevas Palabras ===
 
