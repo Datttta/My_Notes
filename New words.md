@@ -2,6 +2,7 @@
 
 1. retrieve
 2. insufferable
+3. smoking gun
 
 === Nuevas Palabras ===
 
