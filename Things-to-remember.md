@@ -42,6 +42,7 @@
 
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
     - Format nvim code: *<leader>fm*
+    - Update lazyvim plugins: :Lazy update on nvim
 
 - Kitty terminal:
     - Delete text on terminal: *Ctrl+u*
@@ -178,8 +179,8 @@
 
 - Storage:
     - check storage usage per folder: du -sh *
-    - check overall disk usage: df -h
     - check only linux partition: df -h /
+    - check overall disk usage: df -h
 
 - Thunar:
     - open thuner in the current directory: thuner .
