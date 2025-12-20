@@ -2,7 +2,7 @@
 
 == Inbox ==
 - [ ] _
-- [ ] fix sddm
+- [ ] make only the name of the first folder to appear in you git hub repository, not the path: ex: I don't want this: fastfatch/.config/fastfatch, I want this: fastfatch
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] organize you bookmarks
@@ -26,6 +26,7 @@
 - [X] Add zip plugin to yazi
 - [X] Add compress plugin to yazi
 - [X] how to see free/used space in disk in arch linux
+- [X] fix sddm
 
 == Tasks ==
 - Loundry
