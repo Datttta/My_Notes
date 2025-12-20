@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] fix pacman -syu error
 - [ ] fix sddm
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
