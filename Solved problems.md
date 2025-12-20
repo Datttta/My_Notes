@@ -14,8 +14,14 @@
     - yay -S <name-of-package> --mflags "--skipchecksums"
 
 - Sddm screen tearing glitch:
-    - nvims /etc/default/grub
- 
+    - Have this file /etc/X11/xorg.conf.d/20-intel.conf
+    - add this content:
+        Section "Device"
+            Identifier "Intel Graphics"
+            Driver "modesetting"
+            Option "PrimaryGPU" "true"
+        EndSection
+
 - Firefox not showing bookmarks after arch maintainance:
 
     - Maybe opening this folder will fix firefox bookmarks:
