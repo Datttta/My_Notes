@@ -734,3 +734,4 @@
 727. de pena
 728. recosado
 729. esparcir
+730. balcón
