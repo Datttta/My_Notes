@@ -1,7 +1,7 @@
 === New words ===
 
 1. bottom line
-2. handsy
+2. 
 
 === Nuevas Palabras ===
 
@@ -731,23 +731,3 @@
 724. tachar
 725. maldecir
 726. infundir
-727. binar
-728. aventar
-729. enmarcar
-730. tender
-731. acorralar
-732. acaparar
-733. limitar con
-734. lindar con
-735. dotar de personal
-736. campanas
-737. retrato
-738. posterior
-739. fondear
-740. ver
-741. cartel
-742. radiofónico
-743. ubicarse
-744. caiga bien
-745. dissimular
-746. canguro
