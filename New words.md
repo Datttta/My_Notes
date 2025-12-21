@@ -731,3 +731,4 @@
 724. tachar
 725. maldecir
 726. infundir
+727. aclara
