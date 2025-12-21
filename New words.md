@@ -734,3 +734,4 @@
 727. aclara
 728. proveer
 729. dotado
+730. recursos comunes
