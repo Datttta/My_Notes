@@ -732,3 +732,4 @@
 725. maldecir
 726. infundir
 727. de pena
+728. recosado
