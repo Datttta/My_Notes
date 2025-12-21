@@ -1,6 +1,7 @@
 === New words ===
 
 1. compels
+2. rock off
 
 === Nuevas Palabras ===
 
