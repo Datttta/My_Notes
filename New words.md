@@ -736,3 +736,4 @@
 729. dotado
 730. recursos comunes
 731. arrinconar
+732. labrar
