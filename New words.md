@@ -1,6 +1,7 @@
 === New words ===
 
 1. bottom line
+2. handsy
 
 === Nuevas Palabras ===
 
