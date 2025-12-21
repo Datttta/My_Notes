@@ -732,3 +732,4 @@
 725. maldecir
 726. infundir
 727. aclara
+728. proveer
