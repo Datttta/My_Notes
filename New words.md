@@ -2,6 +2,7 @@
 
 1. compels
 2. rock off
+3. scoffed
 
 === Nuevas Palabras ===
 
