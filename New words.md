@@ -733,3 +733,4 @@
 726. infundir
 727. aclara
 728. proveer
+729. dotado
