@@ -1,7 +1,6 @@
 === New words ===
 
-1. bottom line
-2. 
+1. compels
 
 === Nuevas Palabras ===
 
