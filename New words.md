@@ -733,3 +733,4 @@
 726. infundir
 727. de pena
 728. recosado
+729. esparcir
