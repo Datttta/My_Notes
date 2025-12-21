@@ -731,9 +731,3 @@
 724. tachar
 725. maldecir
 726. infundir
-727. aclara
-728. proveer
-729. dotado
-730. recursos comunes
-731. arrinconar
-732. labrar
