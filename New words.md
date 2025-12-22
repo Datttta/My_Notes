@@ -717,4 +717,4 @@
 711. editar
 712. esmero
 713. angustia
-714. tras la
+714. tras
