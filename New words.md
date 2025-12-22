@@ -718,3 +718,5 @@
 712. esmero
 713. angustia
 714. tras
+715. aficionado
+716. altercado
