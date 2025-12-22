@@ -5,6 +5,7 @@
 - [ ] How to have a clipboard storage, where I can see images preview and delete specific pasted text or images
 - [ ] make only the name of the first folder to appear in you git hub repository, not the path: ex: I don't want this: fastfatch/.config/fastfatch, I want this: fastfatch
 - [ ] save .local/share/icons to dotfiles
+- [ ] add .config/Kvantum do dotfiles
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] organize you bookmarks
