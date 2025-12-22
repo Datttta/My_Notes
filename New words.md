@@ -600,7 +600,6 @@
 594. suponer
 595. retumbar
 596. reventar
-597. molestar
 598. acumular
 599. reanudar
 600. meter
@@ -687,7 +686,6 @@
 681. acarrear
 682. conllevar
 683. resquebrajar
-684. chasquear
 685. emperifollar
 686. engalanar
 687. regir
