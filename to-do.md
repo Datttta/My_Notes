@@ -2,7 +2,7 @@
 
 == Inbox ==
 - [ ] _
-- [ ] How to have a clipboard storage, where I can see images preview and delete specific pasted text or images
+- [ ] config copyq 
 - [ ] make only the name of the first folder to appear in you git hub repository, not the path: ex: I don't want this: fastfatch/.config/fastfatch, I want this: fastfatch
 - [ ] save .local/share/icons to dotfiles
 - [ ] add .config/Kvantum to dotfiles
@@ -31,6 +31,7 @@
 - [X] how to see free/used space in disk in arch linux
 - [X] fix sddm
 - [X] fix nvim error when you enter in .config/waybar/confi.jsonc
+- [X] How to have a clipboard storage, where I can see images preview and delete specific pasted text or images
 
 == Tasks ==
 - Loundry
