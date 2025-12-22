@@ -715,24 +715,3 @@
 709. diluviar
 710. apilar
 711. editar
-712. apalear
-713. apetecer
-714. canturrear
-715. bullir
-716. zumbar
-717. agobiar
-718. teclear
-719. malgastar
-720. estallar
-721. disponer
-722. ataviar
-723. rascar
-724. tachar
-725. maldecir
-726. infundir
-727. de pena
-728. recosado
-729. esparcir
-730. balcón
-731. increible
-732. hace falta
