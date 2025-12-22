@@ -2,8 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] save .local/share/icons to dotfiles
-- [ ] add .config/Kvantum to dotfiles
 - [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] organize you bookmarks
@@ -32,6 +30,8 @@
 - [X] How to have a clipboard storage, where I can see images preview and delete specific pasted text or images
 - [X] config copyq 
 - [X] add copyq to dotfiles
+- [X] save .local/share/icons to dotfiles
+- [X] add .config/Kvantum to dotfiles
 
 == Tasks ==
 - Loundry
