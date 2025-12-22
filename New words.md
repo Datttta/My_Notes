@@ -1,10 +1,11 @@
 === New words ===
 
 1. compels
-2. boot up
-3. rock off
-4. scoff
-5. railroad someone
+2. funsies
+3. boot up
+4. rock off
+5. scoff
+6. railroad someone
 
 === Nuevas Palabras ===
 
