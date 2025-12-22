@@ -715,3 +715,4 @@
 709. diluviar
 710. apilar
 711. editar
+712. esmero
