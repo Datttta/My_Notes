@@ -1,13 +1,6 @@
 === New words ===
 
-1. compels
-2. wearer
-3. gag
-4. funsies
-5. boot up
-6. rock off
-7. scoff
-8. railroad someone
+1. 
 
 === Nuevas Palabras ===
 
