@@ -698,23 +698,3 @@
 694. formar bolitas
 695. empeñar
 696. tasar
-697. manar
-698. predisponer
-699. fastidiar
-700. rendirle culto a
-701. atestiguar
-702. temblar
-703. dar un codazo a
-704. callar
-705. destapar
-706. urdir
-707. maquinar
-708. desplomarse
-709. diluviar
-710. apilar
-711. editar
-712. esmero
-713. angustia
-714. tras
-715. aficionado
-716. altercado
