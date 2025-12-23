@@ -2,6 +2,7 @@
 
 1. paretning
 2. grief - verb
+3. cozying up
 
 === Nuevas Palabras ===
 
