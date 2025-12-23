@@ -1,6 +1,7 @@
 === New words ===
 
 1. paretning
+2. grief - verb
 
 === Nuevas Palabras ===
 
