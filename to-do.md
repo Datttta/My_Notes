@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] use a virtual machine to test if you can have all your dotfiles back on another pc
 - [ ] test matugen
 - [ ] organize you bookmarks
 - [ ] improve neo tree search system
