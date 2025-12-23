@@ -699,3 +699,5 @@
 695. empeñar
 696. tasar
 697. aflicción
+698. tomar el pelo
+699. passar en grnde
