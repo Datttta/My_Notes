@@ -698,3 +698,4 @@
 694. formar bolitas
 695. empeñar
 696. tasar
+697. aflicción
