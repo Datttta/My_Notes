@@ -699,4 +699,3 @@
 695. empeñar
 696. tasar
 697. aflicción
-698. cocción
