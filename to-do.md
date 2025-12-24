@@ -6,6 +6,7 @@
 - [ ] organize you bookmarks
 - [ ] improve neo tree search system
 - [ ] watch a video telling you how to use baobab
+- [ ] add a custom expand to trays apps
 
 == Today ==
 - [ ] _
