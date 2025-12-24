@@ -683,22 +683,3 @@
 678. encuestar
 679. enlazar
 680. someterse
-681. acarrear
-682. conllevar
-683. resquebrajar
-685. emperifollar
-686. engalanar
-687. regir
-688. amamantar
-689. varar
-690. cargar con
-691. regañar
-692. ajardinar
-693. clavar
-694. formar bolitas
-695. empeñar
-696. tasar
-697. aflicción
-698. tomar el pelo
-699. passar en grnde
-700. cansancio
