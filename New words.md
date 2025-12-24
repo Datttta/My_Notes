@@ -1,8 +1,9 @@
 === New words ===
 
 1. paretning
-2. grief - verb
-3. cozying up
+2. chime in
+3. grief - verb
+4. cozying up
 
 === Nuevas Palabras ===
 
