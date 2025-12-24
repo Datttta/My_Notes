@@ -687,3 +687,4 @@
 682. bombo
 683. mal rollo
 684. chispas
+685. imán
