@@ -681,3 +681,4 @@
 673. cae bien
 674. disparatada
 675. a ver
+676. ya lo creo
