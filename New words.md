@@ -3,6 +3,7 @@
 1. ante up
 2. bitty
 3. yuppies
+4. junkies
 
 === Nuevas Palabras ===
 
