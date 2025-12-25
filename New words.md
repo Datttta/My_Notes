@@ -678,3 +678,4 @@
 670. enfrentamiento
 671. contundente
 672. asalto
+673. cae bien
