@@ -2,6 +2,7 @@
 
 1. ante up
 2. bitty
+3. yuppies
 
 === Nuevas Palabras ===
 
