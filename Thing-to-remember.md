@@ -1,5 +1,8 @@
 === Things to remember ===
 
+- When you get a better monitor (maybe a 4k), change theme scale:
+    - change from calloid-grey-dark-xhdpi to calloid-grey-dark-hdpi
+
 - Search on anki:
     - Specific field, exclude cards with a specific word (use the *): -back:*google*
     - Specific fild, show cards with a specific word: back:*google*
@@ -42,6 +45,7 @@
 
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
     - Format nvim code: *<leader>fm*
+    - Update lazyvim plugins: *:Lazy update* on nvim
 
 - Kitty terminal:
     - Delete text on terminal: *Ctrl+u*
@@ -135,8 +139,9 @@
 
 - Find files with fzf:
     - to preview files use: *fzf --preview="cat {}"*
-
     - preview with syxtax highlight: *fzf --preview="bat --color=always {}"*
+    - look for a file a directory: fd <directory> <what-you-want-to-fint>
+    - loof for a file in the current directory: fd . <what-you-want-to-fint>
 
 - How to see hidden files with ls:
     - use: *ls -a*
@@ -177,6 +182,8 @@
 
 - Storage:
     - check storage usage per folder: du -sh *
+    - check only linux partition: df -h /
+    - check overall disk usage: df -h
 
 - Thunar:
     - open thuner in the current directory: thuner .
@@ -191,3 +198,4 @@
 
 - Yazi:
     - help: double press "~"
+
