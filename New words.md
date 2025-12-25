@@ -679,3 +679,4 @@
 671. contundente
 672. asalto
 673. cae bien
+674. disparatada
