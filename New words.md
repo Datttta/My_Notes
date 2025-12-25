@@ -1,7 +1,6 @@
 === New words ===
 
-1. resent
-2. conoetitive
+1. 
 
 === Nuevas Palabras ===
 
