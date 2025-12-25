@@ -690,3 +690,5 @@
 684. chispas
 685. imán
 686. desahogar
+687. chillona
+688. tramposa
