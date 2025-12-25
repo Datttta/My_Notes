@@ -7,6 +7,7 @@
 - [ ] improve neo tree search system
 - [ ] watch a video telling you how to use baobab
 - [ ] add a custom expand to trays apps
+- [ ] delete alt+f3 keymap in hyprland
 
 == Today ==
 - [ ] _
