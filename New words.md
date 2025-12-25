@@ -674,4 +674,5 @@
 669. bendecir
 670. enfrentamiento
 671. asalto
-672. penas
+672. contundente
+673. penas
