@@ -672,23 +672,3 @@
 667. suministrar
 668. amotinarse
 669. bendecir
-670. toquetear
-671. sortear
-672. perjudicar
-673. avasallar
-674. pulir
-675. lijar
-676. machacar
-677. noquear
-678. encuestar
-679. enlazar
-680. chocolatina
-681. pirado
-682. bombo
-683. mal rollo
-684. chispas
-685. imán
-686. desahogar
-687. chillona
-688. tramposa
-689. instituto
