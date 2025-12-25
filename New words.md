@@ -673,4 +673,5 @@
 668. amotinarse
 669. bendecir
 670. enfrentamiento
-671. penas
+671. asalto
+672. penas
