@@ -1,6 +1,7 @@
 === New words ===
 
-1. 
+1. ante up
+2. bitty
 
 === Nuevas Palabras ===
 
@@ -673,6 +674,5 @@
 668. amotinarse
 669. bendecir
 670. enfrentamiento
-671. asalto
-672. contundente
-673. penas
+671. contundente
+672. asalto
