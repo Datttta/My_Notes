@@ -672,3 +672,4 @@
 667. suministrar
 668. amotinarse
 669. bendecir
+670. penas
