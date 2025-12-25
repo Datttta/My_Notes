@@ -688,3 +688,4 @@
 683. mal rollo
 684. chispas
 685. imán
+686. desahogar
