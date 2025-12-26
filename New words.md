@@ -661,3 +661,4 @@
 656. exculpar
 657. gozar
 658. descodificar
+659. hendidura
