@@ -1,9 +1,10 @@
 === New words ===
 
 1. ante up
-2. bitty
-3. yuppies
-4. junkies
+2. waffling
+3. bitty
+4. yuppies
+5. junkies
 
 === Nuevas Palabras ===
 
