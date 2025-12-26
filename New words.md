@@ -2,9 +2,10 @@
 
 1. ante up
 2. waffling
-3. bitty
-4. yuppies
-5. junkies
+3. deviant
+4. bitty
+5. yuppies
+6. junkies
 
 === Nuevas Palabras ===
 
