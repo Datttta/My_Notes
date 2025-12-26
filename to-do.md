@@ -3,6 +3,7 @@
 == Inbox ==
 - [ ] _
 - [ ] test matugen
+- [ ] make other apps to open yazy instead of thunar 
 - [ ] organize you bookmarks
 - [ ] improve neo tree search system
 - [ ] watch a video telling you how to use baobab
