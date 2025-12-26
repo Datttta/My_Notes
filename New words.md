@@ -1,6 +1,6 @@
 === New words ===
 
-1. ante up
+1. 
 2. spin back
 3. waffling
 4. deviant
@@ -685,3 +685,4 @@
 674. disparatada
 675. a ver
 676. ya lo creo
+677. rato
