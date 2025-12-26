@@ -1,12 +1,6 @@
 === New words ===
 
 1. 
-2. spin back
-3. waffling
-4. deviant
-5. bitty
-6. yuppies
-7. junkies
 
 === Nuevas Palabras ===
 
