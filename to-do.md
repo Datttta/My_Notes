@@ -9,6 +9,7 @@
 - [ ] watch a video telling you how to use baobab
 - [ ] add a custom expand to trays apps
 - [ ] delete alt+f3 keymap in hyprland
+- [ ] change password of your network
 
 == Today ==
 - [ ] _
