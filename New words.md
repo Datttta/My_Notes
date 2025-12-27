@@ -649,3 +649,4 @@
 644. cosechar
 645. sobrio
 646. dar las gracias
+647. mono
