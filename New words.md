@@ -645,23 +645,3 @@
 640. valorar
 641. hollar
 642. hojear
-643. pillar
-644. dar parte de
-645. sembrar
-646. acribillar
-647. erigir
-648. lucirse en
-649. quedar bien
-650. arrasar
-651. chorrear
-652. timar
-653. estrellar
-654. desentonar
-655. hallar
-656. exculpar
-657. gozar
-658. descodificar
-659. rotura
-660. yape
-661. chambear
-662. posterior
