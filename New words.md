@@ -1,6 +1,6 @@
 === New words ===
 
-1. 
+1. hand - clock
 
 === Nuevas Palabras ===
 
