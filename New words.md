@@ -647,3 +647,4 @@
 642. hojear
 643. solemne
 644. cosechar
+645. sobrio
