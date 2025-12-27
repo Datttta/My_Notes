@@ -54,6 +54,8 @@
     
     - Update lazyvim plugins: *:Lazy update* on nvim
 
+    - ce
+
 - Kitty terminal:
     - Delete text on terminal: *Ctrl+u*
     - Move cursor to the begining of the line: *Ctrl+a*
