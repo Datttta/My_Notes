@@ -662,3 +662,4 @@
 657. gozar
 658. descodificar
 659. rotura
+660. yape
