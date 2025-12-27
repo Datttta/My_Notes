@@ -1,6 +1,6 @@
 === New words ===
 
-1. workaround
+1. 
 
 === Nuevas Palabras ===
 
