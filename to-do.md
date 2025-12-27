@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] test matugen
 - [ ] make other apps to open yazy instead of thunar 
 - [ ] organize you bookmarks
 - [ ] improve neo tree search system
@@ -36,6 +35,7 @@
 - [X] add copyq to dotfiles
 - [X] save .local/share/icons to dotfiles
 - [X] add .config/Kvantum to dotfiles
+- [X] test matugen
 
 == Tasks ==
 - Loundry
