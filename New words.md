@@ -645,3 +645,4 @@
 640. valorar
 641. hollar
 642. hojear
+643. solemne
