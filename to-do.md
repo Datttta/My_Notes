@@ -4,6 +4,7 @@
 - [ ] _
 - [ ] make other apps to open yazy instead of thunar
 - [ ] imv doesn't follow yazi image order when I use the arrow to see the previous and next images
+- [ ] how to make the yazi plugin pref by location active the visible hidden files for all directories and not only the active one? (show pref by location config)
 - [ ] organize you bookmarks
 - [ ] improve neo tree search system
 - [ ] watch a video telling you how to use baobab
