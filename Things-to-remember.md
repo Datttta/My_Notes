@@ -199,3 +199,5 @@
 
 - Yazi:
     - help: double press "~"
+    - yazi mount plugin:
+        -  
