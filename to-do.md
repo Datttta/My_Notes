@@ -12,6 +12,7 @@
 - [ ] delete alt+f3 keymap in hyprland
 - [ ] change password of your network
 - [ ] equalize your earbuds
+- [ ] make your resumé
 
 == Today ==
 - [ ] _
