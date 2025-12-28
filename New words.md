@@ -5,6 +5,7 @@
 3. firewood
 4. walk through
 5. slop - tub of slop
+6. conflated
 
 === Nuevas Palabras ===
 
