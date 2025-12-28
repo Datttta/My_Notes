@@ -2,6 +2,7 @@
 
 1. hand - clock
 2. sty - i am like a cild in a sty
+3. firewood
 
 === Nuevas Palabras ===
 
