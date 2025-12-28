@@ -199,5 +199,3 @@
 
 - Yazi:
     - help: double press "~"
-    - make yazi default file browser: xdg-mime query default inode/directory
-
