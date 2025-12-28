@@ -4,6 +4,7 @@
 2. sty - i am like a cild in a sty
 3. firewood
 4. walk through
+5. slop - tub of slop
 
 === Nuevas Palabras ===
 
