@@ -165,7 +165,7 @@
 - Open swaync (Sway Notification Centre):
     - swaync-client -t
 
-- Fun arch apps:
+- Commands for desktop sreenshots:
     - cmatrix -b (b is to make some caracters bold)
     - asciiquarium (sea animation)
     - cava (bar spectrum audio visualizer)
