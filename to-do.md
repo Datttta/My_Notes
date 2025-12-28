@@ -2,7 +2,8 @@
 
 == Inbox ==
 - [ ] _
-- [ ] make other apps to open yazy instead of thunar 
+- [ ] make other apps to open yazy instead of thunar
+- [ ] imv doesn't follow yazi image order when I use the arrow to see the previous and next images
 - [ ] organize you bookmarks
 - [ ] improve neo tree search system
 - [ ] watch a video telling you how to use baobab
