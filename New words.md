@@ -659,3 +659,4 @@
 648. chiton
 649. llevar rato
 650. chisme
+651. departamento
