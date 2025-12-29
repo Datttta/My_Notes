@@ -1,11 +1,12 @@
 === New words ===
 
 1. hand - clock
-2. sty - i am like a cild in a sty
-3. firewood
-4. walk through
-5. slop - tub of slop
-6. conflated
+2. of your own
+3. sty - i am like a cild in a sty
+4. firewood
+5. walk through
+6. slop - tub of slop
+7. conflated
 
 === Nuevas Palabras ===
 
