@@ -6,7 +6,7 @@
 - Create sentences for anki with the back part being the meaning from the dicitonary:
     - Create sentences for anki using the words I am going to send. front it will be the sentence example on the language of the word I sent you, and the back will be the only meaning of that word or expression found in the spanish dicitonary, show the sentences without "front" or "back" before it, use a line for each part of the card, on the front part add "<b><u>" right after and before the chosen word (the tags must be visible) e.g.(<u><b>Lo siento</b></u>, no pude llegar a tiempo por el tráfico.). Skip a line and on the back part show the meaning: "Lamentar, tener por doloroso y malo algo.". Create sentence with good verbal tense variation - Make sure everything is grammatically correct, create at least 6 examples.
 
-- Create a document that can export cards wiht the back part being translation directly to anki:
+- Create cards wiht the back part being translation directly to anki:
     - Create anki cards with the words I'm going to send, the front part must be a phrase in Spanish and the back will be the translation in English. - You must underline and bold the spanish word in the pharse, on the back you must bold the translation of that word e.g. front: <u><b>Lo siento</b></u>, no pude llegar a tiempo por el tráfico; back: <b>Sorry</b>, I couldn't get there on time because of traffic Output Format, - Do not have the first row being "Front" and "Back". - You should include each flashcard on a new line and use the pipe separator | to separate the front and back. Create sentence with good verbal tense variation,and put everything in a code block, Make sure everything is grammatically correct.
 
 - Create a document with anki card to send to anki:
