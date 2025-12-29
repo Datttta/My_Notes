@@ -3,12 +3,13 @@
 1. hand - clock
 2. geeing up
 3. raunchy
-4. of your own
-5. sty - i am like a cild in a sty
-6. firewood
-7. walk through
-8. slop - tub of slop
-9. conflated
+4. smut -smut scene
+5. of your own
+6. sty - i am like a cild in a sty
+7. firewood
+8. walk through
+9. slop - tub of slop
+10. conflated
 
 === Nuevas Palabras ===
 
