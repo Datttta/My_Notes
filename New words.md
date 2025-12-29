@@ -5,10 +5,11 @@
 3. dillhole
 4. dreidel
 5. barnacles
-6. desbotada
-7. Washed Out
-8. sudden death
-9. bystander
+6. squat - I don't know squat about dinasours
+7. desbotada
+8. Washed Out
+9. sudden death
+10. bystander
 
 === Nuevas Palabras ===
 
