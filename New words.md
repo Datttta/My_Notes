@@ -638,3 +638,4 @@
 629. carra
 630. coñazo
 631. cuño
+632. patatus
