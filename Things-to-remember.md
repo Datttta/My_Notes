@@ -53,7 +53,7 @@
     
     - Update lazyvim plugins: *:Lazy update* on nvim
     
-    - ce
+    - delete and Change mode to end of current word: ce
 
     - Delte everything after the cursor in the line: d$
 
