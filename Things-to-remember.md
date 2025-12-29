@@ -213,6 +213,10 @@
 
 - Yazi:
     - help: double press "~"
+
+    - Delete plugin: ya pkg delete <yazi-rs/plugins:full-border>
+        - Delete the require line in ~/.config/yazi/init.lua
+ 
     - yazi mount plugin:
         -  
 
