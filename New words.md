@@ -1,15 +1,6 @@
 === New words ===
 
-1.  - clock
-2. geeing up
-3. raunchy
-4. smut -smut scene
-5. of your own
-6. sty - i am like a cild in a sty
-7. firewood
-8. walk through
-9. slop - tub of slop
-10. 
+1.  
 
 === Nuevas Palabras ===
 
@@ -664,3 +655,4 @@
 650. chisme
 651. departamento
 652. fumigar
+653. desempeñar
