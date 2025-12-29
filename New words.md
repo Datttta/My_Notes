@@ -637,3 +637,4 @@
 628. ver te
 629. carra
 630. coñazo
+631. cuño
