@@ -8,10 +8,11 @@
 6. squat - I don't know squat about dinasours
 7. flung - It's a long time since I've been flung
 8. commando - not gonna go commando in another man's fatigue
-9. desbotada
-10. Washed Out
-11. sudden death
-12. bystander
+9. panty - the panty raid last night
+10. desbotada
+11. Washed Out
+12. sudden death
+13. bystander
 
 === Nuevas Palabras ===
 
