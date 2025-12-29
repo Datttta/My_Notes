@@ -4,6 +4,7 @@
 - [ ] _
 - [ ] copy images to vimwiki
 - [ ] how to make the yazi plugin pref by location active the visible hidden files for all directories and not only the active one? (show pref by location config)
+- [ ] see sites that have the same function as reverso context (finding sentences with a specific word)
 - [ ] organize you bookmarks
 - [ ] improve neo tree search system
 - [ ] watch a video telling you how to use baobab
