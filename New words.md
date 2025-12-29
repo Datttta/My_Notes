@@ -1,6 +1,6 @@
 === New words ===
 
-1. hand - clock
+1.  - clock
 2. geeing up
 3. raunchy
 4. smut -smut scene
@@ -9,7 +9,7 @@
 7. firewood
 8. walk through
 9. slop - tub of slop
-10. conflated
+10. 
 
 === Nuevas Palabras ===
 
@@ -663,3 +663,4 @@
 649. llevar rato
 650. chisme
 651. departamento
+652. fumigar
