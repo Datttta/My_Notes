@@ -6,10 +6,11 @@
 4. dreidel
 5. barnacles
 6. squat - I don't know squat about dinasours
-7. desbotada
-8. Washed Out
-9. sudden death
-10. bystander
+7. flung - It's a long time since I've been flung
+8. desbotada
+9. Washed Out
+10. sudden death
+11. bystander
 
 === Nuevas Palabras ===
 
