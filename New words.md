@@ -2,6 +2,7 @@
 
 1.  call out
 2. sudden death
+3. bystander
 
 === Nuevas Palabras ===
 
