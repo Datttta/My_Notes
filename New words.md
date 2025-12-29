@@ -2,8 +2,9 @@
 
 1.  call out
 2. desbotada
-3. sudden death
-4. bystander
+3. Washed Out
+4. sudden death
+5. bystander
 
 === Nuevas Palabras ===
 
