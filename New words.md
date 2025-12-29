@@ -1,18 +1,19 @@
 === New words ===
 
 1.  call out
-2. yanking
-3. dillhole
-4. dreidel
-5. barnacles
-6. squat - I don't know squat about dinasours
-7. flung - It's a long time since I've been flung
-8. commando - not gonna go commando in another man's fatigue
-9. panty - the panty raid last night
-10. desbotada
-11. Washed Out
-12. sudden death
-13. bystander
+2. grinds up
+3. yanking
+4. dillhole
+5. dreidel
+6. barnacles
+7. squat - I don't know squat about dinasours
+8. flung - It's a long time since I've been flung
+9. commando - not gonna go commando in another man's fatigue
+10. panty - the panty raid last night
+11. desbotada
+12. Washed Out
+13. sudden death
+14. bystander
 
 === Nuevas Palabras ===
 
