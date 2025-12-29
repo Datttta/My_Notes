@@ -636,3 +636,4 @@
 631. rogar
 632. volcar
 633. emplear
+634. dijo
