@@ -626,24 +626,3 @@
 619. aporrear
 620. perdurar
 621. meter prisa
-622. arrancar
-623. hacer escala
-624. encomendar
-625. barrer
-626. hacerle la zancadilla a
-627. cribar
-628. abanicar
-629. avivar
-630. escoger
-631. rogar
-632. volcar
-633. emplear
-634. dijo
-635. guardar silencio
-636. seña
-637. ceremonial
-638. peregrinos
-639. cabron
-640. ya está
-641. follar
-642. Si me hubieras preguntado hace unas semanas, habría dicho que sí.
