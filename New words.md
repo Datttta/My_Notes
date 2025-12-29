@@ -657,4 +657,3 @@
 647. mono
 648. chiton
 649. llevar rato
-650. mono
