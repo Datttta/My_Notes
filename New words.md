@@ -7,10 +7,11 @@
 5. barnacles
 6. squat - I don't know squat about dinasours
 7. flung - It's a long time since I've been flung
-8. desbotada
-9. Washed Out
-10. sudden death
-11. bystander
+8. commando
+9. desbotada
+10. Washed Out
+11. sudden death
+12. bystander
 
 === Nuevas Palabras ===
 
