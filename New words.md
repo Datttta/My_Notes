@@ -2,12 +2,13 @@
 
 1. hand - clock
 2. geeing up
-3. of your own
-4. sty - i am like a cild in a sty
-5. firewood
-6. walk through
-7. slop - tub of slop
-8. conflated
+3. raunchy
+4. of your own
+5. sty - i am like a cild in a sty
+6. firewood
+7. walk through
+8. slop - tub of slop
+9. conflated
 
 === Nuevas Palabras ===
 
