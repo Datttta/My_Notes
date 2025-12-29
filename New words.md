@@ -3,10 +3,11 @@
 1.  call out
 2. yanking
 3. dillhole
-4. desbotada
-5. Washed Out
-6. sudden death
-7. bystander
+4. dreidel
+5. desbotada
+6. Washed Out
+7. sudden death
+8. bystander
 
 === Nuevas Palabras ===
 
