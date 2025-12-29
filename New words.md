@@ -1,7 +1,7 @@
 === New words ===
 
 1.  call out
-2. dessolved
+2. dissolved
 3. grinds up
 4. perk up
 5. radio star
