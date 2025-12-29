@@ -1,8 +1,9 @@
 === New words ===
 
 1.  call out
-2. sudden death
-3. bystander
+2. desbotada
+3. sudden death
+4. bystander
 
 === Nuevas Palabras ===
 
