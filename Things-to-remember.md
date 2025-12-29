@@ -38,6 +38,8 @@
 - Nvim:
     - Select everything betwwen space: *viW*
 
+    - Select everything between "",'',()...: vi<object-surrouding the text>
+
     - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
     
     - Move cursor to the end of the line: *$*
