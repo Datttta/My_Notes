@@ -37,15 +37,25 @@
 
 - Nvim:
     - Select everything betwwen space: *viW*
+
     - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
+    
     - Move cursor to the end of the line: *$*
+    
     - "Clear" line: *cc*
+    
     - Dark background with tokyo night - moon style colors: nvim /home/DROS/.local/share/nvim/lazy/tokyonight.nvim/lua/tokyonight/colors/night.lua
         - change the line "local ret = vim.deepcopy(require("tokyonight.colors.storm"))" to "local ret = vim.deepcopy(require("tokyonight.colors.moon"))" 
+  
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
+    
     - Format nvim code: *<leader>fm*
+    
     - Update lazyvim plugins: *:Lazy update* on nvim
+    
     - ce
+
+    - Delte everything after the cursor in the line: d$
 
 - Kitty terminal:
     - Delete text on terminal: *Ctrl+u*
