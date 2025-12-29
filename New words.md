@@ -1,10 +1,12 @@
 === New words ===
 
 1.  call out
-2. desbotada
-3. Washed Out
-4. sudden death
-5. bystander
+2. yanking
+3. dillhole
+4. desbotada
+5. Washed Out
+6. sudden death
+7. bystander
 
 === Nuevas Palabras ===
 
