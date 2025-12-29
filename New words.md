@@ -639,3 +639,4 @@
 630. coñazo
 631. cuño
 632. patatus
+633. tierno
