@@ -1,6 +1,7 @@
 === New words ===
 
 1.  call out
+2. sudden death
 
 === Nuevas Palabras ===
 
