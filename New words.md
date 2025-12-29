@@ -4,10 +4,11 @@
 2. yanking
 3. dillhole
 4. dreidel
-5. desbotada
-6. Washed Out
-7. sudden death
-8. bystander
+5. barnacles
+6. desbotada
+7. Washed Out
+8. sudden death
+9. bystander
 
 === Nuevas Palabras ===
 
