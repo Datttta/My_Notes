@@ -200,7 +200,7 @@
 - Yazi:
     - help: double press "~"
     - yazi mount plugin:
-        -  a
+        -  
 
 - Change current date/time:
     - sudo timedatectl set-ntp false
