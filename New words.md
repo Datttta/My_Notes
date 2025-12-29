@@ -636,23 +636,3 @@
 631. rogar
 632. volcar
 633. emplear
-634. deshuesar
-635. enfadarse
-636. pasarle la factura a
-637. becar
-638. plañir
-639. techar
-640. valorar
-641. hollar
-642. hojear
-643. solemne
-644. cosechar
-645. sobrio
-646. dar las gracias
-647. mono
-648. chiton
-649. llevar rato
-650. chisme
-651. departamento
-652. fumigar
-653. desempeñar
