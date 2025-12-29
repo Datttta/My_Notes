@@ -1,7 +1,7 @@
 === New words ===
 
 1. hand - clock
-2. geen up
+2. geeing up
 3. of your own
 4. sty - i am like a cild in a sty
 5. firewood
