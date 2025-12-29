@@ -661,3 +661,4 @@
 639. cojeras
 640. calzoncillos
 641. manduca
+642. bochornoso
