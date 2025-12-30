@@ -57,7 +57,7 @@
     
     - delete and Change mode to end of current word: ce
 
-    - Delte everything after the cursor in the line: d$
+    - Delete everything after the cursor in the line: d$
 
 - Kitty terminal:
     - Delete text on terminal: *Ctrl+u*
