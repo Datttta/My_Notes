@@ -223,7 +223,13 @@
         - Delete the require line in ~/.config/yazi/init.lua
  
     - yazi mount plugin:
-        -  ![](../assets/Mount%20plugin.png)
+        q	-	Quit the plugin
+        k	↑	Move up
+        j	↓	Move down
+        l	→	Enter the mount point
+        m	-	Mount the partition
+        u	-	Unmount the partition
+        e	-	Eject the disk
 
 - Change current date/time:
     - sudo timedatectl set-ntp false
