@@ -58,6 +58,7 @@
 - Nvim:
     
     - Dark background with tokyo night - moon style colors: nvim /home/DROS/.local/share/nvim/lazy/tokyonight.nvim/lua/tokyonight/colors/night.lua
+    
         - change the line "local ret = vim.deepcopy(require("tokyonight.colors.storm"))" to "local ret = vim.deepcopy(require("tokyonight.colors.moon"))" 
   
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
@@ -71,10 +72,15 @@
     - Paste images in vimwiki: <leader>pi
 
 - Kitty terminal:
+    
     - Delete text on terminal: *Ctrl+u*
+
     - Move cursor to the begining of the line: *Ctrl+a*
+
     - Move cursor to the end of the line: *Ctrl+e*
+
     - Delete everything from the cursor's position to the end of the line: *Ctrl+k*
+
     - Delete word right behind the cursor: *Ctrl+w*
 
 - Minecraft server
