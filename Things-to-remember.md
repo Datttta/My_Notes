@@ -4,12 +4,17 @@
     - change from calloid-grey-dark-xhdpi to calloid-grey-dark-hdpi
 
 - Search on anki:
+  
     - Specific field, exclude cards with a specific word (use the *): -back:*google*
+
     - Specific fild, show cards with a specific word: back:*google*
+
     - Specific deck: deck:<deck-name>
+
     - Specific word: re:\b<word>\b
 
 - Exctrating files:
+  
     - *.tar*: tar -xvf file.tar
 
     - *.tar.gz or .tgz*: tar -xzvf file.tar.gz
