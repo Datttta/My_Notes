@@ -39,6 +39,7 @@
     - tar -xzvf file.tar.gz *-C* /target/directory (use -C to target directories)
 
 - Compressing files:
+
     - .zip: zip -r <zip-name>.zip <folder-to-zip>
 
 - Nvim navigation:
