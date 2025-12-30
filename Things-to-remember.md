@@ -36,23 +36,24 @@
     - .zip: zip -r <zip-name>.zip <folder-to-zip>
 
 - Nvim navigation:
-    - Show images in vimwiki: <leader>ti
 
-    - Paste images in vimwiki: <leader>pi
+    - Select:
 
-    - Select everything betwwen space: *viW*
- 
-    - Select everything between "",'',()...: vi<object-surrouding the text>
+        - Select everything betwwen space: *viW*
+     
+        - Select everything between "",'',()...: vi<object-surrouding the text>
 
-    - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
+    - Delete:
 
-    - delete and Change mode to end of current word: ce
+        - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
 
-    - Delete everything after the cursor in the line: d$
+        - delete and Change mode to end of current word: ce
 
-    - Delete line and change mode: *cc*
+        - Delete everything after the cursor in the line: d$
 
-    - Move cursor to the end of the line: *$*
+        - Delete line and change mode: *cc*
+
+        - Move cursor to the end of the line: *$*
 
 - Nvim:
     
@@ -64,6 +65,10 @@
     - Format nvim code: *<leader>fm*
     
     - Update lazyvim plugins: *:Lazy update* on nvim
+
+    - Show images in vimwiki: <leader>ti
+
+    - Paste images in vimwiki: <leader>pi
 
 - Kitty terminal:
     - Delete text on terminal: *Ctrl+u*
