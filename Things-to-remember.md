@@ -35,6 +35,10 @@
 - Compressing files:
     - .zip: zip -r <zip-name>.zip <folder-to-zip>
 
+- Nvim:
+    - Show images in vimwiki: <leader>ti
+
+    - 
 - Nvim navigation:
     - Select everything betwwen space: *viW*
 
