@@ -35,21 +35,26 @@
 - Compressing files:
     - .zip: zip -r <zip-name>.zip <folder-to-zip>
 
-- Nvim:
+- Nvim navigation:
     - Show images in vimwiki: <leader>ti
 
     - Paste images in vimwiki: <leader>pi
 
-- Nvim navigation:
     - Select everything betwwen space: *viW*
-
+ 
     - Select everything between "",'',()...: vi<object-surrouding the text>
 
     - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
-    
+
+    - delete and Change mode to end of current word: ce
+
+    - Delete everything after the cursor in the line: d$
+
+    - Delete line and change mode: *cc*
+
     - Move cursor to the end of the line: *$*
-    
-    - "Clear" line: *cc*
+
+- Nvim:
     
     - Dark background with tokyo night - moon style colors: nvim /home/DROS/.local/share/nvim/lazy/tokyonight.nvim/lua/tokyonight/colors/night.lua
         - change the line "local ret = vim.deepcopy(require("tokyonight.colors.storm"))" to "local ret = vim.deepcopy(require("tokyonight.colors.moon"))" 
@@ -59,10 +64,6 @@
     - Format nvim code: *<leader>fm*
     
     - Update lazyvim plugins: *:Lazy update* on nvim
-    
-    - delete and Change mode to end of current word: ce
-
-    - Delete everything after the cursor in the line: d$
 
 - Kitty terminal:
     - Delete text on terminal: *Ctrl+u*
