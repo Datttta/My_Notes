@@ -631,23 +631,3 @@
 626. me ha echado
 627. horga
 628. ver te
-629. carra
-630. coñazo
-631. cuño
-632. patatus
-633. tierno
-634. me apunto
-635. niñato
-636. mocoso
-637. parcar
-638. prado
-639. cojeras
-640. calzoncillos
-641. manduca
-642. bochornoso
-643. mote
-644. puritana
-645. amirilla
-646. culebron
-647. moscado
-648. mola
