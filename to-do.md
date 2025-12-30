@@ -2,11 +2,8 @@
 
 == Inbox ==
 - [ ] _
-- [ ] change the maximum amount of text/image that copyq can store
-- [ ] how to make the yazi plugin pref by location active the visible hidden files for all directories and not only the active one? (show pref by location config)
 - [ ] see sites that have the same function as reverso context (finding sentences with a specific word)
 - [ ] organize you bookmarks
-- [ ] improve neo tree search system
 - [ ] watch a video telling you how to use baobab
 - [ ] add a custom expand to trays apps
 - [ ] delete alt+f3 keymap in hyprland
@@ -43,6 +40,9 @@
 - [X] test matugen
 - [X] imv doesn't follow yazi image order when I use the arrow to see the previous and next images
 - [X] copy images to vimwiki
+- [X] change the maximum amount of text/image that copyq can store
+- [X] how to make the yazi plugin pref by location active the visible hidden files for all directories and not only the active one? (show pref by location config)
+- [X] improve neo tree search system
 
 == Tasks ==
 - Loundry
