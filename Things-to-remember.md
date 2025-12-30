@@ -218,7 +218,7 @@
         - Delete the require line in ~/.config/yazi/init.lua
  
     - yazi mount plugin:
-        -  
+        -  ![](../assets/Mount%20plugin.png)
 
 - Change current date/time:
     - sudo timedatectl set-ntp false
