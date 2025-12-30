@@ -54,7 +54,7 @@
 
         - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
 
-        - delete everything after the cursor and Change mode: ce
+        - delete everything after the cursor and change mode: ce
 
         - Delete everything after the cursor in the line: d$
 
