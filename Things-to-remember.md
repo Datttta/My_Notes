@@ -1,6 +1,7 @@
 === Things to remember ===
 
 - When you get a better monitor (maybe a 4k), change theme scale:
+
     - change from calloid-grey-dark-xhdpi to calloid-grey-dark-hdpi
 
 - Search on anki:
