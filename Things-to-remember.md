@@ -39,6 +39,7 @@
     - Show images in vimwiki: <leader>ti
 
     - Paste images in vimwiki: <leader>pi
+
 - Nvim navigation:
     - Select everything betwwen space: *viW*
 
