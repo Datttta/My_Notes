@@ -226,19 +226,27 @@
     - open thuner in the current directory: thuner .
 
 - Choose default app, works for nnn:
+  
     - get the file type: -mime query filetype <PATH_TO_FILE>
+
     - then use: xdg-mime default <APPLICATION> <FILE_TYPE>
+
     - Exemple:
+      
         - xdg-mime query filetype ~/Videos/Video_bueno.avi
+
         - the output will be: video/x-msvideo
+     
         - xdg-mime default mpv.desktop video/x-msvideo
 
     - You can also access the file with the default apps: nvim ~/.config/mimeapps.list
 
 - Yazi:
+  
     - help: double press "~"
 
     - Delete plugin: ya pkg delete <yazi-rs/plugins:full-border>
+
         - Delete the require line in ~/.config/yazi/init.lua
  
     - yazi mount plugin:
@@ -251,8 +259,11 @@
         e	-	Eject the disk
 
 - Change current date/time:
+
     - sudo timedatectl set-ntp false
+ 
     - set the day and time your want to be in: *sudo date -s "2025-12-27 22:30:00"*
 
 - Language apps:
+  
     - Miraa app (for shadowing)
