@@ -54,11 +54,13 @@
 
         - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
 
-        - delete and Change mode to end of current word: ce
+        - delete everything after the cursor and Change mode: ce
 
         - Delete everything after the cursor in the line: d$
 
         - Delete line and change mode: *cc*
+
+    - Move
 
         - Move cursor to the end of the line: *$*
 
