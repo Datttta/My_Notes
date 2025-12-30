@@ -1,26 +1,6 @@
 === New words ===
 
-1.  call out
-2. whataboutism
-3. curb
-4. Modesty
-5. dissolved
-6. interspersed
-7. grinds up
-8. perk up
-9. radio star
-10. yanking
-11. dillhole
-12. dreidel
-13. barnacles
-14. squat - I don't know squat about dinasours
-15. flung - It's a long time since I've been flung
-16. commando - not gonna go commando in another man's fatigue
-17. panty - the panty raid last night
-18. desbotada
-19. Washed Out
-20. sudden death
-21. bystander
+1.  
 
 === Nuevas Palabras ===
 
@@ -670,3 +650,4 @@
 645. amirilla
 646. culebron
 647. moscado
+648. mola
