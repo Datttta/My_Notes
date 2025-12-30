@@ -60,6 +60,8 @@
 
         - Delete line and change mode: *cc*
 
+        - Delete the word you cursor is touching: diw or ciw
+
     - Move
 
         - Move cursor to the end of the line: *$*
