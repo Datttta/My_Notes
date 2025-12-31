@@ -622,3 +622,4 @@
 617. tendido
 618. arena
 619. plantear
+620. pringado
