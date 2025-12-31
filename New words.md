@@ -1,6 +1,6 @@
 === New words ===
 
-1.  nit
+1.  
 
 === Nuevas Palabras ===
 
