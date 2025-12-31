@@ -615,3 +615,4 @@
 610. esforzarse
 611. sobreactuar
 612. trazar
+613. desplomarse
