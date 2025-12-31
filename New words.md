@@ -624,3 +624,4 @@
 619. plantear
 620. pringado
 621. trincar
+622. semental
