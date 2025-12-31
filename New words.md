@@ -630,4 +630,4 @@
 625. pringo
 626. agobiantes
 627. molar
-628. carga
+628. se carga
