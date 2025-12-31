@@ -619,3 +619,4 @@
 614. sonidos
 615. replantear
 616. Expulsar
+617. tendido
