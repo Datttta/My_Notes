@@ -623,3 +623,4 @@
 618. arena
 619. plantear
 620. pringado
+621. trincar
