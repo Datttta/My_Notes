@@ -625,3 +625,4 @@
 620. pringado
 621. trincar
 622. semental
+623. chandal
