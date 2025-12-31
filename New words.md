@@ -615,23 +615,3 @@
 610. esforzarse
 611. sobreactuar
 612. trazar
-613. enjabonar
-614. nombrar
-615. entumecer
-616. chillar
-617. adelgazar
-618. aplastar
-619. aporrear
-620. perdurar
-621. meter prisa
-622. boca abajo
-623. solicitudes
-624. alba
-625. cerdo
-626. me ha echado
-627. horga
-628. ver te
-629. guay
-630. la caída
-631. fechorías
-632. observa
