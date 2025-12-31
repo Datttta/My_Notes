@@ -627,3 +627,4 @@
 622. semental
 623. chandal
 624. caña
+625. pringo
