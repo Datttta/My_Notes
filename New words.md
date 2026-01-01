@@ -615,23 +615,4 @@
 610. esforzarse
 611. sobreactuar
 612. trazar
-613. desplomarse
-614. sonidos
-615. replantear
-616. Expulsar
-617. tendido
-618. arena
-619. plantear
-620. pringado
-621. trincar
-622. semental
-623. chandal
-624. caña
-625. pringo
-626. agobiantes
-627. molar
-628. se carga
-629. viendo
-630. perdo
-631. ardienta
-632. pillado
+613. ven
