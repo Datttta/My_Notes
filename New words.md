@@ -611,4 +611,5 @@
 606. abarcar
 607. apresurarse
 608. cautivar
-609. Pretender 
+609. Pretender
+610. atenciones
