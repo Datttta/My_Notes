@@ -611,8 +611,4 @@
 606. abarcar
 607. apresurarse
 608. cautivar
-609. cortejar
-610. esforzarse
-611. sobreactuar
-612. trazar
-613. ven
+
