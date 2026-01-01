@@ -145,6 +145,7 @@
     - use: sudo downgrade <apps>
  
 - Seeing tree:
+
     - Show only directories: tree -d
 
     - Limit depth (e.g., 2 levels): tree -L 2
