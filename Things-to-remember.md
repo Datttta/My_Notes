@@ -136,6 +136,8 @@
 - Pacman:
     - Search packages: sudo pacman -Ss <package-name>
 
+    - Show pacman updates: grep "upgraded" /var/log/pacman.log
+
 - Seeing tree:
     - Show only directories: tree -d
 
