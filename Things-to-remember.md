@@ -139,6 +139,7 @@
     - Show pacman updates: 'grep "upgraded" /var/log/pacman.log'
 
 - Downgrade apps:
+
     - have "downgrade" app installed
 
     - use: sudo downgrade <apps>
@@ -229,11 +230,15 @@
     - stop hamahci: sudo systemctl stop logmein-hamachi.service
 
 - Storage:
+
     - check storage usage per folder: du -sh *
+
     - check only linux partition: df -h /
+
     - check overall disk usage: df -h
 
 - Thunar:
+
     - open thuner in the current directory: thuner .
 
 - Choose default app, works for nnn:
