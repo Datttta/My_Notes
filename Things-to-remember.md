@@ -142,6 +142,7 @@
     - have "downgrade" app installed
 
     - use: sudo downgrade <apps>
+ 
 - Seeing tree:
     - Show only directories: tree -d
 
