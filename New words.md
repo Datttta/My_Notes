@@ -614,3 +614,5 @@
 609. Pretender
 610. atenciones
 611. cartonada
+612. venga ya
+613. granizado
