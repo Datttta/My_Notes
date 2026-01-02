@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] see sites that have the same function as reverso context (finding sentences with a specific word)
 - [ ] organize you bookmarks
 - [ ] watch a video telling you how to use baobab
 - [ ] add a custom expand to trays apps
