@@ -599,23 +599,4 @@
 593. platicar
 594. suponer
 595. retumbar
-596. reventar
-598. acumular
-599. reanudar
-600. meter
-601. trasladar
-602. señalar
-603. provenir
-604. asesorar
-605. adiestrar
-606. abarcar
-607. apresurarse
-608. cautivar
-609. Pretender
-610. atenciones
-611. cartonada
-612. venga ya
-613. granizado
-614. inestable
-615. pasta
-616. crio
+596. escenografía
