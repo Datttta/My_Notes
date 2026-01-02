@@ -599,3 +599,4 @@
 593. platicar
 594. suponer
 595. retumbar
+596. enchufe
