@@ -600,3 +600,4 @@
 594. suponer
 595. retumbar
 596. enchufe
+597. protesta
