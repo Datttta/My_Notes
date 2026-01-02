@@ -1,6 +1,7 @@
 === New words ===
 
 1.  stylistically
+2. jay walking
 
 === Nuevas Palabras ===
 
