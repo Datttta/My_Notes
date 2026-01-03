@@ -583,3 +583,4 @@
 577. rabioso
 578. jovencito
 579. trueno
+580. sol
