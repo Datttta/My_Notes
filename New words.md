@@ -582,23 +582,4 @@
 576. apacible
 577. rabioso
 578. jovencito
-579. abatirse
-580. ronronear
-581. sacar a pasear
-582. maullar
-583. ladrar
-584. amonestar
-585. regatear
-586. to be left,quedar
-587. borrar
-588. dorar
-589. marcharse
-590. extrañar
-591. echar
-592. catar
-593. platicar
-594. suponer
-595. retumbar
-596. enchufe
-597. protesta
-598. juicio
+579. trueno
