@@ -2,10 +2,10 @@
 
 == Inbox ==
 - [ ] _
+- [ ] find a way to save your files and folders like in dropbox
 - [ ] change password of your network
 - [ ] equalize your earbuds
 - [ ] make your resumé
-- [ ] find a way to save your files and folders like in dropbox
 
 == Today ==
 - [ ] _
