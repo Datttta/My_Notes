@@ -579,9 +579,3 @@
 573. lejano
 574. labrado
 575. lacio
-576. apacible
-577. rabioso
-578. jovencito
-579. trueno
-580. sol
-581. sellarla
