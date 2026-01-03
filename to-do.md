@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] organize you bookmarks
 - [ ] watch a video telling you how to use baobab
 - [ ] add a custom expand to trays apps
 - [ ] change password of your network
@@ -15,6 +14,7 @@
 
 == Completed ==
 - [X] how to see pacman updates
+- [X] organize you bookmarks
 
 == Tasks ==
 - Loundry
