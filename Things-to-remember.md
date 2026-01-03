@@ -230,7 +230,7 @@
     - start hamachi: sudo systemctl start logmein-hamachi.service
     - stop hamahci: sudo systemctl stop logmein-hamachi.service
 
-- Storage:
+- Storage/disk space:
 
     - check storage usage per folder: du -sh *
 
