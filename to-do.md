@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] add a custom expand to trays apps
 - [ ] change password of your network
 - [ ] equalize your earbuds
 - [ ] make your resumé
@@ -15,6 +14,7 @@
 - [X] how to see pacman updates
 - [X] organize you bookmarks
 - [X] watch a video telling you how to use baobab
+- [X] add a custom expand to trays apps
 
 == Tasks ==
 - Loundry
