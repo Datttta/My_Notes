@@ -286,7 +286,5 @@
     - Miraa app (for shadowing)
 
 - Conection/internet:
- 
     - how to disconnect: "nmcli device disconnect wlp9s0"
-
     - how to connect: "nmcli device connect wlp9s0" 
