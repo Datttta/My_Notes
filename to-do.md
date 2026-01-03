@@ -2,6 +2,7 @@
 
 == Inbox ==
 - [ ] _
+- [ ] save osu folder to syncthing
 - [ ] change password of your network
 - [ ] equalize your earbuds
 - [ ] make your resumé
