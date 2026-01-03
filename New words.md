@@ -1,11 +1,6 @@
 === New words ===
 
-1.  stylistically
-2. jay walking
-3. psa
-4. come on - the radio come on
-5. be on someone - motivation
-6. drag out - make it longer
+1.  
 
 === Nuevas Palabras ===
 
