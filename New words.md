@@ -10,6 +10,7 @@
 8. showpiece
 9. cubbies - for boots
 10. curio drawer
+11. brochure
 
 === Nuevas Palabras ===
 
