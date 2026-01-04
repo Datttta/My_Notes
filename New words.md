@@ -12,6 +12,7 @@
 10. curio drawer
 11. brochure
 12. cushy - carpet
+13. ornate
 
 === Nuevas Palabras ===
 
