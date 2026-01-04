@@ -11,6 +11,7 @@
 9. cubbies - for boots
 10. curio drawer
 11. brochure
+12. cushy - carpet
 
 === Nuevas Palabras ===
 
