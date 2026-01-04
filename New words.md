@@ -8,6 +8,7 @@
 6. vanity
 7. finery
 8. showpiece
+9. cubbies - for boots
 
 === Nuevas Palabras ===
 
