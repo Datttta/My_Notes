@@ -9,6 +9,7 @@
 7. finery
 8. showpiece
 9. cubbies - for boots
+10. curio drawer
 
 === Nuevas Palabras ===
 
