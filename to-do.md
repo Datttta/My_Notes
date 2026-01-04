@@ -2,6 +2,7 @@
 
 == Inbox ==
 - [ ] _
+- [ ] how to decrease wayland input lag in games
 - [ ] equalize your earbuds
 - [ ] make your resumé
 
