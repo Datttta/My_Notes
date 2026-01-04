@@ -7,6 +7,7 @@
 5. panelled
 6. vanity
 7. finery
+8. showpiece
 
 === Nuevas Palabras ===
 
