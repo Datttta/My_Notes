@@ -2,6 +2,7 @@
 
 1. dilettant
 2. exhibit
+3. amiably
 
 === Nuevas Palabras ===
 
