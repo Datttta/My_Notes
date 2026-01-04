@@ -14,6 +14,7 @@
 12. cushy - carpet
 13. ornate
 14. snifter
+15. toddy - hot toddy
 
 === Nuevas Palabras ===
 
