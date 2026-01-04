@@ -1,6 +1,7 @@
 === New words ===
 
 1. dilettant
+2. exhibit
 
 === Nuevas Palabras ===
 
