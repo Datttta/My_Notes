@@ -3,6 +3,7 @@
 1. dilettant
 2. exhibit
 3. amiably
+4. footboard
 
 === Nuevas Palabras ===
 
