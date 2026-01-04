@@ -3,6 +3,7 @@
 == Inbox ==
 - [ ] _
 - [ ] how to decrease wayland input lag in games
+- [ ] add games direcotry to syncthing
 - [ ] equalize your earbuds
 - [ ] make your resumé
 
