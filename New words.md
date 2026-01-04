@@ -560,3 +560,4 @@
 554. impetuoso
 555. jactancioso
 556. siembra
+557. aturdido
