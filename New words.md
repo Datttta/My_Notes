@@ -562,3 +562,4 @@
 556. siembra
 557. aturdido
 558. aturdido
+559. tirar de pelo
