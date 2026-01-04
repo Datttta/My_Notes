@@ -561,3 +561,5 @@
 555. jactancioso
 556. siembra
 557. aturdido
+558. vello
+559. alabanza
