@@ -6,6 +6,7 @@
 4. footboard
 5. panelled
 6. vanity
+7. finery
 
 === Nuevas Palabras ===
 
