@@ -5,6 +5,7 @@
 3. amiably
 4. footboard
 5. panelled
+6. vanity
 
 === Nuevas Palabras ===
 
