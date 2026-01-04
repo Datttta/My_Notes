@@ -4,6 +4,7 @@
 2. exhibit
 3. amiably
 4. footboard
+5. panelled
 
 === Nuevas Palabras ===
 
