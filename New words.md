@@ -13,6 +13,7 @@
 11. brochure
 12. cushy - carpet
 13. ornate
+14. snifter
 
 === Nuevas Palabras ===
 
