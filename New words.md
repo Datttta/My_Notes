@@ -18,6 +18,7 @@
 16. hard of - hard of hearing
 17. pamphlet
 18. ritzy
+19. flourishes
 
 === Nuevas Palabras ===
 
