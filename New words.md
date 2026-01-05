@@ -2,65 +2,66 @@
 
 1. dilettant
 2. bode - this doesn't bode well
-3. squimishness
-4. odour
-5. pert
-6. cinched
-7. sash - matching sash
-8. veering
-9. limply
-10. jimmy
-11. adultarated
-12. fit - she had a fit and died
-13. inebrated
-14. decanter - cryistal decanter
-15. rummaging
-16. frantically
-17. specks
-18. ghastly
-19. harlot
-20. strumpet
-21. hussy
-22. chunky
-23. hempen
-24. follow through
-25. deprive
-26. jagged
-27. spooning
-28. thumbprint
-29. exhibit
-30. amiably
-31. footboard
-32. panelled
-33. vanity
-34. finery
-35. showpiece
-36. cubbies - for boots
-37. curio drawer
-38. brochure
-39. cushy - carpet
-40. ornate
-41. snifter
-42. toddy - hot toddy
-43. hard of - hard of hearing
-44. pamphlet
-45. ritzy
-46. flourishes
-47. duck call
-48. reed - matel reed
-49. trowel
-50. pry - pry open
-51. bushel - like a basket
-52. watering can
-53. clearing - forest clearing
-54. lodge - you can see the lodge
-55. decanter
-56. prized - prized by fisherman
-57. underfoot
-58. stuffy - I find him stuffy
-59. commotion
-60. mill about
-61. ernia
+3. disrepair
+4. squimishness
+5. odour
+6. pert
+7. cinched
+8. sash - matching sash
+9. veering
+10. limply
+11. jimmy
+12. adultarated
+13. fit - she had a fit and died
+14. inebrated
+15. decanter - cryistal decanter
+16. rummaging
+17. frantically
+18. specks
+19. ghastly
+20. harlot
+21. strumpet
+22. hussy
+23. chunky
+24. hempen
+25. follow through
+26. deprive
+27. jagged
+28. spooning
+29. thumbprint
+30. exhibit
+31. amiably
+32. footboard
+33. panelled
+34. vanity
+35. finery
+36. showpiece
+37. cubbies - for boots
+38. curio drawer
+39. brochure
+40. cushy - carpet
+41. ornate
+42. snifter
+43. toddy - hot toddy
+44. hard of - hard of hearing
+45. pamphlet
+46. ritzy
+47. flourishes
+48. duck call
+49. reed - matel reed
+50. trowel
+51. pry - pry open
+52. bushel - like a basket
+53. watering can
+54. clearing - forest clearing
+55. lodge - you can see the lodge
+56. decanter
+57. prized - prized by fisherman
+58. underfoot
+59. stuffy - I find him stuffy
+60. commotion
+61. mill about
+62. ernia
 
 === Nuevas Palabras ===
 
