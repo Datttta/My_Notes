@@ -27,6 +27,7 @@
 25. watering can
 26. clearing - forest clearing
 27. lodge - you can see the lodge
+28. decanter
 
 === Nuevas Palabras ===
 
