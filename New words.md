@@ -4,44 +4,45 @@
 2. squimishness
 3. odour
 4. pert
-5. follow through
-6. deprive
-7. jagged
-8. spooning
-9. thumbprint
-10. exhibit
-11. amiably
-12. footboard
-13. panelled
-14. vanity
-15. finery
-16. showpiece
-17. cubbies - for boots
-18. curio drawer
-19. brochure
-20. cushy - carpet
-21. ornate
-22. snifter
-23. toddy - hot toddy
-24. hard of - hard of hearing
-25. pamphlet
-26. ritzy
-27. flourishes
-28. duck call
-29. reed - matel reed
-30. trowel
-31. pry - pry open
-32. bushel - like a basket
-33. watering can
-34. clearing - forest clearing
-35. lodge - you can see the lodge
-36. decanter
-37. prized - prized by fisherman
-38. underfoot
-39. stuffy - I find him stuffy
-40. commotion
-41. mill about
-42. ernia
+5. cinched
+6. follow through
+7. deprive
+8. jagged
+9. spooning
+10. thumbprint
+11. exhibit
+12. amiably
+13. footboard
+14. panelled
+15. vanity
+16. finery
+17. showpiece
+18. cubbies - for boots
+19. curio drawer
+20. brochure
+21. cushy - carpet
+22. ornate
+23. snifter
+24. toddy - hot toddy
+25. hard of - hard of hearing
+26. pamphlet
+27. ritzy
+28. flourishes
+29. duck call
+30. reed - matel reed
+31. trowel
+32. pry - pry open
+33. bushel - like a basket
+34. watering can
+35. clearing - forest clearing
+36. lodge - you can see the lodge
+37. decanter
+38. prized - prized by fisherman
+39. underfoot
+40. stuffy - I find him stuffy
+41. commotion
+42. mill about
+43. ernia
 
 === Nuevas Palabras ===
 
