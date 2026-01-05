@@ -596,3 +596,4 @@
 557. aturdido
 558. aturdido
 559. tirar de pelo
+560. menuda
