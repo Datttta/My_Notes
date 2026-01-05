@@ -2,44 +2,45 @@
 
 1. dilettant
 2. squimishness
-3. follow through
-4. deprive
-5. jagged
-6. spooning
-7. thumbprint
-8. exhibit
-9. amiably
-10. footboard
-11. panelled
-12. vanity
-13. finery
-14. showpiece
-15. cubbies - for boots
-16. curio drawer
-17. brochure
-18. cushy - carpet
-19. ornate
-20. snifter
-21. toddy - hot toddy
-22. hard of - hard of hearing
-23. pamphlet
-24. ritzy
-25. flourishes
-26. duck call
-27. reed - matel reed
-28. trowel
-29. pry - pry open
-30. bushel - like a basket
-31. watering can
-32. clearing - forest clearing
-33. lodge - you can see the lodge
-34. decanter
-35. prized - prized by fisherman
-36. underfoot
-37. stuffy - I find him stuffy
-38. commotion
-39. mill about
-40. ernia
+3. odour
+4. follow through
+5. deprive
+6. jagged
+7. spooning
+8. thumbprint
+9. exhibit
+10. amiably
+11. footboard
+12. panelled
+13. vanity
+14. finery
+15. showpiece
+16. cubbies - for boots
+17. curio drawer
+18. brochure
+19. cushy - carpet
+20. ornate
+21. snifter
+22. toddy - hot toddy
+23. hard of - hard of hearing
+24. pamphlet
+25. ritzy
+26. flourishes
+27. duck call
+28. reed - matel reed
+29. trowel
+30. pry - pry open
+31. bushel - like a basket
+32. watering can
+33. clearing - forest clearing
+34. lodge - you can see the lodge
+35. decanter
+36. prized - prized by fisherman
+37. underfoot
+38. stuffy - I find him stuffy
+39. commotion
+40. mill about
+41. ernia
 
 === Nuevas Palabras ===
 
