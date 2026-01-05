@@ -33,6 +33,7 @@
 31. stuffy - I find him stuffy
 32. commotion
 33. mill about
+34. ernia
 
 === Nuevas Palabras ===
 
