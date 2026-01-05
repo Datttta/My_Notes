@@ -25,6 +25,7 @@
 23. pry - pry open
 24. bushel - like a basket
 25. watering can
+26. clearing - forest clearing
 
 === Nuevas Palabras ===
 
