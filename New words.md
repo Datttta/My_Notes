@@ -19,6 +19,7 @@
 17. pamphlet
 18. ritzy
 19. flourishes
+20. duck call
 
 === Nuevas Palabras ===
 
