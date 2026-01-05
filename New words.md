@@ -1,42 +1,43 @@
 === New words ===
 
 1. dilettant
-2. jagged
-3. spooning
-4. thumbprint
-5. exhibit
-6. amiably
-7. footboard
-8. panelled
-9. vanity
-10. finery
-11. showpiece
-12. cubbies - for boots
-13. curio drawer
-14. brochure
-15. cushy - carpet
-16. ornate
-17. snifter
-18. toddy - hot toddy
-19. hard of - hard of hearing
-20. pamphlet
-21. ritzy
-22. flourishes
-23. duck call
-24. reed - matel reed
-25. trowel
-26. pry - pry open
-27. bushel - like a basket
-28. watering can
-29. clearing - forest clearing
-30. lodge - you can see the lodge
-31. decanter
-32. prized - prized by fisherman
-33. underfoot
-34. stuffy - I find him stuffy
-35. commotion
-36. mill about
-37. ernia
+2. follow through
+3. jagged
+4. spooning
+5. thumbprint
+6. exhibit
+7. amiably
+8. footboard
+9. panelled
+10. vanity
+11. finery
+12. showpiece
+13. cubbies - for boots
+14. curio drawer
+15. brochure
+16. cushy - carpet
+17. ornate
+18. snifter
+19. toddy - hot toddy
+20. hard of - hard of hearing
+21. pamphlet
+22. ritzy
+23. flourishes
+24. duck call
+25. reed - matel reed
+26. trowel
+27. pry - pry open
+28. bushel - like a basket
+29. watering can
+30. clearing - forest clearing
+31. lodge - you can see the lodge
+32. decanter
+33. prized - prized by fisherman
+34. underfoot
+35. stuffy - I find him stuffy
+36. commotion
+37. mill about
+38. ernia
 
 === Nuevas Palabras ===
 
