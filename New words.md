@@ -17,6 +17,7 @@
 15. toddy - hot toddy
 16. hard of - hard of hearing
 17. pamphlet
+18. ritzy
 
 === Nuevas Palabras ===
 
