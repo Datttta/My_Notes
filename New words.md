@@ -6,65 +6,66 @@
 4. milling - milling all around
 5. unsung - unsung hero
 6. ransacked
-7. squimishness
-8. odour
-9. pert
-10. cinched
-11. sash - matching sash
-12. veering
-13. limply
-14. jimmy
-15. adultarated
-16. fit - she had a fit and died
-17. inebrated
-18. decanter - cryistal decanter
-19. rummaging
-20. frantically
-21. specks
-22. ghastly
-23. harlot
-24. strumpet
-25. hussy
-26. chunky
-27. hempen
-28. follow through
-29. deprive
-30. jagged
-31. spooning
-32. thumbprint
-33. exhibit
-34. amiably
-35. footboard
-36. panelled
-37. vanity
-38. finery
-39. showpiece
-40. cubbies - for boots
-41. curio drawer
-42. brochure
-43. cushy - carpet
-44. ornate
-45. snifter
-46. toddy - hot toddy
-47. hard of - hard of hearing
-48. pamphlet
-49. ritzy
-50. flourishes
-51. duck call
-52. reed - matel reed
-53. trowel
-54. pry - pry open
-55. bushel - like a basket
-56. watering can
-57. clearing - forest clearing
-58. lodge - you can see the lodge
-59. decanter
-60. prized - prized by fisherman
-61. underfoot
-62. stuffy - I find him stuffy
-63. commotion
-64. mill about
-65. ernia
+7. accomplice
+8. squimishness
+9. odour
+10. pert
+11. cinched
+12. sash - matching sash
+13. veering
+14. limply
+15. jimmy
+16. adultarated
+17. fit - she had a fit and died
+18. inebrated
+19. decanter - cryistal decanter
+20. rummaging
+21. frantically
+22. specks
+23. ghastly
+24. harlot
+25. strumpet
+26. hussy
+27. chunky
+28. hempen
+29. follow through
+30. deprive
+31. jagged
+32. spooning
+33. thumbprint
+34. exhibit
+35. amiably
+36. footboard
+37. panelled
+38. vanity
+39. finery
+40. showpiece
+41. cubbies - for boots
+42. curio drawer
+43. brochure
+44. cushy - carpet
+45. ornate
+46. snifter
+47. toddy - hot toddy
+48. hard of - hard of hearing
+49. pamphlet
+50. ritzy
+51. flourishes
+52. duck call
+53. reed - matel reed
+54. trowel
+55. pry - pry open
+56. bushel - like a basket
+57. watering can
+58. clearing - forest clearing
+59. lodge - you can see the lodge
+60. decanter
+61. prized - prized by fisherman
+62. underfoot
+63. stuffy - I find him stuffy
+64. commotion
+65. mill about
+66. ernia
 
 === Nuevas Palabras ===
 
