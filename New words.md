@@ -13,44 +13,46 @@
 11. fit - she had a fit and died
 12. inebrated
 13. decanter - cryistal decanter
-14. follow through
-15. deprive
-16. jagged
-17. spooning
-18. thumbprint
-19. exhibit
-20. amiably
-21. footboard
-22. panelled
-23. vanity
-24. finery
-25. showpiece
-26. cubbies - for boots
-27. curio drawer
-28. brochure
-29. cushy - carpet
-30. ornate
-31. snifter
-32. toddy - hot toddy
-33. hard of - hard of hearing
-34. pamphlet
-35. ritzy
-36. flourishes
-37. duck call
-38. reed - matel reed
-39. trowel
-40. pry - pry open
-41. bushel - like a basket
-42. watering can
-43. clearing - forest clearing
-44. lodge - you can see the lodge
-45. decanter
-46. prized - prized by fisherman
-47. underfoot
-48. stuffy - I find him stuffy
-49. commotion
-50. mill about
-51. ernia
+14. rummaging
+15. frantically
+16. follow through
+17. deprive
+18. jagged
+19. spooning
+20. thumbprint
+21. exhibit
+22. amiably
+23. footboard
+24. panelled
+25. vanity
+26. finery
+27. showpiece
+28. cubbies - for boots
+29. curio drawer
+30. brochure
+31. cushy - carpet
+32. ornate
+33. snifter
+34. toddy - hot toddy
+35. hard of - hard of hearing
+36. pamphlet
+37. ritzy
+38. flourishes
+39. duck call
+40. reed - matel reed
+41. trowel
+42. pry - pry open
+43. bushel - like a basket
+44. watering can
+45. clearing - forest clearing
+46. lodge - you can see the lodge
+47. decanter
+48. prized - prized by fisherman
+49. underfoot
+50. stuffy - I find him stuffy
+51. commotion
+52. mill about
+53. ernia
 
 === Nuevas Palabras ===
 
