@@ -24,6 +24,7 @@
 22. trowel
 23. pry - pry open
 24. bushel - like a basket
+25. watering can
 
 === Nuevas Palabras ===
 
