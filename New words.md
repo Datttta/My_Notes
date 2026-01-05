@@ -21,44 +21,45 @@
 19. strumpet
 20. hussy
 21. chunky
-22. follow through
-23. deprive
-24. jagged
-25. spooning
-26. thumbprint
-27. exhibit
-28. amiably
-29. footboard
-30. panelled
-31. vanity
-32. finery
-33. showpiece
-34. cubbies - for boots
-35. curio drawer
-36. brochure
-37. cushy - carpet
-38. ornate
-39. snifter
-40. toddy - hot toddy
-41. hard of - hard of hearing
-42. pamphlet
-43. ritzy
-44. flourishes
-45. duck call
-46. reed - matel reed
-47. trowel
-48. pry - pry open
-49. bushel - like a basket
-50. watering can
-51. clearing - forest clearing
-52. lodge - you can see the lodge
-53. decanter
-54. prized - prized by fisherman
-55. underfoot
-56. stuffy - I find him stuffy
-57. commotion
-58. mill about
-59. ernia
+22. hempen
+23. follow through
+24. deprive
+25. jagged
+26. spooning
+27. thumbprint
+28. exhibit
+29. amiably
+30. footboard
+31. panelled
+32. vanity
+33. finery
+34. showpiece
+35. cubbies - for boots
+36. curio drawer
+37. brochure
+38. cushy - carpet
+39. ornate
+40. snifter
+41. toddy - hot toddy
+42. hard of - hard of hearing
+43. pamphlet
+44. ritzy
+45. flourishes
+46. duck call
+47. reed - matel reed
+48. trowel
+49. pry - pry open
+50. bushel - like a basket
+51. watering can
+52. clearing - forest clearing
+53. lodge - you can see the lodge
+54. decanter
+55. prized - prized by fisherman
+56. underfoot
+57. stuffy - I find him stuffy
+58. commotion
+59. mill about
+60. ernia
 
 === Nuevas Palabras ===
 
