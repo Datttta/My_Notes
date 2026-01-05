@@ -19,44 +19,45 @@
 17. ghastly
 18. harlot
 19. strumpet
-20. follow through
-21. deprive
-22. jagged
-23. spooning
-24. thumbprint
-25. exhibit
-26. amiably
-27. footboard
-28. panelled
-29. vanity
-30. finery
-31. showpiece
-32. cubbies - for boots
-33. curio drawer
-34. brochure
-35. cushy - carpet
-36. ornate
-37. snifter
-38. toddy - hot toddy
-39. hard of - hard of hearing
-40. pamphlet
-41. ritzy
-42. flourishes
-43. duck call
-44. reed - matel reed
-45. trowel
-46. pry - pry open
-47. bushel - like a basket
-48. watering can
-49. clearing - forest clearing
-50. lodge - you can see the lodge
-51. decanter
-52. prized - prized by fisherman
-53. underfoot
-54. stuffy - I find him stuffy
-55. commotion
-56. mill about
-57. ernia
+20. hussy
+21. follow through
+22. deprive
+23. jagged
+24. spooning
+25. thumbprint
+26. exhibit
+27. amiably
+28. footboard
+29. panelled
+30. vanity
+31. finery
+32. showpiece
+33. cubbies - for boots
+34. curio drawer
+35. brochure
+36. cushy - carpet
+37. ornate
+38. snifter
+39. toddy - hot toddy
+40. hard of - hard of hearing
+41. pamphlet
+42. ritzy
+43. flourishes
+44. duck call
+45. reed - matel reed
+46. trowel
+47. pry - pry open
+48. bushel - like a basket
+49. watering can
+50. clearing - forest clearing
+51. lodge - you can see the lodge
+52. decanter
+53. prized - prized by fisherman
+54. underfoot
+55. stuffy - I find him stuffy
+56. commotion
+57. mill about
+58. ernia
 
 === Nuevas Palabras ===
 
