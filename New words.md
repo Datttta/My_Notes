@@ -16,6 +16,7 @@
 14. snifter
 15. toddy - hot toddy
 16. hard of - hard of hearing
+17. pamphlet
 
 === Nuevas Palabras ===
 
