@@ -28,7 +28,7 @@
 26. clearing - forest clearing
 27. lodge - you can see the lodge
 28. decanter
-29. prized - prized by fishermand
+29. prized - prized by fisherman
 
 === Nuevas Palabras ===
 
