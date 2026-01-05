@@ -22,6 +22,7 @@
 20. duck call
 21. reed - matel reed
 22. trowel
+23. pry - pry open
 
 === Nuevas Palabras ===
 
