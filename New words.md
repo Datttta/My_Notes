@@ -6,44 +6,45 @@
 4. pert
 5. cinched
 6. sash - matching sash
-7. follow through
-8. deprive
-9. jagged
-10. spooning
-11. thumbprint
-12. exhibit
-13. amiably
-14. footboard
-15. panelled
-16. vanity
-17. finery
-18. showpiece
-19. cubbies - for boots
-20. curio drawer
-21. brochure
-22. cushy - carpet
-23. ornate
-24. snifter
-25. toddy - hot toddy
-26. hard of - hard of hearing
-27. pamphlet
-28. ritzy
-29. flourishes
-30. duck call
-31. reed - matel reed
-32. trowel
-33. pry - pry open
-34. bushel - like a basket
-35. watering can
-36. clearing - forest clearing
-37. lodge - you can see the lodge
-38. decanter
-39. prized - prized by fisherman
-40. underfoot
-41. stuffy - I find him stuffy
-42. commotion
-43. mill about
-44. ernia
+7. veering
+8. follow through
+9. deprive
+10. jagged
+11. spooning
+12. thumbprint
+13. exhibit
+14. amiably
+15. footboard
+16. panelled
+17. vanity
+18. finery
+19. showpiece
+20. cubbies - for boots
+21. curio drawer
+22. brochure
+23. cushy - carpet
+24. ornate
+25. snifter
+26. toddy - hot toddy
+27. hard of - hard of hearing
+28. pamphlet
+29. ritzy
+30. flourishes
+31. duck call
+32. reed - matel reed
+33. trowel
+34. pry - pry open
+35. bushel - like a basket
+36. watering can
+37. clearing - forest clearing
+38. lodge - you can see the lodge
+39. decanter
+40. prized - prized by fisherman
+41. underfoot
+42. stuffy - I find him stuffy
+43. commotion
+44. mill about
+45. ernia
 
 === Nuevas Palabras ===
 
