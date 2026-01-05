@@ -23,6 +23,7 @@
 21. reed - matel reed
 22. trowel
 23. pry - pry open
+24. bushel - like a basket
 
 === Nuevas Palabras ===
 
