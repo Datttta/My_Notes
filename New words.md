@@ -21,6 +21,7 @@
 19. flourishes
 20. duck call
 21. reed - matel reed
+22. trowel
 
 === Nuevas Palabras ===
 
