@@ -20,6 +20,7 @@
 18. ritzy
 19. flourishes
 20. duck call
+21. reed - matel reed
 
 === Nuevas Palabras ===
 
