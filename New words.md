@@ -26,6 +26,7 @@
 24. bushel - like a basket
 25. watering can
 26. clearing - forest clearing
+27. lodge 
 
 === Nuevas Palabras ===
 
