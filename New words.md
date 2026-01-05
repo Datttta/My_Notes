@@ -9,44 +9,45 @@
 7. veering
 8. limply
 9. jimmy
-10. follow through
-11. deprive
-12. jagged
-13. spooning
-14. thumbprint
-15. exhibit
-16. amiably
-17. footboard
-18. panelled
-19. vanity
-20. finery
-21. showpiece
-22. cubbies - for boots
-23. curio drawer
-24. brochure
-25. cushy - carpet
-26. ornate
-27. snifter
-28. toddy - hot toddy
-29. hard of - hard of hearing
-30. pamphlet
-31. ritzy
-32. flourishes
-33. duck call
-34. reed - matel reed
-35. trowel
-36. pry - pry open
-37. bushel - like a basket
-38. watering can
-39. clearing - forest clearing
-40. lodge - you can see the lodge
-41. decanter
-42. prized - prized by fisherman
-43. underfoot
-44. stuffy - I find him stuffy
-45. commotion
-46. mill about
-47. ernia
+10. adultarated
+11. follow through
+12. deprive
+13. jagged
+14. spooning
+15. thumbprint
+16. exhibit
+17. amiably
+18. footboard
+19. panelled
+20. vanity
+21. finery
+22. showpiece
+23. cubbies - for boots
+24. curio drawer
+25. brochure
+26. cushy - carpet
+27. ornate
+28. snifter
+29. toddy - hot toddy
+30. hard of - hard of hearing
+31. pamphlet
+32. ritzy
+33. flourishes
+34. duck call
+35. reed - matel reed
+36. trowel
+37. pry - pry open
+38. bushel - like a basket
+39. watering can
+40. clearing - forest clearing
+41. lodge - you can see the lodge
+42. decanter
+43. prized - prized by fisherman
+44. underfoot
+45. stuffy - I find him stuffy
+46. commotion
+47. mill about
+48. ernia
 
 === Nuevas Palabras ===
 
