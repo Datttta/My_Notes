@@ -18,7 +18,7 @@
 16. specks
 17. ghastly
 18. harlot
-19. trumpet
+19. strumpet
 20. follow through
 21. deprive
 22. jagged
