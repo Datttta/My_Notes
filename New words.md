@@ -15,44 +15,45 @@
 13. decanter - cryistal decanter
 14. rummaging
 15. frantically
-16. follow through
-17. deprive
-18. jagged
-19. spooning
-20. thumbprint
-21. exhibit
-22. amiably
-23. footboard
-24. panelled
-25. vanity
-26. finery
-27. showpiece
-28. cubbies - for boots
-29. curio drawer
-30. brochure
-31. cushy - carpet
-32. ornate
-33. snifter
-34. toddy - hot toddy
-35. hard of - hard of hearing
-36. pamphlet
-37. ritzy
-38. flourishes
-39. duck call
-40. reed - matel reed
-41. trowel
-42. pry - pry open
-43. bushel - like a basket
-44. watering can
-45. clearing - forest clearing
-46. lodge - you can see the lodge
-47. decanter
-48. prized - prized by fisherman
-49. underfoot
-50. stuffy - I find him stuffy
-51. commotion
-52. mill about
-53. ernia
+16. specks
+17. follow through
+18. deprive
+19. jagged
+20. spooning
+21. thumbprint
+22. exhibit
+23. amiably
+24. footboard
+25. panelled
+26. vanity
+27. finery
+28. showpiece
+29. cubbies - for boots
+30. curio drawer
+31. brochure
+32. cushy - carpet
+33. ornate
+34. snifter
+35. toddy - hot toddy
+36. hard of - hard of hearing
+37. pamphlet
+38. ritzy
+39. flourishes
+40. duck call
+41. reed - matel reed
+42. trowel
+43. pry - pry open
+44. bushel - like a basket
+45. watering can
+46. clearing - forest clearing
+47. lodge - you can see the lodge
+48. decanter
+49. prized - prized by fisherman
+50. underfoot
+51. stuffy - I find him stuffy
+52. commotion
+53. mill about
+54. ernia
 
 === Nuevas Palabras ===
 
