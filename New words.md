@@ -11,44 +11,45 @@
 9. jimmy
 10. adultarated
 11. fit - she had a fit and died
-12. follow through
-13. deprive
-14. jagged
-15. spooning
-16. thumbprint
-17. exhibit
-18. amiably
-19. footboard
-20. panelled
-21. vanity
-22. finery
-23. showpiece
-24. cubbies - for boots
-25. curio drawer
-26. brochure
-27. cushy - carpet
-28. ornate
-29. snifter
-30. toddy - hot toddy
-31. hard of - hard of hearing
-32. pamphlet
-33. ritzy
-34. flourishes
-35. duck call
-36. reed - matel reed
-37. trowel
-38. pry - pry open
-39. bushel - like a basket
-40. watering can
-41. clearing - forest clearing
-42. lodge - you can see the lodge
-43. decanter
-44. prized - prized by fisherman
-45. underfoot
-46. stuffy - I find him stuffy
-47. commotion
-48. mill about
-49. ernia
+12. inebrated
+13. follow through
+14. deprive
+15. jagged
+16. spooning
+17. thumbprint
+18. exhibit
+19. amiably
+20. footboard
+21. panelled
+22. vanity
+23. finery
+24. showpiece
+25. cubbies - for boots
+26. curio drawer
+27. brochure
+28. cushy - carpet
+29. ornate
+30. snifter
+31. toddy - hot toddy
+32. hard of - hard of hearing
+33. pamphlet
+34. ritzy
+35. flourishes
+36. duck call
+37. reed - matel reed
+38. trowel
+39. pry - pry open
+40. bushel - like a basket
+41. watering can
+42. clearing - forest clearing
+43. lodge - you can see the lodge
+44. decanter
+45. prized - prized by fisherman
+46. underfoot
+47. stuffy - I find him stuffy
+48. commotion
+49. mill about
+50. ernia
 
 === Nuevas Palabras ===
 
