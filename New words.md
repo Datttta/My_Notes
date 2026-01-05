@@ -8,7 +8,7 @@
 6. ransacked
 7. accomplice
 8. conceal - try to conceal
-9. skim - skim the rest of the news paper
+9. skim - skim the rest of the newspaper
 10. squimishness
 11. odour
 12. pert
