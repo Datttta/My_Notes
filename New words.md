@@ -30,6 +30,7 @@
 28. decanter
 29. prized - prized by fisherman
 30. underfoot
+31. stuffy - I find him stuffy
 
 === Nuevas Palabras ===
 
