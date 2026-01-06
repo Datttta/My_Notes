@@ -68,7 +68,6 @@
 66. stuffy - I find him stuffy
 67. commotion
 68. mill about
-69. ernia
 
 === Nuevas Palabras ===
 
@@ -635,3 +634,4 @@
 561. callejero
 562. dejaba
 563. facilidades
+564. ernia
