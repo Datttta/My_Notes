@@ -635,3 +635,8 @@
 562. dejaba
 563. facilidades
 564. ernia
+565. has
+566. ha
+567. hemos
+568. habéis
+569. han
