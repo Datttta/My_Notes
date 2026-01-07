@@ -654,8 +654,9 @@
 583. pulpa
 584. cacharo
 585. grumo
-586. has
-587. ha
-588. hemos
-589. habéis
-590. han
+586. cigarillo
+587. has
+588. ha
+589. hemos
+590. habéis
+591. han
