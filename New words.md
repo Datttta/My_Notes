@@ -638,12 +638,7 @@
 562. dejaba
 563. facilidades
 564. ernia
-565. has
-566. ha
-567. hemos
-568. habéis
-569. han
-570. colocado
+565. 570. colocado
 571. porro
 572. orrugar
 573. ternera
@@ -651,3 +646,8 @@
 575. mula coja
 576. sábanas
 577. flema
+566. has
+567. ha
+568. hemos
+569. habéis
+570. han
