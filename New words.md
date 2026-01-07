@@ -648,8 +648,9 @@
 577. flema
 578. chillo
 579. rellano
-580. has
-581. ha
-582. hemos
-583. habéis
-584. han
+580. hacer ilusion
+581. has
+582. ha
+583. hemos
+584. habéis
+585. han
