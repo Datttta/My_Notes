@@ -651,8 +651,9 @@
 580. hacer ilusion
 581. coña
 582. chocolatinas
-583. has
-584. ha
-585. hemos
-586. habéis
-587. han
+583. pulpa
+584. has
+585. ha
+586. hemos
+587. habéis
+588. han
