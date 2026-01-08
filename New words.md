@@ -4,86 +4,87 @@
 2. toil - end to our toil
 3. turf - ground
 4. dwindling - I can see nothing away north or west but grass dwindling into mist
-5. trough
-6. trickling - trickling stream
-7. baggers "it almos baggers paralle"
-8. contrive - There will be no escape again, if we do not contrive it
-9. multifarious
-10. allegory - free from allegory
-11. kinsmen
-12. summit - run to the summit
-13. homely
-14. ambiance
-15. line - you must line the tray
-16. single out - single out the wrong word
-17. bode - this doesn't bode well
-18. disrepair
-19. milling - milling all around
-20. unsung - unsung hero
-21. ransacked
-22. accomplice
-23. conceal - try to conceal
-24. skim - skim the rest of the newspaper
-25. creaky
-26. squimishness
-27. odour
-28. pert
-29. cinched
-30. sash - matching sash
-31. veering
-32. limply
-33. jimmy
-34. adultarated
-35. fit - she had a fit and died
-36. inebrated
-37. decanter - cryistal decanter
-38. rummaging
-39. frantically
-40. specks
-41. ghastly
-42. harlot
-43. strumpet
-44. hussy
-45. chunky
-46. hempen
-47. follow through
-48. deprive
-49. jagged
-50. spooning
-51. thumbprint
-52. exhibit
-53. amiably
-54. footboard
-55. panelled
-56. vanity
-57. finery
-58. showpiece
-59. cubbies - for boots
-60. curio drawer
-61. brochure
-62. cushy - carpet
-63. ornate
-64. snifter
-65. toddy - hot toddy
-66. hard of - hard of hearing
-67. pamphlet
-68. ritzy
-69. flourishes
-70. duck call
-71. reed - matel reed
-72. trowel
-73. pry - pry open
-74. bushel - like a basket
-75. watering can
-76. clearing - forest clearing
-77. lodge - you can see the lodge
-78. decanter
-79. prized - prized by fisherman
-80. underfoot
-81. stuffy - I find him stuffy
-82. commotion
-83. mill about
-84. brood - brooded on the pale marigns of anduin
+5. downs - these downs run eight leagues
+6. trough
+7. trickling - trickling stream
+8. baggers "it almos baggers paralle"
+9. contrive - There will be no escape again, if we do not contrive it
+10. multifarious
+11. allegory - free from allegory
+12. kinsmen
+13. summit - run to the summit
+14. homely
+15. ambiance
+16. line - you must line the tray
+17. single out - single out the wrong word
+18. bode - this doesn't bode well
+19. disrepair
+20. milling - milling all around
+21. unsung - unsung hero
+22. ransacked
+23. accomplice
+24. conceal - try to conceal
+25. skim - skim the rest of the newspaper
+26. creaky
+27. squimishness
+28. odour
+29. pert
+30. cinched
+31. sash - matching sash
+32. veering
+33. limply
+34. jimmy
+35. adultarated
+36. fit - she had a fit and died
+37. inebrated
+38. decanter - cryistal decanter
+39. rummaging
+40. frantically
+41. specks
+42. ghastly
+43. harlot
+44. strumpet
+45. hussy
+46. chunky
+47. hempen
+48. follow through
+49. deprive
+50. jagged
+51. spooning
+52. thumbprint
+53. exhibit
+54. amiably
+55. footboard
+56. panelled
+57. vanity
+58. finery
+59. showpiece
+60. cubbies - for boots
+61. curio drawer
+62. brochure
+63. cushy - carpet
+64. ornate
+65. snifter
+66. toddy - hot toddy
+67. hard of - hard of hearing
+68. pamphlet
+69. ritzy
+70. flourishes
+71. duck call
+72. reed - matel reed
+73. trowel
+74. pry - pry open
+75. bushel - like a basket
+76. watering can
+77. clearing - forest clearing
+78. lodge - you can see the lodge
+79. decanter
+80. prized - prized by fisherman
+81. underfoot
+82. stuffy - I find him stuffy
+83. commotion
+84. mill about
+85. brood - brooded on the pale marigns of anduin
 
 === Nuevas Palabras ===
 
