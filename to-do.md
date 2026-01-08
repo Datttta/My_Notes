@@ -7,6 +7,7 @@
 - [ ] how to decrease wayland input lag in games
 - [ ] add games direcotry to syncthing
 - [ ] equalize your earbuds
+- [ ] make an excercise list
 - [ ] make your resumé
 
 == Today ==
