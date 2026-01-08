@@ -2,6 +2,7 @@
 
 == Inbox ==
 - [ ] _
+- [ ] yazi not showing devices connected in usb like cellphone, in thunar I was able to browse in my cellphone's files
 - [ ] how to decrease wayland input lag in games
 - [ ] add games direcotry to syncthing
 - [ ] equalize your earbuds
