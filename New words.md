@@ -1,7 +1,7 @@
 === New words ===
 
 1. dilettant
-2. baggers "it almos baggers paralles"
+2. baggers "it almos baggers paralle"
 3. ambiance
 4. line - you must line the tray
 5. single out - single out the wrong word
