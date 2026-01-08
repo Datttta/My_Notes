@@ -1,7 +1,7 @@
 === New words ===
 
 1. dilettant
-2. though
+2. trough
 3. baggers "it almos baggers paralle"
 4. multifarious
 5. allegory - free from allegory
