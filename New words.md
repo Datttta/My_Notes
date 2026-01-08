@@ -660,8 +660,9 @@
 589. coneso
 590. llantar
 591. compuerta
-592. has
-593. ha
-594. hemos
-595. habéis
-596. han
+592. passar de
+593. has
+594. ha
+595. hemos
+596. habéis
+597. han
