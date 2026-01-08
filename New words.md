@@ -659,8 +659,9 @@
 588. panejirico
 589. coneso
 590. llantar
-591. has
-592. ha
-593. hemos
-594. habéis
-595. han
+591. compuerta
+592. has
+593. ha
+594. hemos
+595. habéis
+596. han
