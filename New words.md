@@ -657,8 +657,9 @@
 586. cigarillo
 587. tobillo
 588. panejirico
-589. has
-590. ha
-591. hemos
-592. habéis
-593. han
+589. coneso
+590. has
+591. ha
+592. hemos
+593. habéis
+594. han
