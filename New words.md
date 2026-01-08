@@ -4,77 +4,78 @@
 2. baggers "it almos baggers paralle"
 3. multifarious
 4. allegory - free from allegory
-5. homely
-6. ambiance
-7. line - you must line the tray
-8. single out - single out the wrong word
-9. bode - this doesn't bode well
-10. disrepair
-11. milling - milling all around
-12. unsung - unsung hero
-13. ransacked
-14. accomplice
-15. conceal - try to conceal
-16. skim - skim the rest of the newspaper
-17. creaky
-18. squimishness
-19. odour
-20. pert
-21. cinched
-22. sash - matching sash
-23. veering
-24. limply
-25. jimmy
-26. adultarated
-27. fit - she had a fit and died
-28. inebrated
-29. decanter - cryistal decanter
-30. rummaging
-31. frantically
-32. specks
-33. ghastly
-34. harlot
-35. strumpet
-36. hussy
-37. chunky
-38. hempen
-39. follow through
-40. deprive
-41. jagged
-42. spooning
-43. thumbprint
-44. exhibit
-45. amiably
-46. footboard
-47. panelled
-48. vanity
-49. finery
-50. showpiece
-51. cubbies - for boots
-52. curio drawer
-53. brochure
-54. cushy - carpet
-55. ornate
-56. snifter
-57. toddy - hot toddy
-58. hard of - hard of hearing
-59. pamphlet
-60. ritzy
-61. flourishes
-62. duck call
-63. reed - matel reed
-64. trowel
-65. pry - pry open
-66. bushel - like a basket
-67. watering can
-68. clearing - forest clearing
-69. lodge - you can see the lodge
-70. decanter
-71. prized - prized by fisherman
-72. underfoot
-73. stuffy - I find him stuffy
-74. commotion
-75. mill about
+5. kinsmen
+6. homely
+7. ambiance
+8. line - you must line the tray
+9. single out - single out the wrong word
+10. bode - this doesn't bode well
+11. disrepair
+12. milling - milling all around
+13. unsung - unsung hero
+14. ransacked
+15. accomplice
+16. conceal - try to conceal
+17. skim - skim the rest of the newspaper
+18. creaky
+19. squimishness
+20. odour
+21. pert
+22. cinched
+23. sash - matching sash
+24. veering
+25. limply
+26. jimmy
+27. adultarated
+28. fit - she had a fit and died
+29. inebrated
+30. decanter - cryistal decanter
+31. rummaging
+32. frantically
+33. specks
+34. ghastly
+35. harlot
+36. strumpet
+37. hussy
+38. chunky
+39. hempen
+40. follow through
+41. deprive
+42. jagged
+43. spooning
+44. thumbprint
+45. exhibit
+46. amiably
+47. footboard
+48. panelled
+49. vanity
+50. finery
+51. showpiece
+52. cubbies - for boots
+53. curio drawer
+54. brochure
+55. cushy - carpet
+56. ornate
+57. snifter
+58. toddy - hot toddy
+59. hard of - hard of hearing
+60. pamphlet
+61. ritzy
+62. flourishes
+63. duck call
+64. reed - matel reed
+65. trowel
+66. pry - pry open
+67. bushel - like a basket
+68. watering can
+69. clearing - forest clearing
+70. lodge - you can see the lodge
+71. decanter
+72. prized - prized by fisherman
+73. underfoot
+74. stuffy - I find him stuffy
+75. commotion
+76. mill about
 
 === Nuevas Palabras ===
 
