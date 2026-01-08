@@ -658,8 +658,9 @@
 587. tobillo
 588. panejirico
 589. coneso
-590. has
-591. ha
-592. hemos
-593. habéis
-594. han
+590. llantar
+591. has
+592. ha
+593. hemos
+594. habéis
+595. han
