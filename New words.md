@@ -2,7 +2,7 @@
 
 1. dilettant
 2. trough
-3. trickling - trickling river
+3. trickling - trickling stream
 4. baggers "it almos baggers paralle"
 5. multifarious
 6. allegory - free from allegory
