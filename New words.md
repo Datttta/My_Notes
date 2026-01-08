@@ -77,6 +77,7 @@
 75. stuffy - I find him stuffy
 76. commotion
 77. mill about
+78. brood - brooded on the pale marigns of anduin
 
 === Nuevas Palabras ===
 
