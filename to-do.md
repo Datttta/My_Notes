@@ -2,7 +2,7 @@
 
 == Inbox ==
 - [ ] _
-- [ ] preview plugin for nn
+- [ ] preview plugin for nnn
 - [ ] delete and install Mount plugin in yazi, and ten test if you can see the cellphone
 - [ ] yazi not showing devices connected in usb like cellphone, in thunar I was able to browse in my cellphone's files
 - [ ] how to decrease wayland input lag in games
