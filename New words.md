@@ -14,7 +14,7 @@
 13. wroth - he is wroth
 14. warily
 15. begrudged
-16. restive
+16. restive -  smaller and lighter horse, but restive and fiery
 17. baggers "it almos baggers paralle"
 18. contrive - There will be no escape again, if we do not contrive it
 19. multifarious
