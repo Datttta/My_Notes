@@ -1,11 +1,12 @@
 === New words ===
 
 1. dilettant
-2. toil - end to our toil
-3. turf - ground
-4. dwindling - I can see nothing away north or west but grass dwindling into mist
-5. downs - these downs run eight leagues
-6. swept up - Suddenly they swept up with a noise like thunder
+2. crook-legged
+3. toil - end to our toil
+4. turf - ground
+5. dwindling - I can see nothing away north or west but grass dwindling into mist
+6. downs - these downs run eight leagues
+7. swept up - Suddenly they swept up with a noise like thunder
 8. trough
 9. burnished - burnished shirts
 10. trickling - trickling stream
