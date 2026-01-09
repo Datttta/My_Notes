@@ -684,8 +684,9 @@
 590. llantar
 591. compuerta
 592. passar de
-593. has
-594. ha
-595. hemos
-596. habéis
-597. han
+593. asi que
+594. has
+595. ha
+596. hemos
+597. habéis
+598. han
