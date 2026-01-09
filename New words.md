@@ -4,99 +4,100 @@
 2. crook-legged
 3. prostrate
 4. fanged - yellow-fanged
-5. toil - end to our toil
-6. turf - ground
-7. dwindling - I can see nothing away north or west but grass dwindling into mist
-8. downs - these downs run eight leagues
-9. swept up - Suddenly they swept up with a noise like thunder
-10. trough
-11. burnished - burnished shirts
-12. trickling - trickling stream
-13. raiment
-14. unshod- unshod but clad in grey
-15. wroth - he is wroth
-16. warily
-17. begrudged
-18. restive -  smaller and lighter horse, but restive and fiery
-19. cloven - cloven shields
-20. baggers "it almos baggers paralle"
-21. contrive - There will be no escape again, if we do not contrive it
-22. multifarious
-23. allegory - free from allegory
-24. kinsmen
-25. summit - run to the summit
-26. homely
-27. ambiance
-28. line - you must line the tray
-29. single out - single out the wrong word
-30. bode - this doesn't bode well
-31. disrepair
-32. milling - milling all around
-33. unsung - unsung hero
-34. ransacked
-35. accomplice
-36. conceal - try to conceal
-37. skim - skim the rest of the newspaper
-38. creaky
-39. squimishness
-40. odour
-41. pert
-42. cinched
-43. sash - matching sash
-44. veering
-45. limply
-46. jimmy
-47. adultarated
-48. fit - she had a fit and died
-49. inebrated
-50. decanter - cryistal decanter
-51. rummaging
-52. frantically
-53. specks
-54. ghastly
-55. harlot
-56. strumpet
-57. hussy
-58. chunky
-59. hempen
-60. follow through
-61. deprive
-62. jagged
-63. spooning
-64. thumbprint
-65. exhibit
-66. amiably
-67. footboard
-68. panelled
-69. vanity
-70. finery
-71. showpiece
-72. cubbies - for boots
-73. curio drawer
-74. brochure
-75. cushy - carpet
-76. ornate
-77. snifter
-78. toddy - hot toddy
-79. hard of - hard of hearing
-80. pamphlet
-81. ritzy
-82. flourishes
-83. duck call
-84. reed - matel reed
-85. trowel
-86. pry - pry open
-87. bushel - like a basket
-88. watering can
-89. clearing - forest clearing
-90. lodge - you can see the lodge
-91. decanter
-92. prized - prized by fisherman
-93. underfoot
-94. stuffy - I find him stuffy
-95. commotion
-96. mill about
-97. brood - brooded on the pale marigns of anduin
+5. snicked - the edge of the knife had snicked his arm
+6. toil - end to our toil
+7. turf - ground
+8. dwindling - I can see nothing away north or west but grass dwindling into mist
+9. downs - these downs run eight leagues
+10. swept up - Suddenly they swept up with a noise like thunder
+11. trough
+12. burnished - burnished shirts
+13. trickling - trickling stream
+14. raiment
+15. unshod- unshod but clad in grey
+16. wroth - he is wroth
+17. warily
+18. begrudged
+19. restive -  smaller and lighter horse, but restive and fiery
+20. cloven - cloven shields
+21. baggers "it almos baggers paralle"
+22. contrive - There will be no escape again, if we do not contrive it
+23. multifarious
+24. allegory - free from allegory
+25. kinsmen
+26. summit - run to the summit
+27. homely
+28. ambiance
+29. line - you must line the tray
+30. single out - single out the wrong word
+31. bode - this doesn't bode well
+32. disrepair
+33. milling - milling all around
+34. unsung - unsung hero
+35. ransacked
+36. accomplice
+37. conceal - try to conceal
+38. skim - skim the rest of the newspaper
+39. creaky
+40. squimishness
+41. odour
+42. pert
+43. cinched
+44. sash - matching sash
+45. veering
+46. limply
+47. jimmy
+48. adultarated
+49. fit - she had a fit and died
+50. inebrated
+51. decanter - cryistal decanter
+52. rummaging
+53. frantically
+54. specks
+55. ghastly
+56. harlot
+57. strumpet
+58. hussy
+59. chunky
+60. hempen
+61. follow through
+62. deprive
+63. jagged
+64. spooning
+65. thumbprint
+66. exhibit
+67. amiably
+68. footboard
+69. panelled
+70. vanity
+71. finery
+72. showpiece
+73. cubbies - for boots
+74. curio drawer
+75. brochure
+76. cushy - carpet
+77. ornate
+78. snifter
+79. toddy - hot toddy
+80. hard of - hard of hearing
+81. pamphlet
+82. ritzy
+83. flourishes
+84. duck call
+85. reed - matel reed
+86. trowel
+87. pry - pry open
+88. bushel - like a basket
+89. watering can
+90. clearing - forest clearing
+91. lodge - you can see the lodge
+92. decanter
+93. prized - prized by fisherman
+94. underfoot
+95. stuffy - I find him stuffy
+96. commotion
+97. mill about
+98. brood - brooded on the pale marigns of anduin
 
 === Nuevas Palabras ===
 
