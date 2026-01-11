@@ -96,13 +96,14 @@
 94. watering can
 95. clearing - forest clearing
 96. lodge - you can see the lodge
-97. decanter
-98. prized - prized by fisherman
-99. underfoot
-100. stuffy - I find him stuffy
-101. commotion
-102. mill about
-103. brood - brooded on the pale marigns of anduin
+97. buttress - mount
+98. decanter
+99. prized - prized by fisherman
+100. underfoot
+101. stuffy - I find him stuffy
+102. commotion
+103. mill about
+104. brood - brooded on the pale marigns of anduin
 
 === Nuevas Palabras ===
 
