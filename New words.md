@@ -3,8 +3,6 @@
 1. dilettant
 2. upen - the roads that converged upon the Gate of Mordor
 3. cleft - mount
-4. hd - Aragorn could perhaps hd,
-5. hllum - Aragorn could perhaps hllum
 6. crook-legged
 7. prostrate
 8. fanged - yellow-fanged
