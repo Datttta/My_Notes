@@ -256,7 +256,7 @@
      
         - xdg-mime default mpv.desktop video/x-msvideo
 
-    - You can also access the file with the default apps: nvim ~/.config/mimeapps.list
+    - You can also access the file with the default apps: 'nvim ~/.config/mimeapps.list'
 
 - Yazi:
   
