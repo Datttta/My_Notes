@@ -160,10 +160,12 @@
     - 'chmod -R o+rx' | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
 
 - Vimwiki help:
-    - *:h vimwiki-syntax*
+
+    - ':h vimwiki-syntax'
 
 - Clear clipboard: 
-    - *cliphist wipe*
+  
+    - 'cliphist wipe'
 
 - Stow root files:
     - *sudo stow -t / fonts*
@@ -171,12 +173,9 @@
     - if you want restow it:
         - *sudo stow -R -t / slashConfs*
 
-- How to preview markdown files vimwiki:
-    - *:MarkdownPreview*
-
 - Run app with amd/radeon driver:
-    - *DRI_PRIME=1* 
-      
+    - 'DRI_PRIME=1' 
+
 - Lists:
     - *:'<,'>s/^\s*\%(\d\+\.\s*\)\?/\=line('.') - line("'<") + 1 . ". "/*
 
