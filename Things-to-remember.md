@@ -157,7 +157,7 @@
     - Show with color: tree -C
 
 - Giving permission to other users to read and access a foler or files:
-    - *chmod -R o+rx* | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
+    - 'chmod -R o+rx' | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
 
 - Vimwiki help:
     - *:h vimwiki-syntax*
