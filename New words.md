@@ -11,7 +11,6 @@
 11.  hillside hillside slopes
 13. prostrate
 14. mantled - mantled in deep tapestries
-15. sages - sages of meny kinds
 16. fanged - yellow-fanged
 17. snicked - the edge of the knife had snicked his arm
 18. slant - slant-eyed
