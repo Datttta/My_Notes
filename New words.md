@@ -4,7 +4,7 @@
 2. upen - the roads that converged upon the Gate of Mordor
 3. cleft - mount
 6. crook-legged
-7. hollow - mouth
+7. hollow - mount
 8. prostrate
 9. fanged - yellow-fanged
 10. snicked - the edge of the knife had snicked his arm
