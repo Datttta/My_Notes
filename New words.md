@@ -9,7 +9,6 @@
 9. reprieved - too good to be reprieved
 10. heights - behind the gloomy heights
 11.  hillside hillside slopes
-12. wind - but it didn't wind
 13. prostrate
 14. fanged - yellow-fanged
 15. snicked - the edge of the knife had snicked his arm
