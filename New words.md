@@ -8,7 +8,7 @@
 6. forayers - his forayers
 7. harry - to harry the Orcs
 8. swarthy - swarthy men
-9. hew
+9. hew - hewing them down
 10. upen - the roads that converged upon the Gate of Mordor
 11. cleft - mount
 12. crook-legged
