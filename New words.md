@@ -4,7 +4,7 @@
 2. trussed - trussed their small packs
 3. gauntlets - hand
 4. parleying - no time or place for riddling or parleying
-5. doughty - doughty man
+5. doughty - doughty men
 6. upen - the roads that converged upon the Gate of Mordor
 7. cleft - mount
 8. crook-legged
