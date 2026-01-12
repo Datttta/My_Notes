@@ -19,7 +19,7 @@
 17. pivoted - pivoted on the wrist
 18. swoon - out of the swoon that was upon him
 19. firmament - from the firmament
-20. sears - sears the dark
+20. sears - sears the dark air
 21. trussed - trussed their small packs
 22. gauntlets - hand
 23. parleying - no time or place for riddling or parleying
