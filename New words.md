@@ -10,7 +10,7 @@
 8. barrow - the darking of the barrow
 9. droop - slowly the phial drooped
 10. quail -  the eyes began to quail
-11. spring out
+11. spring out - he sprang out shouting as he came
 12. trussed - trussed their small packs
 13. gauntlets - hand
 14. parleying - no time or place for riddling or parleying
