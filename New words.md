@@ -27,125 +27,126 @@
 25. humming - hummin got himselft
 26. realm - noun
 27. dotage - falling by degrees into dotage
-28. upen - the roads that converged upon the Gate of Mordor
-29. cleft - mount
-30. crook-legged
-31. hollow - mount
-32. dwindled - dwindled to a small fiery point
-33. reprieved - too good to be reprieved
-34. heights - behind the gloomy heights
-35.  hillside hillside slopes
-36. prostrate
-37. mantled - mantled in deep tapestries
-38. fanged - yellow-fanged
-39. grots - grots and rocky walls
-40. starred - starred with
-41. saxifrages - saxifrages and stonecrops
-42. stonecrops
-43. nonetheless
-44. wantonly - trees hewn down wantonly
-45. chiselling - as if the chiselling of the shaping years
-46. reek - hazer or dark shadow
-47. snicked - the edge of the knife had snicked his arm
-48. slant - slant-eyed
-49. jowl - body part
-50. stampade - to stop a stampade
-51. sprawled - he sprawled to his face
-52. bear - rock was bored into a hundred caves
-53. toil - end to our toil
-54. turf - ground
-55. dwindling - I can see nothing away north or west but grass dwindling into mist
-56. downs - these downs run eight leagues
-57. swept up - Suddenly they swept up with a noise like thunder
-58. trough
-59. burnished - burnished shirts
-60. trickling - trickling stream
-61. raiment
-62. unshod- unshod but clad in grey
-63. wroth - he is wroth
-64. warily
-65. begrudged
-66. restive -  smaller and lighter horse, but restive and fiery
-67. cloven - cloven shields
-68. baggers "it almos baggers paralle"
-69. contrive - There will be no escape again, if we do not contrive it
-70. multifarious
-71. allegory - free from allegory
-72. kinsmen
-73. summit - run to the summit
-74. homely
-75. ambiance
-76. line - you must line the tray
-77. single out - single out the wrong word
-78. bode - this doesn't bode well
-79. disrepair
-80. milling - milling all around
-81. unsung - unsung hero
-82. ransacked
-83. accomplice
-84. conceal - try to conceal
-85. skim - skim the rest of the newspaper
-86. creaky
-87. squimishness
-88. odour
-89. pert
-90. cinched
-91. sash - matching sash
-92. veering
-93. limply
-94. jimmy
-95. adultarated
-96. fit - she had a fit and died
-97. inebrated
-98. decanter - cryistal decanter
-99. rummaging
-100. frantically
-101. specks
-102. ghastly
-103. harlot
-104. strumpet
-105. hussy
-106. chunky
-107. hempen
-108. follow through
-109. deprive
-110. jagged
-111. spooning
-112. thumbprint
-113. exhibit
-114. amiably
-115. footboard
-116. panelled
-117. vanity
-118. finery
-119. showpiece
-120. cubbies - for boots
-121. curio drawer
-122. brochure
-123. cushy - carpet
-124. ornate
-125. snifter
-126. toddy - hot toddy
-127. hard of - hard of hearing
-128. pamphlet
-129. ritzy
-130. flourishes
-131. duck call
-132. reed - matel reed
-133. trowel
-134. pry - pry open
-135. bushel - like a basket
-136. watering can
-137. clearing - forest clearing
-138. lodge - you can see the lodge
-139. buttress - mount
-140. decanter
-141. prized - prized by fisherman
-142. underfoot
-143. stuffy - I find him stuffy
-144. commotion
-145. mill about
-146. brood - brooded on the pale marigns of anduin
+28. heraldry
+29. upen - the roads that converged upon the Gate of Mordor
+30. cleft - mount
+31. crook-legged
+32. hollow - mount
+33. dwindled - dwindled to a small fiery point
+34. reprieved - too good to be reprieved
+35. heights - behind the gloomy heights
+36.  hillside hillside slopes
+37. prostrate
+38. mantled - mantled in deep tapestries
+39. fanged - yellow-fanged
+40. grots - grots and rocky walls
+41. starred - starred with
+42. saxifrages - saxifrages and stonecrops
+43. stonecrops
+44. nonetheless
+45. wantonly - trees hewn down wantonly
+46. chiselling - as if the chiselling of the shaping years
+47. reek - hazer or dark shadow
+48. snicked - the edge of the knife had snicked his arm
+49. slant - slant-eyed
+50. jowl - body part
+51. stampade - to stop a stampade
+52. sprawled - he sprawled to his face
+53. bear - rock was bored into a hundred caves
+54. toil - end to our toil
+55. turf - ground
+56. dwindling - I can see nothing away north or west but grass dwindling into mist
+57. downs - these downs run eight leagues
+58. swept up - Suddenly they swept up with a noise like thunder
+59. trough
+60. burnished - burnished shirts
+61. trickling - trickling stream
+62. raiment
+63. unshod- unshod but clad in grey
+64. wroth - he is wroth
+65. warily
+66. begrudged
+67. restive -  smaller and lighter horse, but restive and fiery
+68. cloven - cloven shields
+69. baggers "it almos baggers paralle"
+70. contrive - There will be no escape again, if we do not contrive it
+71. multifarious
+72. allegory - free from allegory
+73. kinsmen
+74. summit - run to the summit
+75. homely
+76. ambiance
+77. line - you must line the tray
+78. single out - single out the wrong word
+79. bode - this doesn't bode well
+80. disrepair
+81. milling - milling all around
+82. unsung - unsung hero
+83. ransacked
+84. accomplice
+85. conceal - try to conceal
+86. skim - skim the rest of the newspaper
+87. creaky
+88. squimishness
+89. odour
+90. pert
+91. cinched
+92. sash - matching sash
+93. veering
+94. limply
+95. jimmy
+96. adultarated
+97. fit - she had a fit and died
+98. inebrated
+99. decanter - cryistal decanter
+100. rummaging
+101. frantically
+102. specks
+103. ghastly
+104. harlot
+105. strumpet
+106. hussy
+107. chunky
+108. hempen
+109. follow through
+110. deprive
+111. jagged
+112. spooning
+113. thumbprint
+114. exhibit
+115. amiably
+116. footboard
+117. panelled
+118. vanity
+119. finery
+120. showpiece
+121. cubbies - for boots
+122. curio drawer
+123. brochure
+124. cushy - carpet
+125. ornate
+126. snifter
+127. toddy - hot toddy
+128. hard of - hard of hearing
+129. pamphlet
+130. ritzy
+131. flourishes
+132. duck call
+133. reed - matel reed
+134. trowel
+135. pry - pry open
+136. bushel - like a basket
+137. watering can
+138. clearing - forest clearing
+139. lodge - you can see the lodge
+140. buttress - mount
+141. decanter
+142. prized - prized by fisherman
+143. underfoot
+144. stuffy - I find him stuffy
+145. commotion
+146. mill about
+147. brood - brooded on the pale marigns of anduin
 
 === Nuevas Palabras ===
 
