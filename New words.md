@@ -17,7 +17,7 @@
 15. therein - his own glory therein
 16. trickled - the stream that trickled
 17. cloven - rock
-18. bad - rock/mountain
+18. bed - rock/mountain
 19. upen - the roads that converged upon the Gate of Mordor
 20. cleft - mount
 21. crook-legged
