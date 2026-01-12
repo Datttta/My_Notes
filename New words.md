@@ -9,7 +9,7 @@
 7. crawled - crawled stair
 8. barrow - the darking of the barrow
 9. droop - slowly the phial drooped
-10. quail-  the eyes began to quail
+10. quail -  the eyes began to quail
 11. trussed - trussed their small packs
 12. gauntlets - hand
 13. parleying - no time or place for riddling or parleying
