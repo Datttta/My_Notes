@@ -146,25 +146,6 @@
 144. amiably
 145. footboard
 146. panelled
-147. vanity
-148. finery
-149. showpiece
-150. cubbies - for boots
-151. curio drawer
-152. brochure
-153. cushy - carpet
-154. ornate
-155. snifter
-156. toddy - hot toddy
-157. hard of - hard of hearing
-158. pamphlet
-159. ritzy
-160. flourishes
-161. duck call
-162. reed - matel reed
-163. reedem
-164. pushover - he is pushover
-165. hotful
 
 === Nuevas Palabras ===
 
