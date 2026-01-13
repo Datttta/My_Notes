@@ -258,6 +258,8 @@
 
     - You can also access the file with the default apps: 'nvim ~/.config/mimeapps.list'
 
+    - Change default browser: xdg-settings set default-web-browser <vivaldi-stable.desktop>
+
 - Yazi:
   
     - help: double press "~"
