@@ -162,8 +162,6 @@
 160. flourishes
 161. duck call
 162. reed - matel reed
-163. trowel
-164. pry - pry open
 
 === Nuevas Palabras ===
 
