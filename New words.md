@@ -144,8 +144,6 @@
 142. thumbprint
 143. exhibit
 144. amiably
-145. footboard
-146. panelled
 
 === Nuevas Palabras ===
 
