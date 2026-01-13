@@ -2,8 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] delete and install Mount plugin in yazi, and ten test if you can see the cellphone
-- [ ] yazi not showing devices connected in usb like cellphone, in thunar I was able to browse in my cellphone's files
 - [ ] how to decrease wayland input lag in games
 - [ ] equalize your earbuds
 - [ ] look biotechlonogy up
@@ -23,6 +21,7 @@
 - [X] save osu folder to syncthing
 - [X] set size for copyq floating windows
 - [X] add games direcotry to syncthing
+- [X] yazi not showing devices connected in usb like cellphone, in thunar I was able to browse in my cellphone's files
 
 == Tasks ==
 - Loundry
