@@ -737,7 +737,6 @@
 588. passar de
 589. asi que
 590. guiones
-591. cartel
 592. has
 593. ha
 594. hemos
