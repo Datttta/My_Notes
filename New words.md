@@ -739,4 +739,4 @@
 590. pensarlo
 591. llamar
 592. guiones
-593. has
+594. has
