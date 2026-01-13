@@ -757,6 +757,7 @@
 587. compuerta
 588. passar de
 589. asi que
-590. has
-591. ha
-592. hemos
+590. guiones
+591. has
+592. ha
+593. hemos
