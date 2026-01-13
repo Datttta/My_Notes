@@ -760,5 +760,3 @@
 590. has
 591. ha
 592. hemos
-593. habéis
-594. han
