@@ -164,15 +164,6 @@
 162. reed - matel reed
 163. trowel
 164. pry - pry open
-165. bushel - like a basket
-166. watering can
-167. clearing - forest clearing
-168. lodge - you can see the lodge
-169. buttress - mount
-170. decanter
-171. prized - prized by fisherman
-172. underfoot
-173. stuffy - I find him stuffy
 
 === Nuevas Palabras ===
 
