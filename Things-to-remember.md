@@ -289,4 +289,5 @@
 - Change internet name/ssid and password (access router):
 
     - use on terminal: ip neigh
+
     - use one of the ip addresses that appears on the terminal as a url on a webrowser
