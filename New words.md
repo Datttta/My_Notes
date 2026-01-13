@@ -736,7 +736,7 @@
 587. compuerta
 588. passar de
 589. asi que
-590. guiones
+590. pensarlo
+591. guiones
 592. has
-593. ha
-594. hemos
+593. 
