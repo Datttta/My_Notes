@@ -173,9 +173,6 @@
 171. prized - prized by fisherman
 172. underfoot
 173. stuffy - I find him stuffy
-174. commotion
-175. mill about
-176. brood - brooded on the pale marigns of anduin
 
 === Nuevas Palabras ===
 
