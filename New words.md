@@ -711,13 +711,3 @@
 581. grumo
 582. cigarillo
 583. tobillo
-584. panejirico
-585. coneso
-586. llantar
-587. compuerta
-588. passar de
-589. asi que
-590. pensarlo
-591. llamar
-592. guiones
-594. quienes
