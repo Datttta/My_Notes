@@ -2,7 +2,7 @@
 
 == Inbox ==
 - [ ] _
-- [ ] how to decrease wayland input lag in games
+- [ ] solve wallpaper issue
 - [ ] equalize your earbuds
 - [ ] look biotechlonogy up
 - [ ] make an excercise list
@@ -22,6 +22,7 @@
 - [X] set size for copyq floating windows
 - [X] add games direcotry to syncthing
 - [X] yazi not showing devices connected in usb like cellphone, in thunar I was able to browse in my cellphone's files
+- [X] how to decrease wayland input lag in games
 
 == Tasks ==
 - Loundry
