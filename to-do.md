@@ -7,6 +7,7 @@
 - [ ] look biotechlonogy up
 - [ ] make an excercise list
 - [ ] make your resumé
+- [ ] organize your playlist
 
 == Today ==
 - [ ] _
