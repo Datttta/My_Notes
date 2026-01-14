@@ -4,9 +4,9 @@
 - [ ] _
 - [ ] equalize your earbuds
 - [ ] install 7 temp of friends
-- [ ] look biotechlonogy up
 - [ ] make an excercise list
 - [ ] make your resumé
+- [ ] look biotechlonogy up
 - [ ] organize your playlist
 
 == Today ==
