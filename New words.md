@@ -125,26 +125,6 @@
 123. veering
 124. limply
 125. jimmy
-126. adultarated
-127. fit - she had a fit and died
-128. inebrated
-129. decanter - cryistal decanter
-130. rummaging
-131. frantically
-132. specks
-133. ghastly
-134. harlot
-135. strumpet
-136. hussy
-137. chunky
-138. hempen
-139. follow through
-140. deprive
-141. jagged
-142. spooning
-143. thumbprint
-144. exhibit
-145. amiably
 
 === Nuevas Palabras ===
 
