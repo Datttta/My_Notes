@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] equalize your earbuds
 - [ ] install 7 temp of friends
 - [ ] make an excercise list
 - [ ] make your resumé
