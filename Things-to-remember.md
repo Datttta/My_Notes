@@ -296,3 +296,9 @@
     - use on terminal: ip neigh
 
     - use one of the ip addresses that appears on the terminal as a url on a webrowser
+
+- Hyprland overlay:
+
+    - Activate: 'hyprctl keyword debug:overlay 1'
+
+    - Deactivate: 'hyprctl keyword debug:overlay 0'
