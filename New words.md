@@ -720,4 +720,4 @@
 590. pensarlo
 591. llamar
 592. guiones
-594. has
+594. quienes
