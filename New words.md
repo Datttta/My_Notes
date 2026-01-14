@@ -711,3 +711,4 @@
 581. forrar de pasta
 582. meter (con alguien)
 583. butacon
+584. alejar
