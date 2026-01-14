@@ -5,93 +5,57 @@
     - change from calloid-grey-dark-xhdpi to calloid-grey-dark-hdpi
 
 - Search on anki:
-  
     - Specific field, exclude cards with a specific word (use the *): -back:*google*
-
     - Specific fild, show cards with a specific word: back:*google*
-
     - Specific deck: deck:<deck-name>
-
     - Specific word: re:\b<word>\b
 
 - Exctrating files:
-  
     - *.tar*: tar -xvf file.tar
-
     - *.tar.gz or .tgz*: tar -xzvf file.tar.gz
-
     - *.tar.bz2*: tar -xjvf file.tar.bz2
-
     - *.tar.xz*: tar -xJvf file.tar.xz
-
     - *.zip*: unzip file.zip
-
     - *.rar*: unrar x file.rar
-
     - *.7z*: 7z x file.7z
-    
     - *.gz* (single): gunzip file.gz
-    
     - *.bz2* (single): bunzip2 file.bz2
-
     - *.xz* (single): unxz file.xzvf
-
     - tar -xzvf file.tar.gz *-C* /target/directory (use -C to target directories)
 
 - Compressing files:
-
     - .zip: zip -r <zip-name>.zip <folder-to-zip>
 
 - Nvim navigation:
-
     - Select:
-
         - Select everything betwwen space: *viW*
-     
         - Select everything between "",'',()...: vi<object-surrouding the text>
 
     - Delete:
-
         - Delete everything inside "", '', (), etc: *ci<object surrounding the text>*
-
         - delete everything after the cursor in the word: de or ce (change mode)
-
         - Delete everything after the cursor in the line: d$
-
         - Delete line and change mode: *cc*
-
         - Delete the word you cursor is touching: diw or ciw (change mode)
 
     - Move
-
         - Move cursor to the end of the line: *$*
 
 - Nvim:
-    
     - Dark background with tokyo night - moon style colors: nvim /home/DROS/.local/share/nvim/lazy/tokyonight.nvim/lua/tokyonight/colors/night.lua
-    
         - change the line "local ret = vim.deepcopy(require("tokyonight.colors.storm"))" to "local ret = vim.deepcopy(require("tokyonight.colors.moon"))" 
   
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
-    
     - Format nvim code: *<leader>fm*
-    
     - Update lazyvim plugins: *:Lazy update* on nvim
-
     - Show images in vimwiki: <leader>ti
-
     - Paste images in vimwiki: <leader>pi
 
 - Kitty terminal:
-    
     - Delete text on terminal: *Ctrl+u*
-
     - Move cursor to the begining of the line: *Ctrl+a*
-
     - Move cursor to the end of the line: *Ctrl+e*
-
     - Delete everything from the cursor's position to the end of the line: *Ctrl+k*
-
     - Delete word right behind the cursor: *Ctrl+w*
 
 - Minecraft server
@@ -136,25 +100,17 @@
 
 - Pacman:
     - Search packages: sudo pacman -Ss <package-name>
-
     - Show pacman updates: 'grep "upgraded" /var/log/pacman.log'
 
 - Downgrade apps:
-
     - have "downgrade" app installed
-
     - use: sudo downgrade <apps>
  
 - Seeing tree:
-
     - Show only directories: tree -d
-
     - Limit depth (e.g., 2 levels): tree -L 2
-
     - Show hidden files: tree -a
-
     - Show full path: tree -f
-
     - Show with color: tree -C
 
 - Giving permission to other users to read and access a foler or files:
@@ -179,11 +135,8 @@
 
 - Lists:
     - *:'<,'>s/^\s*\%(\d\+\.\s*\)\?/\=line('.') - line("'<") + 1 . ". "/*
-
     - Create a numbered list: <leader>ne 
-      
     - renumber a list: *<leader>rn*
-
     - Redo a list: *<leader>rl*
 
 - Find files with fzf:
@@ -231,43 +184,30 @@
     - stop hamahci: sudo systemctl stop logmein-hamachi.service
 
 - Storage/disk space:
-
     - check storage usage per folder: du -sh *
-
     - check only linux partition: df -h /
-
     - check overall disk usage: df -h
 
 - Thunar:
-
     - open thuner in the current directory: thuner .
 
 - Choose default app, works for nnn:
-  
     - get the file type: -mime query filetype <PATH_TO_FILE>
-
     - then use: xdg-mime default <APPLICATION> <FILE_TYPE>
 
     - Exemple:
-      
         - xdg-mime query filetype ~/Videos/Video_bueno.avi
-
         - the output will be: video/x-msvideo
-     
         - xdg-mime default mpv.desktop video/x-msvideo
 
     - You can also access the file with the default apps: 'nvim ~/.config/mimeapps.list'
-
     - Show default webrowser: xdg-settings get default-web-browser
-
     - Change default browser: xdg-settings set default-web-browser <vivaldi-stable.desktop>
 
 - Yazi:
-  
     - help: double press "~"
 
     - Delete plugin: ya pkg delete <yazi-rs/plugins:full-border>
-
         - Delete the require line in ~/.config/yazi/init.lua
  
     - yazi mount plugin:
@@ -280,25 +220,17 @@
         e	-	Eject the disk
 
 - Change current date/time:
-
     - 'sudo timedatectl set-ntp false'
- 
     - set the day and time your want to be in: 'sudo date -s "2025-12-27 22:30:00"'
-
     - sudo timedatectl set-ntp true
 
 - Language apps:
-  
     - Miraa app (for shadowing)
 
 - Change internet name/ssid and password (access router):
-
     - use on terminal: ip neigh
-
     - use one of the ip addresses that appears on the terminal as a url on a webrowser
 
 - Hyprland overlay:
-
     - Activate: 'hyprctl keyword debug:overlay 1'
-
     - Deactivate: 'hyprctl keyword debug:overlay 0'
