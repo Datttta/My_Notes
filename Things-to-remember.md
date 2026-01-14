@@ -234,3 +234,6 @@
 - Hyprland overlay:
     - Activate: 'hyprctl keyword debug:overlay 1'
     - Deactivate: 'hyprctl keyword debug:overlay 0'
+
+- How to make something run in the background after closing terminal:
+    - use: nohup <./script.sh> &
