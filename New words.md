@@ -707,8 +707,3 @@
 577. coña
 578. chocolatinas
 579. pulpa
-580. cacharo
-581. grumo
-582. cigarillo
-583. tobillo
-584. trayectoria
