@@ -281,7 +281,7 @@
 
 - Change current date/time:
 
-    - sudo timedatectl set-ntp false
+    - 'sudo timedatectl set-ntp false'
  
     - set the day and time your want to be in: 'sudo date -s "2025-12-27 22:30:00"'
 
