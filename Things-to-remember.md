@@ -243,3 +243,6 @@
     - enable: 'sudo systemctl enable --now power-profiles-daemon.service'
     - set profile: 'powerprofilesctl set performance'
     - profile options: 'powerprofilesctl list'
+
+- How to get PID of an app:
+    - use: ps aux | grep <vivaldi-bin>
