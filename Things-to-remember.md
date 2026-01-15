@@ -245,4 +245,4 @@
     - profile options: 'powerprofilesctl list'
 
 - How to get PID of an app:
-    - use: ps aux | grep <vivaldi-bin>
+    - use: 'ps -C <vivaldi-bin> -o pid,cmd'
