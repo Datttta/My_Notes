@@ -20,3 +20,5 @@
     - Incline Rows 3x10
 
     - Scapular Pulls 3x10
+
+    - Hanging legs raises 3x10
