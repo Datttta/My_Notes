@@ -1,19 +1,8 @@
 
-- Push day:
-    - Dips
-
-    - Pike Push-ups
-
-    - Diamond Push-ups
-
-    - Regular Push-ups
-
-    - Plank
-
-    - Leg Raises	
-      
-      
+| Push day         |      |      |
+|------------------|------|------|
 | Exercise         | Sets | Reps |
+|------------------|------|------|
 | Dips             | 3    | 8    |
 | Pike Push-ups    | 3    | 10   |
 | Diamond Push-ups | 3    | *    |
