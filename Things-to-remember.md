@@ -239,7 +239,7 @@
     - use: nohup <./script.sh> &
 
 - Powerprofiles (perfomance/balanced):
-    - to unmask: 'sudo systemctl unmask power-profiles-daemon.service'
-    - to unable: 'sudo systemctl enable --now power-profiles-daemon.service'
+    - unmask: 'sudo systemctl unmask power-profiles-daemon.service'
+    - unable: 'sudo systemctl enable --now power-profiles-daemon.service'
     - set profile: 'powerprofilesctl set performance'
     - profile options: 'powerprofilesctl list'
