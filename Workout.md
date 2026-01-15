@@ -25,6 +25,8 @@
 
 - Leg day:
     - Bulgarian Split Squats 3x12
+ 
+    - Single-Leg RDL 3x10
 
     - Squats 3x12
 
