@@ -3,7 +3,6 @@
 == Inbox ==
 - [ ] _
 - [ ] make wayabar show the cpu usage of the app that uses it more
-- [ ] waybar capslock tool sometimes doesn't update the icon
 - [ ] install 7 temp of friends
 - [ ] make an excercise list
 - [ ] make your resumé
@@ -27,6 +26,7 @@
 - [X] yazi not showing devices connected in usb like cellphone, in thunar I was able to browse in my cellphone's files
 - [X] how to decrease wayland input lag in games
 - [X] solve wallpaper issue
+- [X] waybar capslock tool sometimes doesn't update the icon
 
 == Tasks ==
 - Loundry
