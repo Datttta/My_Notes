@@ -240,6 +240,6 @@
 
 - Powerprofiles (perfomance/balanced):
     - unmask: 'sudo systemctl unmask power-profiles-daemon.service'
-    - unable: 'sudo systemctl enable --now power-profiles-daemon.service'
+    - enable: 'sudo systemctl enable --now power-profiles-daemon.service'
     - set profile: 'powerprofilesctl set performance'
     - profile options: 'powerprofilesctl list'
