@@ -13,7 +13,7 @@
 11. past its sell-by date.
 12. hand in hand
 13. hand and glove
-14. Majuscule
+14. Majuscule - letter
 15. bottleneck - This confirms your Intel iGPU is the bottleneck
 16. unbidden - to come to this place unbidden
 17. entreat - I will entreat him
