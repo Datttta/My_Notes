@@ -28,130 +28,131 @@
 26. cast off
 27. even out
 28. put together - all meaning
-29. bottleneck - This confirms your Intel iGPU is the bottleneck
-30. unbidden - to come to this place unbidden
-31. entreat - I will entreat him
-32. hedge - under a hedge
-33. maimed - had maimed it
-34. valley - vale
-35. crawled - crawled stair
-36. barrow - the darking of the barrow
-37. droop - slowly the phial drooped
-38. quail -  the eyes began to quail
-39. spring out - he sprang out shouting as he came
-40. horn - rock
-41. lesser - far and wide her lesser broods
-42. offspring - her own offspring
-43. glen - spread from glen to glen
-44. dismay - feeling
-45. pivoted - pivoted on the wrist
-46. swoon - out of the swoon that was upon him
-47. firmament - from the firmament
-48. sears - sears the dark air
-49. maimed - maimed head
-50. cowed - shelob cowed at last
-51. cowered - he cowered
-52. cranny - trying to creep away into some cranny
-53. trussed - trussed their small packs
-54. confer - but one thing it did not confer
-55. larder - off her larder
-56. swooned - he almost swooned
-57. gauntlets - hand
-58. parleying - no time or place for riddling or parleying
-59. doughty - doughty men
-60. forayers - his forayers
-61. harry - to harry the Orcs
-62. swarthy - swarthy men
-63. hew - hewing them down
-64. heave - his heaving back
-65. durst - yet I durst not handle
-66. hither - hither side
-67. hazard - I would hazard
-68. heirloom
-69. therein - his own glory therein
-70. trickled - the stream that trickled
-71. cloven - rock
-72. bed - rock/mountain
-73. meads - broad meads
-74. trestles - set up on trestles
-75. cask - cask of wine
-76. broached - cask of wine was being broached
-77. pelts - barrels covered with pelts
-78. beaming - sam was beaming and humming to himself
-79. humming - hummin got himselft
-80. realm - noun
-81. dotage - falling by degrees into dotage
-82. heraldry
-83. perchance - lest peril perchance
-84. waylay - lest peril perchance wyalay me
-85. sway - he caught him as he swayed
-86. upen - the roads that converged upon the Gate of Mordor
-87. cleft - mount
-88. crook-legged
-89. hollow - mount
-90. dwindled - dwindled to a small fiery point
-91. reprieved - too good to be reprieved
-92. heights - behind the gloomy heights
-93.  hillside hillside slopes
-94. prostrate
-95. mantled - mantled in deep tapestries
-96. fanged - yellow-fanged
-97. grots - grots and rocky walls
-98. starred - starred with
-99. saxifrages - saxifrages and stonecrops
-100. stonecrops
-101. nonetheless
-102. wantonly - trees hewn down wantonly
-103. chiselling - as if the chiselling of the shaping years
-104. reek - hazer or dark shadow
-105. snicked - the edge of the knife had snicked his arm
-106. slant - slant-eyed
-107. jowl - body part
-108. stampade - to stop a stampade
-109. sprawled - he sprawled to his face
-110. bear - rock was bored into a hundred caves
-111. toil - end to our toil
-112. turf - ground
-113. dwindling - I can see nothing away north or west but grass dwindling into mist
-114. downs - these downs run eight leagues
-115. swept up - Suddenly they swept up with a noise like thunder
-116. trough
-117. burnished - burnished shirts
-118. trickling - trickling stream
-119. raiment
-120. unshod- unshod but clad in grey
-121. wroth - he is wroth
-122. warily
-123. begrudged
-124. restive -  smaller and lighter horse, but restive and fiery
-125. cloven - cloven shields
-126. baggers "it almos baggers paralle"
-127. contrive - There will be no escape again, if we do not contrive it
-128. multifarious
-129. allegory - free from allegory
-130. kinsmen
-131. summit - run to the summit
-132. homely
-133. ambiance
-134. line - you must line the tray
-135. single out - single out the wrong word
-136. bode - this doesn't bode well
-137. disrepair
-138. milling - milling all around
-139. unsung - unsung hero
-140. ransacked
-141. accomplice
-142. conceal - try to conceal
-143. skim - skim the rest of the newspaper
-144. creaky
-145. squimishness
-146. odour
-147. pert
-148. cinched
-149. sash - matching sash
-150. veering
-151. limply
-152. jimmy
+29. note - verb
+30. bottleneck - This confirms your Intel iGPU is the bottleneck
+31. unbidden - to come to this place unbidden
+32. entreat - I will entreat him
+33. hedge - under a hedge
+34. maimed - had maimed it
+35. valley - vale
+36. crawled - crawled stair
+37. barrow - the darking of the barrow
+38. droop - slowly the phial drooped
+39. quail -  the eyes began to quail
+40. spring out - he sprang out shouting as he came
+41. horn - rock
+42. lesser - far and wide her lesser broods
+43. offspring - her own offspring
+44. glen - spread from glen to glen
+45. dismay - feeling
+46. pivoted - pivoted on the wrist
+47. swoon - out of the swoon that was upon him
+48. firmament - from the firmament
+49. sears - sears the dark air
+50. maimed - maimed head
+51. cowed - shelob cowed at last
+52. cowered - he cowered
+53. cranny - trying to creep away into some cranny
+54. trussed - trussed their small packs
+55. confer - but one thing it did not confer
+56. larder - off her larder
+57. swooned - he almost swooned
+58. gauntlets - hand
+59. parleying - no time or place for riddling or parleying
+60. doughty - doughty men
+61. forayers - his forayers
+62. harry - to harry the Orcs
+63. swarthy - swarthy men
+64. hew - hewing them down
+65. heave - his heaving back
+66. durst - yet I durst not handle
+67. hither - hither side
+68. hazard - I would hazard
+69. heirloom
+70. therein - his own glory therein
+71. trickled - the stream that trickled
+72. cloven - rock
+73. bed - rock/mountain
+74. meads - broad meads
+75. trestles - set up on trestles
+76. cask - cask of wine
+77. broached - cask of wine was being broached
+78. pelts - barrels covered with pelts
+79. beaming - sam was beaming and humming to himself
+80. humming - hummin got himselft
+81. realm - noun
+82. dotage - falling by degrees into dotage
+83. heraldry
+84. perchance - lest peril perchance
+85. waylay - lest peril perchance wyalay me
+86. sway - he caught him as he swayed
+87. upen - the roads that converged upon the Gate of Mordor
+88. cleft - mount
+89. crook-legged
+90. hollow - mount
+91. dwindled - dwindled to a small fiery point
+92. reprieved - too good to be reprieved
+93. heights - behind the gloomy heights
+94.  hillside hillside slopes
+95. prostrate
+96. mantled - mantled in deep tapestries
+97. fanged - yellow-fanged
+98. grots - grots and rocky walls
+99. starred - starred with
+100. saxifrages - saxifrages and stonecrops
+101. stonecrops
+102. nonetheless
+103. wantonly - trees hewn down wantonly
+104. chiselling - as if the chiselling of the shaping years
+105. reek - hazer or dark shadow
+106. snicked - the edge of the knife had snicked his arm
+107. slant - slant-eyed
+108. jowl - body part
+109. stampade - to stop a stampade
+110. sprawled - he sprawled to his face
+111. bear - rock was bored into a hundred caves
+112. toil - end to our toil
+113. turf - ground
+114. dwindling - I can see nothing away north or west but grass dwindling into mist
+115. downs - these downs run eight leagues
+116. swept up - Suddenly they swept up with a noise like thunder
+117. trough
+118. burnished - burnished shirts
+119. trickling - trickling stream
+120. raiment
+121. unshod- unshod but clad in grey
+122. wroth - he is wroth
+123. warily
+124. begrudged
+125. restive -  smaller and lighter horse, but restive and fiery
+126. cloven - cloven shields
+127. baggers "it almos baggers paralle"
+128. contrive - There will be no escape again, if we do not contrive it
+129. multifarious
+130. allegory - free from allegory
+131. kinsmen
+132. summit - run to the summit
+133. homely
+134. ambiance
+135. line - you must line the tray
+136. single out - single out the wrong word
+137. bode - this doesn't bode well
+138. disrepair
+139. milling - milling all around
+140. unsung - unsung hero
+141. ransacked
+142. accomplice
+143. conceal - try to conceal
+144. skim - skim the rest of the newspaper
+145. creaky
+146. squimishness
+147. odour
+148. pert
+149. cinched
+150. sash - matching sash
+151. veering
+152. limply
+153. jimmy
 
 === Nuevas Palabras ===
 
