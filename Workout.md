@@ -26,7 +26,7 @@
 - Leg day:
     - Bulgarian Split Squats 3x12
 
-    - squats 3x12
+    - Squats 3x12
 
     - Cossack Squats 3x8
 
