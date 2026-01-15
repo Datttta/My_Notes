@@ -30,6 +30,6 @@
 
     - Cossack Squats 3x8
 
-    - Reverse Lunges 3x10
+    - Single-Leg RDL 3x10
 
     - Calf Raises 4x15
