@@ -1,3 +1,6 @@
+
+Push day:
+
 Dips
 Pike Push-ups
 Diamond Push-ups
