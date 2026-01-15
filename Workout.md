@@ -22,3 +22,12 @@
     - Scapular Pulls 3x10
 
     - Hanging legs raises 3x10
+
+- Leg day:
+    - Bulgarian Split Squats 3x12
+
+    - squats 3x12
+
+    - Calf Raises 4x15
+
+    - Cossack Squats 3x8
