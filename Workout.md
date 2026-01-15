@@ -8,6 +8,6 @@
 
     - Regular Push-ups 3x10
 
-    - Plank
+    - Plank 3x to failure
 
-    - Leg Raises	
+    - Leg Raises 3x to failure
