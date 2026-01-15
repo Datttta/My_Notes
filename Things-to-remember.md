@@ -115,14 +115,12 @@
     - 'chmod -R o+rx' | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
 
 - Vimwiki:
-
     - help: ':h vimwiki-syntax'
     - Show images in vimwiki: <leader>ti
     - Paste images in vimwiki: <leader>pi
 
 
 - Clear clipboard: 
-  
     - 'cliphist wipe'
 
 - Stow root files:
