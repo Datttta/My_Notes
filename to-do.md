@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] make an excercise list
 - [ ] make your resumé
 - [ ] look biotechlonogy up
 - [ ] equalize your earbuds
@@ -26,6 +25,7 @@
 - [X] solve wallpaper issue
 - [X] waybar capslock tool sometimes doesn't update the icon
 - [X] install 7 temp of friends
+- [X] make an excercise list
 
 == Tasks ==
 - Loundry
