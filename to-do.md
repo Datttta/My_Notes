@@ -7,7 +7,6 @@
 - [ ] make an excercise list
 - [ ] look biotechlonogy up
 - [ ] equalize your earbuds
-- [ ] wer
 - [ ] organize your playlist
 
 == Today ==
