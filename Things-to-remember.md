@@ -238,5 +238,9 @@
 - How to make something run in the background after closing terminal:
     - use: nohup <./script.sh> &
 
-- How to set powerprofiles (perfomance/balanced):
-    - 
+- Powerprofiles (perfomance/balanced):
+    - to unmask: 'sudo systemctl unmask power-profiles-daemon.service'
+    - to unable: 'sudo systemctl enable --now power-profiles-daemon.service'
+    - set profile: 'powerprofilesctl set performance'
+
+    - profile options: 'powerprofilesctl list'
