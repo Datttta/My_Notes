@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] install 7 temp of friends
 - [ ] make an excercise list
 - [ ] make your resumé
 - [ ] look biotechlonogy up
@@ -26,6 +25,7 @@
 - [X] how to decrease wayland input lag in games
 - [X] solve wallpaper issue
 - [X] waybar capslock tool sometimes doesn't update the icon
+- [X] install 7 temp of friends
 
 == Tasks ==
 - Loundry
