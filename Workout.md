@@ -28,8 +28,8 @@
  
     - Single-Leg RDL 3x10
 
-    - Squats 3x12
-
     - Cossack Squats 3x8
+
+    - Squats 3x12
 
     - Calf Raises 4x15
