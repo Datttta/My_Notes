@@ -246,3 +246,6 @@
 
 - How to get PID of an app:
     - use: 'ps -C <vivaldi-bin> -o pid,cmd'
+
+- How to Limit cpu usage for an app:
+    - use: 'limitcpu -p <PID> -l <1-400(cpu porcentage limit)>'
