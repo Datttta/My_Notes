@@ -1,6 +1,5 @@
 
 - Push day:
-
     - Dips
 
     - Pike Push-ups
