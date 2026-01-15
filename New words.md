@@ -27,7 +27,7 @@
 25. bring down
 26. cast off
 27. even out
-28. put together
+28. put together - all meaning
 29. bottleneck - This confirms your Intel iGPU is the bottleneck
 30. unbidden - to come to this place unbidden
 31. entreat - I will entreat him
