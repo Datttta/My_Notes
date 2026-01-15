@@ -3,9 +3,11 @@
 == Inbox ==
 - [ ] _
 - [ ] install 7 temp of friends
-- [ ] make an excercise list
 - [ ] make your resumé
+- [ ] make an excercise list
 - [ ] look biotechlonogy up
+- [ ] equalize your earbuds
+- [ ] wer
 - [ ] organize your playlist
 
 == Today ==
