@@ -48,8 +48,6 @@
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
     - Format nvim code: *<leader>fm*
     - Update lazyvim plugins: *:Lazy update* on nvim
-    - Show images in vimwiki: <leader>ti
-    - Paste images in vimwiki: <leader>pi
 
 - Kitty terminal:
     - Delete text on terminal: *Ctrl+u*
@@ -116,9 +114,12 @@
 - Giving permission to other users to read and access a foler or files:
     - 'chmod -R o+rx' | e.g. chmod -R o+rx /home/DROS/dotfiles/slashConfs/*
 
-- Vimwiki help:
+- Vimwiki:
 
-    - ':h vimwiki-syntax'
+    - help: ':h vimwiki-syntax'
+    - Show images in vimwiki: <leader>ti
+    - Paste images in vimwiki: <leader>pi
+
 
 - Clear clipboard: 
   
