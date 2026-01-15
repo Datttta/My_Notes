@@ -2,7 +2,6 @@
 
 == Inbox ==
 - [ ] _
-- [ ] make wayabar show the cpu usage of the app that uses it more
 - [ ] install 7 temp of friends
 - [ ] make an excercise list
 - [ ] make your resumé
