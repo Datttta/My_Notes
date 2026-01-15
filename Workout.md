@@ -31,3 +31,5 @@
     - Calf Raises 4x15
 
     - Cossack Squats 3x8
+
+    - Reverse Lunges 3x10
