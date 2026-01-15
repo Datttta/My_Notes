@@ -19,7 +19,7 @@
 17. just the same
 18. nevertheles
 19. as for
-20. for all that
+20. for all that - for all something
 21. bottleneck - This confirms your Intel iGPU is the bottleneck
 22. unbidden - to come to this place unbidden
 23. entreat - I will entreat him
