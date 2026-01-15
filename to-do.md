@@ -3,6 +3,7 @@
 == Inbox ==
 - [ ] _
 - [ ] ask if using pc on performance mode makes it more suseptible to 100% cpu issues
+- [ ] make wayabar show the cpu usage of the app that uses it more
 - [ ] install 7 temp of friends
 - [ ] make your resumé
 - [ ] make an excercise list
