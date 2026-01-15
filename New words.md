@@ -2,7 +2,7 @@
 
 1. dilettant
 2. hold hands
-3. experacion date
+3. expiracion date
 4. bottleneck - This confirms your Intel iGPU is the bottleneck
 5. unbidden - to come to this place unbidden
 6. entreat - I will entreat him
