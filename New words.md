@@ -739,3 +739,4 @@
 592. estar al caer
 593. tirar los tejos
 594. echa polvo
+595. echar cargo
