@@ -742,4 +742,4 @@
 595. echar cargo
 596. peonza
 597. larguirucho
-598. guarro - tio garro
+598. garro - tio garro
