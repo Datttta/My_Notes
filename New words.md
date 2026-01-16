@@ -735,3 +735,4 @@
 588. pifiar
 589. passar de alguien
 590. miron
+591. echar culpa
