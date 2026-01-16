@@ -709,3 +709,4 @@
 577. ocurre - que te ocurre
 578. Reprochar
 579. reconvenir
+580. sucederle
