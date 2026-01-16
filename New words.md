@@ -722,3 +722,4 @@
 575. tramo - escalera
 576. facilidades
 577. ocurre - que te ocurre
+578. sentar encima
