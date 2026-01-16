@@ -140,8 +140,8 @@
 138. homely
 139. ambiance
 140. line - you must line the tray
-141. single out - single out the wrong word
-142. bode - this doesn't bode well
+141.  - single out the wrong word
+142.  - this doesn't bode well
 
 === Nuevas Palabras ===
 
