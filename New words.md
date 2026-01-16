@@ -728,3 +728,4 @@
 581. remojar
 582. dobladillo
 583. funda
+584. cuenco
