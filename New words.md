@@ -127,21 +127,6 @@
 125. raiment
 126. unshod- unshod but clad in grey
 127. wroth - he is wroth
-128. warily
-129. begrudged
-130. restive -  smaller and lighter horse, but restive and fiery
-131. cloven - cloven shields
-132. baggers "it almos baggers paralle"
-133. contrive - There will be no escape again, if we do not contrive it
-134. multifarious
-135. allegory - free from allegory
-136. kinsmen
-137. summit - run to the summit
-138. homely
-139. ambiance
-140. line - you must line the tray
-141.  - single out the wrong word
-142.  - this doesn't bode well
 
 === Nuevas Palabras ===
 
