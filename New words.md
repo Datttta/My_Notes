@@ -713,23 +713,3 @@
 567. porro
 568. orrugar
 569. ternera
-570. rastrillo
-571. mula coja
-572. sábanas
-573. flema
-574. chillo
-575. rellano
-576. hacer ilusion
-577. coña
-578. chocolatinas
-579. pulpa
-580. descocido
-581. forrar de pasta
-582. meter (con alguien)
-583. butacon
-584. alejar
-585. Risa
-586. prender
-587. ponencia
-588. paulatinamente
-589. entorno
