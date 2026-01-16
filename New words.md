@@ -718,3 +718,4 @@
 572. húmeda
 573. recato
 574. se hunde
+575. tramo - escalera
