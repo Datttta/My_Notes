@@ -718,3 +718,4 @@
 572. húmeda
 573. recato
 574. blanda
+575. cojea
