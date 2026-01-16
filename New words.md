@@ -717,6 +717,3 @@
 571. ternera
 572. húmeda
 573. recato
-574. blanda
-575. cojea
-576. ¿No lo he añadido ya?
