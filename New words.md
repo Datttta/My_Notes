@@ -141,7 +141,6 @@
 139. line - you must line the tray
 140. single out - single out the wrong word
 141. bode - this doesn't bode well
-142. disrepair
 
 === Nuevas Palabras ===
 
