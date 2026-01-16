@@ -736,3 +736,4 @@
 589. passar de alguien
 590. miron
 591. echar culpa
+592. estar al caer
