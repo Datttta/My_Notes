@@ -707,24 +707,4 @@
 575. tramo - escalera
 576. facilidades
 577. ocurre - que te ocurre
-578. sentar encima
-579. dar caña
-580. poner como una moto
-581. remojar
-582. dobladillo
-583. funda
-584. cuenco
-585. chachi
-586. numerito - monter numerito
-587. cachondeo
-588. pifiar
-589. passar de alguien
-590. miron
-591. echar culpa
-592. estar al caer
-593. tirar los tejos
-594. echa polvo
-595. echar cargo
-596. peonza
-597. larguirucho
-598. garro - tio garro
+578. Reprochar
