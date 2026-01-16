@@ -142,21 +142,6 @@
 140. single out - single out the wrong word
 141. bode - this doesn't bode well
 142. disrepair
-143. milling - milling all around
-144. unsung - unsung hero
-145. ransacked
-146. accomplice
-147. conceal - try to conceal
-148. skim - skim the rest of the newspaper
-149. creaky
-150. squimishness
-151. odour
-152. pert
-153. cinched
-154. sash - matching sash
-155. veering
-156. limply
-157. jimmy
 
 === Nuevas Palabras ===
 
