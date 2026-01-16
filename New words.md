@@ -741,3 +741,4 @@
 594. echa polvo
 595. echar cargo
 596. peonza
+597. larguirucho
