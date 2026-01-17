@@ -256,4 +256,4 @@
 
     - if "802-11-wireless-security.key-mgmt: property is missing." appears:
         - nmcli connection delete <password-you're-trying-to-connect>
-        - Now follow the first step again
+        - Now try to connect again
