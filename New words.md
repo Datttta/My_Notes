@@ -673,3 +673,4 @@
 559. algo - exemple algo aturdido
 560. lumbar
 561. obra - verbo
+562. Rastrillo - comprar en un ratrillo
