@@ -1,7 +1,7 @@
 === New words ===
 
 1. dilettant
-2. stove burner
+2. stove burner - noun
 3. bloom - you finaly bloomed a conscience
 4. lats - body part
 5. sagging - no sagging hips
