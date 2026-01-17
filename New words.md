@@ -674,3 +674,4 @@
 560. lumbar
 561. obra - verbo
 562. Rastrillo - comprar en un ratrillo
+563. antaño
