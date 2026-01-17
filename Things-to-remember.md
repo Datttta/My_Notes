@@ -249,3 +249,11 @@
 
 - How to Limit cpu usage for an app:
     - use: 'limitcpu -p <PID> -l <1-400(cpu porcentage limit)>'
+
+- Wifi using terminal:
+    - nmcli dev wifi list
+    - nmcli dev wifi connect <SSID> password <password>
+
+    - if "802-11-wireless-security.key-mgmt: property is missing." appears:
+        - nmcli connection delete <password-you're-trying-to-connect>
+        - Now follow the first step again
