@@ -673,4 +673,4 @@
 559. jactancioso
 560. siembra
 561. aturdido
-562. pudor
+562. 
