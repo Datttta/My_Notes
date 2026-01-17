@@ -107,26 +107,6 @@
 105. saxifrages - saxifrages and stonecrops
 106. stonecrops
 107. nonetheless
-108. wantonly - trees hewn down wantonly
-109. chiselling - as if the chiselling of the shaping years
-110. reek - hazer or dark shadow
-111. snicked - the edge of the knife had snicked his arm
-112. slant - slant-eyed
-113. jowl - body part
-114. stampade - to stop a stampade
-115. sprawled - he sprawled to his face
-116. bear - rock was bored into a hundred caves
-117. toil - end to our toil
-118. turf - ground
-119. dwindling - I can see nothing away north or west but grass dwindling into mist
-120. downs - these downs run eight leagues
-121. swept up - Suddenly they swept up with a noise like thunder
-122. trough
-123. burnished - burnished shirts
-124. trickling - trickling stream
-125. raiment
-126. unshod- unshod but clad in grey
-127. wroth - he is wroth
 
 === Nuevas Palabras ===
 
