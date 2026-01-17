@@ -689,4 +689,3 @@
 577. ocurre - que te ocurre
 578. con seguridad
 579. recato
-580. gestionar
