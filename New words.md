@@ -127,6 +127,7 @@
 125. raiment
 126. unshod- unshod but clad in grey
 127. wroth - he is wroth
+128. feisty
 
 === Nuevas Palabras ===
 
