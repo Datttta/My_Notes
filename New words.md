@@ -673,23 +673,4 @@
 559. jactancioso
 560. siembra
 561. aturdido
-562. aturdido
-563. tirar de pelo
-564. menuda
-565. callejero
-566. dejaba
-567. facilidades
-568. ernia
-569. 570. colocado
-570. porro
-571. orrugar
-572. ternera
-573. húmeda
-574. recato
-575. se hunde
-576. tramo - escalera
-577. facilidades
-578. ocurre - que te ocurre
-579. con seguridad
-580. recato
-581. atiende
+562. pudor
