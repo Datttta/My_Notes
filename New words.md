@@ -669,8 +669,3 @@
 555. igualito
 556. imperdonable
 557. inencontrable
-558. impetuoso
-559. jactancioso
-560. siembra
-561. aturdido
-562. 
