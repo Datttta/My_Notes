@@ -9,7 +9,7 @@
 7. schtick - wimpy goody-two-shoes-schtick
 8. frolick - verb
 9. saccharine - at first I hated you stupid saccharine schtick
-10. spiel - you already heard my spiel, don't you
+10. spiel - you've already heard my spiel, haven't you
 11. tell on - tell on someone
 12. feel someone in
 13. innkeeper - The innkeeper served us wine and olives.
