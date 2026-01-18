@@ -8,7 +8,7 @@
 6. goody - wimpy goody-two-shoes-schtick
 7. schtick - wimpy goody-two-shoes-schtick
 8. frolick - verb
-9. saccharine - at first I hated you stupid saccharine
+9. saccharine - at first I hated you stupid saccharine schtick
 10. tell on - tell on someone
 11. feel someone in
 12. innkeeper - The innkeeper served us wine and olives.
