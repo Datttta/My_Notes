@@ -663,4 +663,4 @@
 549. impoluto
 550. impuntual
 551. picardía
-552. lista - presume de lista
+552. listillo
