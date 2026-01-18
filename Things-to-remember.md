@@ -50,9 +50,10 @@
     - Update lazyvim plugins: *:Lazy update* on nvim
 
 - Kitty terminal:
-    - Delete text on terminal: *Ctrl+u*
     - Move cursor to the begining of the line: *Ctrl+a*
     - Move cursor to the end of the line: *Ctrl+e*
+
+    - Delete text on terminal: *Ctrl+u*
     - Delete everything from the cursor's position to the end of the line: *Ctrl+k*
     - Delete word right behind the cursor: *Ctrl+w*
 
