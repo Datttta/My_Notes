@@ -108,25 +108,7 @@
 106. realm - noun
 107. dotage - falling by degrees into dotage
 108. heraldry
-109. perchance - lest peril perchance
 110. waylay - lest peril perchance wyalay me
-111. sway - he caught him as he swayed
-112. upen - the roads that converged upon the Gate of Mordor
-113. cleft - mount
-114. crook-legged
-115. hollow - mount
-116. dwindled - dwindled to a small fiery point
-117. reprieved - too good to be reprieved
-118. heights - behind the gloomy heights
-119.  hillside hillside slopes
-120. prostrate
-121. mantled - mantled in deep tapestries
-122. fanged - yellow-fanged
-123. grots - grots and rocky walls
-124. starred - starred with
-125. saxifrages - saxifrages and stonecrops
-126. stonecrops
-127. nonetheless
 
 === Nuevas Palabras ===
 
