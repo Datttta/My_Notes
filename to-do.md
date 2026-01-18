@@ -3,6 +3,7 @@
 == Inbox ==
 - [ ] _
 - [ ] make your resumé
+- [ ] make clock ring without having to manually open clocks app
 - [ ] look biotechlonogy up
 - [ ] equalize your earbuds
 - [ ] organize your playlist
