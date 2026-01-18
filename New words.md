@@ -2,117 +2,118 @@
 
 1. dilettant
 2. empress - she became the empress of the underground
-3. goop - pink goop
-4. tell on - tell on someone
-5. feel someone in
-6. innkeeper - The innkeeper served us wine and olives.
-7. stove burner 
-8. bloom - you finaly bloomed a conscience
-9. lats - body part
-10. sagging - no sagging hips
-11. hold hands
-12. expiration date
-13. Take it or leave it
-14. play fair
-15. Upper case
-16. Lower case
-17. get the jitters
-18. sell by date
-19. past its expiry date.
-20. past its sell-by date.
-21. hand in hand
-22. hand and glove
-23. Majuscule - letter
-24. even so
-25. all the same
-26. just the same
-27. nevertheles
-28. as for
-29. for all that - for all something
-30. dig someone - understand
-31. fall flat
-32. look alike
-33. make a splash - he is making a splash in holywood
-34. bring down
-35. cast off
-36. even out
-37. put together - all meaning
-38. note - verb
-39. visitant
-40. visitor
-41. bottleneck - This confirms your Intel iGPU is the bottleneck
-42. unbidden - to come to this place unbidden
-43. entreat - I will entreat him
-44. hedge - under a hedge
-45. maimed - had maimed it
-46. valley - vale
-47. crawled - crawled stair
-48. barrow - the darking of the barrow
-49. droop - slowly the phial drooped
-50. quail -  the eyes began to quail
-51. spring out - he sprang out shouting as he came
-52. horn - rock
-53. lesser - far and wide her lesser broods
-54. offspring - her own offspring
-55. glen - spread from glen to glen
-56. dismay - feeling
-57. pivoted - pivoted on the wrist
-58. swoon - out of the swoon that was upon him
-59. firmament - from the firmament
-60. sears - sears the dark air
-61. maimed - maimed head
-62. cowed - shelob cowed at last
-63. cowered - he cowered
-64. cranny - trying to creep away into some cranny
-65. trussed - trussed their small packs
-66. confer - but one thing it did not confer
-67. larder - off her larder
-68. swooned - he almost swooned
-69. gauntlets - hand
-70. parleying - no time or place for riddling or parleying
-71. doughty - doughty men
-72. forayers - his forayers
-73. harry - to harry the Orcs
-74. swarthy - swarthy men
-75. hew - hewing them down
-76. heave - his heaving back
-77. durst - yet I durst not handle
-78. hither - hither side
-79. hazard - I would hazard
-80. heirloom
-81. therein - his own glory therein
-82. trickled - the stream that trickled
-83. cloven - rock
-84. bed - rock/mountain
-85. meads - broad meads
-86. trestles - set up on trestles
-87. cask - cask of wine
-88. broached - cask of wine was being broached
-89. pelts - barrels covered with pelts
-90. beaming - sam was beaming and humming to himself
-91. humming - hummin got himselft
-92. realm - noun
-93. dotage - falling by degrees into dotage
-94. heraldry
-95. perchance - lest peril perchance
-96. waylay - lest peril perchance wyalay me
-97. sway - he caught him as he swayed
-98. upen - the roads that converged upon the Gate of Mordor
-99. cleft - mount
-100. crook-legged
-101. hollow - mount
-102. dwindled - dwindled to a small fiery point
-103. reprieved - too good to be reprieved
-104. heights - behind the gloomy heights
-105.  hillside hillside slopes
-106. prostrate
-107. mantled - mantled in deep tapestries
-108. fanged - yellow-fanged
-109. grots - grots and rocky walls
-110. starred - starred with
-111. saxifrages - saxifrages and stonecrops
-112. stonecrops
-113. nonetheless
+3. brunch - you must be thinking of brunch
+4. goop - pink goop
+5. tell on - tell on someone
+6. feel someone in
+7. innkeeper - The innkeeper served us wine and olives.
+8. stove burner 
+9. bloom - you finaly bloomed a conscience
+10. lats - body part
+11. sagging - no sagging hips
+12. hold hands
+13. expiration date
+14. Take it or leave it
+15. play fair
+16. Upper case
+17. Lower case
+18. get the jitters
+19. sell by date
+20. past its expiry date.
+21. past its sell-by date.
+22. hand in hand
+23. hand and glove
+24. Majuscule - letter
+25. even so
+26. all the same
+27. just the same
+28. nevertheles
+29. as for
+30. for all that - for all something
+31. dig someone - understand
+32. fall flat
+33. look alike
+34. make a splash - he is making a splash in holywood
+35. bring down
+36. cast off
+37. even out
+38. put together - all meaning
+39. note - verb
+40. visitant
+41. visitor
+42. bottleneck - This confirms your Intel iGPU is the bottleneck
+43. unbidden - to come to this place unbidden
+44. entreat - I will entreat him
+45. hedge - under a hedge
+46. maimed - had maimed it
+47. valley - vale
+48. crawled - crawled stair
+49. barrow - the darking of the barrow
+50. droop - slowly the phial drooped
+51. quail -  the eyes began to quail
+52. spring out - he sprang out shouting as he came
+53. horn - rock
+54. lesser - far and wide her lesser broods
+55. offspring - her own offspring
+56. glen - spread from glen to glen
+57. dismay - feeling
+58. pivoted - pivoted on the wrist
+59. swoon - out of the swoon that was upon him
+60. firmament - from the firmament
+61. sears - sears the dark air
+62. maimed - maimed head
+63. cowed - shelob cowed at last
+64. cowered - he cowered
+65. cranny - trying to creep away into some cranny
+66. trussed - trussed their small packs
+67. confer - but one thing it did not confer
+68. larder - off her larder
+69. swooned - he almost swooned
+70. gauntlets - hand
+71. parleying - no time or place for riddling or parleying
+72. doughty - doughty men
+73. forayers - his forayers
+74. harry - to harry the Orcs
+75. swarthy - swarthy men
+76. hew - hewing them down
+77. heave - his heaving back
+78. durst - yet I durst not handle
+79. hither - hither side
+80. hazard - I would hazard
+81. heirloom
+82. therein - his own glory therein
+83. trickled - the stream that trickled
+84. cloven - rock
+85. bed - rock/mountain
+86. meads - broad meads
+87. trestles - set up on trestles
+88. cask - cask of wine
+89. broached - cask of wine was being broached
+90. pelts - barrels covered with pelts
+91. beaming - sam was beaming and humming to himself
+92. humming - hummin got himselft
+93. realm - noun
+94. dotage - falling by degrees into dotage
+95. heraldry
+96. perchance - lest peril perchance
+97. waylay - lest peril perchance wyalay me
+98. sway - he caught him as he swayed
+99. upen - the roads that converged upon the Gate of Mordor
+100. cleft - mount
+101. crook-legged
+102. hollow - mount
+103. dwindled - dwindled to a small fiery point
+104. reprieved - too good to be reprieved
+105. heights - behind the gloomy heights
+106.  hillside hillside slopes
+107. prostrate
+108. mantled - mantled in deep tapestries
+109. fanged - yellow-fanged
+110. grots - grots and rocky walls
+111. starred - starred with
+112. saxifrages - saxifrages and stonecrops
+113. stonecrops
+114. nonetheless
 
 === Nuevas Palabras ===
 
