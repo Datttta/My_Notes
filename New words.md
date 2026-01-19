@@ -107,9 +107,10 @@
 105. beaming - sam was beaming and humming to himself
 106. humming - hummin got himselft
 107. realm - noun
-108. dotage - falling by degrees into dotage
-109. heraldry
-110. waylay - lest peril perchance wyalay me
+108.  -  by degrees into dotage
+109. 
+110. 
+111.  - lest peril perchance wyalay me
 
 === Nuevas Palabras ===
 
