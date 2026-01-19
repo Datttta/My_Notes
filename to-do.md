@@ -7,7 +7,6 @@
 - [ ] when when I type number on terminal I enter on specific folders
 - [ ] add middle mouse scroll
 - [ ] look biotechlonogy up
-- [ ] equalize your earbuds
 - [ ] organize your playlist
 
 == Today ==
