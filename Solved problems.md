@@ -52,4 +52,4 @@
 
 - waybar not displaying capslock state correctly:
     - sudo usermod -aG input $USER
-    - then restart the secction
+    - then restart the session
