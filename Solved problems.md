@@ -48,4 +48,8 @@
     - flatpak override --user --env=QT_QPA_PLATFORM=wayland <com.stremio.Stremio(link you used to download)>
 
 - Steam opens a black screen and closes afterwords:
-    - make sure there is only one exec= in steam.desktop 
+    - make sure there is only one exec= in steam.desktop
+
+- waybar not displaying capslock state correctly:
+    - sudo usermod -aG input $USER
+    - then restart you pc
