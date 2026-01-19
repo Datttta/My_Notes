@@ -4,6 +4,7 @@
 - [ ] _
 - [ ] make your resumé
 - [ ] make clock ring without having to manually open clocks app
+- [ ] when when I type number on terminal I enter on specific folders
 - [ ] look biotechlonogy up
 - [ ] equalize your earbuds
 - [ ] organize your playlist
