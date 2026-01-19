@@ -1,7 +1,7 @@
 === New words ===
 
 1. dilettant
-2. knocking about
+2. knocking about - if you go there at night, you'll get all sorts of knocking about
 3. utterance - sentence
 4. parenting
 5. figure out
