@@ -654,23 +654,3 @@
 536. hacendado
 537. haragán
 538. imperturbable
-539. harto
-540. hidalgo
-541. hirsuto
-542. incauto
-543. inapelable
-544. flujo
-545. inagotable
-546. inabarcable
-547. inadvertido
-548. impío
-549. impoluto
-550. impuntual
-551. picardía
-552. listillo
-553. guasa - esta de guasa
-554. que pillos - expression
-555. pomo
-556. no se te ocurre
-557. forrado
-558. hacer caso
