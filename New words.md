@@ -3,7 +3,7 @@
 1. dilettant
 2. knocking about - if you go there at night, you'll get all sorts of knocking about
 3. shovel down - couldn't stop shovelling it down
-4. run on fumes - we were running of fumes, las few minutes were a tourture
+4. run on fumes - we were running of fumes, las few minutes were a torture
 5. utterance - sentence
 6. parenting
 7. figure out
