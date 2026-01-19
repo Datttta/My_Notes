@@ -107,10 +107,11 @@
 105. beaming - sam was beaming and humming to himself
 106. humming - hummin got himselft
 107. realm - noun
-108.  -  by degrees into dotage
-109. 
+108. Childless lords sat in aged halls musing on heraldry
+109.  -  by degrees into dotage
 110. 
-111.  - lest peril perchance wyalay me
+111. 
+112.  - lest peril perchance wyalay me
 
 === Nuevas Palabras ===
 
