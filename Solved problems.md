@@ -51,5 +51,5 @@
     - make sure there is only one exec= in steam.desktop
 
 - waybar not displaying capslock state correctly:
-    - sudo usermod -aG input $USER
+    - 'sudo usermod -aG input $USER'
     - then restart the session
