@@ -2,7 +2,7 @@
 
 1. dilettant
 2. knocking about - if you go there at night, you'll get all sorts of knocking about
-3. shovel down
+3. shovel down - couldn't stop shovelling it down
 4. utterance - sentence
 5. parenting
 6. figure out
