@@ -3,118 +3,119 @@
 1. dilettant
 2. knocking about - if you go there at night, you'll get all sorts of knocking about
 3. shovel down - couldn't stop shovelling it down
-4. utterance - sentence
-5. parenting
-6. figure out
-7. empress - she became the empress of the underground
-8. brunch - you must be thinking of brunch
-9. goop - pink goop
-10. wimpy - wimpy goody-two-shoes-schtick
-11. goody - wimpy goody-two-shoes-schtick
-12. schtick - wimpy goody-two-shoes-schtick
-13. frolick - verb
-14. saccharine - at first I hated you stupid saccharine schtick
-15. spiel - you've already heard my spiel, haven't you
-16. drive up the wall - your gonna drive me up the wall
-17. creasy - creasy ball
-18. scales - fish scales
-19. scripted - everyting is alredy scripted
-20. pow-wow
-21. buffon - you absolute buffon
-22. tell on - tell on someone
-23. feel someone in
-24. innkeeper - The innkeeper served us wine and olives.
-25. stove burner 
-26. bloom - you finaly bloomed a conscience
-27. lats - body part
-28. sagging - no sagging hips
-29. hold hands
-30. expiration date
-31. Take it or leave it
-32. play fair
-33. Upper case
-34. Lower case
-35. get the jitters
-36. sell by date
-37. past its expiry date.
-38. past its sell-by date.
-39. hand in hand
-40. hand and glove
-41. Majuscule - letter
-42. even so
-43. all the same
-44. just the same
-45. nevertheles
-46. as for
-47. for all that - for all something
-48. dig someone - understand
-49. fall flat
-50. look alike
-51. make a splash - he is making a splash in holywood
-52. bring down
-53. cast off
-54. even out
-55. put together - all meaning
-56. note - verb
-57. visitant
-58. visitor
-59. bottleneck - This confirms your Intel iGPU is the bottleneck
-60. unbidden - to come to this place unbidden
-61. entreat - I will entreat him
-62. hedge - under a hedge
-63. maimed - had maimed it
-64. valley - vale
-65. crawled - crawled stair
-66. barrow - the darking of the barrow
-67. droop - slowly the phial drooped
-68. quail -  the eyes began to quail
-69. spring out - he sprang out shouting as he came
-70. horn - rock
-71. lesser - far and wide her lesser broods
-72. offspring - her own offspring
-73. glen - spread from glen to glen
-74. dismay - feeling
-75. pivoted - pivoted on the wrist
-76. swoon - out of the swoon that was upon him
-77. firmament - from the firmament
-78. sears - sears the dark air
-79. maimed - maimed head
-80. cowed - shelob cowed at last
-81. cowered - he cowered
-82. cranny - trying to creep away into some cranny
-83. trussed - trussed their small packs
-84. confer - but one thing it did not confer
-85. larder - off her larder
-86. swooned - he almost swooned
-87. gauntlets - hand
-88. parleying - no time or place for riddling or parleying
-89. doughty - doughty men
-90. forayers - his forayers
-91. harry - to harry the Orcs
-92. swarthy - swarthy men
-93. hew - hewing them down
-94. heave - his heaving back
-95. durst - yet I durst not handle
-96. hither - hither side
-97. hazard - I would hazard
-98. heirloom
-99. therein - his own glory therein
-100. trickled - the stream that trickled
-101. cloven - rock
-102. bed - rock/mountain
-103. meads - broad meads
-104. trestles - set up on trestles
-105. cask - cask of wine
-106. broached - cask of wine was being broached
-107. pelts - barrels covered with pelts
-108. beaming - sam was beaming and humming to himself
-109. humming - hummin got himselft
-110. realm - noun
-111. Childless lords sat in aged halls musing on heraldry
-112.  -  by degrees into dotage
-113. 
+4. run on fumes - we were running of fumes, las few minutes were a tourture
+5. utterance - sentence
+6. parenting
+7. figure out
+8. empress - she became the empress of the underground
+9. brunch - you must be thinking of brunch
+10. goop - pink goop
+11. wimpy - wimpy goody-two-shoes-schtick
+12. goody - wimpy goody-two-shoes-schtick
+13. schtick - wimpy goody-two-shoes-schtick
+14. frolick - verb
+15. saccharine - at first I hated you stupid saccharine schtick
+16. spiel - you've already heard my spiel, haven't you
+17. drive up the wall - your gonna drive me up the wall
+18. creasy - creasy ball
+19. scales - fish scales
+20. scripted - everyting is alredy scripted
+21. pow-wow
+22. buffon - you absolute buffon
+23. tell on - tell on someone
+24. feel someone in
+25. innkeeper - The innkeeper served us wine and olives.
+26. stove burner 
+27. bloom - you finaly bloomed a conscience
+28. lats - body part
+29. sagging - no sagging hips
+30. hold hands
+31. expiration date
+32. Take it or leave it
+33. play fair
+34. Upper case
+35. Lower case
+36. get the jitters
+37. sell by date
+38. past its expiry date.
+39. past its sell-by date.
+40. hand in hand
+41. hand and glove
+42. Majuscule - letter
+43. even so
+44. all the same
+45. just the same
+46. nevertheles
+47. as for
+48. for all that - for all something
+49. dig someone - understand
+50. fall flat
+51. look alike
+52. make a splash - he is making a splash in holywood
+53. bring down
+54. cast off
+55. even out
+56. put together - all meaning
+57. note - verb
+58. visitant
+59. visitor
+60. bottleneck - This confirms your Intel iGPU is the bottleneck
+61. unbidden - to come to this place unbidden
+62. entreat - I will entreat him
+63. hedge - under a hedge
+64. maimed - had maimed it
+65. valley - vale
+66. crawled - crawled stair
+67. barrow - the darking of the barrow
+68. droop - slowly the phial drooped
+69. quail -  the eyes began to quail
+70. spring out - he sprang out shouting as he came
+71. horn - rock
+72. lesser - far and wide her lesser broods
+73. offspring - her own offspring
+74. glen - spread from glen to glen
+75. dismay - feeling
+76. pivoted - pivoted on the wrist
+77. swoon - out of the swoon that was upon him
+78. firmament - from the firmament
+79. sears - sears the dark air
+80. maimed - maimed head
+81. cowed - shelob cowed at last
+82. cowered - he cowered
+83. cranny - trying to creep away into some cranny
+84. trussed - trussed their small packs
+85. confer - but one thing it did not confer
+86. larder - off her larder
+87. swooned - he almost swooned
+88. gauntlets - hand
+89. parleying - no time or place for riddling or parleying
+90. doughty - doughty men
+91. forayers - his forayers
+92. harry - to harry the Orcs
+93. swarthy - swarthy men
+94. hew - hewing them down
+95. heave - his heaving back
+96. durst - yet I durst not handle
+97. hither - hither side
+98. hazard - I would hazard
+99. heirloom
+100. therein - his own glory therein
+101. trickled - the stream that trickled
+102. cloven - rock
+103. bed - rock/mountain
+104. meads - broad meads
+105. trestles - set up on trestles
+106. cask - cask of wine
+107. broached - cask of wine was being broached
+108. pelts - barrels covered with pelts
+109. beaming - sam was beaming and humming to himself
+110. humming - hummin got himselft
+111. realm - noun
+112. Childless lords sat in aged halls musing on heraldry
+113.  -  by degrees into dotage
 114. 
-115.  - lest peril perchance wyalay me
+115. 
+116.  - lest peril perchance wyalay me
 
 === Nuevas Palabras ===
 
