@@ -664,4 +664,4 @@
 543. morimbunda
 544. a que conduce
 545. porqueria
-546. puros
+546. puros - fumar puros
