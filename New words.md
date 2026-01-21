@@ -598,3 +598,4 @@
 512. guarro
 513. pulsera
 514. espíritu ruin
+515. largo - cabello largo
