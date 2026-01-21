@@ -601,3 +601,4 @@
 515. trenza
 516. borrosa
 517. desaliñada
+518. hiere
