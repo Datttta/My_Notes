@@ -83,6 +83,7 @@
 81. pivoted - pivoted on the wrist
 82. exhaustive - spam rules said: this is not exhaustive
 83. so long as
+84. heterogeneity
 
 === Nuevas Palabras ===
 
