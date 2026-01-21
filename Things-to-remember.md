@@ -258,3 +258,6 @@
     - if "802-11-wireless-security.key-mgmt: property is missing." appears:
         - nmcli connection delete <password-you're-trying-to-connect>
         - Now try to connect again
+
+- Grub:
+    - reload grub: sudo grub-mkconfig -o /boot/grub/grub.cfg
