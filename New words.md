@@ -626,3 +626,4 @@
 529. hechizo
 530. macizo
 531. rasgos
+532. semejanza
