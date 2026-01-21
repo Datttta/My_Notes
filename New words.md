@@ -668,3 +668,4 @@
 547. prometida
 548. poner caldo
 549. caricaturista
+550. cascar
