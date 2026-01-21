@@ -627,3 +627,4 @@
 530. macizo
 531. rasgos
 532. semejanza
+533. dar a conocer
