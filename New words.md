@@ -599,3 +599,4 @@
 513. pulsera
 514. espíritu ruin
 515. trenza
+516. borrosa
