@@ -604,3 +604,4 @@
 518. hiere
 519. tarrijas - comida
 520. plantar
+521. mano dura
