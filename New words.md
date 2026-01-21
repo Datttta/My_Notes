@@ -81,18 +81,6 @@
 79. glen - spread from glen to glen
 80. dismay - feeling
 81. pivoted - pivoted on the wrist
-82. swoon - out of the swoon that was upon him
-83. firmament - from the firmament
-84. sears - sears the dark air
-85. maimed - maimed head
-86. cowed - shelob cowed at last
-87. cowered - he cowered
-88. cranny - trying to creep away into some cranny
-89. trussed - trussed their small packs
-90. confer - but one thing it did not confer
-91. larder - off her larder
-92. swooned - he almost swooned
-93. gauntlets - hand
 
 === Nuevas Palabras ===
 
