@@ -81,6 +81,7 @@
 79. glen - spread from glen to glen
 80. dismay - feeling
 81. pivoted - pivoted on the wrist
+82. exhaustive - spam rules said: this is not exhaustive
 
 === Nuevas Palabras ===
 
