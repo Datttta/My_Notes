@@ -1,97 +1,98 @@
 === New words ===
 
 1. dilettant
-2. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
-3. concurrently - start the watcher concurrently
-4. knocking about - if you go there at night, you'll get all sorts of knocking about
-5. shovel down - couldn't stop shovelling it down
-6. run on fumes - we were running of fumes, las few minutes were a torture
-7. utterance - sentence
-8. parenting
-9. figure out
-10. empress - she became the empress of the underground
-11. brunch - you must be thinking of brunch
-12. goop - pink goop
-13. wimpy - wimpy goody-two-shoes-schtick
-14. goody - wimpy goody-two-shoes-schtick
-15. schtick - wimpy goody-two-shoes-schtick
-16. frolick - verb
-17. saccharine - at first I hated you stupid saccharine schtick
-18. spiel - you've already heard my spiel, haven't you
-19. drive up the wall - your gonna drive me up the wall
-20. creasy - creasy ball
-21. scales - fish scales
-22. scripted - everyting is alredy scripted
-23. pow-wow
-24. buffon - you absolute buffon
-25. tell on - tell on someone
-26. feel someone in
-27. innkeeper - The innkeeper served us wine and olives.
-28. stove burner
-29. superintendent
-30. bloom - you finaly bloomed a conscience
-31. lats - body part
-32. sagging - no sagging hips
-33. hold hands
-34. expiration date
-35. Take it or leave it
-36. play fair
-37. Upper case
-38. Lower case
-39. get the jitters
-40. sell by date
-41. past its expiry date.
-42. past its sell-by date.
-43. hand in hand
-44. hand and glove
-45. Majuscule - letter
-46. even so
-47. all the same
-48. just the same
-49. nevertheles
-50. as for
-51. for all that - for all something
-52. dig someone - understand
-53. fall flat
-54. look alike
-55. make a splash - he is making a splash in holywood
-56. bring down
-57. cast off
-58. even out
-59. put together - all meaning
-60. note - verb
-61. visitant
-62. visitor
-63. bottleneck - This confirms your Intel iGPU is the bottleneck
-64. unbidden - to come to this place unbidden
-65. entreat - I will entreat him
-66. hedge - under a hedge
-67. maimed - had maimed it
-68. valley - vale
-69. crawled - crawled stair
-70. forensic -  sent him to harry the forensic lab over the blood tests.
-71. barrow - the darking of the barrow
-72. droop - slowly the phial drooped
-73. quail -  the eyes began to quail
-74. spring out - he sprang out shouting as he came
-75. horn - rock
-76. lesser - far and wide her lesser broods
-77. offspring - her own offspring
-78. glen - spread from glen to glen
-79. dismay - feeling
-80. pivoted - pivoted on the wrist
-81. swoon - out of the swoon that was upon him
-82. firmament - from the firmament
-83. sears - sears the dark air
-84. maimed - maimed head
-85. cowed - shelob cowed at last
-86. cowered - he cowered
-87. cranny - trying to creep away into some cranny
-88. trussed - trussed their small packs
-89. confer - but one thing it did not confer
-90. larder - off her larder
-91. swooned - he almost swooned
-92. gauntlets - hand
+2. sorority - social organization for university students
+3. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
+4. concurrently - start the watcher concurrently
+5. knocking about - if you go there at night, you'll get all sorts of knocking about
+6. shovel down - couldn't stop shovelling it down
+7. run on fumes - we were running of fumes, las few minutes were a torture
+8. utterance - sentence
+9. parenting
+10. figure out
+11. empress - she became the empress of the underground
+12. brunch - you must be thinking of brunch
+13. goop - pink goop
+14. wimpy - wimpy goody-two-shoes-schtick
+15. goody - wimpy goody-two-shoes-schtick
+16. schtick - wimpy goody-two-shoes-schtick
+17. frolick - verb
+18. saccharine - at first I hated you stupid saccharine schtick
+19. spiel - you've already heard my spiel, haven't you
+20. drive up the wall - your gonna drive me up the wall
+21. creasy - creasy ball
+22. scales - fish scales
+23. scripted - everyting is alredy scripted
+24. pow-wow
+25. buffon - you absolute buffon
+26. tell on - tell on someone
+27. feel someone in
+28. innkeeper - The innkeeper served us wine and olives.
+29. stove burner
+30. superintendent
+31. bloom - you finaly bloomed a conscience
+32. lats - body part
+33. sagging - no sagging hips
+34. hold hands
+35. expiration date
+36. Take it or leave it
+37. play fair
+38. Upper case
+39. Lower case
+40. get the jitters
+41. sell by date
+42. past its expiry date.
+43. past its sell-by date.
+44. hand in hand
+45. hand and glove
+46. Majuscule - letter
+47. even so
+48. all the same
+49. just the same
+50. nevertheles
+51. as for
+52. for all that - for all something
+53. dig someone - understand
+54. fall flat
+55. look alike
+56. make a splash - he is making a splash in holywood
+57. bring down
+58. cast off
+59. even out
+60. put together - all meaning
+61. note - verb
+62. visitant
+63. visitor
+64. bottleneck - This confirms your Intel iGPU is the bottleneck
+65. unbidden - to come to this place unbidden
+66. entreat - I will entreat him
+67. hedge - under a hedge
+68. maimed - had maimed it
+69. valley - vale
+70. crawled - crawled stair
+71. forensic -  sent him to harry the forensic lab over the blood tests.
+72. barrow - the darking of the barrow
+73. droop - slowly the phial drooped
+74. quail -  the eyes began to quail
+75. spring out - he sprang out shouting as he came
+76. horn - rock
+77. lesser - far and wide her lesser broods
+78. offspring - her own offspring
+79. glen - spread from glen to glen
+80. dismay - feeling
+81. pivoted - pivoted on the wrist
+82. swoon - out of the swoon that was upon him
+83. firmament - from the firmament
+84. sears - sears the dark air
+85. maimed - maimed head
+86. cowed - shelob cowed at last
+87. cowered - he cowered
+88. cranny - trying to creep away into some cranny
+89. trussed - trussed their small packs
+90. confer - but one thing it did not confer
+91. larder - off her larder
+92. swooned - he almost swooned
+93. gauntlets - hand
 
 === Nuevas Palabras ===
 
