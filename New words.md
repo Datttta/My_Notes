@@ -602,3 +602,4 @@
 516. borrosa
 517. desaliñada
 518. hiere
+519. tarrijas - comida
