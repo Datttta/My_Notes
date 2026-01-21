@@ -625,23 +625,3 @@
 528. hiriente
 529. hechizo
 530. macizo
-531. magno
-532. malito
-533. marchito
-534. inédito
-535. indebido
-536. hacendado
-537. haragán
-538. imperturbable
-539. malicia
-540. piedad
-541. rima
-542. barrendero
-543. morimbunda
-544. a que conduce
-545. porqueria
-546. puros - fumar puros
-547. prometida
-548. poner caldo
-549. caricaturista
-550. cascar
