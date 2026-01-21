@@ -111,13 +111,7 @@
 109. broached - cask of wine was being broached
 110. pelts - barrels covered with pelts
 111. beaming - sam was beaming and humming to himself
-112. humming - hummin got himselft
-113. realm - noun
-114. Childless lords sat in aged halls musing on heraldry
-115.  -  by degrees into dotage
-116. 
-117. 
-118.  - lest peril perchance wyalay me
+112. came unstuck - and they came unstuck
 
 === Nuevas Palabras ===
 
