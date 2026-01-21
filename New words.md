@@ -1,7 +1,7 @@
 === New words ===
 
 1. dilettant
-2. concurrently - start the watch concurrently
+2. concurrently - start the watcher concurrently
 3. knocking about - if you go there at night, you'll get all sorts of knocking about
 4. shovel down - couldn't stop shovelling it down
 5. run on fumes - we were running of fumes, las few minutes were a torture
