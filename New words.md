@@ -667,3 +667,4 @@
 546. puros - fumar puros
 547. prometida
 548. poner caldo
+549. caricaturista
