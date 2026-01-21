@@ -92,28 +92,6 @@
 90. larder - off her larder
 91. swooned - he almost swooned
 92. gauntlets - hand
-93. parleying - no time or place for riddling or parleying
-94. doughty - doughty men
-95. forayers - his forayers
-96.  - to harry the Orcs
-97.  - swarthy men
-98.  - hewing them down
-99.  - his heaving back
-100.  - yet I durst not handle
-101.  - hither side
-102.  - I would hazard
-103. 
-104.  - his own glory therein
-105.  - the stream that trickled
-106.  - rock
-107.  - rock/mountain
-108.  - broad meads
-109.  - set up on trestles
-110.  - cask of wine
-111.  - cask of wine was being broached
-112.  - barrels covered with pelts
-113.  - sam was beaming and humming to himself
-114.  - and they came unstuck
 
 === Nuevas Palabras ===
 
