@@ -27,91 +27,93 @@
 25. tell on - tell on someone
 26. feel someone in
 27. innkeeper - The innkeeper served us wine and olives.
-28. stove burner 
-29. bloom - you finaly bloomed a conscience
-30. lats - body part
-31. sagging - no sagging hips
-32. hold hands
-33. expiration date
-34. Take it or leave it
-35. play fair
-36. Upper case
-37. Lower case
-38. get the jitters
-39. sell by date
-40. past its expiry date.
-41. past its sell-by date.
-42. hand in hand
-43. hand and glove
-44. Majuscule - letter
-45. even so
-46. all the same
-47. just the same
-48. nevertheles
-49. as for
-50. for all that - for all something
-51. dig someone - understand
-52. fall flat
-53. look alike
-54. make a splash - he is making a splash in holywood
-55. bring down
-56. cast off
-57. even out
-58. put together - all meaning
-59. note - verb
-60. visitant
-61. visitor
-62. bottleneck - This confirms your Intel iGPU is the bottleneck
-63. unbidden - to come to this place unbidden
-64. entreat - I will entreat him
-65. hedge - under a hedge
-66. maimed - had maimed it
-67. valley - vale
-68. crawled - crawled stair
-69. barrow - the darking of the barrow
-70. droop - slowly the phial drooped
-71. quail -  the eyes began to quail
-72. spring out - he sprang out shouting as he came
-73. horn - rock
-74. lesser - far and wide her lesser broods
-75. offspring - her own offspring
-76. glen - spread from glen to glen
-77. dismay - feeling
-78. pivoted - pivoted on the wrist
-79. swoon - out of the swoon that was upon him
-80. firmament - from the firmament
-81. sears - sears the dark air
-82. maimed - maimed head
-83. cowed - shelob cowed at last
-84. cowered - he cowered
-85. cranny - trying to creep away into some cranny
-86. trussed - trussed their small packs
-87. confer - but one thing it did not confer
-88. larder - off her larder
-89. swooned - he almost swooned
-90. gauntlets - hand
-91. parleying - no time or place for riddling or parleying
-92. doughty - doughty men
-93. forayers - his forayers
-94. harry - to harry the Orcs
-95. swarthy - swarthy men
-96. hew - hewing them down
-97. heave - his heaving back
-98. durst - yet I durst not handle
-99. hither - hither side
-100. hazard - I would hazard
-101. heirloom
-102. therein - his own glory therein
-103. trickled - the stream that trickled
-104. cloven - rock
-105. bed - rock/mountain
-106. meads - broad meads
-107. trestles - set up on trestles
-108. cask - cask of wine
-109. broached - cask of wine was being broached
-110. pelts - barrels covered with pelts
-111. beaming - sam was beaming and humming to himself
-112. came unstuck - and they came unstuck
+28. stove burner
+29. superintendent
+30. bloom - you finaly bloomed a conscience
+31. lats - body part
+32. sagging - no sagging hips
+33. hold hands
+34. expiration date
+35. Take it or leave it
+36. play fair
+37. Upper case
+38. Lower case
+39. get the jitters
+40. sell by date
+41. past its expiry date.
+42. past its sell-by date.
+43. hand in hand
+44. hand and glove
+45. Majuscule - letter
+46. even so
+47. all the same
+48. just the same
+49. nevertheles
+50. as for
+51. for all that - for all something
+52. dig someone - understand
+53. fall flat
+54. look alike
+55. make a splash - he is making a splash in holywood
+56. bring down
+57. cast off
+58. even out
+59. put together - all meaning
+60. note - verb
+61. visitant
+62. visitor
+63. bottleneck - This confirms your Intel iGPU is the bottleneck
+64. unbidden - to come to this place unbidden
+65. entreat - I will entreat him
+66. hedge - under a hedge
+67. maimed - had maimed it
+68. valley - vale
+69. crawled - crawled stair
+70. forensic -  sent him to harry the forensic lab over the blood tests.
+71. barrow - the darking of the barrow
+72. droop - slowly the phial drooped
+73. quail -  the eyes began to quail
+74. spring out - he sprang out shouting as he came
+75. horn - rock
+76. lesser - far and wide her lesser broods
+77. offspring - her own offspring
+78. glen - spread from glen to glen
+79. dismay - feeling
+80. pivoted - pivoted on the wrist
+81. swoon - out of the swoon that was upon him
+82. firmament - from the firmament
+83. sears - sears the dark air
+84. maimed - maimed head
+85. cowed - shelob cowed at last
+86. cowered - he cowered
+87. cranny - trying to creep away into some cranny
+88. trussed - trussed their small packs
+89. confer - but one thing it did not confer
+90. larder - off her larder
+91. swooned - he almost swooned
+92. gauntlets - hand
+93. parleying - no time or place for riddling or parleying
+94. doughty - doughty men
+95. forayers - his forayers
+96.  - to harry the Orcs
+97.  - swarthy men
+98.  - hewing them down
+99.  - his heaving back
+100.  - yet I durst not handle
+101.  - hither side
+102.  - I would hazard
+103. 
+104.  - his own glory therein
+105.  - the stream that trickled
+106.  - rock
+107.  - rock/mountain
+108.  - broad meads
+109.  - set up on trestles
+110.  - cask of wine
+111.  - cask of wine was being broached
+112.  - barrels covered with pelts
+113.  - sam was beaming and humming to himself
+114.  - and they came unstuck
 
 === Nuevas Palabras ===
 
