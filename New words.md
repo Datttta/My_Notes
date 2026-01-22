@@ -592,3 +592,4 @@
 508. gozoso
 509. disimulo
 510. mechones
+511. dado a la burla
