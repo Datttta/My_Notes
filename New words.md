@@ -597,3 +597,4 @@
 513. passar de pelo
 514. calabaza
 515. inflama
+516. envoltorio
