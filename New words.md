@@ -615,3 +615,4 @@
 531. curro - job
 532. dar cuenta
 533. reparar
+534. coraje
