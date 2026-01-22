@@ -609,3 +609,4 @@
 525. esterilla
 526. estirar
 527. manaza
+528. manitas
