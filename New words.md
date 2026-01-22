@@ -608,5 +608,5 @@
 524. cascos - earphone
 525. esterilla
 526. estirar
-527. manaza
-528. manitas
+527. ser manaza
+528. ser manitas
