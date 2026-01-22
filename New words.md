@@ -612,3 +612,4 @@
 528. ser manitas
 529. ir de culo
 530. intercambiables
+531. curro - job
