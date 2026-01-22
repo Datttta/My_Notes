@@ -603,3 +603,4 @@
 519. dar la espalda
 520. echa de lado
 521. chandal
+522. carretero
