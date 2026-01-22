@@ -607,3 +607,4 @@
 523. echar un cable
 524. cascos - earphone
 525. esterilla
+526. estirar
