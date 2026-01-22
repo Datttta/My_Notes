@@ -601,3 +601,4 @@
 517. como va eso
 518. cantado - presumi que tudo estava cantado
 519. dar la espalda
+520. echa de lado
