@@ -605,3 +605,4 @@
 521. chandal
 522. carretero
 523. echar un cable
+524. cascos - earphone
