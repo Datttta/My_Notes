@@ -608,3 +608,4 @@
 524. cascos - earphone
 525. esterilla
 526. estirar
+527. manaza
