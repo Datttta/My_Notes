@@ -610,4 +610,5 @@
 520. plantar
 521. mano dura
 522. por todo lo alto
-523. lamir - lamido la nunca
+523. lamir
+524. escabullir
