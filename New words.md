@@ -590,4 +590,3 @@
 506. goloso
 507. gritón
 508. gozoso
-509. amable
