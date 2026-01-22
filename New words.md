@@ -614,3 +614,4 @@
 530. intercambiables
 531. curro - job
 532. dar cuenta
+533. reparar
