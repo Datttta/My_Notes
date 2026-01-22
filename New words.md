@@ -86,6 +86,7 @@
 84. so long as
 85. heterogeneity
 86. delegated - delegated to an ai
+87. borne - carried or transported
 
 === Nuevas Palabras ===
 
