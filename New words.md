@@ -79,16 +79,6 @@
 77. horn - rock
 78. lesser - far and wide her lesser broods
 79. offspring - her own offspring
-80. glen - spread from glen to glen
-81. dismay - feeling
-82. pivoted - pivoted on the wrist
-83. exhaustive - spam rules said: this is not exhaustive
-84. so long as
-85. heterogeneity
-86. delegated - delegated to an ai
-87. borne - carried or transported
-88. unapologetically
-89.  brace - brace yoursfelf for the ai bubble
 
 === Nuevas Palabras ===
 
