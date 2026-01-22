@@ -613,3 +613,4 @@
 529. ir de culo
 530. intercambiables
 531. curro - job
+532. dar cuenta
