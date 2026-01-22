@@ -590,23 +590,3 @@
 506. goloso
 507. gritón
 508. gozoso
-509. güero
-510. guasón
-511. guapetón
-512. guarro
-513. pulsera
-514. espíritu ruin
-515. trenza
-516. borrosa
-517. desaliñada
-518. hiere
-519. tarrijas - comida
-520. plantar
-521. mano dura
-522. por todo lo alto
-523. lamir
-524. escabullir
-525. chorradas
-526. mimar
-527. tararear
-528. tanto monta monta tanto
