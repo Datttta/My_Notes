@@ -606,3 +606,4 @@
 522. carretero
 523. echar un cable
 524. cascos - earphone
+525. esterilla
