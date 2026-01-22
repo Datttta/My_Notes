@@ -604,3 +604,4 @@
 520. echa de lado
 521. chandal
 522. carretero
+523. echar un cable
