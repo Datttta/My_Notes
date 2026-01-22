@@ -87,7 +87,8 @@
 85. heterogeneity
 86. delegated - delegated to an ai
 87. borne - carried or transported
-88. brace - brace yoursfelf for the ai bubble
+88. unapologetically
+89.  - brace yoursfelf for the ai bubble
 
 === Nuevas Palabras ===
 
