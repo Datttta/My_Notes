@@ -611,3 +611,4 @@
 527. ser manaza
 528. ser manitas
 529. ir de culo
+530. intercambiables
