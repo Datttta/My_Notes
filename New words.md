@@ -602,3 +602,4 @@
 518. cantado - presumi que tudo estava cantado
 519. dar la espalda
 520. echa de lado
+521. chandal
