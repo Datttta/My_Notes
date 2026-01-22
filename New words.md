@@ -88,7 +88,7 @@
 86. delegated - delegated to an ai
 87. borne - carried or transported
 88. unapologetically
-89.  - brace yoursfelf for the ai bubble
+89.  brace - brace yoursfelf for the ai bubble
 
 === Nuevas Palabras ===
 
