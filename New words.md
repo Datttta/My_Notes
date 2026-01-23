@@ -587,3 +587,4 @@
 516. rellano
 517. tabique
 518. caraboia
+519. crio - ser crio
