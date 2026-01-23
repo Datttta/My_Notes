@@ -582,3 +582,4 @@
 512. butacon
 513. passar de pelo
 514. calabaza
+515. torpe
