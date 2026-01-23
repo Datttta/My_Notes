@@ -595,3 +595,4 @@
 524. desabrochar
 525. cachon
 526. compulsar
+527. regazo
