@@ -2,7 +2,6 @@
 
 1. dilettant
 2. downplay
-3. ultras - these people are ultras
 4. track-suit
 5. contempt of court - jailed for contempt of court
 6. sorority - social organization for university students
