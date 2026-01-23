@@ -588,3 +588,5 @@
 517. tabique
 518. caraboia
 519. crio - ser crio
+520. astil
+521. aforo
