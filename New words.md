@@ -582,23 +582,3 @@
 512. butacon
 513. passar de pelo
 514. calabaza
-515. inflama
-516. envoltorio
-517. como va eso
-518. cantado - presumi que tudo estava cantado
-519. dar la espalda
-520. echa de lado
-521. chandal
-522. carretero
-523. echar un cable
-524. cascos - earphone
-525. esterilla
-526. estirar
-527. ser manaza
-528. ser manitas
-529. ir de culo
-530. intercambiables
-531. curro - job
-532. dar cuenta
-533. reparar
-534. coraje
