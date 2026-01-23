@@ -597,3 +597,4 @@
 526. compulsar
 527. regazo
 528. en plan
+529. chupado
