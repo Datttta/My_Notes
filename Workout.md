@@ -16,7 +16,7 @@
     - Pull-ups 3x8
 
     - Chin-ups 3x7
-      
+
     - Incline Rows 3x10
 
     - Scapular Pulls 3x10
