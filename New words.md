@@ -65,20 +65,6 @@
 63. visitant
 64. visitor
 65. bottleneck - This confirms your Intel iGPU is the bottleneck
-66. unbidden - to come to this place unbidden
-67. entreat - I will entreat him
-68. hedge - under a hedge
-69. maimed - had maimed it
-70. valley - vale
-71. crawled - crawled stair
-72. forensic -  sent him to harry the forensic lab over the blood tests.
-73. barrow - the darking of the barrow
-74. droop - slowly the phial drooped
-75. quail -  the eyes began to quail
-76. spring out - he sprang out shouting as he came
-77. horn - rock
-78. lesser - far and wide her lesser broods
-79. offspring - her own offspring
 
 === Nuevas Palabras ===
 
