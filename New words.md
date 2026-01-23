@@ -591,3 +591,4 @@
 520. astil
 521. aforo
 522. espinilla
+523. sotea
