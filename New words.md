@@ -3,70 +3,71 @@
 1. dilettant
 2. downplay
 4. track-suit
-5. contempt of court - jailed for contempt of court
-6. sorority - social organization for university students
-7. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
-8. concurrently - start the watcher concurrently
-9. knocking about - if you go there at night, you'll get all sorts of knocking about
-10. shovel down - couldn't stop shovelling it down
-11. run on fumes - we were running of fumes, las few minutes were a torture
-12. utterance - sentence
-13. parenting
-14. figure out
-15. empress - she became the empress of the underground
-16. brunch - you must be thinking of brunch
-17. goop - pink goop
-18. wimpy - wimpy goody-two-shoes-schtick
-19. goody - wimpy goody-two-shoes-schtick
-20. schtick - wimpy goody-two-shoes-schtick
-21. frolick - verb
-22. saccharine - at first I hated you stupid saccharine schtick
-23. spiel - you've already heard my spiel, haven't you
-24. drive up the wall - your gonna drive me up the wall
-25. creasy - creasy ball
-26. scales - fish scales
-27. scripted - everyting is alredy scripted
-28. pow-wow
-29. buffon - you absolute buffon
-30. tell on - tell on someone
-31. feel someone in
-32. innkeeper - The innkeeper served us wine and olives.
-33. stove burner
-34. superintendent
-35. bloom - you finaly bloomed a conscience
-36. lats - body part
-37. sagging - no sagging hips
-38. hold hands
-39. expiration date
-40. Take it or leave it
-41. play fair
-42. Upper case
-43. Lower case
-44. get the jitters
-45. sell by date
-46. past its expiry date.
-47. past its sell-by date.
-48. hand in hand
-49. hand and glove
-50. Majuscule - letter
-51. even so
-52. all the same
-53. just the same
-54. nevertheles
-55. as for
-56. for all that - for all something
-57. dig someone - understand
-58. fall flat
-59. look alike
-60. make a splash - he is making a splash in holywood
-61. bring down
-62. cast off
-63. even out
-64. put together - all meaning
-65. note - verb
-66. visitant
-67. visitor
-68. bottleneck - This confirms your Intel iGPU is the bottleneck
+5. temu - temu europeans
+6. contempt of court - jailed for contempt of court
+7. sorority - social organization for university students
+8. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
+9. concurrently - start the watcher concurrently
+10. knocking about - if you go there at night, you'll get all sorts of knocking about
+11. shovel down - couldn't stop shovelling it down
+12. run on fumes - we were running of fumes, las few minutes were a torture
+13. utterance - sentence
+14. parenting
+15. figure out
+16. empress - she became the empress of the underground
+17. brunch - you must be thinking of brunch
+18. goop - pink goop
+19. wimpy - wimpy goody-two-shoes-schtick
+20. goody - wimpy goody-two-shoes-schtick
+21. schtick - wimpy goody-two-shoes-schtick
+22. frolick - verb
+23. saccharine - at first I hated you stupid saccharine schtick
+24. spiel - you've already heard my spiel, haven't you
+25. drive up the wall - your gonna drive me up the wall
+26. creasy - creasy ball
+27. scales - fish scales
+28. scripted - everyting is alredy scripted
+29. pow-wow
+30. buffon - you absolute buffon
+31. tell on - tell on someone
+32. feel someone in
+33. innkeeper - The innkeeper served us wine and olives.
+34. stove burner
+35. superintendent
+36. bloom - you finaly bloomed a conscience
+37. lats - body part
+38. sagging - no sagging hips
+39. hold hands
+40. expiration date
+41. Take it or leave it
+42. play fair
+43. Upper case
+44. Lower case
+45. get the jitters
+46. sell by date
+47. past its expiry date.
+48. past its sell-by date.
+49. hand in hand
+50. hand and glove
+51. Majuscule - letter
+52. even so
+53. all the same
+54. just the same
+55. nevertheles
+56. as for
+57. for all that - for all something
+58. dig someone - understand
+59. fall flat
+60. look alike
+61. make a splash - he is making a splash in holywood
+62. bring down
+63. cast off
+64. even out
+65. put together - all meaning
+66. note - verb
+67. visitant
+68. visitor
+69. bottleneck - This confirms your Intel iGPU is the bottleneck
 
 === Nuevas Palabras ===
 
