@@ -594,3 +594,4 @@
 523. sotea
 524. desabrochar
 525. cachon
+526. compulsar
