@@ -603,3 +603,4 @@
 530. meanto
 531. bombilla
 532. echa polvo - quando descobrir se quedará echa polvo
+533. Áspero
