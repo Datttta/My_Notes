@@ -592,3 +592,4 @@
 521. aforo
 522. espinilla
 523. sotea
+524. desabrochar
