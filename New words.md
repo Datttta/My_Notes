@@ -575,23 +575,3 @@
 512. butacon
 513. passar de pelo
 514. calabaza
-515. torpe
-516. rellano
-517. tabique
-518. caraboia
-519. crio - ser crio
-520. astil
-521. aforo
-522. espinilla
-523. sotea
-524. desabrochar
-525. cachon
-526. compulsar
-527. regazo
-528. en plan
-529. chupado
-530. meanto
-531. bombilla
-532. echa polvo - quando descobrir se quedará echa polvo
-533. Áspero
-534. animado
