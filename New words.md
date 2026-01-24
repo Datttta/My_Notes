@@ -1,7 +1,8 @@
 === New words ===
 
 1. dilettant
-2. downplay
+2. take over - he tried to take over speed
+3. downplay
 4. track-suit
 5. temu - temu europeans
 6. contempt of court - jailed for contempt of court
