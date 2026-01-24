@@ -568,11 +568,3 @@
 505. gaseoso
 506. goloso
 507. gritón
-508. gozoso
-509. disimulo
-510. mechones
-511. dado a la burla
-512. butacon
-513. passar de pelo
-514. calabaza
-515. Cotejar
