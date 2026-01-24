@@ -568,4 +568,4 @@
 505. gaseoso
 506. goloso
 507. gritón
-508. Se 
+508.  
