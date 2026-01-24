@@ -58,17 +58,6 @@
 56. as for
 57. for all that - for all something
 58. dig someone - understand
-59. fall flat
-60. look alike
-61. make a splash - he is making a splash in holywood
-62. bring down
-63. cast off
-64. even out
-65. put together - all meaning
-66. note - verb
-67. visitant
-68. visitor
-69. bottleneck - This confirms your Intel iGPU is the bottleneck
 
 === Nuevas Palabras ===
 
