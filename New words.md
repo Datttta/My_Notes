@@ -549,4 +549,5 @@
 501. aporreando
 502. te toca
 503. barbilla
-504. 20 card with pronound at the end of the verb
+504. me van
+505. 20 card with pronound at the end of the verb
