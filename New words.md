@@ -552,4 +552,5 @@
 504. me van
 505. bromita
 506. bater - el bater
-507. 20 card with pronound at the end of the verb
+507. reverendo
+508. 20 card with pronound at the end of the verb
