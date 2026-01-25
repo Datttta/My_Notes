@@ -553,4 +553,5 @@
 505. bromita
 506. bater - el bater
 507. reverendo
-508. 20 card with pronound at the end of the verb
+508. ganujillo
+509. 20 card with pronound at the end of the verb
