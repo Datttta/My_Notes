@@ -559,3 +559,4 @@
 511. chabal
 512. guinhos
 513. comparar
+514. se - se at the end of a word
