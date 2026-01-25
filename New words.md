@@ -572,3 +572,4 @@
 507. gritón
 508. passar - happen
 509. acabar - no lo acabares tio
+510. bolinga
