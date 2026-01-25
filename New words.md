@@ -573,3 +573,4 @@
 508. passar - happen
 509. acabar - no lo acabares tio
 510. bolinga
+511. chabal
