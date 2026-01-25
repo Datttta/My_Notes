@@ -542,4 +542,5 @@
 494. fidedigno
 495. cómplices
 496. Borrachera
-497. 20 card with pronound at the end of the verb
+497. Airoso
+498. 20 card with pronound at the end of the verb
