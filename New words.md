@@ -43,23 +43,6 @@
 41. hold hands
 42. expiration date
 43. Take it or leave it
-44. play fair
-45. Upper case
-46. Lower case
-47. get the jitters
-48. sell by date
-49. past its expiry date.
-50. past its sell-by date.
-51. hand in hand
-52. hand and glove
-53. Majuscule - letter
-54. even so
-55. all the same
-56. just the same
-57. nevertheles
-58. as for
-59. for all that - for all something
-60. dig someone - understand
 
 === Nuevas Palabras ===
 
