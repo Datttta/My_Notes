@@ -544,4 +544,5 @@
 496. Borrachera
 497. Airoso
 498. renicha
-499. 20 card with pronound at the end of the verb
+499. chula
+500. 20 card with pronound at the end of the verb
