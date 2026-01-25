@@ -542,4 +542,4 @@
 494. fidedigno
 495. cómplices
 496. Borrachera
-497. Va a dar<b><u>se</u></b>lo mañana. - When le / les combines with lo, la, los, las, it becomes se and attaches to the verb.
+497. 20 card with pronound at the end of the verb
