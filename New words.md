@@ -551,4 +551,5 @@
 503. barbilla
 504. me van
 505. bromita
-506. 20 card with pronound at the end of the verb
+506. bater
+507. 20 card with pronound at the end of the verb
