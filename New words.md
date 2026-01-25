@@ -541,3 +541,4 @@
 493. filoso
 494. fidedigno
 495. cómplices
+496. Borrachera
