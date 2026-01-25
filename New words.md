@@ -540,23 +540,3 @@
 492. flacucho
 493. filoso
 494. fidedigno
-495. gafe
-496. galano
-497. gallardo
-498. gacho
-499. taberna
-500. gamberro
-501. gandalla
-502. gangoso
-503. garboso
-504. garrafal
-505. gaseoso
-506. goloso
-507. gritón
-508. passar - happen
-509. acabar - no lo acabares tio
-510. bolinga
-511. chabal
-512. guinhos
-513. comparar
-514. se - se at the end of a word
