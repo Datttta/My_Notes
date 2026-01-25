@@ -554,4 +554,5 @@
 506. bater - el bater
 507. reverendo
 508. ganujillo
-509. 20 card with pronound at the end of the verb
+509. culebroni
+510. 20 card with pronound at the end of the verb
