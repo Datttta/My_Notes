@@ -571,3 +571,4 @@
 506. goloso
 507. gritón
 508. passar - happen
+509. acabar - no lo acabares tio
