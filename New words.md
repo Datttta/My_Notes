@@ -555,4 +555,5 @@
 507. reverendo
 508. ganujillo
 509. culebroni
-510. 20 card with pronound at the end of the verb
+510. envolucra
+511. 20 card with pronound at the end of the verb
