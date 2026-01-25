@@ -543,4 +543,5 @@
 495. cómplices
 496. Borrachera
 497. Airoso
-498. 20 card with pronound at the end of the verb
+498. aprovechada
+499. 20 card with pronound at the end of the verb
