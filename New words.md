@@ -548,4 +548,5 @@
 500. picar
 501. aporreando
 502. te toca
-503. 20 card with pronound at the end of the verb
+503. barbilla
+504. 20 card with pronound at the end of the verb
