@@ -1,63 +1,64 @@
 === New words ===
 
 1. dilettant
-2. take over - he tried to take over speed
-3. downplay
-4. track-suit
-5. temu - temu europeans
-6. contempt of court - jailed for contempt of court
-7. sorority - social organization for university students
-8. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
-9. concurrently - start the watcher concurrently
-10. knocking about - if you go there at night, you'll get all sorts of knocking about
-11. shovel down - couldn't stop shovelling it down
-12. run on fumes - we were running of fumes, las few minutes were a torture
-13. utterance - sentence
-14. parenting
-15. figure out
-16. empress - she became the empress of the underground
-17. brunch - you must be thinking of brunch
-18. goop - pink goop
-19. wimpy - wimpy goody-two-shoes-schtick
-20. goody - wimpy goody-two-shoes-schtick
-21. schtick - wimpy goody-two-shoes-schtick
-22. frolick - verb
-23. saccharine - at first I hated you stupid saccharine schtick
-24. spiel - you've already heard my spiel, haven't you
-25. drive up the wall - your gonna drive me up the wall
-26. creasy - creasy ball
-27. scales - fish scales
-28. scripted - everyting is alredy scripted
-29. pow-wow
-30. buffon - you absolute buffon
-31. tell on - tell on someone
-32. feel someone in
-33. innkeeper - The innkeeper served us wine and olives.
-34. stove burner
-35. superintendent
-36. bloom - you finaly bloomed a conscience
-37. lats - body part
-38. sagging - no sagging hips
-39. hold hands
-40. expiration date
-41. Take it or leave it
-42. play fair
-43. Upper case
-44. Lower case
-45. get the jitters
-46. sell by date
-47. past its expiry date.
-48. past its sell-by date.
-49. hand in hand
-50. hand and glove
-51. Majuscule - letter
-52. even so
-53. all the same
-54. just the same
-55. nevertheles
-56. as for
-57. for all that - for all something
-58. dig someone - understand
+2. thinning -He's not bald, he's... thinning
+3. take over - he tried to take over speed
+4. downplay
+5. track-suit
+6. temu - temu europeans
+7. contempt of court - jailed for contempt of court
+8. sorority - social organization for university students
+9. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
+10. concurrently - start the watcher concurrently
+11. knocking about - if you go there at night, you'll get all sorts of knocking about
+12. shovel down - couldn't stop shovelling it down
+13. run on fumes - we were running of fumes, las few minutes were a torture
+14. utterance - sentence
+15. parenting
+16. figure out
+17. empress - she became the empress of the underground
+18. brunch - you must be thinking of brunch
+19. goop - pink goop
+20. wimpy - wimpy goody-two-shoes-schtick
+21. goody - wimpy goody-two-shoes-schtick
+22. schtick - wimpy goody-two-shoes-schtick
+23. frolick - verb
+24. saccharine - at first I hated you stupid saccharine schtick
+25. spiel - you've already heard my spiel, haven't you
+26. drive up the wall - your gonna drive me up the wall
+27. creasy - creasy ball
+28. scales - fish scales
+29. scripted - everyting is alredy scripted
+30. pow-wow
+31. buffon - you absolute buffon
+32. tell on - tell on someone
+33. feel someone in
+34. innkeeper - The innkeeper served us wine and olives.
+35. stove burner
+36. superintendent
+37. bloom - you finaly bloomed a conscience
+38. lats - body part
+39. sagging - no sagging hips
+40. hold hands
+41. expiration date
+42. Take it or leave it
+43. play fair
+44. Upper case
+45. Lower case
+46. get the jitters
+47. sell by date
+48. past its expiry date.
+49. past its sell-by date.
+50. hand in hand
+51. hand and glove
+52. Majuscule - letter
+53. even so
+54. all the same
+55. just the same
+56. nevertheles
+57. as for
+58. for all that - for all something
+59. dig someone - understand
 
 === Nuevas Palabras ===
 
