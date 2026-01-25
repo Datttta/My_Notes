@@ -556,4 +556,5 @@
 508. ganujillo
 509. culebroni
 510. envolucra
-511. 20 card with pronound at the end of the verb
+511. dar corte
+512. 20 card with pronound at the end of the verb
