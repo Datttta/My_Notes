@@ -546,4 +546,5 @@
 498. renicha
 499. chula
 500. picar
-501. 20 card with pronound at the end of the verb
+501. aporreando
+502. 20 card with pronound at the end of the verb
