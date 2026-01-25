@@ -558,3 +558,4 @@
 510. bolinga
 511. chabal
 512. guinhos
+513. comparar
