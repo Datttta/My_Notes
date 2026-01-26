@@ -552,8 +552,9 @@
 516. maquilla
 517. chicha
 518. peña
-519. la, lo, les, las
-520. 10 plural reflexive se - like in se despiertan, se despiertaram...
-521. 10 reflexive me
-522. 10 reflexive te
-523. 10 reflexive nos
+519. pringaos
+520. la, lo, les, las
+521. 10 plural reflexive se - like in se despiertan, se despiertaram...
+522. 10 reflexive me
+523. 10 reflexive te
+524. 10 reflexive nos
