@@ -547,4 +547,6 @@
 511. dar corte
 512. plan - verb
 513. me da igual
-514. 20 card with pronound at the end of the verb
+514. arrepintió
+515. 20 card with pronound at the end of the verb
+516. lo, la, los, las
