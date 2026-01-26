@@ -550,6 +550,7 @@
 514. arrepintió
 515. vello
 516. maquilla
+517. la, lo, les, las
 518. 10 plural reflexive se - like in se despiertan, se despiertaram...
 519. 10 reflexive me
 520. 10 reflexive te
