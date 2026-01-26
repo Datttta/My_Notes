@@ -550,4 +550,4 @@
 514. arrepintió
 515. vello
 516. maquilla
-517. 20 card with pronound at the end of the verb
+517. 10 plural reflexive se - like in se despiertan, se despiertaram...
