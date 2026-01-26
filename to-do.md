@@ -2,10 +2,9 @@
 
 == Inbox ==
 - [ ] _
-- [ ] make your resumé
-- [ ] add middle mouse scroll
-- [ ] look biotechlonogy up
 - [ ] organize your playlist
+- [ ] make your resumé
+- [ ] look biotechlonogy up
 
 == Today ==
 - [ ] _
@@ -28,6 +27,7 @@
 - [X] make an excercise list
 - [X] make clock ring without having to manually open clocks app
 - [X] when I type number on terminal I enter on specific folders
+- [X] add middle mouse scroll
 
 == Tasks ==
 - Loundry
