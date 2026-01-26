@@ -1,35 +1,36 @@
 === New words ===
 
 1. dilettant
-2. succession
-3. thinning -He's not bald, he's... thinning
-4. paramount - this is paramount
-5. take over - he tried to take over speed
-6. downplay
-7. track-suit
-8. temu - temu europeans
-9. contempt of court - jailed for contempt of court
-10. sorority - social organization for university students
-11. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
-12. concurrently - start the watcher concurrently
-13. knocking about - if you go there at night, you'll get all sorts of knocking about
-14. shovel down - couldn't stop shovelling it down
-15. run on fumes - we were running of fumes, las few minutes were a torture
-16. utterance - sentence
-17. parenting
-18. figure out
-19. empress - she became the empress of the underground
-20. brunch - you must be thinking of brunch
-21. goop - pink goop
-22. wimpy - wimpy goody-two-shoes-schtick
-23. goody - wimpy goody-two-shoes-schtick
-24. schtick - wimpy goody-two-shoes-schtick
-25. frolick - verb
-26. saccharine - at first I hated you stupid saccharine schtick
-27. spiel - you've already heard my spiel, haven't you
-28. drive up the wall - your gonna drive me up the wall
-29. creasy - creasy ball
-30. scales - fish scales
+2. stilt - The artist walked on a stilt in the parade
+3. succession
+4. thinning -He's not bald, he's... thinning
+5. paramount - this is paramount
+6. take over - he tried to take over speed
+7. downplay
+8. track-suit
+9. temu - temu europeans
+10. contempt of court - jailed for contempt of court
+11. sorority - social organization for university students
+12. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
+13. concurrently - start the watcher concurrently
+14. knocking about - if you go there at night, you'll get all sorts of knocking about
+15. shovel down - couldn't stop shovelling it down
+16. run on fumes - we were running of fumes, las few minutes were a torture
+17. utterance - sentence
+18. parenting
+19. figure out
+20. empress - she became the empress of the underground
+21. brunch - you must be thinking of brunch
+22. goop - pink goop
+23. wimpy - wimpy goody-two-shoes-schtick
+24. goody - wimpy goody-two-shoes-schtick
+25. schtick - wimpy goody-two-shoes-schtick
+26. frolick - verb
+27. saccharine - at first I hated you stupid saccharine schtick
+28. spiel - you've already heard my spiel, haven't you
+29. drive up the wall - your gonna drive me up the wall
+30. creasy - creasy ball
+31. scales - fish scales
 
 === Nuevas Palabras ===
 
