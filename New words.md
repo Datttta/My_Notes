@@ -567,8 +567,9 @@
 531. boto
 532. lanzada
 533. lo que tu digas
-534. la, lo, les, las
-535. 10 plural reflexive se - like in se despiertan, se despiertaram...
-536. 10 reflexive me
-537. 10 reflexive te
-538. 10 reflexive nos
+534. planter - planteate de esta manera
+535. la, lo, les, las
+536. 10 plural reflexive se - like in se despiertan, se despiertaram...
+537. 10 reflexive me
+538. 10 reflexive te
+539. 10 reflexive nos
