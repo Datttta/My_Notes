@@ -555,8 +555,9 @@
 519. pringaos
 520. palillo
 521. puñeta
-522. la, lo, les, las
-523. 10 plural reflexive se - like in se despiertan, se despiertaram...
-524. 10 reflexive me
-525. 10 reflexive te
-526. 10 reflexive nos
+522. reñida
+523. la, lo, les, las
+524. 10 plural reflexive se - like in se despiertan, se despiertaram...
+525. 10 reflexive me
+526. 10 reflexive te
+527. 10 reflexive nos
