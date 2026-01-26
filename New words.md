@@ -566,8 +566,9 @@
 530. rollo
 531. boto
 532. lanzada
-533. la, lo, les, las
-534. 10 plural reflexive se - like in se despiertan, se despiertaram...
-535. 10 reflexive me
-536. 10 reflexive te
-537. 10 reflexive nos
+533. lo que tu digas
+534. la, lo, les, las
+535. 10 plural reflexive se - like in se despiertan, se despiertaram...
+536. 10 reflexive me
+537. 10 reflexive te
+538. 10 reflexive nos
