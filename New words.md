@@ -556,8 +556,9 @@
 520. palillo
 521. puñeta
 522. reñida
-523. la, lo, les, las
-524. 10 plural reflexive se - like in se despiertan, se despiertaram...
-525. 10 reflexive me
-526. 10 reflexive te
-527. 10 reflexive nos
+523. al corriente
+524. la, lo, les, las
+525. 10 plural reflexive se - like in se despiertan, se despiertaram...
+526. 10 reflexive me
+527. 10 reflexive te
+528. 10 reflexive nos
