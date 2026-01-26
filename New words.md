@@ -557,8 +557,9 @@
 521. puñeta
 522. reñida
 523. al corriente
-524. la, lo, les, las
-525. 10 plural reflexive se - like in se despiertan, se despiertaram...
-526. 10 reflexive me
-527. 10 reflexive te
-528. 10 reflexive nos
+524. guarra
+525. la, lo, les, las
+526. 10 plural reflexive se - like in se despiertan, se despiertaram...
+527. 10 reflexive me
+528. 10 reflexive te
+529. 10 reflexive nos
