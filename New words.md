@@ -563,8 +563,9 @@
 527. estallar
 528. juerga
 529. alocada
-530. la, lo, les, las
-531. 10 plural reflexive se - like in se despiertan, se despiertaram...
-532. 10 reflexive me
-533. 10 reflexive te
-534. 10 reflexive nos
+530. rollo
+531. la, lo, les, las
+532. 10 plural reflexive se - like in se despiertan, se despiertaram...
+533. 10 reflexive me
+534. 10 reflexive te
+535. 10 reflexive nos
