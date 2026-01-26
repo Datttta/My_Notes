@@ -3,7 +3,6 @@
 == Inbox ==
 - [ ] _
 - [ ] make your resumé
-- [ ] when I type number on terminal I enter on specific folders
 - [ ] add middle mouse scroll
 - [ ] look biotechlonogy up
 - [ ] organize your playlist
@@ -28,6 +27,7 @@
 - [X] install 7 temp of friends
 - [X] make an excercise list
 - [X] make clock ring without having to manually open clocks app
+- [X] when I type number on terminal I enter on specific folders
 
 == Tasks ==
 - Loundry
