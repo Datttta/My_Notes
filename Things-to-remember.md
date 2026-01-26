@@ -263,4 +263,4 @@
     - reload grub: sudo grub-mkconfig -o /boot/grub/grub.cfg
 
 - Enable Middle click autoscroll for vivaldi:
-    - add this as an argument when launching vivaldi: "--enable-blink-features=MiddleClickAutoscroll"
+    - add this as an argument when launching vivaldi: '--enable-blink-features=MiddleClickAutoscroll'
