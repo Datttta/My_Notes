@@ -29,20 +29,6 @@
 27. drive up the wall - your gonna drive me up the wall
 28. creasy - creasy ball
 29. scales - fish scales
-30. scripted - everyting is alredy scripted
-31. pow-wow
-32. buffon - you absolute buffon
-33. tell on - tell on someone
-34. feel someone in
-35. innkeeper - The innkeeper served us wine and olives.
-36. stove burner
-37. superintendent
-38. bloom - you finaly bloomed a conscience
-39. lats - body part
-40. sagging - no sagging hips
-41. hold hands
-42. expiration date
-43. Take it or leave it
 
 === Nuevas Palabras ===
 
