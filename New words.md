@@ -560,8 +560,9 @@
 524. guarra
 525. alocado
 526. finolis
-527. la, lo, les, las
-528. 10 plural reflexive se - like in se despiertan, se despiertaram...
-529. 10 reflexive me
-530. 10 reflexive te
-531. 10 reflexive nos
+527. estallar
+528. la, lo, les, las
+529. 10 plural reflexive se - like in se despiertan, se despiertaram...
+530. 10 reflexive me
+531. 10 reflexive te
+532. 10 reflexive nos
