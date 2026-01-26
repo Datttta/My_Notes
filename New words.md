@@ -1,34 +1,35 @@
 === New words ===
 
 1. dilettant
-2. thinning -He's not bald, he's... thinning
-3. paramount - this is paramount
-4. take over - he tried to take over speed
-5. downplay
-6. track-suit
-7. temu - temu europeans
-8. contempt of court - jailed for contempt of court
-9. sorority - social organization for university students
-10. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
-11. concurrently - start the watcher concurrently
-12. knocking about - if you go there at night, you'll get all sorts of knocking about
-13. shovel down - couldn't stop shovelling it down
-14. run on fumes - we were running of fumes, las few minutes were a torture
-15. utterance - sentence
-16. parenting
-17. figure out
-18. empress - she became the empress of the underground
-19. brunch - you must be thinking of brunch
-20. goop - pink goop
-21. wimpy - wimpy goody-two-shoes-schtick
-22. goody - wimpy goody-two-shoes-schtick
-23. schtick - wimpy goody-two-shoes-schtick
-24. frolick - verb
-25. saccharine - at first I hated you stupid saccharine schtick
-26. spiel - you've already heard my spiel, haven't you
-27. drive up the wall - your gonna drive me up the wall
-28. creasy - creasy ball
-29. scales - fish scales
+2. succession
+3. thinning -He's not bald, he's... thinning
+4. paramount - this is paramount
+5. take over - he tried to take over speed
+6. downplay
+7. track-suit
+8. temu - temu europeans
+9. contempt of court - jailed for contempt of court
+10. sorority - social organization for university students
+11. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
+12. concurrently - start the watcher concurrently
+13. knocking about - if you go there at night, you'll get all sorts of knocking about
+14. shovel down - couldn't stop shovelling it down
+15. run on fumes - we were running of fumes, las few minutes were a torture
+16. utterance - sentence
+17. parenting
+18. figure out
+19. empress - she became the empress of the underground
+20. brunch - you must be thinking of brunch
+21. goop - pink goop
+22. wimpy - wimpy goody-two-shoes-schtick
+23. goody - wimpy goody-two-shoes-schtick
+24. schtick - wimpy goody-two-shoes-schtick
+25. frolick - verb
+26. saccharine - at first I hated you stupid saccharine schtick
+27. spiel - you've already heard my spiel, haven't you
+28. drive up the wall - your gonna drive me up the wall
+29. creasy - creasy ball
+30. scales - fish scales
 
 === Nuevas Palabras ===
 
