@@ -546,4 +546,5 @@
 510. envolucra
 511. dar corte
 512. plan - verb
-513. 20 card with pronound at the end of the verb
+513. me da igual
+514. 20 card with pronound at the end of the verb
