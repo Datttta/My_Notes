@@ -548,5 +548,5 @@
 512. plan - verb
 513. me da igual
 514. arrepintió
-515. 20 card with pronound at the end of the verb
-516. lo, la, los, las
+515. vello
+516. 20 card with pronound at the end of the verb
