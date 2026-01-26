@@ -544,4 +544,5 @@
 509. culebroni
 510. envolucra
 511. dar corte
-512. 20 card with pronound at the end of the verb
+512. plan - verb
+513. 20 card with pronound at the end of the verb
