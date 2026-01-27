@@ -562,6 +562,7 @@
 534. planter - planteate de esta manera
 535. hacer limpieza
 536. paliza
-537. la, lo, les, las
-540. 10 reflexive te
-541. 10 reflexive nos
+537. por la
+538. la, lo, les, las
+539. 10 reflexive te
+540. 10 reflexive nos
