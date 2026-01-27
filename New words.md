@@ -571,7 +571,7 @@
 544. rincon
 545. caña
 546. cola
-547. plato
+547. plasto
 548. la, lo, les, las
 549. 10 reflexive nos
 550. 10 reflexive te
