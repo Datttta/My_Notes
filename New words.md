@@ -1,7 +1,7 @@
 === New words ===
 
 1. dilettant
-2. quite the catch - they look like quite the catch
+2. quite the catch - they look like quite the catc
 3. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
 4. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
 5. stilt - The artist walked on a stilt in the parade
