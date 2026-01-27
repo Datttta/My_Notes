@@ -564,5 +564,5 @@
 536. paliza
 537. por la
 538. la, lo, les, las
-539. 10 reflexive te
 540. 10 reflexive nos
+539. 10 reflexive te
