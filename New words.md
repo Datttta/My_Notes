@@ -23,14 +23,6 @@
 21. brunch - you must be thinking of brunch
 22. goop - pink goop
 23. wimpy - wimpy goody-two-shoes-schtick
-24. goody - wimpy goody-two-shoes-schtick
-25. schtick - wimpy goody-two-shoes-schtick
-26. frolick - verb
-27. saccharine - at first I hated you stupid saccharine schtick
-28. spiel - you've already heard my spiel, haven't you
-29. drive up the wall - your gonna drive me up the wall
-30. creasy - creasy ball
-31. scales - fish scales
 
 === Nuevas Palabras ===
 
