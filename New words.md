@@ -563,7 +563,8 @@
 535. hacer limpieza
 536. paliza
 537. chuleta
-538. por la
-539. la, lo, les, las
-540. 10 reflexive nos
-541. 10 reflexive te
+538. tirar de alguien
+539. por la
+540. la, lo, les, las
+541. 10 reflexive nos
+542. 10 reflexive te
