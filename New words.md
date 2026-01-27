@@ -573,6 +573,6 @@
 546. cola
 547. plasto
 548. alto aí
-549. la, lo, les, las
-550. 10 reflexive nos
-551. 10 reflexive te
+550. la, lo, les, las
+551. 10 reflexive nos
+552. 10 reflexive te
