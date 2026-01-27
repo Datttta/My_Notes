@@ -2,26 +2,27 @@
 
 1. dilettant
 2. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
-3. stilt - The artist walked on a stilt in the parade
-4. succession
-5. thinning -He's not bald, he's... thinning
-6. paramount - this is paramount
-7. take over - he tried to take over speed
-8. downplay
-9. track-suit
-10. temu - temu europeans
-11. contempt of court - jailed for contempt of court
-12. sorority - social organization for university students
-13. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
-14. concurrently - start the watcher concurrently
-15. knocking about - if you go there at night, you'll get all sorts of knocking about
-16. shovel down - couldn't stop shovelling it down
-17. run on fumes - we were running of fumes, las few minutes were a torture
-18. utterance - sentence
-19. parenting
-20. figure out
-21. empress - she became the empress of the underground
-22. brunch - you must be thinking of brunch
+3. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
+4. stilt - The artist walked on a stilt in the parade
+5. succession
+6. thinning -He's not bald, he's... thinning
+7. paramount - this is paramount
+8. take over - he tried to take over speed
+9. downplay
+10. track-suit
+11. temu - temu europeans
+12. contempt of court - jailed for contempt of court
+13. sorority - social organization for university students
+14. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
+15. concurrently - start the watcher concurrently
+16. knocking about - if you go there at night, you'll get all sorts of knocking about
+17. shovel down - couldn't stop shovelling it down
+18. run on fumes - we were running of fumes, las few minutes were a torture
+19. utterance - sentence
+20. parenting
+21. figure out
+22. empress - she became the empress of the underground
+23. brunch - you must be thinking of brunch
 
 === Nuevas Palabras ===
 
