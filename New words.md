@@ -565,7 +565,8 @@
 537. chuleta
 538. tirar de alguien
 539. espelugnantes
-540. por la
-541. la, lo, les, las
-542. 10 reflexive nos
-543. 10 reflexive te
+540. patoso
+541. por la
+542. la, lo, les, las
+543. 10 reflexive nos
+544. 10 reflexive te
