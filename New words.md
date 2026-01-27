@@ -578,6 +578,7 @@
 550. pulsar
 551. jorobando
 552. se sobra
-553. la, lo, les, las
-554. 10 reflexive nos
-555. 10 reflexive te
+553. tartamudear
+554. la, lo, les, las
+555. 10 reflexive nos
+556. 10 reflexive te
