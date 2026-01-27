@@ -576,6 +576,7 @@
 549. guitarra
 550. pulsar
 551. jorobando
-552. la, lo, les, las
-553. 10 reflexive nos
-554. 10 reflexive te
+552. se sobra
+553. la, lo, les, las
+554. 10 reflexive nos
+555. 10 reflexive te
