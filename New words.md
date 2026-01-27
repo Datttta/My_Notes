@@ -566,7 +566,7 @@
 538. tirar de alguien
 539. espelugnantes
 540. patoso
-541. por la
-542. la, lo, les, las
-543. 10 reflexive nos
-544. 10 reflexive te
+542. por la
+543. la, lo, les, las
+544. 10 reflexive nos
+545. 10 reflexive te
