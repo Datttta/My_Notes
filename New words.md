@@ -572,6 +572,7 @@
 545. caña
 546. cola
 547. plasto
-548. la, lo, les, las
-549. 10 reflexive nos
-550. 10 reflexive te
+548. alto ai
+549. la, lo, les, las
+550. 10 reflexive nos
+551. 10 reflexive te
