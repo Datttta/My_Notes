@@ -21,8 +21,6 @@
 19. figure out
 20. empress - she became the empress of the underground
 21. brunch - you must be thinking of brunch
-22. goop - pink goop
-23. wimpy - wimpy goody-two-shoes-schtick
 
 === Nuevas Palabras ===
 
