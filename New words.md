@@ -574,7 +574,8 @@
 547. plasto
 548. alto aí
 549. guitarra
-550. pulsar 
-551. la, lo, les, las
-552. 10 reflexive nos
-553. 10 reflexive te
+550. pulsar
+551. jorobando
+552. la, lo, les, las
+553. 10 reflexive nos
+554. 10 reflexive te
