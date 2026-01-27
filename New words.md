@@ -1,28 +1,29 @@
 === New words ===
 
 1. dilettant
-2. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
-3. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
-4. stilt - The artist walked on a stilt in the parade
-5. succession
-6. thinning -He's not bald, he's... thinning
-7. paramount - this is paramount
-8. take over - he tried to take over speed
-9. downplay
-10. track-suit
-11. temu - temu europeans
-12. contempt of court - jailed for contempt of court
-13. sorority - social organization for university students
-14. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
-15. concurrently - start the watcher concurrently
-16. knocking about - if you go there at night, you'll get all sorts of knocking about
-17. shovel down - couldn't stop shovelling it down
-18. run on fumes - we were running of fumes, las few minutes were a torture
-19. utterance - sentence
-20. parenting
-21. figure out
-22. empress - she became the empress of the underground
-23. brunch - you must be thinking of brunch
+2. quite the catch - they look like quite the catch
+3. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
+4. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
+5. stilt - The artist walked on a stilt in the parade
+6. succession
+7. thinning -He's not bald, he's... thinning
+8. paramount - this is paramount
+9. take over - he tried to take over speed
+10. downplay
+11. track-suit
+12. temu - temu europeans
+13. contempt of court - jailed for contempt of court
+14. sorority - social organization for university students
+15. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
+16. concurrently - start the watcher concurrently
+17. knocking about - if you go there at night, you'll get all sorts of knocking about
+18. shovel down - couldn't stop shovelling it down
+19. run on fumes - we were running of fumes, las few minutes were a torture
+20. utterance - sentence
+21. parenting
+22. figure out
+23. empress - she became the empress of the underground
+24. brunch - you must be thinking of brunch
 
 === Nuevas Palabras ===
 
