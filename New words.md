@@ -569,8 +569,9 @@
 533. lo que tu digas
 534. planter - planteate de esta manera
 535. hacer limpieza
-536. la, lo, les, las
-537. 10 plural reflexive se - like in se despiertan, se despiertaram...
-538. 10 reflexive me
-539. 10 reflexive te
-540. 10 reflexive nos
+536. paliza
+537. la, lo, les, las
+538. 10 plural reflexive se - like in se despiertan, se despiertaram...
+539. 10 reflexive me
+540. 10 reflexive te
+541. 10 reflexive nos
