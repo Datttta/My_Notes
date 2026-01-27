@@ -561,7 +561,5 @@
 535. hacer limpieza
 536. paliza
 537. la, lo, les, las
-538. 10 plural reflexive se - like in se despiertan, se despiertaram...
-539. 10 reflexive me
 540. 10 reflexive te
 541. 10 reflexive nos
