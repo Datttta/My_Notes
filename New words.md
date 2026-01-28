@@ -569,4 +569,5 @@
 556. todo un detalle
 557. en lios
 558. en cambio
-559. la, lo, les, las
+559. zurcido
+560. la, lo, les, las
