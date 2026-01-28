@@ -1,14 +1,15 @@
 === New words ===
 
 1. dilettant
-2. fishy - that's very fishy
-3. quite the catch - they look like quite the catc
-4. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
-5. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
-6. stilt - The artist walked on a stilt in the parade
-7. succession
-8. thinning -He's not bald, he's... thinning
-9. paramount - this is paramount
+2. suboptimal - it's suboptimal
+3. fishy - that's very fishy
+4. quite the catch - they look like quite the catc
+5. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
+6. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
+7. stilt - The artist walked on a stilt in the parade
+8. succession
+9. thinning -He's not bald, he's... thinning
+10. paramount - this is paramount
 
 === Nuevas Palabras ===
 
