@@ -570,4 +570,5 @@
 557. en lios
 558. en cambio
 559. zurcido
-560. la, lo, les, las
+560. no pinta nada bien
+561. la, lo, les, las
