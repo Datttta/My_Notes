@@ -567,4 +567,5 @@
 554. competencia
 555. átono
 556. todo un detalle
-557. la, lo, les, las
+557. en lios
+558. la, lo, les, las
