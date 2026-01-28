@@ -9,22 +9,6 @@
 7. succession
 8. thinning -He's not bald, he's... thinning
 9. paramount - this is paramount
-10. take over - he tried to take over speed
-11. downplay
-12. track-suit
-13. temu - temu europeans
-14. contempt of court - jailed for contempt of court
-15. sorority - social organization for university students
-16. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
-17. concurrently - start the watcher concurrently
-18. knocking about - if you go there at night, you'll get all sorts of knocking about
-19. shovel down - couldn't stop shovelling it down
-20. run on fumes - we were running of fumes, las few minutes were a torture
-21. utterance - sentence
-22. parenting
-23. figure out
-24. empress - she became the empress of the underground
-25. brunch - you must be thinking of brunch
 
 === Nuevas Palabras ===
 
