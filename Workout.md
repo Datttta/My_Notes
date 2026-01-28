@@ -26,7 +26,7 @@
 - Leg day:
     - Bulgarian Split Squats 3x12
  
-    - Single-Leg RDL 3x10
+    - Single-Leg Hip Thrusts 3x10
 
     - Step-Ups 3x8
 
