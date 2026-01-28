@@ -1,29 +1,30 @@
 === New words ===
 
 1. dilettant
-2. quite the catch - they look like quite the catc
-3. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
-4. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
-5. stilt - The artist walked on a stilt in the parade
-6. succession
-7. thinning -He's not bald, he's... thinning
-8. paramount - this is paramount
-9. take over - he tried to take over speed
-10. downplay
-11. track-suit
-12. temu - temu europeans
-13. contempt of court - jailed for contempt of court
-14. sorority - social organization for university students
-15. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
-16. concurrently - start the watcher concurrently
-17. knocking about - if you go there at night, you'll get all sorts of knocking about
-18. shovel down - couldn't stop shovelling it down
-19. run on fumes - we were running of fumes, las few minutes were a torture
-20. utterance - sentence
-21. parenting
-22. figure out
-23. empress - she became the empress of the underground
-24. brunch - you must be thinking of brunch
+2. fishy - that's very fishy
+3. quite the catch - they look like quite the catc
+4. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
+5. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
+6. stilt - The artist walked on a stilt in the parade
+7. succession
+8. thinning -He's not bald, he's... thinning
+9. paramount - this is paramount
+10. take over - he tried to take over speed
+11. downplay
+12. track-suit
+13. temu - temu europeans
+14. contempt of court - jailed for contempt of court
+15. sorority - social organization for university students
+16. safe house - Imagine my surprise to find you at the safe house, sipping tea. 
+17. concurrently - start the watcher concurrently
+18. knocking about - if you go there at night, you'll get all sorts of knocking about
+19. shovel down - couldn't stop shovelling it down
+20. run on fumes - we were running of fumes, las few minutes were a torture
+21. utterance - sentence
+22. parenting
+23. figure out
+24. empress - she became the empress of the underground
+25. brunch - you must be thinking of brunch
 
 === Nuevas Palabras ===
 
