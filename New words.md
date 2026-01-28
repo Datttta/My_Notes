@@ -565,5 +565,6 @@
 552. se sobra
 553. tartamudear
 554. competencia
-555. la, lo, les, las
-556. 10 
+555. átono
+556. la, lo, les, las
+557. 10 
