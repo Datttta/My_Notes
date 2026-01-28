@@ -28,7 +28,7 @@
  
     - Single-Leg RDL 3x10
 
-    - Cossack Squats 3x8
+    - Step-Ups 3x8
 
     - Squats 3x12
 
