@@ -567,4 +567,3 @@
 554. competencia
 555. átono
 556. la, lo, les, las
-557. 10 
