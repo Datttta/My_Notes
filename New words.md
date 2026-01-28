@@ -566,4 +566,5 @@
 553. tartamudear
 554. competencia
 555. átono
-556. la, lo, les, las
+556. todo un detalle
+557. la, lo, les, las
