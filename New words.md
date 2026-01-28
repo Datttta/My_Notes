@@ -564,6 +564,6 @@
 551. jorobando
 552. se sobra
 553. tartamudear
-554. la, lo, les, las
-555. 10 reflexive nos
-556. 10 reflexive te
+554. competencia
+555. la, lo, les, las
+556. 10 
