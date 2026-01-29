@@ -570,4 +570,5 @@
 563. que detalle
 564. truco
 565. pelmazo
-566. la, lo, les, las
+566. menudo
+567. la, lo, les, las
