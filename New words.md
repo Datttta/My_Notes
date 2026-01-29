@@ -573,4 +573,5 @@
 566. menudo
 567. caraculo
 568. putada
-569. la, lo, les, las
+569. supuesto
+570. la, lo, les, las
