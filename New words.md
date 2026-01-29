@@ -568,4 +568,5 @@
 561. dar la lata
 562. cacotas
 563. que detalle
-564. la, lo, les, las
+564. truco
+565. la, lo, les, las
