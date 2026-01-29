@@ -572,4 +572,5 @@
 565. pelmazo
 566. menudo
 567. caraculo
-568. la, lo, les, las
+568. putada
+569. la, lo, les, las
