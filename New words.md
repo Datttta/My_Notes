@@ -569,4 +569,5 @@
 562. cacotas
 563. que detalle
 564. truco
-565. la, lo, les, las
+565. pelmazo
+566. la, lo, les, las
