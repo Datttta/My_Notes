@@ -5,15 +5,16 @@
 3. fugue - fugue state
 4. slick - he's slick, i like him
 5. grief - give grief
-6. suboptimal - it's suboptimal
-7. fishy - that's very fishy
-8. quite the catch - they look like quite the catc
-9. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
-10. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
-11. stilt - The artist walked on a stilt in the parade
-12. succession
-13. thinning -He's not bald, he's... thinning
-14. paramount - this is paramount
+6. branded - get branded
+7. suboptimal - it's suboptimal
+8. fishy - that's very fishy
+9. quite the catch - they look like quite the catc
+10. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
+11. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
+12. stilt - The artist walked on a stilt in the parade
+13. succession
+14. thinning -He's not bald, he's... thinning
+15. paramount - this is paramount
 
 === Nuevas Palabras ===
 
