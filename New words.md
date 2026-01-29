@@ -567,4 +567,5 @@
 560. pinta - no pinta nada bien
 561. dar la lata
 562. cacotas
-563. la, lo, les, las
+563. que detalle
+564. la, lo, les, las
