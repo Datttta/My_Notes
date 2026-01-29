@@ -2,15 +2,16 @@
 
 1. dilettant
 2. cheeky
-3. suboptimal - it's suboptimal
-4. fishy - that's very fishy
-5. quite the catch - they look like quite the catc
-6. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
-7. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
-8. stilt - The artist walked on a stilt in the parade
-9. succession
-10. thinning -He's not bald, he's... thinning
-11. paramount - this is paramount
+3. fugue - fugue state
+4. suboptimal - it's suboptimal
+5. fishy - that's very fishy
+6. quite the catch - they look like quite the catc
+7. chugged - Bro chugged that lemonade like if it was some Olympian ambrosia
+8. manicured - don't take lemonade from an unattended lemonade stand in a very manicured neighborhood
+9. stilt - The artist walked on a stilt in the parade
+10. succession
+11. thinning -He's not bald, he's... thinning
+12. paramount - this is paramount
 
 === Nuevas Palabras ===
 
