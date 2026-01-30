@@ -579,4 +579,5 @@
 575. arrematar
 576. gazeta
 577. bogavante
-578. le, les, 
+578. que passada
+579. le, les, 
