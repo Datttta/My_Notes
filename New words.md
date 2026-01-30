@@ -580,4 +580,5 @@
 576. gazeta
 577. bogavante
 578. que passada
-579. le, les, 
+579. lapsus momentaneo
+580. le, les, 
