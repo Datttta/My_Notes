@@ -199,7 +199,6 @@
 193. guionista
 194. sandía
 195. auxiliar de vuelo
-196. acordarse
 197. contenedor
 198. derrochar
 199. aire acondicionado
