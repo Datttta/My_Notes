@@ -577,4 +577,5 @@
 573. plantear
 574. agudeza
 575. arrematar
-576. le, les, 
+576. gazeta
+577. le, les, 
