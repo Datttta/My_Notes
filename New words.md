@@ -574,4 +574,5 @@
 570. aula
 571. acordar
 572. recordar
-573. le, les, 
+573. plantear
+574. le, les, 
