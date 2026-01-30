@@ -572,4 +572,4 @@
 567. caraculo
 568. putada
 569. supuesto
-570. os, les, las
+570. os, le, les, las, los
