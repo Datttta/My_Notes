@@ -584,4 +584,5 @@
 580. colgues
 581. rodeos
 582. decoro
-583. le, les, 
+583. plazentero
+584. le, les, 
