@@ -573,4 +573,4 @@
 568. putada
 569. supuesto
 570. aula
-571. os, le, les, 
+571. le, les, 
