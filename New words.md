@@ -1,8 +1,6 @@
 === New words ===
 
-1. dilettant
-2. cheeky
-3. fugue - fugue state
+1. 
 
 === Nuevas Palabras ===
 
