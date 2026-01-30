@@ -582,4 +582,5 @@
 578. que passada
 579. lapsus momentaneo
 580. colgues
-581. le, les, 
+581. rodeos
+582. le, les, 
