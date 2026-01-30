@@ -576,4 +576,5 @@
 572. recordar
 573. plantear
 574. agudeza
-575. le, les, 
+575. arrematar
+576. le, les, 
