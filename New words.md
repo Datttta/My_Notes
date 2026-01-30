@@ -575,4 +575,5 @@
 571. acordar
 572. recordar
 573. plantear
-574. le, les, 
+574. agudeza
+575. le, les, 
