@@ -583,4 +583,5 @@
 579. lapsus momentaneo
 580. colgues
 581. rodeos
-582. le, les, 
+582. decoro
+583. le, les, 
