@@ -581,4 +581,5 @@
 577. bogavante
 578. que passada
 579. lapsus momentaneo
-580. le, les, 
+580. colgues
+581. le, les, 
