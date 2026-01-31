@@ -1,7 +1,7 @@
 === New words ===
 
 1. played out
-2. come from
+2. come from - just come from
 3. shake someone down
 4. blade - your stance is going to be more bladed
 5. outclassed
