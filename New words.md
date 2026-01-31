@@ -1,6 +1,7 @@
 === New words ===
 
 1. played out
+2. outclassed
 
 === Nuevas Palabras ===
 
