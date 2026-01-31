@@ -592,5 +592,5 @@
 587. orquilla
 588. menos pensado
 589. me sento
-590. pepenillo
+590. pepinillo
 591. le, les,
