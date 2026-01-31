@@ -599,5 +599,6 @@
 595. falda
 596. acto seguido
 597. beneficiario
-598. su, sus, tus, mis, nuestro, vuestro
-599. , les,
+598. concederán
+599. su, sus, tus, mis, nuestro, vuestro
+600. , les,
