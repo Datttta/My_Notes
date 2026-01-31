@@ -590,4 +590,5 @@
 585. hacer cola
 586. chuches
 587. orquilla
-588. le, les,
+588. pensado
+589. le, les,
