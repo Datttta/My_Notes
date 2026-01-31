@@ -594,4 +594,5 @@
 589. me sento
 590. pepinillo
 591. chatarero
-592. le, les,
+592. deshice
+593. le, les,
