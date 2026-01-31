@@ -598,4 +598,5 @@
 594. polotas
 595. falda
 596. acto seguido
-597. le, les,
+597. beneficiario
+598. , les,
