@@ -587,4 +587,5 @@
 582. decoro
 583. plazentero
 584. mantener a raya
-585. le, les,
+585. hacer cola
+586. le, les,
