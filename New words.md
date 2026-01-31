@@ -602,4 +602,3 @@
 598. concederán
 599. prórroga
 600. su, sus, tus, mis, nuestro, vuestro
-601. , les,
