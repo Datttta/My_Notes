@@ -601,4 +601,5 @@
 597. beneficiario
 598. concederán
 599. prórroga
-600. su, sus, tus, mis, nuestro, vuestro
+600. complemento indirecto
+601. su, sus, tus, mis, nuestro, vuestro
