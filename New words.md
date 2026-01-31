@@ -598,4 +598,5 @@
 592. deshice
 593. coloca
 594. polotas
-595. le, les,
+595. falda
+596. le, les,
