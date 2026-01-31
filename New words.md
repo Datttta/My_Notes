@@ -1,7 +1,8 @@
 === New words ===
 
 1. played out
-2. outclassed
+2. blade - your stance is going to be more bladed
+3. outclassed
 
 === Nuevas Palabras ===
 
