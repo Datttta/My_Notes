@@ -600,4 +600,5 @@
 593. coloca
 594. polotas
 595. falda
-596. le, les,
+596. acto seguido
+597. le, les,
