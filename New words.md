@@ -2,9 +2,10 @@
 
 1. played out
 2. come from - just come from
-3. shake someone down
-4. blade - your stance is going to be more bladed
-5. outclassed
+3. enclose - Please enclose $15.99, plus $2 for postage. 
+4. shake someone down
+5. blade - your stance is going to be more bladed
+6. outclassed
 
 === Nuevas Palabras ===
 
