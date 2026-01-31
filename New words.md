@@ -595,4 +595,5 @@
 590. pepinillo
 591. chatarero
 592. deshice
-593. le, les,
+593. coloca
+594. le, les,
