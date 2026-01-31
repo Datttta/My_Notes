@@ -1,9 +1,10 @@
 === New words ===
 
 1. played out
-2. shake someone down
-3. blade - your stance is going to be more bladed
-4. outclassed
+2. come from
+3. shake someone down
+4. blade - your stance is going to be more bladed
+5. outclassed
 
 === Nuevas Palabras ===
 
