@@ -28,7 +28,7 @@
  
     - Single-Leg Hip Thrusts 3x10
 
-    - Step-Ups 3x8
+    - Step-Ups 3x12
 
     - Squats 3x12
 
