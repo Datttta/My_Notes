@@ -604,4 +604,4 @@
 598. concederán
 599. prórroga
 600. complemento indirecto
-601. , sus, , mis, nuestro, vuestro
+601. sus, mis, nuestro, vuestro
