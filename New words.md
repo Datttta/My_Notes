@@ -1,11 +1,6 @@
 === New words ===
 
-1. complainant
-2. look around
-3. reddit - you're just too reddit about it
-4. type shit
-5. simply
-6. tycoon
+1. 
 
 === Nuevas Palabras ===
 
