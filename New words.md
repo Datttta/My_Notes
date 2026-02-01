@@ -1,7 +1,8 @@
 === New words ===
 
 1. misfit - i am a misfit
-2. fidget - I like to fidget
+2. beareth - she beareth to highest heav'n
+3. fidget - I like to fidget
 
 === Nuevas Palabras ===
 
@@ -603,4 +604,4 @@
 598. concederán
 599. prórroga
 600. complemento indirecto
-601. su, sus, tus, mis, nuestro, vuestro
+601. , sus, tus, mis, nuestro, vuestro
