@@ -1,6 +1,7 @@
 === New words ===
 
-1. misfit
+1. misfit - i am a misfit
+2. fidget - I like to fidget
 
 === Nuevas Palabras ===
 
