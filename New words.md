@@ -1,6 +1,7 @@
 === New words ===
 
 1. complainant
+2. tycoon
 
 === Nuevas Palabras ===
 
