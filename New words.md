@@ -2,7 +2,8 @@
 
 1. complainant
 2. reddit - you're just too reddit about it
-3. tycoon
+3. type shit
+4. tycoon
 
 === Nuevas Palabras ===
 
