@@ -605,4 +605,5 @@
 598. concederán
 599. prórroga
 600. complemento indirecto
+601. cachonar
 602. sus, mis, nuestro, vuestro
