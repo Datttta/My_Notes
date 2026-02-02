@@ -7,4 +7,5 @@
 5. GURI E LEVINSK X MT (RJ) E POETA GABRIELA (PR) | GRANDE FINAL | BDA 432
 6. Jotapê e ginho vs xamuel e tubarão - 1° round flow to tubarão
 7. Bask vs Brennuz - BATALHA DA ALDEIA #447
+8. JOTAPÊ E XAMUEL x LEVINSK E YOUNGUI | FINAL | #BDN205 - 3° round
 
