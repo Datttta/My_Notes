@@ -602,7 +602,6 @@
 598. concederán
 599. prórroga
 600. complemento indirecto
-601. cachondear
 602. repelus
 603. rellano
 604. sus, mis, nuestro, vuestro
