@@ -1,8 +1,9 @@
 === New words ===
 
 1. misfit - i am a misfit
-2. beareth - she beareth to highest heav'n
-3. fidget - I like to fidget
+2. clear up - clear up my doubts
+3. beareth - she beareth to highest heav'n
+4. fidget - I like to fidget
 
 === Nuevas Palabras ===
 
