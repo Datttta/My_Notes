@@ -8,6 +8,14 @@
 
 == Today ==
 - [ ] _
+- [ ] Anki
+- [ ] Have lunch
+- [ ] brush
+- [ ] resumé
+- [ ] Reading 2 hours
+- [ ] have dinner
+- [ ] brush
+- [ ] Create the routine for the next day
 
 == Completed ==
 
