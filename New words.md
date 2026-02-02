@@ -607,4 +607,5 @@
 600. complemento indirecto
 601. cachondear
 602. repelus
-603. sus, mis, nuestro, vuestro
+603. rellano
+604. sus, mis, nuestro, vuestro
