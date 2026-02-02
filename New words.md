@@ -2,9 +2,10 @@
 
 1. misfit - i am a misfit
 2. depraved
-3. clear up - clear up my doubts
-4. beareth - she beareth to highest heav'n
-5. fidget - I like to fidget
+3. apathetic
+4. clear up - clear up my doubts
+5. beareth - she beareth to highest heav'n
+6. fidget - I like to fidget
 
 === Nuevas Palabras ===
 
