@@ -8,16 +8,16 @@
 
 == Today ==
 - [ ] _
-- [ ] Anki
-- [ ] Have lunch
-- [ ] brush
-- [ ] resumé
-- [ ] Reading 2 hours
 - [ ] have dinner
 - [ ] brush
+- [ ] resumé
+- [ ] Work out
+- [ ] Reading 2 hours
 - [ ] Create the routine for the next day
 
 == Completed ==
+- [X] Anki
+- [X] Have lunch
 
 == Tasks ==
 - Loundry
