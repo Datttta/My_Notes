@@ -604,4 +604,4 @@
 600. complemento indirecto
 602. repelus
 603. rellano
-604. sus, mis, nuestro, vuestro
+604. nuestro, vuestro
