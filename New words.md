@@ -610,3 +610,5 @@
 607. demostrado
 608. desapercibido
 609. ]aporte
+610. engatusado
+611. plastilina
