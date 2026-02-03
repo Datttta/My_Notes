@@ -1,6 +1,6 @@
 === New words ===
 
-1.
+1. top - roupa de cima
 
 === Nuevas Palabras ===
 
