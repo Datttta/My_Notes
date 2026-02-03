@@ -8,14 +8,10 @@
 
 == Today ==
 - [ ] _
-- [ ] Anki
-- [ ] have lunch
-- [ ] spanish listening
 - [ ] brush
-- [ ] read 1h
 - [ ] workout
 - [ ] take a shower
-- [ ] read 1h
+- [ ] read 2h
 - [ ] have dinner
 - [ ] brush
 - [ ] create you routine for the next day
@@ -24,6 +20,9 @@
 - [X] Anki
 - [X] Have lunch
 - [X] have dinner
+- [X] Anki
+- [X] have lunch
+- [X] spanish listening
 
 == Tasks ==
 - Loundry
