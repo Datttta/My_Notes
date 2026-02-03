@@ -606,3 +606,4 @@
 603. rellano
 604. evaluado
 605. marcar
+606. planteamiento
