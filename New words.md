@@ -1,7 +1,6 @@
 === New words ===
 
-1. discretion - viewer discretion is advised
-2. breadth - breadth vs depth
+1.
 
 === Nuevas Palabras ===
 
