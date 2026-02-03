@@ -16,6 +16,9 @@
 - [ ] workout
 - [ ] take a shower
 - [ ] read 1h
+- [ ] have dinner
+- [ ] brush
+- [ ] create you routine for the next day
 
 == Completed ==
 - [X] Anki
