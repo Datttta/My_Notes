@@ -15,7 +15,8 @@
 - [ ] Loundry
 - [ ] Workout
 - [ ] Reading 2h
-- [ ] 
+- [ ] have dinner
+- [ ] brush
 
 == Completed ==
 
