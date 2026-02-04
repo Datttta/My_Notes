@@ -1,7 +1,8 @@
 === New words ===
 
 1. throw hands - It's humiliating to fight someone who can't and/or doesn't want to throw hands
-2. comprised - which is gonna be comprised of 
+2. comprised - which is gonna be comprised of
+3. ram - verb
 
 === Nuevas Palabras ===
 
