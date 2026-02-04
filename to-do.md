@@ -10,8 +10,6 @@
 == Today ==
 - [ ] _
 - [ ] Languages
-- [ ] have lunch
-- [ ] listening
 - [ ] brush
 - [ ] Loundry
 - [ ] Workout
@@ -21,6 +19,8 @@
 - [ ] prepare routine for the next day
 
 == Completed ==
+- [X] have lunch
+- [X] listening
 
 == Tasks ==
 - Loundry
