@@ -622,3 +622,4 @@
 617. demandar
 618. preambulos
 619. guasa
+620. tantear
