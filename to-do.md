@@ -17,6 +17,7 @@
 - [ ] Reading 2h
 - [ ] have dinner
 - [ ] brush
+- [ ] prepare routine for the next day
 
 == Completed ==
 
