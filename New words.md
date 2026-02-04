@@ -1,6 +1,6 @@
 === New words ===
 
-1.
+1. throw hands - It's humiliating to fight someone who can't and/or doesn't want to throw hands
 
 === Nuevas Palabras ===
 
