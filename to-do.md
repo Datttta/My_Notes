@@ -2,8 +2,9 @@
 
 == Inbox ==
 - [ ] _
-- [ ] organize your playlist
+- [ ] Tell my father to pay the university until day 10/02
 - [ ] make your resumé
+- [ ] organize your playlist
 - [ ] look biotechlonogy up
 
 == Today ==
