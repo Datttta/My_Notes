@@ -8,25 +8,20 @@
 
 == Today ==
 - [ ] _
-- [ ] workout 07:10 - 07:40
-- [ ] take a shower | 07:40 - 07:55
-- [ ] have dinner 08:00 - 08:40 (time this)
+- [ ] Languages
+- [ ] have lunch
+- [ ] listening
 - [ ] brush
-- [ ] read 2h 08:45 - 22:45
-- [ ] create you routine for the next day
+- [ ] Loundry
+- [ ] Workout
+- [ ] Reading 2h
+- [ ] 
 
 == Completed ==
-- [X] Anki
-- [X] Have lunch
-- [X] have dinner
-- [X] Anki
-- [X] have lunch
-- [X] spanish listening
-- [X] brush
 
 == Tasks ==
 - Loundry
-- Dishes
+- Workout
 - Languages (memHack and anki)
 - Reading
 - listening
