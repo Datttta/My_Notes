@@ -601,3 +601,4 @@
 597. beneficiario
 598. concederán
 599. prórroga
+600. Seducido
