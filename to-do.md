@@ -27,4 +27,4 @@
 - Workout
 - Languages (memHack and anki)
 - Reading
-- listening
+- Listening
