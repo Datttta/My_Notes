@@ -12,6 +12,7 @@
 - [ ] brush 12:55 - 01:00
 - [ ] Loundry 01:00 - 01:20
 - [ ] Workout 01:20 - 01:50 (time this)
+- [ ] take a shower? 01:50 - 02:05
 - [ ] Reading 10 min
 - [ ] prepare routine for the next day
 
