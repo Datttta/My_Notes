@@ -1,6 +1,7 @@
 === New words ===
 
 1. sign on the dotted line - Dude got given the final boss and he signed on the dotted line
+2. stonewalling - why are you stonewalling
 
 === Nuevas Palabras ===
 
