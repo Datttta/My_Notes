@@ -12,12 +12,13 @@
 - [ ] _
 - [ ] Languages
 - [ ] Have lunch
+- [ ] Listening
 - [ ] brush
-- [ ] 
+- [ ] Loundry
+- [ ] Workout
 
 == Completed ==
 - [X] have lunch
-- [X] listening
 - [X] Languages
 - [X] have dinner
 - [X] Workout 01:20 - 01:50 (time this)
@@ -27,5 +28,5 @@
 - Loundry
 - Workout
 - Languages (memHack and anki)
-- Reading
 - Listening
+- Reading
