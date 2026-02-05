@@ -25,8 +25,8 @@
 - [X] take a shower? 01:50 - 02:05
 
 == Tasks ==
-- Loundry
-- Workout
 - Languages (memHack and anki)
 - Listening
+- Loundry
+- Workout
 - Reading
