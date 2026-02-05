@@ -602,3 +602,5 @@
 598. concederán
 599. arcadas
 600. pupitas
+601. manta
+602. tapiz
