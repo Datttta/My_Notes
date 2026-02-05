@@ -600,6 +600,3 @@
 596. acto seguido
 597. beneficiario
 598. concederán
-599. prórroga
-600. Seducido
-601. pegajosas
