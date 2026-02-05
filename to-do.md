@@ -7,15 +7,16 @@
 - [ ] look biotechlonogy up
 
 == Today ==
-- [ ] _
-- [ ] Languages
-- [ ] Have lunch
-- [ ] Listening
-- [ ] brush
-- [ ] Loundry
-- [ ] Workout (time this)
-- [ ] take a shower
-- [ ] Reading 2h
+- [ ] _ 
+- [ ] MemHack 
+- [ ] Anki 
+- [ ] Have lunch 
+- [ ] Listening 
+- [ ] brush 
+- [ ] Loundry 
+- [ ] Workout (time this) 
+- [ ] take a shower 
+- [ ] Reading 2h 
 
 == Completed ==
 
