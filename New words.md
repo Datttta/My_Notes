@@ -601,23 +601,3 @@
 597. beneficiario
 598. concederán
 599. arcadas
-600. pupitas
-601. manta
-602. tapiz
-603. ojo
-604. argot
-605. caspita
-606. voluntad
-607. magullo
-608. pitillos
-609. caneri
-610. belletas
-611. calcetin
-612. arrebato
-613. esquisita
-614. hurgando
-615. hacer numerito
-616. ganado (cattle)
-617. tata
-618. piadosas
-619. chismes
