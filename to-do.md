@@ -16,6 +16,8 @@
 - [ ] brush
 - [ ] Loundry
 - [ ] Workout
+- [ ] take a shower
+- [ ] Reading 2h
 
 == Completed ==
 - [X] have lunch
