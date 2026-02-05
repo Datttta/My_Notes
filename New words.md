@@ -603,7 +603,4 @@
 599. arcadas
 600. escalón
 601. moretón
-602. Revolver
-603. Niñera
-604. habladurías
-605. tropezar
+602. mezclar
