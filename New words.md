@@ -601,3 +601,4 @@
 597. beneficiario
 598. concederán
 599. arcadas
+600. escalón
