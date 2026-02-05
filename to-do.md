@@ -20,7 +20,8 @@
 == Completed ==
 
 == Tasks ==
-- Languages (memHack and anki)
+- MemHack
+- Anki
 - Listening
 - Loundry
 - Workout
