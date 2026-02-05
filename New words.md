@@ -619,3 +619,4 @@
 615. hacer numerito
 616. ganado (cattle)
 617. tata
+618. piadosas
