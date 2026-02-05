@@ -15,7 +15,7 @@
 - [ ] Listening
 - [ ] brush
 - [ ] Loundry
-- [ ] Workout
+- [ ] Workout (time this)
 - [ ] take a shower
 - [ ] Reading 2h
 
