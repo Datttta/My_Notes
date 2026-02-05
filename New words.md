@@ -620,3 +620,4 @@
 616. ganado (cattle)
 617. tata
 618. piadosas
+619. chismes
