@@ -9,8 +9,7 @@
 - [ ] look biotechlonogy up
 
 == Today ==
- 
- hi - [ ] _
+- [ ] _
 - [ ] Languages
 - [ ] Have lunch
 - [ ] Listening
