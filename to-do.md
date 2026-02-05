@@ -8,9 +8,6 @@
 
 == Today ==
 - [ ] _ 
-- [ ] Have lunch 02:30 - 03:30
-- [ ] Listening 02:30 - 03:30
-- [ ] brush 
 - [ ] MemHack
 - [ ] Anki 03:40 - 04:20 (time this)
 - [ ] Loundry 04:20 - 04:50 
@@ -19,6 +16,9 @@
 - [ ] Reading 2h 
 
 == Completed ==
+- [X] Have lunch 02:30 - 03:30
+- [X] Listening 02:30 - 03:30
+- [X] brush 
 
 == Tasks ==
 - MemHack
