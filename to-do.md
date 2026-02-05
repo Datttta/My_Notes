@@ -8,14 +8,14 @@
 
 == Today ==
 - [ ] _ 
-- [ ] MemHack 
-- [ ] Anki 
-- [ ] Have lunch 
-- [ ] Listening 
+- [ ] Have lunch 02:30 - 03:30
+- [ ] Listening 02:30 - 03:30
 - [ ] brush 
-- [ ] Loundry 
-- [ ] Workout (time this) 
-- [ ] take a shower 
+- [ ] MemHack
+- [ ] Anki 03:40 - 04:20 (time this)
+- [ ] Loundry 04:20 - 04:50 
+- [ ] Workout 04:50 - 05:30 (time this) 
+- [ ] take a shower 05:30 - 05:55
 - [ ] Reading 2h 
 
 == Completed ==
