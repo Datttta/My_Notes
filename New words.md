@@ -592,3 +592,4 @@
 588. peldaños
 589. inservibles
 590. dejar plantada
+591. tomar a la tremenda
