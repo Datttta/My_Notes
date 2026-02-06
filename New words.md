@@ -593,3 +593,4 @@
 589. inservibles
 590. dejar plantada
 591. tomar a la tremenda
+592. te cuestar
