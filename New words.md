@@ -595,3 +595,4 @@
 591. tomar a la tremenda
 592. te cuestar
 593. remediar
+594. sonar
