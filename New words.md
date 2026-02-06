@@ -6,6 +6,7 @@
 4. blicky - do we got a blicky or something?
 5. nextdoor - the house nextdoor
 6. runny - the egg is runny
+7. rare - rare meat
 
 === Nuevas Palabras ===
 
