@@ -8,7 +8,6 @@
 
 == Today ==
 - [ ] _  
-- [ ] MemHack 
 - [ ] Anki 
 - [ ] Have lunch 
 - [ ] Listening 
@@ -29,6 +28,7 @@
 - [X] have dinner
 - [X] Workout 04:50 - 05:30 (time this) 
 - [X] brush
+- [X] MemHack 
 
 == Tasks ==
 - MemHack
