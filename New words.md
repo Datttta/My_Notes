@@ -1,6 +1,7 @@
 === New words ===
 
 1. gravely - gravely voice
+2. record label - 
 
 === Nuevas Palabras ===
 
