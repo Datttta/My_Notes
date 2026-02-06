@@ -612,3 +612,4 @@
 602. mezclar
 603. tropezar con - trip
 604. Facultad
+605. fiesta
