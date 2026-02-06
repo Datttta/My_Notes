@@ -1,7 +1,8 @@
 === New words ===
 
 1. gravely - gravely voice
-2. record label - 
+2. record label -
+3. side piece - you're the side piece
 
 === Nuevas Palabras ===
 
