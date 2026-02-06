@@ -1,13 +1,6 @@
 === New words ===
 
-1. gravely - gravely voice
-2. inverted commas
-3. record label -
-4. side piece - you're the side piece
-5. blicky - do we got a blicky or something?
-6. nextdoor - the house nextdoor
-7. runny - the egg is runny
-8. rare - rare meat
+1. 
 
 === Nuevas Palabras ===
 
