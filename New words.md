@@ -589,23 +589,4 @@
 585. hacer cola
 586. chuches
 587. orquilla
-588. menos pensado
-589. me sento
-590. pepinillo
-591. chatarero
-592. deshice
-593. coloca
-594. polotas
-595. falda
-596. acto seguido
-597. beneficiario
-598. concederán
-599. arcadas
-600. escalón
-601. moretón
-602. mezclar
-603. tropezar con - trip
-604. Facultad
-605. fiesta
-606. alta
-607. pasante
+588. peldaños
