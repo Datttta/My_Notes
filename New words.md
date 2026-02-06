@@ -591,4 +591,3 @@
 587. orquilla
 588. peldaños
 589. inservibles
-590. competencia
