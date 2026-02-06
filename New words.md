@@ -604,3 +604,4 @@
 600. escalón
 601. moretón
 602. mezclar
+603. tropezar con - trip
