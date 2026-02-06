@@ -601,3 +601,4 @@
 595. renir
 596. desmadrar
 597. bordar
+598. rollo
