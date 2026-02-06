@@ -598,3 +598,5 @@
 594. sonar
 595. pegar el lote
 596. enano
+597. renir
+598. desmadrar
