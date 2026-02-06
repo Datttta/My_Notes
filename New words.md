@@ -4,6 +4,7 @@
 2. record label -
 3. side piece - you're the side piece
 4. blicky - do we got a blicky or something?
+5. nextdoor - the house nextdoor
 
 === Nuevas Palabras ===
 
