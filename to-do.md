@@ -7,12 +7,18 @@
 - [ ] look biotechlonogy up
 
 == Today ==
-- [ ] _ 
-- [ ] have dinner
-- [ ] brush
-- [ ] Workout 04:50 - 05:30 (time this) 
-- [ ] take a shower 05:30 - 05:55
+- [ ] _  
+- [ ] MemHack 
+- [ ] Anki 
+- [ ] Have lunch 
+- [ ] Listening 
+- [ ] brush 
+- [ ] Loundry 
+- [ ] Workout (time this) 
+- [ ] take a shower 
 - [ ] Reading 2h
+- [ ] Have dinner
+- [ ] brush
 
 == Completed ==
 - [X] Have lunch 02:30 - 03:30
@@ -20,6 +26,9 @@
 - [X] brush 
 - [X] MemHack
 - [X] Anki 03:40 - 04:20 (time this)
+- [X] have dinner
+- [X] Workout 04:50 - 05:30 (time this) 
+- [X] brush
 
 == Tasks ==
 - MemHack
