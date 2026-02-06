@@ -10,8 +10,6 @@
 
     - Plank 3x to failure
 
-    - Leg Raises 3x to failure
-
 - Pull day:
     - Pull-ups 3x8
 
