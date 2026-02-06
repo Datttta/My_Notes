@@ -596,3 +596,4 @@
 592. te cuestar
 593. remediar
 594. sonar
+595. pegar el lote
