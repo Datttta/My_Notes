@@ -5,6 +5,7 @@
 3. side piece - you're the side piece
 4. blicky - do we got a blicky or something?
 5. nextdoor - the house nextdoor
+6. runny - the egg is runny
 
 === Nuevas Palabras ===
 
