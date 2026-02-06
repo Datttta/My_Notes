@@ -600,4 +600,4 @@
 594. enano
 595. renir
 596. desmadrar
-597. bordardo
+597. te he bordado
