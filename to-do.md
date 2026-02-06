@@ -8,8 +8,6 @@
 
 == Today ==
 - [ ] _  
-- [ ] Workout (time this) 
-- [ ] take a shower 
 - [ ] Reading 2h
 - [ ] Have dinner
 - [ ] brush
@@ -29,6 +27,7 @@
 - [X] Listening 
 - [X] brush 
 - [X] Loundry 
+- [X] Workout (time this) 
 
 == Tasks ==
 - MemHack
