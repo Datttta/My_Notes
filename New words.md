@@ -1,6 +1,6 @@
 === New words ===
 
-1. 
+1. candor -  I value candor a lot
 
 === Nuevas Palabras ===
 
