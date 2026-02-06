@@ -597,3 +597,4 @@
 593. remediar
 594. sonar
 595. pegar el lote
+596. enano
