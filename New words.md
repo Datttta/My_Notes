@@ -589,3 +589,4 @@
 583. dormitório
 584. morboso
 585. sueldo
+586. colgado - está colgado
