@@ -606,3 +606,4 @@
 598. chalada
 599. chunga
 600. tirar los tejos
+601. tejas
