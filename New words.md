@@ -590,3 +590,4 @@
 584. morboso
 585. sueldo
 586. colgado - está colgado
+587. poner el dia
