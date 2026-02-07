@@ -605,3 +605,4 @@
 597. bordar
 598. chalada
 599. chunga
+600. tirar los tejos
