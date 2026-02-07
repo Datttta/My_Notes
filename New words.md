@@ -1,8 +1,6 @@
 === New words ===
 
-1. candor -  I value candor a lot
-2. round out - Perhaps I'll round out eventually
-3. janky - forgive me if it is janky (camera recording)
+1. 
 
 === Nuevas Palabras ===
 
