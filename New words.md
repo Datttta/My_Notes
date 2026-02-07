@@ -591,3 +591,4 @@
 585. sueldo
 586. colgado - está colgado
 587. poner el dia
+588. deportiva
