@@ -3,7 +3,6 @@
 1. candor -  I value candor a lot
 2. round out - Perhaps I'll round out eventually
 3. janky - forgive me if it is janky (camera recording)
-4. cut short - Often hear people say to “cut short”
 
 === Nuevas Palabras ===
 
