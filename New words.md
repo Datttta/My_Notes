@@ -592,3 +592,4 @@
 586. colgado - está colgado
 587. poner el dia
 588. deportiva
+589. estar a tope
