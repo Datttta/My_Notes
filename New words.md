@@ -586,23 +586,3 @@
 580. decoro
 581. plazentero
 582. mantener a raya
-583. hacer cola
-584. chuches
-585. orquilla
-586. peldaños
-587. inservibles
-588. dejar plantada
-589. tomar a la tremenda
-590. te cuestar
-591. remediar
-592. sonar
-593. pegar el lote
-594. enano
-595. renir
-596. desmadrar
-597. bordar
-598. chalada
-599. chunga
-600. tirar los tejos
-601. tejas
-602. machaco
