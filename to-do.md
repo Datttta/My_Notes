@@ -21,21 +21,6 @@
 - [ ] brush
 
 == Completed ==
-- [X] Have lunch 02:30 - 03:30
-- [X] Listening 02:30 - 03:30
-- [X] brush 
-- [X] MemHack
-- [X] Anki 03:40 - 04:20 (time this)
-- [X] have dinner
-- [X] Workout 04:50 - 05:30 (time this) 
-- [X] brush
-- [X] MemHack 
-- [X] Anki 
-- [X] Have lunch 
-- [X] Listening 
-- [X] brush 
-- [X] Loundry 
-- [X] Workout (time this) 
 
 == Tasks ==
 - MemHack
