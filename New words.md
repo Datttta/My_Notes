@@ -604,3 +604,4 @@
 596. desmadrar
 597. bordar
 598. chalada
+599. chunga
