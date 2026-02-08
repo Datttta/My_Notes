@@ -1,6 +1,6 @@
 === New words ===
 
-1. 
+1. rock - we will rock you
 
 === Nuevas Palabras ===
 
