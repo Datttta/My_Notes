@@ -576,23 +576,3 @@
 570. recordar
 571. plantear
 572. agudeza
-573. arrematar
-574. gazeta
-575. bogavante
-576. que passada
-577. lapsus momentaneo
-578. colgues
-579. rodeos
-580. decoro
-581. plazentero
-582. mantener a raya
-583. dormitório
-584. morboso
-585. sueldo
-586. colgado - está colgado
-587. poner el dia
-588. deportiva
-589. estar a tope
-590. patear
-591. ensaladera
-592. algo
