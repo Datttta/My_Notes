@@ -595,3 +595,4 @@
 589. estar a tope
 590. patear
 591. ensaladera
+592. algo
