@@ -575,6 +575,3 @@
 569. acordar
 570. recordar
 571. plantear
-572. agudeza
-573. refrenar
-574. desconexiones
