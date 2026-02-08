@@ -596,3 +596,4 @@
 590. patear
 591. ensaladera
 592. clavados
+593. obstaculizar
