@@ -9,7 +9,6 @@
 == Today ==
 - [ ] _   
 - [ ] Anki 
-- [ ] Listening 
 - [ ] Workout (time this) 
 - [ ] take a shower 
 - [ ] Reading 2h 
@@ -19,6 +18,7 @@
 == Completed ==
 - [X] MemHack 
 - [X] Have lunch 
+- [X] Listening 
 
 == Tasks ==
 - MemHack
