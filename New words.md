@@ -582,4 +582,5 @@
 576. recalcar
 577. porteños
 578. joder
-579. Se lo (10)
+579. chivo
+580. Se lo (10)
