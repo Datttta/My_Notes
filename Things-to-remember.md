@@ -48,6 +48,8 @@
     - Search and replace: *:%s/<old_text>/<new_text>/g* (you don't need to use the 'g')
     - Format nvim code: *<leader>fm*
     - Update lazyvim plugins: *:Lazy update* on nvim
+    - Decremenet: C-x
+    - Increment: C-a
 
 - Kitty terminal:
     - Move cursor to the begining of the line: *Ctrl+a*
