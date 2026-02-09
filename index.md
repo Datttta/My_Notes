@@ -1,8 +1,8 @@
  == My Notes ==
 [[to-do]]
 [[New words]]
-[[Solved problems]]
 [[Things-to-remember]]
+[[Solved problems]]
 [[Ai-scripts]]
 [[Maintainance]]
 [[How-to-create-a-remote-git-repo]]
