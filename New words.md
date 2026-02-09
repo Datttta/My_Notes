@@ -577,3 +577,4 @@
 571. plantear
 572. golosinas
 573. regañar
+574. acrimoniosa
