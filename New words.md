@@ -576,3 +576,4 @@
 570. recordar
 571. plantear
 572. golosinas
+573. regañar
