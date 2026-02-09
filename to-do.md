@@ -13,10 +13,6 @@
 - [ ] brush
 
 == Completed ==
-- [X] MemHack 
-- [X] Anki 
-- [X] Have lunch 
-- [X] Have dinner 
 
 == Tasks ==
 - MemHack
