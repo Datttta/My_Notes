@@ -575,3 +575,4 @@
 569. acordar
 570. recordar
 571. plantear
+572. golosinas
