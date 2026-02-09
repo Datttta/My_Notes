@@ -1,5 +1,5 @@
 
-- Push day:
+- Push day (30 min):
     - Dips 3x10
 
     - Pike Push-ups 3x8
