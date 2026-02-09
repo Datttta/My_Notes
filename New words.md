@@ -578,3 +578,4 @@
 572. golosinas
 573. regañar
 574. acrimoniosa
+575. agarrada
