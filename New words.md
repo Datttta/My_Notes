@@ -579,4 +579,4 @@
 573. regañar
 574. acrimoniosa
 575. agarrada
-576. Se lo
+576. Se lo (10)
