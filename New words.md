@@ -583,4 +583,6 @@
 577. porteños
 578. joder
 579. chivo
-580. Se lo (10)
+580. Gorrito
+581. Hacha
+582. Se lo (10)
