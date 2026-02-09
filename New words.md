@@ -581,3 +581,4 @@
 575. agarrada
 576. chanclas
 577. contigua
+578. pantalla
