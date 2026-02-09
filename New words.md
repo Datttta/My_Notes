@@ -586,4 +586,5 @@
 580. Gorrito
 581. Hacha
 582. gustazo
-583. Se lo (10)
+583. coñazo
+584. Se lo (10)
