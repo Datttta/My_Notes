@@ -575,3 +575,4 @@
 569. cutre
 570. sacar de quicio
 571. conejo
+572. dejar al mando
