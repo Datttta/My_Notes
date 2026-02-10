@@ -3,6 +3,7 @@
 1. unhandled
 2. widower
 3. Eeyoreish
+4. kick out
 
 === Nuevas Palabras ===
 
