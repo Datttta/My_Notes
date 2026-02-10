@@ -4,6 +4,7 @@
 2. widower
 3. Eeyoreish
 4. kick out
+5. thrown - i am thrown by her spiders
 
 === Nuevas Palabras ===
 
