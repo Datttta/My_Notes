@@ -572,23 +572,3 @@
 566. putada
 567. supuesto
 568. aula
-569. acordar
-570. recordar
-571. plantear
-572. golosinas
-573. regañar
-574. acrimoniosa
-575. agarrada
-576. chanclas
-577. contigua
-578. esta en pantalla
-579. monzón
-580. chuca
-581. poner cachas
-582. sonrojado
-583. displicente
-584. coñazo
-585. perrera
-586. jilipollas
-587. pudra
-588. roído
