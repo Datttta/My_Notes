@@ -5,6 +5,7 @@
 3. Eeyoreish
 4. kick out
 5. thrown - i am thrown by her spiders
+6. trial - he is the underwater trial
 
 === Nuevas Palabras ===
 
