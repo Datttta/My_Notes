@@ -576,3 +576,5 @@
 570. sacar de quicio
 571. conejo
 572. dejar al mando
+573. para nada
+574. pesebre
