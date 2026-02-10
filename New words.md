@@ -3,7 +3,7 @@
 1. unhandled
 2. widower
 3. Eeyoreish
-4. kick out
+4. kick out - get a kick out of her
 5. thrown - i am thrown by her spiders
 6. trial - he is the underwater trial
 7. scrapbook
