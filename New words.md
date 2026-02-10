@@ -6,6 +6,7 @@
 4. kick out
 5. thrown - i am thrown by her spiders
 6. trial - he is the underwater trial
+7. scrapbook
 
 === Nuevas Palabras ===
 
