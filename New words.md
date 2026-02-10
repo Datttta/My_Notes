@@ -4,10 +4,11 @@
 2. widower
 3. Eeyoreish
 4. kick out - get a kick out of her
-5. thrown - i am thrown by her spiders
-6. trial - he is the underwater trial
-7. scrapbook
-8. sucker - pirulito
+5. loner - he is a little bit of a loner
+6. thrown - i am thrown by her spiders
+7. trial - he is the underwater trial
+8. scrapbook
+9. sucker - pirulito
 
 === Nuevas Palabras ===
 
