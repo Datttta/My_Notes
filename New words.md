@@ -2,6 +2,7 @@
 
 1. unhandled
 2. widower
+3. Eeyoreish
 
 === Nuevas Palabras ===
 
