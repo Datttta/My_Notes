@@ -572,3 +572,4 @@
 566. putada
 567. supuesto
 568. aula
+569. fijar
