@@ -1,6 +1,7 @@
 === New words ===
 
 1. unhandled
+2. widower
 
 === Nuevas Palabras ===
 
