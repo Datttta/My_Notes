@@ -8,8 +8,6 @@
 
 == Today ==
 - [ ] _       
-- [ ] Have lunch 
-- [ ] Listening 
 - [ ] brush 
 - [ ] Anki 
 - [ ] Loundry 
@@ -21,6 +19,8 @@
 
 == Completed ==
 - [X] MemHack 
+- [X] Have lunch 
+- [X] Listening 
 
 == Tasks ==
 - MemHack
