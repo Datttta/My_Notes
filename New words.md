@@ -585,23 +585,3 @@
 579. mantra
 580. búsqueda - esta es mi primera búsqueda para ti
 581. monstruo
-582. clover
-583. hacer caso
-584. peticíon - completar na peticion
-585. proverga
-586. frotar
-587. refrigerio
-588. galápago
-589. cara larga
-590. botines
-591. bosteza
-592. balbuceando
-593. a la ligera
-594. escolofríos
-595. través
-596. lastimar - no me lastimes
-597. bandas
-598. escondite
-599. apuro
-600. vistazo
-602. vena
