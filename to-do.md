@@ -8,10 +8,10 @@
 
 == Today ==
 - [ ] _       
-- [ ] Anki 
 - [ ] Have lunch 
 - [ ] Listening 
 - [ ] brush 
+- [ ] Anki 
 - [ ] Loundry 
 - [ ] Workout (time this) 
 - [ ] take a shower 
