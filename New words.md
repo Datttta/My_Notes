@@ -604,5 +604,4 @@
 598. escondite
 599. apuro
 600. vistazo
-601. columpio
 602. vena
