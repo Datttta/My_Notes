@@ -608,3 +608,4 @@
 594. escolofríos
 595. través
 596. lastimar - no me lastimes
+597. bandas
