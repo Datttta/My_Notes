@@ -605,3 +605,4 @@
 591. bosteza
 592. balbuceando
 593. a la ligera
+594. escálofrios
