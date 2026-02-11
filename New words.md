@@ -604,3 +604,4 @@
 590. botines
 591. bosteza
 592. balbuceando
+593. a la ligera
