@@ -21,10 +21,6 @@
 - [ ] brush
 
 == Completed ==
-- [X] MemHack 
-- [X] Anki 
-- [X] Have lunch 
-- [X] Listening 
 
 == Tasks ==
 - MemHack
