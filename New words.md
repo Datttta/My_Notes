@@ -601,3 +601,4 @@
 587. refrigerio
 588. galápago
 589. cara larga
+590. botines
