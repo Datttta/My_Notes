@@ -549,7 +549,7 @@
 535. paliza
 536. chuleta
 537. tirar de alguien
-538. espelugnantes
+538. espeluznantes
 539. patoso
 540. por la
 541. chollo
