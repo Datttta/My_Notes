@@ -599,3 +599,4 @@
 585. proverga
 586. frotar
 587. refrigerio
+588. galápago
