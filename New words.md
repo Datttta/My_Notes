@@ -595,4 +595,4 @@
 581. monstruo
 582. clover
 583. hacer caso
-584. peticíon
+584. peticíon - completar na peticion
