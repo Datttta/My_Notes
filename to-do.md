@@ -8,7 +8,6 @@
 
 == Today ==
 - [ ] _       
-- [ ] brush 
 - [ ] Anki 
 - [ ] Loundry 
 - [ ] Workout (time this) 
@@ -21,6 +20,7 @@
 - [X] MemHack 
 - [X] Have lunch 
 - [X] Listening 
+- [X] brush 
 
 == Tasks ==
 - MemHack
