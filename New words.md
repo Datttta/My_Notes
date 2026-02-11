@@ -585,3 +585,5 @@
 579. mantra
 580. búsqueda - esta es mi primera búsqueda para ti
 581. monstruo
+582. ingenio
+583. temblor
