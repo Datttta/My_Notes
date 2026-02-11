@@ -597,3 +597,4 @@
 583. hacer caso
 584. peticíon - completar na peticion
 585. proverga
+586. frotar
