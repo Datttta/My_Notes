@@ -603,3 +603,4 @@
 589. cara larga
 590. botines
 591. bosteza
+592. balbuceando
