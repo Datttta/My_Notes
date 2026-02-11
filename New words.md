@@ -602,3 +602,4 @@
 588. galápago
 589. cara larga
 590. botines
+591. bosteza
