@@ -598,3 +598,4 @@
 584. peticíon - completar na peticion
 585. proverga
 586. frotar
+587. refrigerio
