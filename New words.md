@@ -606,3 +606,4 @@
 592. balbuceando
 593. a la ligera
 594. escolofríos
+595. través
