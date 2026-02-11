@@ -1,14 +1,6 @@
 === New words ===
 
-1. unhandled
-2. widower
-3. Eeyoreish
-4. kick out - get a kick out of her
-5. loner - he is a little bit of a loner
-6. thrown - i am thrown by her spiders
-7. trial - he is the underwater trial
-8. scrapbook
-9. sucker - pirulito
+1. 
 
 === Nuevas Palabras ===
 
