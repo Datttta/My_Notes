@@ -600,3 +600,4 @@
 586. frotar
 587. refrigerio
 588. galápago
+589. cara larga
