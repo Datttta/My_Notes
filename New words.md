@@ -1,7 +1,7 @@
 === New words ===
 
-1. embodiment
-2. Into the fray
+1. 
+2. 
 
 === Nuevas Palabras ===
 
@@ -568,23 +568,3 @@
 561. que detalle
 562. truco
 563. pelmazo
-564. menudo
-565. caraculo
-566. putada
-567. supuesto
-568. aludida
-569. cutre
-570. sacar de quicio
-571. conejo
-572. dejar al mando
-573. para nada
-574. pesebre
-575. pastillita
-576. te hagas
-577. estafa
-578. al fin y al cabo
-579. mantra
-580. búsqueda - esta es mi primera búsqueda para ti
-581. monstruo
-582. ingenio
-583. temblor
