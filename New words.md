@@ -1,7 +1,9 @@
 === New words ===
 
-1. 
-2. 
+1. ROTUNDA
+2. filibuster
+3. addendum
+4. joint session
 
 === Nuevas Palabras ===
 
@@ -570,3 +572,11 @@
 563. pelmazo
 564. En absoluto
 565. eso si
+566. dar caña
+567. anda ya
+568. tranca
+569. pava
+570. pentagrama
+571. birujo linear
+572. plena racha
+573. cerrado'
