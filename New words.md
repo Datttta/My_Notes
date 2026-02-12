@@ -1,6 +1,7 @@
 === New words ===
 
 1. embodiment
+2. Into the fray
 
 === Nuevas Palabras ===
 
