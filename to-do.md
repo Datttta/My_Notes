@@ -3,8 +3,8 @@
 == Inbox ==
 - [ ] _
 - [ ] make your resumé
+- [ ] start using i3
 - [ ] organize your playlist
-- [ ] look biotechlonogy up
 
 == Today ==
 - [ ] _       
