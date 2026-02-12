@@ -1,4 +1,4 @@
- == My Notes ==
+ = My Notes ==
 [[to-do]]
 [[New words]]
 [[Things-to-remember]]
