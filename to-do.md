@@ -2,25 +2,22 @@
 
 == Inbox ==
 - [ ] _
-- [ ] make your resumé
 - [ ] start using i3
 - [ ] organize your playlist
 
 == Today ==
 - [ ] _         
-- [ ] MemHack 
-- [ ] Anki 
-- [ ] Have lunch 
-- [ ] Listening 
-- [ ] brush 
-- [ ] Loundry 
-- [ ] Workout (time this) 
-- [ ] take a shower 
 - [ ] Reading 2h 
 - [ ] Have dinner 
 - [ ] brush
 
 == Completed ==
+- [X] MemHack 
+- [X] Anki 
+- [X] Have lunch 
+- [X] Listening 
+- [X] brush 
+- [X] Workout (time this) 
 
 == Tasks ==
 - MemHack
