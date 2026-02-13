@@ -1,9 +1,13 @@
 === New words ===
 
 1. ROTUNDA
-2. filibuster
-3. addendum
-4. joint session
+2. rustic - rustic brown table
+3. outlaw
+4. filibuster
+5. addendum
+6. joint session
+7. look after
+8. woodstock
 
 === Nuevas Palabras ===
 
@@ -580,3 +584,4 @@
 571. birujo linear
 572. plena racha
 573. cerrado'
+574. captado
