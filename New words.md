@@ -559,3 +559,16 @@
 553. átono
 554. todo un detalle
 555. matizar
+556. sabidurioso
+557. chillar
+558. arrajado
+559. no pinta bien
+560. aganado
+561. cinta
+562. mojigato
+563. cachondo
+564. escupitajo
+565. ongos
+566. a que si
+567. envolsada
+568. balancin
