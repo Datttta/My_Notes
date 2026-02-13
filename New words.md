@@ -1,13 +1,6 @@
 === New words ===
 
-1. ROTUNDA
-2. rustic - rustic brown table
-3. outlaw
-4. filibuster
-5. addendum
-6. joint session
-7. look after
-8. woodstock
+1. 
 
 === Nuevas Palabras ===
 
@@ -565,23 +558,3 @@
 552. competencia
 553. átono
 554. todo un detalle
-555. en lios
-556. en cambio
-557. zurcido
-558. pinta - no pinta nada bien
-559. dar la lata
-560. cacotas
-561. que detalle
-562. truco
-563. pelmazo
-564. En absoluto
-565. eso si
-566. dar caña
-567. anda ya
-568. tranca
-569. pava
-570. pentagrama
-571. birujo linear
-572. plena racha
-573. cerrado'
-574. captado
