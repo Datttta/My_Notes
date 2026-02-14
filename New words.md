@@ -1,6 +1,6 @@
 === New words ===
 
-1. relent
+1. 
 
 === Nuevas Palabras ===
 
