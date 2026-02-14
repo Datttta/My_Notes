@@ -552,3 +552,5 @@
 546. alto aí
 547. guitarra
 548. pulsar
+549. setas
+550. precisar algo
