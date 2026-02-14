@@ -132,8 +132,9 @@
     - if you want restow it:
         - *sudo stow -R -t / slashConfs*
 
-- Run app with amd/radeon driver:
-    - 'DRI_PRIME=1' 
+- Run app/game with amd/radeon driver:
+    - 'DRI_PRIME=1'
+    -  for steam: 'DRI_PRIME=1 %command%'
 
 - Lists:
     - *:'<,'>s/^\s*\%(\d\+\.\s*\)\?/\=line('.') - line("'<") + 1 . ". "/*

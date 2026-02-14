@@ -2,7 +2,8 @@
 
 == Inbox ==
 - [ ] _
-- [ ] start using i3
+- [ ] create change-theme script for waybar
+- [ ] change to x11 tiling manager
 - [ ] organize your playlist
 
 == Today ==
