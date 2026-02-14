@@ -1,6 +1,8 @@
 === New words ===
 
 1. dunce - I'm an absolut dunce
+2. bubbly - adjective
+3. stuck up - adjective
 
 === Nuevas Palabras ===
 
