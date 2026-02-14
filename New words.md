@@ -552,23 +552,3 @@
 546. alto aí
 547. guitarra
 548. pulsar
-549. jorobando
-550. se sobra
-551. tartamudear
-552. competencia
-553. átono
-554. todo un detalle
-555. matizar
-556. sabidurioso
-557. chillar
-558. arrajado
-559. no pinta bien
-560. aganado
-561. cinta
-562. mojigato
-563. cachondo
-564. escupitajo
-565. ongos
-566. a que si
-567. envolsada
-568. balancin
