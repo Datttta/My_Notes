@@ -1,6 +1,6 @@
 === New words ===
 
-1. 
+1. dunce - I'm an absolut dunce
 
 === Nuevas Palabras ===
 
@@ -554,3 +554,9 @@
 548. pulsar
 549. setas
 550. precisar algo
+551. oigo
+552. esposas
+553. gabacha
+554. chungas
+555. convivencias
+556. mas da
