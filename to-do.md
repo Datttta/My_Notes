@@ -4,6 +4,7 @@
 - [ ] _
 - [ ] create waybar-2.0
 - [ ] find another spanish show to watch
+- [ ] improve .config/hypr/Scripts/random-wallpaper.sh to prevent repeated wallpapers
 - [ ] change to x11 tiling manager
 - [ ] organize your playlist
 
