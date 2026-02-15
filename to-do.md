@@ -10,8 +10,6 @@
 
 == Today ==
 - [ ] _          
-- [ ] Reading 2h 
-- [ ] Have dinner 
 - [ ] brush
 
 == Completed ==
@@ -22,6 +20,7 @@
 - [X] brush 
 - [X] Workout (time this) 
 - [X] create change-theme script for waybar
+- [X] Have dinner 
 
 == Tasks ==
 - MemHack

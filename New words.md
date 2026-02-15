@@ -1,8 +1,6 @@
 === New words ===
 
-1. dunce - I'm an absolut dunce
-2. bubbly - adjective
-3. stuck up - adjective
+1. 
 
 === Nuevas Palabras ===
 
@@ -548,22 +546,3 @@
 540. por la
 541. chollo
 542. rincon
-543. caña
-544. cola
-545. plasto
-546. alto aí
-547. guitarra
-548. pulsar
-549. setas
-550. precisar algo
-551. oigo
-552. esposas
-553. gabacha
-554. chungas
-555. convivencias
-556. mas da
-557. chorrada
-558. ve te
-559. nenas
-560. de todas maneras
-561. tirar la caña
