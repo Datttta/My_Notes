@@ -1,6 +1,7 @@
 === New words ===
 
-1. 
+1. pull through
+2. undercutting
 
 === Nuevas Palabras ===
 
@@ -546,3 +547,13 @@
 540. por la
 541. chollo
 542. rincon
+543. trata - is about
+544. pendejo
+545. dar plomo
+546. de passo
+547. joda
+548. pugoron
+549. tan pronto
+550. camello
+551. trapicheos
+552. fontaneria
