@@ -2,7 +2,8 @@
 
 == Inbox ==
 - [ ] _
-- [ ] create change-theme script for waybar
+- [ ] create waybar-2.0
+- [ ] find another spanish show to watch
 - [ ] change to x11 tiling manager
 - [ ] organize your playlist
 
@@ -19,6 +20,7 @@
 - [X] Listening 
 - [X] brush 
 - [X] Workout (time this) 
+- [X] create change-theme script for waybar
 
 == Tasks ==
 - MemHack
